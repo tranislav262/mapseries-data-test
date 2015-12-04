@@ -12,8 +12,8 @@ mapseries.config = {
   series: [
     {
       title: "Evropa: Třetí vojenské mapování, speciální mapy 1:75 000",
-      layer: "stredovychodni-evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
-      template: "stredovychodni-evropa-treti-vojenske-mapovani-specialni-mapy-175-000.txt",
+      layer: "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+      template: "evropa-treti-vojenske-mapovani-specialni-mapy-175-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';

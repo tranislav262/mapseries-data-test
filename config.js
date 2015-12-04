@@ -11,7 +11,7 @@ mapseries.config = {
   },
   series: [
     {
-      title: "Středovýchodní Evropa: Třetí vojenské mapování, speciální mapy 1:75 000",
+      title: "Evropa: Třetí vojenské mapování, speciální mapy 1:75 000",
       layer: "stredovychodni-evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
       template: "stredovychodni-evropa-treti-vojenske-mapovani-specialni-mapy-175-000.txt",
       formatFunctions: {

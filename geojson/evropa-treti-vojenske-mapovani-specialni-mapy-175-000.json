@@ -14110,15 +14110,15 @@
       "properties": {
         "SHEET": "4673",
         "KOLONNE": "XXXI",
-        "TITLE": "",
+        "TITLE": "Jasiňa a Mykulyčyn",
         "SCALE": "75000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "",
+        "N43": "e-un---",
+        "N80": "(477)",
+        "N245A": "Körösmező und Mikuliczyn",
+        "N651": "$$aJasinja (Ukrajina : oblast)$$7ge735813",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXI",
-        "ZONE_COL": "12"
+        "ZONE_KOL": "Zone 12 Kol. XXXI",
+        "ZONE_COL": "Zone 12 Col. XXX"
       },
       "geometry": {
         "type": "Polygon",

@@ -14884,15 +14884,15 @@
       "properties": {
         "SHEET": 4762,
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Balassa-Gayrmat a Šahy",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Balassa-Gayrmat und Ipoly-Ság",
+        "N651": "$$aBalassagyarmat (Maďarsko : oblast)|$$aŠahy (Slovensko :oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XX",
+        "ZONE_COL": "Zone 13 Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -14927,15 +14927,15 @@
       "properties": {
         "SHEET": "4763",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Salgótarján a Szécsény",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Salgó-Tarján und Szécseny",
+        "N651": "$$aSalgótarján (Maďarsko : oblast)$$7ge899919|$$aSzécsény (Maďarsko : oblast)$$7ge899925",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXI",
+        "ZONE_COL": "Zone 13 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -14968,7 +14968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4764",
+        "SHEET": 4764,
         "KOLONNE": "XXII",
         "TITLE": "",
         "SCALE": "75000",

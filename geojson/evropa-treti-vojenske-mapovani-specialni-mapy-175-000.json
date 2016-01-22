@@ -14328,7 +14328,7 @@
         "TITLE": "Tittmoning",
         "SCALE": 75000,
         "N43": "$$ae-gx---$$ae-au---",
-        "N80": "$$a913(430)$$2MRF|$$a913(436)",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Tittmoning",
         "N651": "$$aTittmoning (Německo : oblast)",
         "POZNAMKA": "",
@@ -14371,7 +14371,7 @@
         "TITLE": "Mattighofen",
         "SCALE": 75000,
         "N43": "$$ae-gx---$$ae-au---",
-        "N80": "$$a913(430)$$2MRF|$$a913(436)",
+        "N80": "$$a913(436)",
         "N245A": "Mattighofen",
         "N651": "$$aMattighofen (Rakousko : oblast)",
         "POZNAMKA": "",
@@ -14540,15 +14540,15 @@
       "properties": {
         "SHEET": "4754",
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ybbs",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "Ybbs",
+        "N651": "$$aYbbs an der Donau (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XII",
+        "ZONE_COL": "Zone 13 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14581,17 +14581,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4755",
+        "SHEET": 4755,
         "KOLONNE": "XIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Svatý Hypolit",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "St. Pölten",
+        "N651": "$$aSankt Pölten (Rakousko : oblast)$$7ge856363",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XIII",
+        "ZONE_COL": "Zone 13 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14624,17 +14624,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4756",
+        "SHEET": 4756,
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Baden a Neulengbach",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$MRF",
+        "N245A": "Baden und Neulengbach",
+        "N651": "$$aBaden (Rakousko : oblast)|$$aNeulengbach (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XIV",
+        "ZONE_COL": "Zone 13 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -14667,17 +14667,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4757",
+        "SHEET": 4757,
         "KOLONNE": "XV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Vídeň",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "Wien",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XV",
+        "ZONE_COL": "Zone 13 Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -14710,17 +14710,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4758",
+        "SHEET": 4758,
         "KOLONNE": "XVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bratislava a Hainburg",
+        "SCALE": 75000,
+        "N43": "$$ae-xo---$$ae-au---",
+        "N80": "$$(437.6)$$2MRF|$$a913(436.2)$$2MRF",
+        "N245A": "Pressburg und Hainburg",
+        "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358|$$aHainburg an der Donau (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XVI",
+        "ZONE_COL": "Zone 13 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -14755,15 +14755,15 @@
       "properties": {
         "SHEET": "4759",
         "KOLONNE": "XVII",
-        "TITLE": "",
+        "TITLE": "Senec a Tomášikovo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Wartberg und Tallós",
+        "N651": "$$aSenec (Slovensko : oblast)$$7ge450582|$$aTomášikovo (Slovensko : oblast)$$7ge899886",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XVII",
+        "ZONE_COL": "Zone 13 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14796,17 +14796,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4760",
+        "SHEET": 4760,
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Šaľa a Šurany",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Sellye und Nagy-Surány",
+        "N651": "$$aŠaľa (Slovensko : oblast)$$7\tge899895|$$aŠurany (Slovensko : oblast)$$7ge899896",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XVIII",
+        "ZONE_COL": "Zone 13 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14839,17 +14839,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4761",
+        "SHEET": 4761,
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Levice a Tekovské Lužany",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Léva und Salló",
+        "N651": "$$aLevice (Slovensko : oblast)$$7xx0121288|$$aTekovské Lužany (Slovensko : oblast)$$7ge899900",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XIX",
+        "ZONE_COL": "Zone 13 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -14882,7 +14882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4762",
+        "SHEET": 4762,
         "KOLONNE": "XX",
         "TITLE": "",
         "SCALE": "75000",

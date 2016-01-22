@@ -13081,9 +13081,9 @@
         "TITLE": "Lipkany",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-mv---$$ae-rm---",
-        "N80": "$$a913(4",
+        "N80": "$$a913(478)$$2MRF",
         "N245A": "Lipkany",
-        "N651": "$$a",
+        "N651": "$$aLipkany (Moldávie : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 12 Kol. XXXV",
         "ZONE_COL": "Zone 12 Col. XXXV"
@@ -14244,7 +14244,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Czernowitz",
-        "N651": "$$a",
+        "N651": "$$aČernìvcì (Ukrajina : oblast)$$7ge828845",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 12 Kol. XXXIV",
         "ZONE_COL": "Zone 12 Col. XXXIV"
@@ -14325,15 +14325,15 @@
       "properties": {
         "SHEET": "4749",
         "KOLONNE": "VII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Tittmoning",
+        "SCALE": 75000,
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)",
+        "N245A": "Tittmoning",
+        "N651": "$$aTittmoning (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. VII",
+        "ZONE_COL": "Zone 13 Col. VII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14366,17 +14366,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4750",
+        "SHEET": 4750,
         "KOLONNE": "VIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Mattighofen",
+        "SCALE": 75000,
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)",
+        "N245A": "Mattighofen",
+        "N651": "$$aMattighofen (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. VIII",
+        "ZONE_COL": "Zone 13 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -14409,17 +14409,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4751",
+        "SHEET": 4751,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ried a Vöcklabruck",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "Ried und Vöcklabruck",
+        "N651": "$$aRied im Innkreis (Rakousko : oblast)|$$aVöcklabruck (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. IX",
+        "ZONE_COL": "Zone 13 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -14452,17 +14452,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4752",
+        "SHEET": 4752,
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Wels a Kremsmünster",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "Wels und Kremsmünster",
+        "N651": "$$aWels (Rakousko : oblast)|$$aKremsmünster (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. X",
+        "ZONE_COL": "Zone 13 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -14495,17 +14495,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4753",
+        "SHEET": 4753,
         "KOLONNE": "XI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Enže a Štýr",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "Enns und Steyr",
+        "N651": "$$aEnns (Rakousko : oblast)|$$aSteyr (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XI",
+        "ZONE_COL": "Zone 13 Col. XI"
       },
       "geometry": {
         "type": "Polygon",

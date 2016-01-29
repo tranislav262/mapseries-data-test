@@ -15787,15 +15787,15 @@
       "properties": {
         "SHEET": 4855,
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Schneeberg und St. Aegyd",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XIII",
+        "ZONE_COL": "Zone 14 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15830,15 +15830,15 @@
       "properties": {
         "SHEET": "4856",
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Vídeňské Nové Město",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Wiener Neustadt",
+        "N651": "$$aWiener Neustadt (Rakousko : oblast)$$7ge832043",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XIV",
+        "ZONE_COL": "Zone 14 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",

@@ -15701,15 +15701,15 @@
       "properties": {
         "SHEET": "4853",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Weyer",
+        "N651": "$$aWeyer",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XI",
+        "ZONE_COL": "Zone 14 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -15744,15 +15744,15 @@
       "properties": {
         "SHEET": "4854",
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gaming a Mariazell",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF$$a913(436.2)$$2MRF",
+        "N245A": "Gaming und Maria Zell",
+        "N651": "$$aGaming (Rakousko : oblast)|$$aMariazell (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XII",
+        "ZONE_COL": "Zone 14 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15785,7 +15785,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4855",
+        "SHEET": 4855,
         "KOLONNE": "XIII",
         "TITLE": "",
         "SCALE": "75000",

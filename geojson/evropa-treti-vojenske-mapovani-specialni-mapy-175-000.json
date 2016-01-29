@@ -14970,15 +14970,15 @@
       "properties": {
         "SHEET": 4764,
         "KOLONNE": "XXII",
-        "TITLE": "",
+        "TITLE": "Arló a Bátonyterenye",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Arló und K. Terenne",
+        "N651": "$$aArló (Maďarsko : oblast)$$7ge900139|$$aBátonyterenye (Maďarsko : oblast)$$7ge900142",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXII",
+        "ZONE_COL": "Zone 13 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15011,7 +15011,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4765",
+        "SHEET": 4765,
         "KOLONNE": "XXIII",
         "TITLE": "",
         "SCALE": "75000",

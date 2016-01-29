@@ -15185,7 +15185,7 @@
       "properties": {
         "SHEET": "4769",
         "KOLONNE": "XXVII",
-        "TITLE": "Berehovo a Tarpa",
+        "TITLE": "Berehove a Tarpa",
         "SCALE": 75000,
         "N43": "$$ae-un---$$ae-hu---",
         "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
@@ -15228,7 +15228,7 @@
       "properties": {
         "SHEET": 4770,
         "KOLONNE": "XXVIII",
-        "TITLE": "Nagy-Szőllős und Huszt",
+        "TITLE": "Vynohradiv a Chust",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---$$ae-hu---",
         "N80": "$$a913(477)$$2MRF",
@@ -15271,7 +15271,7 @@
       "properties": {
         "SHEET": "4771",
         "KOLONNE": "XXIX",
-        "TITLE": "Técső und Kövesliget",
+        "TITLE": "Tjačiv a Drahovo",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
@@ -15314,7 +15314,7 @@
       "properties": {
         "SHEET": "4772",
         "KOLONNE": "XXX",
-        "TITLE": "Kabola Polyána",
+        "TITLE": "Kobylecká Polana",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
@@ -15357,7 +15357,7 @@
       "properties": {
         "SHEET": "4773",
         "KOLONNE": "XXXI",
-        "TITLE": "Bogdán",
+        "TITLE": "Bohdan",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
@@ -15400,12 +15400,12 @@
       "properties": {
         "SHEET": "4774",
         "KOLONNE": "XXXII",
-        "TITLE": "Marenicze und Wiznitz",
+        "TITLE": "Marynyčì a Vyžnycja",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Marenicze und Wiznitz",
-        "N651": "$$a",
+        "N245A": "Marenicze und Wiznitz|Mareniczeni",
+        "N651": "$$aMarynyčì (Ukrajina : oblast)|$$aVyžnycja (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXII",
         "ZONE_COL": "Zone 13 Col. XXXII"
@@ -15443,12 +15443,12 @@
       "properties": {
         "SHEET": "4775",
         "KOLONNE": "XXXIII",
-        "TITLE": "Storozynetz und Dawideny",
+        "TITLE": "Storožynec’ a Davydìvka",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Storozynetz und Dawideny",
-        "N651": "$$a",
+        "N245A": "Storozynetz und Dawideny|Davideni und Storo",
+        "N651": "$$aDavydìvka (Ukrajina : oblast)|$$aStorožynec’ (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXIII",
         "ZONE_COL": "Zone 13 Col. XXXIII"
@@ -15486,12 +15486,12 @@
       "properties": {
         "SHEET": "4776",
         "KOLONNE": "XXXIV",
-        "TITLE": "Hliboka",
+        "TITLE": "Hlyboka",
         "SCALE": "75000",
-        "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Hliboka",
-        "N651": "$$a",
+        "N651": "$$aHlyboka (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXIV",
         "ZONE_COL": "Zone 13 Col. XXXIV"

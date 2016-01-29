@@ -13254,7 +13254,7 @@
         "SCALE": "75000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436.9)$$2MRF",
-        "N245A": "Steyrecc",
+        "N245A": "Steyregg",
         "N651": "$$aSteyregg (Rakousko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 12 Kol. XI",
@@ -15572,15 +15572,15 @@
       "properties": {
         "SHEET": "4850",
         "KOLONNE": "VIII",
-        "TITLE": "",
+        "TITLE": "Salcburk",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "Salzburg",
+        "N651": "$$aSalcburk (Rakousko : oblast)$$7ge158425",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. VIII",
+        "ZONE_COL": "Zone 14 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15613,17 +15613,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4851",
+        "SHEET": 4851,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gmunden a Schafberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Gmunden und Schafberg",
+        "N651": "$$aGmunden (Rakousko : oblast)|$$aSchafberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. IX",
+        "ZONE_COL": "Zone 14 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -15658,15 +15658,15 @@
       "properties": {
         "SHEET": "4852",
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kirchdorf",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Kirchdorf",
+        "N651": "$$aKirchdorf an der Krems (Rakousko)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. X",
+        "ZONE_COL": "Zone 14 Col. X"
       },
       "geometry": {
         "type": "Polygon",

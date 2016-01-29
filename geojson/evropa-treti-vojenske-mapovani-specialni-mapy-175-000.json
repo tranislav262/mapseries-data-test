@@ -15013,15 +15013,15 @@
       "properties": {
         "SHEET": 4765,
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Miscolc",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Miscolc",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXIII",
+        "ZONE_COL": "Zone 13 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15056,15 +15056,15 @@
       "properties": {
         "SHEET": "4766",
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Szikszó a Tiszadob",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Szikszó u. Tisza-Dob",
+        "N651": "$$aSzikszó (Maďarsko : oblast)|$$aTisza-Dob",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXIV",
+        "ZONE_COL": "Zone 13 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",

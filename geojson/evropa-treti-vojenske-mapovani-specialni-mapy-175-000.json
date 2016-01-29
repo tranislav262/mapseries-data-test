@@ -15099,15 +15099,15 @@
       "properties": {
         "SHEET": "4767",
         "KOLONNE": "XXV",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Tokaj",
+        "N651": "$$aTokaj (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXV",
+        "ZONE_COL": "Zone 13 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -15142,15 +15142,15 @@
       "properties": {
         "SHEET": "4768",
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kisvárda a Vásárosnamény",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Kis-Várda und Vásáros-Namény",
+        "N651": "$$aKisvárda (Maďarsko : oblast)|$$aVásárosnamény (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXVI",
+        "ZONE_COL": "Zone 13 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -15185,15 +15185,15 @@
       "properties": {
         "SHEET": "4769",
         "KOLONNE": "XXVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Berehovo a Tarpa",
+        "SCALE": 75000,
+        "N43": "$$ae-un---$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Beregszász und Mező-Tarpa",
+        "N651": "$$aBerehove (Ukrajina : oblast)$$7ge900159|$$aTarpa (Maďarsko : oblast)$$7ge900162",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXVII",
+        "ZONE_COL": "Zone 13 Col. XXVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15226,7 +15226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4770",
+        "SHEET": 4770,
         "KOLONNE": "XXVIII",
         "TITLE": "Nagy-Szőllős und Huszt",
         "SCALE": "75000",

@@ -11145,7 +11145,7 @@
         "KOLONNE": "XVII",
         "TITLE": "Nové Město nad Váhom",
         "SCALE": "75000",
-        "N43": "$$ae-xr---$$be-xr-zl$$e-xo--",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo--",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
         "N245A": "Ung. Ostra und Waag-Neustadtl|Nové Město nad Váhom",
         "N651": "$$aNové Mesto nad Váhom (Slovensko : oblast)$$7xx0122458|$$aUherský Ostroh (Česko : oblast)$$7ge542507",
@@ -11188,7 +11188,7 @@
         "KOLONNE": "XVIII",
         "TITLE": "Trenčín",
         "SCALE": "75000",
-        "N43": "$$ae-xo---$$e-xr--$$be-xr-zl",
+        "N43": "$$ae-xo---$$ae-xr--$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Trentschin|Trenčín",
         "N651": "$$aTrenčín (Slovensko : oblast)$$7ge301093",
@@ -13254,7 +13254,7 @@
         "SCALE": "75000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436.9)$$2MRF",
-        "N245A": "Steyrecc",
+        "N245A": "Steyregg",
         "N651": "$$aSteyregg (Rakousko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 12 Kol. XI",
@@ -14287,7 +14287,7 @@
         "N43": "$$ae-un---$$ae-mv---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Darabani",
-        "N651": "$$a",
+        "N651": "$$aDarabani (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXV",
         "ZONE_COL": "Zone 13 Col. XXXV"
@@ -14970,15 +14970,15 @@
       "properties": {
         "SHEET": 4764,
         "KOLONNE": "XXII",
-        "TITLE": "",
+        "TITLE": "Arló a Bátonyterenye",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Arló und K. Terenne",
+        "N651": "$$aArló (Maďarsko : oblast)$$7ge900139|$$aBátonyterenye (Maďarsko : oblast)$$7ge900142",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXII",
+        "ZONE_COL": "Zone 13 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15011,17 +15011,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4765",
+        "SHEET": 4765,
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Miscolc",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Miscolc",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXIII",
+        "ZONE_COL": "Zone 13 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15056,15 +15056,15 @@
       "properties": {
         "SHEET": "4766",
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Szikszó a Tiszadob",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Szikszó u. Tisza-Dob",
+        "N651": "$$aSzikszó (Maďarsko : oblast)|$$aTisza-Dob",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXIV",
+        "ZONE_COL": "Zone 13 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -15099,15 +15099,15 @@
       "properties": {
         "SHEET": "4767",
         "KOLONNE": "XXV",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Tokaj",
+        "N651": "$$aTokaj (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXV",
+        "ZONE_COL": "Zone 13 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -15142,15 +15142,15 @@
       "properties": {
         "SHEET": "4768",
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kisvárda a Vásárosnamény",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)",
+        "N245A": "Kis-Várda und Vásáros-Namény",
+        "N651": "$$aKisvárda (Maďarsko : oblast)|$$aVásárosnamény (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXVI",
+        "ZONE_COL": "Zone 13 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -15185,15 +15185,15 @@
       "properties": {
         "SHEET": "4769",
         "KOLONNE": "XXVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Berehove a Tarpa",
+        "SCALE": 75000,
+        "N43": "$$ae-un---$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Beregszász und Mező-Tarpa",
+        "N651": "$$aBerehove (Ukrajina : oblast)$$7ge900159|$$aTarpa (Maďarsko : oblast)$$7ge900162",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "13"
+        "ZONE_KOL": "Zone 13 Kol. XXVII",
+        "ZONE_COL": "Zone 13 Col. XXVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15226,9 +15226,9 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4770",
+        "SHEET": 4770,
         "KOLONNE": "XXVIII",
-        "TITLE": "Nagy-Szőllős und Huszt",
+        "TITLE": "Vynohradiv a Chust",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---$$ae-hu---",
         "N80": "$$a913(477)$$2MRF",
@@ -15271,7 +15271,7 @@
       "properties": {
         "SHEET": "4771",
         "KOLONNE": "XXIX",
-        "TITLE": "Técső und Kövesliget",
+        "TITLE": "Tjačiv a Drahovo",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
@@ -15314,7 +15314,7 @@
       "properties": {
         "SHEET": "4772",
         "KOLONNE": "XXX",
-        "TITLE": "Kabola Polyána",
+        "TITLE": "Kobylecká Polana",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
@@ -15357,7 +15357,7 @@
       "properties": {
         "SHEET": "4773",
         "KOLONNE": "XXXI",
-        "TITLE": "Bogdán",
+        "TITLE": "Bohdan",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
@@ -15400,12 +15400,12 @@
       "properties": {
         "SHEET": "4774",
         "KOLONNE": "XXXII",
-        "TITLE": "Marenicze und Wiznitz",
+        "TITLE": "Marynyčì a Vyžnycja",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Marenicze und Wiznitz",
-        "N651": "$$a",
+        "N245A": "Marenicze und Wiznitz|Mareniczeni",
+        "N651": "$$aMarynyčì (Ukrajina : oblast)|$$aVyžnycja (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXII",
         "ZONE_COL": "Zone 13 Col. XXXII"
@@ -15443,12 +15443,12 @@
       "properties": {
         "SHEET": "4775",
         "KOLONNE": "XXXIII",
-        "TITLE": "Storozynetz und Dawideny",
+        "TITLE": "Storožynec’ a Davydìvka",
         "SCALE": "75000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Storozynetz und Dawideny",
-        "N651": "$$a",
+        "N245A": "Storozynetz und Dawideny|Davideni und Storo",
+        "N651": "$$aDavydìvka (Ukrajina : oblast)|$$aStorožynec’ (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXIII",
         "ZONE_COL": "Zone 13 Col. XXXIII"
@@ -15486,12 +15486,12 @@
       "properties": {
         "SHEET": "4776",
         "KOLONNE": "XXXIV",
-        "TITLE": "Hliboka",
+        "TITLE": "Hlyboka",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(4",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Hliboka",
-        "N651": "$$a",
+        "N651": "$$aHlyboka (Ukrajina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 13 Kol. XXXIV",
         "ZONE_COL": "Zone 13 Col. XXXIV"
@@ -15572,15 +15572,15 @@
       "properties": {
         "SHEET": "4850",
         "KOLONNE": "VIII",
-        "TITLE": "",
+        "TITLE": "Salcburk",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "Salzburg",
+        "N651": "$$aSalcburk (Rakousko : oblast)$$7ge158425",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. VIII",
+        "ZONE_COL": "Zone 14 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15613,17 +15613,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4851",
+        "SHEET": 4851,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gmunden a Schafberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Gmunden und Schafberg",
+        "N651": "$$aGmunden (Rakousko : oblast)|$$aSchafberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. IX",
+        "ZONE_COL": "Zone 14 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -15658,15 +15658,15 @@
       "properties": {
         "SHEET": "4852",
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kirchdorf",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Kirchdorf",
+        "N651": "$$aKirchdorf an der Krems (Rakousko)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. X",
+        "ZONE_COL": "Zone 14 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -15701,15 +15701,15 @@
       "properties": {
         "SHEET": "4853",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "Weyer",
+        "N651": "$$aWeyer (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XI",
+        "ZONE_COL": "Zone 14 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -15744,15 +15744,15 @@
       "properties": {
         "SHEET": "4854",
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gaming a Mariazell",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF$$a913(436.2)$$2MRF",
+        "N245A": "Gaming und Maria Zell",
+        "N651": "$$aGaming (Rakousko : oblast)|$$aMariazell (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XII",
+        "ZONE_COL": "Zone 14 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15785,17 +15785,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4855",
+        "SHEET": 4855,
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Schneeberg und St. Aegyd",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XIII",
+        "ZONE_COL": "Zone 14 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -15830,15 +15830,15 @@
       "properties": {
         "SHEET": "4856",
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Vídeňské Nové Město",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Wiener Neustadt",
+        "N651": "$$aWiener Neustadt (Rakousko : oblast)$$7ge832043",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XIV",
+        "ZONE_COL": "Zone 14 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",

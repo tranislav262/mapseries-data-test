@@ -16220,7 +16220,7 @@
         "TITLE": "Eger a Mezőkeresztes",
         "SCALE": "75000",
         "N43": "$$ae-hu---",
-        "N80": "$$a913(439",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Eger und Mező-Keresztes",
         "N651": "$$aEger (Maďarsko : oblast)|$$aMezőkeresztes (Maďarsko : oblast)",
         "POZNAMKA": "",
@@ -16346,15 +16346,15 @@
       "properties": {
         "SHEET": "4868",
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nagykálló a Nyírbátor",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nagy-Kálló und Nyír-Bátor",
+        "N651": "$$aNagykálló (Maďarsko : oblast)|$$aNyírbátor (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXVI",
+        "ZONE_COL": "Zone 14 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -16387,17 +16387,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4869",
+        "SHEET": 4869,
         "KOLONNE": "XXVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Jánkmajtis",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Jánk",
+        "N651": "$$aJánkmajtis (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXVII",
+        "ZONE_COL": "Zone 14 Col. XXVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -16430,7 +16430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4870",
+        "SHEET": 4870,
         "KOLONNE": "XXVIII",
         "TITLE": "Kányaháza und Szátmár-Németi",
         "SCALE": "75000",

@@ -16217,15 +16217,15 @@
       "properties": {
         "SHEET": 4865,
         "KOLONNE": "XXIII",
-        "TITLE": "",
+        "TITLE": "Eger a Mezőkeresztes",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439",
+        "N245A": "Eger und Mező-Keresztes",
+        "N651": "$$aEger (Maďarsko : oblast)|$$aMezőkeresztes (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXIII",
+        "ZONE_COL": "Zone 14 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -16258,17 +16258,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4866",
+        "SHEET": 4866,
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Polgár",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Polgár",
+        "N651": "$$aPolgár (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXIV",
+        "ZONE_COL": "Zone 14 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -16301,17 +16301,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4867",
+        "SHEET": 4867,
         "KOLONNE": "XXV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nyíregyháza a Hajdúnánás",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nyiregyháza und Hajdú-Nánás",
+        "N651": "$$aNyíregyháza (Maďarsko : oblast)|$$aHajdúnánás (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXV",
+        "ZONE_COL": "Zone 14 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",

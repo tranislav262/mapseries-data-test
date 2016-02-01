@@ -14371,7 +14371,7 @@
         "TITLE": "Mattighofen",
         "SCALE": 75000,
         "N43": "$$ae-gx---$$ae-au---",
-        "N80": "$$a913(436)",
+        "N80": "$$a913(436)$$2MRF",
         "N245A": "Mattighofen",
         "N651": "$$aMattighofen (Rakousko : oblast)",
         "POZNAMKA": "",
@@ -15016,7 +15016,7 @@
         "TITLE": "Miscolc",
         "SCALE": 75000,
         "N43": "$$ae-hu---",
-        "N80": "$$a913(439)",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Miscolc",
         "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146",
         "POZNAMKA": "",
@@ -15059,7 +15059,7 @@
         "TITLE": "Szikszó a Tiszadob",
         "SCALE": 75000,
         "N43": "$$ae-hu---",
-        "N80": "$$a913(439)",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Szikszó u. Tisza-Dob",
         "N651": "$$aSzikszó (Maďarsko : oblast)|$$aTisza-Dob",
         "POZNAMKA": "",
@@ -15102,7 +15102,7 @@
         "TITLE": "Tokaj",
         "SCALE": "75000",
         "N43": "$$ae-hu---",
-        "N80": "$$a913(439)",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Tokaj",
         "N651": "$$aTokaj (Maďarsko : oblast)",
         "POZNAMKA": "",
@@ -15145,7 +15145,7 @@
         "TITLE": "Kisvárda a Vásárosnamény",
         "SCALE": 75000,
         "N43": "$$ae-hu---",
-        "N80": "$$a913(439)",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Kis-Várda und Vásáros-Namény",
         "N651": "$$aKisvárda (Maďarsko : oblast)|$$aVásárosnamény (Maďarsko : oblast)",
         "POZNAMKA": "",
@@ -15916,15 +15916,15 @@
       "properties": {
         "SHEET": "4858",
         "KOLONNE": "XVI",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)",
+        "N245A": "Ung. Altenburg",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XVI",
+        "ZONE_COL": "Zone 14 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -15959,15 +15959,15 @@
       "properties": {
         "SHEET": "4859",
         "KOLONNE": "XVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Dunajská Streda a Hédervár",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Duna-Szerdahely und Hédervár",
+        "N651": "$$aDunajská Streda (Slovensko : oblast)$$xx0117432|$$aHédervár (Maďarsko : oblast)$$7ge900870",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XVII",
+        "ZONE_COL": "Zone 14 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -16002,15 +16002,15 @@
       "properties": {
         "SHEET": "4860",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Nové Zámky a Komárno",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "Neuhäusel und Komorn",
+        "N651": "$$aNové Zámky (Slovensko : oblast)$$7ge900871|$$aKomárno (Slovensko : oblast)$$7ge831948",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XVIII",
+        "ZONE_COL": "Zone 14 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -16043,17 +16043,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4861",
+        "SHEET": 4861,
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Svodín a Ostřihom",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Mgy. Szölgyén und Gran",
+        "N651": "$$aSvodín (Slovensko : oblast)$$7ge900902|$$aOstřihom (Maďarsko : oblast)$$7ge900904",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XIX",
+        "ZONE_COL": "Zone 14 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -16088,15 +16088,15 @@
       "properties": {
         "SHEET": "4862",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Nógrád a Vác",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nógrád und Waitzen",
+        "N651": "$$aNógrád (Maďarsko : oblast)$$7ge900905|Vác (Maďarsko : oblast)$$7ge900907",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XX",
+        "ZONE_COL": "Zone 14 Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -16129,7 +16129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4863",
+        "SHEET": 4863,
         "KOLONNE": "XXI",
         "TITLE": "",
         "SCALE": "75000",

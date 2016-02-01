@@ -15919,7 +15919,7 @@
         "TITLE": "Mosonmagyaróvár",
         "SCALE": "75000",
         "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(439)",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Ung. Altenburg",
         "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848",
         "POZNAMKA": "",
@@ -16131,15 +16131,15 @@
       "properties": {
         "SHEET": 4863,
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Pásztó a Apc",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Pásztó und Apc",
+        "N651": "$$aPásztó (Maďarsko : oblast)|$$aApc (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXI",
+        "ZONE_COL": "Zone 14 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -16174,15 +16174,15 @@
       "properties": {
         "SHEET": "4864",
         "KOLONNE": "XXII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gyöngyös a Egerbakta",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Gyöngyös und Bakta",
+        "N651": "$$aGyöngyös (Maďarsko : oblast)|$$aEgerbakta (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "14"
+        "ZONE_KOL": "Zone 14 Kol. XXII",
+        "ZONE_COL": "Zone 14 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -16215,7 +16215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4865",
+        "SHEET": 4865,
         "KOLONNE": "XXIII",
         "TITLE": "",
         "SCALE": "75000",

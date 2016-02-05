@@ -15529,12 +15529,12 @@
       "properties": {
         "SHEET": "4877",
         "KOLONNE": "XXXV",
-        "TITLE": "Dorohoiŭ",
+        "TITLE": "Dorohoi",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Dorohoiŭ",
-        "N651": "$$a",
+        "N651": "$$aDorohoi (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 14 Kol. XXXV",
         "ZONE_COL": "Zone 14 Col. XXXV"
@@ -16650,9 +16650,9 @@
         "TITLE": "Oberwikow",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(4",
-        "N245A": "Oberwikow",
-        "N651": "$$a",
+        "N80": "$$a913(498",
+        "N245A": "Oberwikow|Wikow Werchny",
+        "N651": "$$aVicovu de Sus (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 14 Kol. XXXIII",
         "ZONE_COL": "Zone 14 Col. XXXIII"
@@ -16690,12 +16690,12 @@
       "properties": {
         "SHEET": "4876",
         "KOLONNE": "XXXIV",
-        "TITLE": "Radautz",
+        "TITLE": "Rădăuți",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Radautz",
-        "N651": "$$a",
+        "N651": "$$aRădăuți (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 14 Kol. XXXIV",
         "ZONE_COL": "Zone 14 Col. XXXIV"

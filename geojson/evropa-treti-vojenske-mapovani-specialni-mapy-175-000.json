@@ -17206,15 +17206,15 @@
       "properties": {
         "SHEET": 4953,
         "KOLONNE": "XI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Admont a Hieflau",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Admont und Hieflau",
+        "N651": "$$aAdmont (Rakousko : oblast)|$$aHieflau (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XI",
+        "ZONE_COL": "Zone 15 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -17247,17 +17247,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4954",
+        "SHEET": 4954,
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Eisenerzské Alpy a Aflenz",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Eisenerz. Wildalpe und Aflenz",
+        "N651": "$$aEisenerzské Alpy (Rakousko : pohoří)$$7ge891329|$$aAflenz Kurort (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XII",
+        "ZONE_COL": "Zone 15 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17290,17 +17290,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4955",
+        "SHEET": 4955,
         "KOLONNE": "XIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Mürzzuschlag",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Mürzzuschlag",
+        "N651": "$$aMürzzuschlag (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XIII",
+        "ZONE_COL": "Zone 15 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17333,17 +17333,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4956",
+        "SHEET": 4956,
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Neunkirchen a Aspang",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Neunkirchen und Aspang",
+        "N651": "$$aNeunkirchen (Rakousko : oblast)|$$aAspang Markt (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XIV",
+        "ZONE_COL": "Zone 15 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -17376,17 +17376,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4957",
+        "SHEET": 4957,
         "KOLONNE": "XV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Šoproň",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-au---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Oedenburg",
+        "N651": "$$aSopron (Maďarsko : oblast)$$7ge799490",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XV",
+        "ZONE_COL": "Zone 15 Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -17419,7 +17419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4958",
+        "SHEET": 4958,
         "KOLONNE": "XVI",
         "TITLE": "",
         "SCALE": "75000",

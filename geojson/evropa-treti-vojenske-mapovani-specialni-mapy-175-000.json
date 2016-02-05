@@ -17421,15 +17421,15 @@
       "properties": {
         "SHEET": 4958,
         "KOLONNE": "XVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kapuvár",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-au---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Kapuvár",
+        "N651": "$$aKapuvár (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XVI",
+        "ZONE_COL": "Zone 15 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -17462,17 +17462,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4959",
+        "SHEET": 4959,
         "KOLONNE": "XVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ráb",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Raab",
+        "N651": "$$aGyör (Maďarsko : oblast)$$7ge166244",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XVII",
+        "ZONE_COL": "Zone 15 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17505,17 +17505,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4960",
+        "SHEET": 4960,
         "KOLONNE": "XVIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ács a Totis",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Ács und Totis",
+        "N651": "$$aÁcs (Maďarsko : oblast)$$7ge901774|$$aTata (Maďarsko : oblast)$$7ge901775",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XVIII",
+        "ZONE_COL": "Zone 15 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17548,17 +17548,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4961",
+        "SHEET": 4961,
         "KOLONNE": "XIX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Neszmély a Zsámbék",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Neszmély und Zsámbék",
+        "N651": "$$aNeszmély (Maďarsko : oblast)$$7ge901785|$$aZsámbék (Maďarsko : oblast)$$7ge901788",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XIX",
+        "ZONE_COL": "Zone 15 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -17591,7 +17591,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4962",
+        "SHEET": 4962,
         "KOLONNE": "XX",
         "TITLE": "",
         "SCALE": "75000",
@@ -17636,15 +17636,15 @@
       "properties": {
         "SHEET": "4963",
         "KOLONNE": "XXI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hatvan a Gödöllő",
+        "SCALE": 75000,
+        "N43": "$$ae-hu--- ",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Hatvan und Gödöllő",
+        "N651": "$$aHatvan (Maďarsko : oblast)|$$aGödöllő (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXI",
+        "ZONE_COL": "Zone 15 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -17677,17 +17677,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4964",
+        "SHEET": 4964,
         "KOLONNE": "XXII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kál a Jászberény",
+        "SCALE": 75000,
+        "N43": "$$ae-hu--- ",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Kaál und Jászberény",
+        "N651": "$$aKál (Maďarsko : oblast)|$$aJászberény (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXII",
+        "ZONE_COL": "Zone 15 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",

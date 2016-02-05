@@ -16862,15 +16862,15 @@
       "properties": {
         "SHEET": "4945",
         "KOLONNE": "III",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Füssen",
+        "SCALE": 75000,
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N245A": "Füssen",
+        "N651": "$$aFüssen (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. III",
+        "ZONE_COL": "Zone 15 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -16903,17 +16903,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4946",
+        "SHEET": 4946,
         "KOLONNE": "IV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ober Ammergau",
+        "SCALE": 75000,
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N245A": "Ober Ammergau",
+        "N651": "$$aOberammergau (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. IV",
+        "ZONE_COL": "Zone 15 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -16946,17 +16946,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4947",
+        "SHEET": 4947,
         "KOLONNE": "V",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Achenkirch a Benedictbeuren",
+        "SCALE": 75000,
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(430.129)$$2MRF",
+        "N245A": "Achenkirch und Benedictbeuren",
+        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. V",
+        "ZONE_COL": "Zone 15 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -16989,17 +16989,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4948",
+        "SHEET": 4948,
         "KOLONNE": "VI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kufstein",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Kufstein",
+        "N651": "$$aKufstein (Rakousko : oblast)$$7ge560468",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. VI",
+        "ZONE_COL": "Zone 15 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -17032,7 +17032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4949",
+        "SHEET": 4949,
         "KOLONNE": "VII",
         "TITLE": "",
         "SCALE": "75000",

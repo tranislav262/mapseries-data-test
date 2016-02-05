@@ -17034,15 +17034,15 @@
       "properties": {
         "SHEET": 4949,
         "KOLONNE": "VII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Lofer a St. Johann in Tirol",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.8)$$2MRF|$$a913(436.6)$$2MRF",
+        "N245A": "Lofer und St. Johann",
+        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471",
         "POZNAMKA": "",
-        "ZONE_KOL": "VII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. VII",
+        "ZONE_COL": "Zone 15 Col. VII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17075,17 +17075,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4950",
+        "SHEET": 4950,
         "KOLONNE": "VIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hallein a Bertesgaden",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.8)$$2MRF|$$a913(430.129)$$2MRF",
+        "N245A": "Hallein und Berchtesgaden",
+        "N651": "$$aHallein (Rakousko : oblast)$$7ge691088|$$aBerchtesgaden (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. VIII",
+        "ZONE_COL": "Zone 15 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17118,17 +17118,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4951",
+        "SHEET": 4951,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bad Ischl a Hallstadt",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "Ischl und Hallstadt",
+        "N651": "$$aBad Ischl (Rakousko : oblast)|$$aHallstadt (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. IX",
+        "ZONE_COL": "Zone 15 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -17161,17 +17161,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4952",
+        "SHEET": 4952,
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Liezen",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Liezen",
+        "N651": "$$aLiezen (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. X",
+        "ZONE_COL": "Zone 15 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -17204,7 +17204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4953",
+        "SHEET": 4953,
         "KOLONNE": "XI",
         "TITLE": "",
         "SCALE": "75000",

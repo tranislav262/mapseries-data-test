@@ -16650,7 +16650,7 @@
         "TITLE": "Oberwikow",
         "SCALE": "75000",
         "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(498",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Oberwikow|Wikow Werchny",
         "N651": "$$aVicovu de Sus (Rumunsko : oblast)",
         "POZNAMKA": "",
@@ -16776,15 +16776,15 @@
       "properties": {
         "SHEET": "4943",
         "KOLONNE": "I",
-        "TITLE": "",
+        "TITLE": "Bodamské jezero",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$aew-----",
+        "N80": "$$a913(430+436+494)",
+        "N245A": "Boden See",
+        "N651": "$$aBodamské jezero (oblast)$$7ge134073",
         "POZNAMKA": "",
-        "ZONE_KOL": "I",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. I",
+        "ZONE_COL": "Zone 15 Col. I"
       },
       "geometry": {
         "type": "Polygon",
@@ -16819,15 +16819,15 @@
       "properties": {
         "SHEET": "4944",
         "KOLONNE": "II",
-        "TITLE": "",
+        "TITLE": "Isny im Allgäu a Immenstadt im Allgäu",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430.127)$$2MRF|$$a913(430.129)$$2MRF",
+        "N245A": "Jsny und Jmmenstadt",
+        "N651": "$$aIsny im Allgäu (Německo : oblast)|$$aImmenstadt im Allgäu (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "II",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. II",
+        "ZONE_COL": "Zone 15 Col. II"
       },
       "geometry": {
         "type": "Polygon",

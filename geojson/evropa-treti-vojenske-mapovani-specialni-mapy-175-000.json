@@ -16733,12 +16733,12 @@
       "properties": {
         "SHEET": "4977",
         "KOLONNE": "XXXV",
-        "TITLE": "Uidestie",
-        "SCALE": "75000",
+        "TITLE": "Udești",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Uidestie",
-        "N651": "$$a",
+        "N245A": "Uidesti|Uidestie",
+        "N651": "$$aUdești (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXXV",
         "ZONE_COL": "Zone 15 Col. XXXV"
@@ -17722,15 +17722,15 @@
       "properties": {
         "SHEET": "4965",
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Besenyötelek a Tiszafüred",
+        "SCALE": 75000,
+        "N43": "$$ae-hu--- ",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Besenyö und Tisza-Füred",
+        "N651": "$$aBesenyötelek (Maďarsko : oblast)|$$aTiszafüred (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXIII",
+        "ZONE_COL": "Zone 15 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -17763,17 +17763,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4966",
+        "SHEET": 4966,
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Tiszacsege",
+        "SCALE": 75000,
+        "N43": "$$ae-hu--- ",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Csege",
+        "N651": "$$aTiszacsege (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXIV",
+        "ZONE_COL": "Zone 15 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -17806,17 +17806,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4967",
+        "SHEET": 4967,
         "KOLONNE": "XXV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Debrecín",
+        "SCALE": 75000,
+        "N43": "$$ae-hu--- ",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Debrecen",
+        "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXV",
+        "ZONE_COL": "Zone 15 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -17849,17 +17849,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4968",
+        "SHEET": 4968,
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nyírbéltek a Vámospércs",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nyir-Béltek und Vámos-Pércs",
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)|Vámos-Pércs (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "15"
+        "ZONE_KOL": "Zone 15 Kol. XXVI",
+        "ZONE_COL": "Zone 15 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -17892,14 +17892,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4969",
+        "SHEET": 4969,
         "KOLONNE": "XXVII",
-        "TITLE": "Nagy-Károly und Ákos",
-        "SCALE": "75000",
-        "N43": "$$ae-hu---$$ae-rm---",
+        "TITLE": "Carei a Acâș",
+        "SCALE": 75000,
+        "N43": "$$ae-rm---$$ae-hu---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Nagy-Károly und Ákos",
-        "N651": "$$a",
+        "N651": "$$aCarei (Rumunsko : oblast)$$7ge828883|$$aAcâș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXVII",
         "ZONE_COL": "Zone 15 Col. XXVII"
@@ -17935,14 +17935,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4970",
+        "SHEET": 4970,
         "KOLONNE": "XXVIII",
-        "TITLE": "Szinyér-Váralja und Kraszna-Béltek",
-        "SCALE": "75000",
+        "TITLE": "Seini a Beltiug",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Szinyér-Váralja und Kraszna-Béltek",
-        "N651": "$$a",
+        "N245A": "Szinéváralja und Kraszna-Béltek|Szinyér-Váralja und Krasna-Béltek",
+        "N651": "$$aSeini (Rumunsko : oblast)|$$aBeltiug (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXVIII",
         "ZONE_COL": "Zone 15 Col. XXVIII"
@@ -17978,14 +17978,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4971",
+        "SHEET": 4971,
         "KOLONNE": "XXIX",
-        "TITLE": "Nagy Bánya",
-        "SCALE": "75000",
+        "TITLE": "Baia Mare",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Nagy Bánya",
-        "N651": "$$a",
+        "N651": "$$aBaia Mare (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXIX",
         "ZONE_COL": "Zone 15 Col. XXIX"
@@ -18021,14 +18021,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4972",
+        "SHEET": 4972,
         "KOLONNE": "XXX",
-        "TITLE": "Kapnik-Bánya",
-        "SCALE": "75000",
+        "TITLE": "Cavnic",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Kapnik-Bánya",
-        "N651": "$$a",
+        "N651": "$$aCavnic (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXX",
         "ZONE_COL": "Zone 15 Col. XXX"
@@ -18064,14 +18064,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4973",
+        "SHEET": 4973,
         "KOLONNE": "XXXI",
-        "TITLE": "Felsővisó",
-        "SCALE": "75000",
+        "TITLE": "Vișeu de Sus",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Felsővisó",
-        "N651": "$$a",
+        "N245A": "Felsö-Vissó|Felsövisó",
+        "N651": "$$aVișeu de Sus (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXXI",
         "ZONE_COL": "Zone 15 Col. XXXI"
@@ -18107,14 +18107,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4974",
+        "SHEET": 4974,
         "KOLONNE": "XXXII",
-        "TITLE": "Kirlibaba",
-        "SCALE": "75000",
+        "TITLE": "Cârlibaba",
+        "SCALE": 75000,
         "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(4",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Kirlibaba",
-        "N651": "$$a",
+        "N651": "$$aCârlibaba (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXXII",
         "ZONE_COL": "Zone 15 Col. XXXII"
@@ -18150,14 +18150,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4975",
+        "SHEET": 4975,
         "KOLONNE": "XXXIII",
-        "TITLE": "Kimpolung in der Bukowina",
-        "SCALE": "75000",
+        "TITLE": "Câmpulung Moldovenesc",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Kimpolung in der Bukowina",
-        "N651": "$$a",
+        "N651": "$$aCâmpulung Moldovenesc (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXXIII",
         "ZONE_COL": "Zone 15 Col. XXXIII"
@@ -18193,14 +18193,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "4976",
+        "SHEET": 4976,
         "KOLONNE": "XXXIV",
-        "TITLE": "Suczawa",
-        "SCALE": "75000",
+        "TITLE": "Sučeva",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Suczawa",
-        "N651": "$$a",
+        "N651": "$$aSuceava (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 15 Kol. XXXIV",
         "ZONE_COL": "Zone 15 Col. XXXIV"
@@ -18236,7 +18236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5077",
+        "SHEET": 5077,
         "KOLONNE": "XXXV",
         "TITLE": "Dolhasca",
         "SCALE": "75000",

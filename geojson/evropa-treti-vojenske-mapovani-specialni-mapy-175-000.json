@@ -18239,11 +18239,11 @@
         "SHEET": 5077,
         "KOLONNE": "XXXV",
         "TITLE": "Dolhasca",
-        "SCALE": "75000",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Dolhasca",
-        "N651": "$$a",
+        "N651": "$$aDolhasca (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXXV",
         "ZONE_COL": "Zone 16 Col. XXXV"
@@ -19184,15 +19184,15 @@
       "properties": {
         "SHEET": 5064,
         "KOLONNE": "XXII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Jászladány",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Jász-Ladány",
+        "N651": "$$aJászladány (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXII",
+        "ZONE_COL": "Zone 16 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -19225,17 +19225,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5065",
+        "SHEET": 5065,
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Tiszaroff",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Tisza-Roff",
+        "N651": "$$aTiszaroff (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXIII",
+        "ZONE_COL": "Zone 16 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -19268,17 +19268,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5066",
+        "SHEET": 5066,
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Püspökladány",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Püspök-Ladány",
+        "N651": "$$aPüspökladány (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXIV",
+        "ZONE_COL": "Zone 16 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -19311,17 +19311,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5067",
+        "SHEET": 5067,
         "KOLONNE": "XXV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hajduszoboszló a Esztár",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Hajdu-Szoboszló und Esztár",
+        "N651": "$$aHajduszoboszló (Maďarsko : oblast)|$$aEsztár (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXV",
+        "ZONE_COL": "Zone 16 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -19354,17 +19354,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5068",
+        "SHEET": 5068,
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sălacea a Diosig",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Szalacs und Ér-Diószeg",
+        "N651": "$$aSălacea  (Rumunsko : oblast)|$$aDiosig (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXVI",
+        "ZONE_COL": "Zone 16 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -19397,14 +19397,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5069",
+        "SHEET": 5069,
         "KOLONNE": "XXVII",
-        "TITLE": "Tasnád und Széplak",
-        "SCALE": "75000",
+        "TITLE": "Tășnad a Suplacu de Barcău",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Tasnád und Széplak",
-        "N651": "$$a",
+        "N651": "$$aTășnad (Rumunsko : oblast)|$$aSuplacu de Barcău (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXVII",
         "ZONE_COL": "Zone 16 Col. XXVII"
@@ -19440,14 +19440,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5070",
+        "SHEET": 5070,
         "KOLONNE": "XXVIII",
-        "TITLE": "Hadad und Zsibó",
-        "SCALE": "75000",
+        "TITLE": "Hodod a Jibou",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Hadad und Zsibó",
-        "N651": "$$a",
+        "N651": "$$aHodod (Rumunsko : oblast)|$$aJibou (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXVIII",
         "ZONE_COL": "Zone 16 Col. XXVIII"
@@ -19483,14 +19483,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5071",
+        "SHEET": 5071,
         "KOLONNE": "XXIX",
-        "TITLE": "Gaura und Galgó",
-        "SCALE": "75000",
+        "TITLE": "Valea Chioarului a Gâlgău",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Gaura und Galgó",
-        "N651": "$$a",
+        "N651": "$$aValea Chioarului (Rumunsko : oblast)|$$aGâlgău (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXIX",
         "ZONE_COL": "Zone 16 Col. XXIX"
@@ -19526,14 +19526,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5072",
+        "SHEET": 5072,
         "KOLONNE": "XXX",
-        "TITLE": "Magyar-Lápos und Makod",
-        "SCALE": "75000",
+        "TITLE": "Târgu Lăpuș a Mocod",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Magyar-Lápos und Makod",
-        "N651": "$$a",
+        "N651": "$$aTârgu Lăpuș (Rumunsko : oblast)|$$aMocod (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXX",
         "ZONE_COL": "Zone 16 Col. XXX"
@@ -19569,14 +19569,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5073",
+        "SHEET": 5073,
         "KOLONNE": "XXXI",
-        "TITLE": "Óradna und Naszód",
-        "SCALE": "75000",
+        "TITLE": "Năsăud a Rodna",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Óradna und Naszód",
-        "N651": "$$a",
+        "N245A": "Naszód und Alt Rodna|Óradna und Naszód",
+        "N651": "$$aNăsăud (Rumunsko : oblast)|$$aRodna (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXXI",
         "ZONE_COL": "Zone 16 Col. XXXI"
@@ -19612,14 +19612,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5074",
+        "SHEET": 5074,
         "KOLONNE": "XXXII",
-        "TITLE": "Ujradna und Jakobeny",
-        "SCALE": "75000",
+        "TITLE": "Șanț a Iacobeni",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Ujradna und Jakobeny",
-        "N651": "$$a",
+        "N245A": "Rodna Noua und Jacobeni|Ujradna und Jakobeny",
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXXII",
         "ZONE_COL": "Zone 16 Col. XXXII"
@@ -19655,14 +19655,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5075",
+        "SHEET": 5075,
         "KOLONNE": "XXXIII",
-        "TITLE": "Dorna-Watra",
-        "SCALE": "75000",
+        "TITLE": "Vatra Dornei a Stulpicani",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Dorna-Watra",
-        "N651": "$$a",
+        "N245A": "Dorna-Vatra und Stulpicani|Dorna-Watra",
+        "N651": "$$aVatra Dornei (Rumunsko : oblast)|$$aStulpicani (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXXIII",
         "ZONE_COL": "Zone 16 Col. XXXIII"
@@ -19698,14 +19698,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5076",
+        "SHEET": 5076,
         "KOLONNE": "XXXIV",
-        "TITLE": "Bajaschestie",
-        "SCALE": "75000",
+        "TITLE": "Băișești",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Bajaschestie",
-        "N651": "$$a",
+        "N245A": "Baiasesci|Bajaschestie",
+        "N651": "$$aBăișești (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 16 Kol. XXXIV",
         "ZONE_COL": "Zone 16 Col. XXXIV"
@@ -19741,7 +19741,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5177",
+        "SHEET": 5177,
         "KOLONNE": "XXXV",
         "TITLE": "Neamţŭ und Păşcani",
         "SCALE": "75000",

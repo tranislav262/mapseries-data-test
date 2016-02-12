@@ -18324,15 +18324,15 @@
       "properties": {
         "SHEET": "5044",
         "KOLONNE": "II",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Reuthe a Oberstdorf",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(430.129)$$2MRF|$$a913(436.7)$$2MRF",
+        "N245A": "Reute und Oberstdorf",
+        "N651": "$$aReuthe (Rakousko : oblast)|$$aOberstdorf (Německo : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "II",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. II",
+        "ZONE_COL": "Zone 16 Col. II"
       },
       "geometry": {
         "type": "Polygon",
@@ -18365,17 +18365,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5045",
+        "SHEET": 5045,
         "KOLONNE": "III",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Údolí Lechu",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Lech Thal ",
+        "N651": "$$aLechthal (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. III",
+        "ZONE_COL": "Zone 16 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -18408,17 +18408,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5046",
+        "SHEET": 5046,
         "KOLONNE": "IV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Zirl a Nassereith",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Zirl und Nassereith",
+        "N651": "$$aZirl (Rakousko : oblast)|$$aNassereith (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. IV",
+        "ZONE_COL": "Zone 16 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -18451,17 +18451,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5047",
+        "SHEET": 5047,
         "KOLONNE": "V",
         "TITLE": "",
-        "SCALE": "75000",
+        "SCALE": 75000,
         "N43": "$$ae-",
         "N80": "$$a913(4",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "V",
-        "ZONE_COL": "16"
+        "ZONE_COL": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -18494,17 +18494,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5048",
+        "SHEET": 5048,
         "KOLONNE": "VI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Rattenberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Rattenberg",
+        "N651": "$$aRattenberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. VI",
+        "ZONE_COL": "Zone 16 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -18537,17 +18537,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5049",
+        "SHEET": 5049,
         "KOLONNE": "VII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kitzbühel a Zell am See",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(436.8)$$2MRF",
+        "N245A": "Kitzbühel und Zell am See",
+        "N651": "$$aKitzbühel (Rakousko : oblast)$$7ge856965|$$aZell am See (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. VII",
+        "ZONE_COL": "Zone 16 Col. VII"
       },
       "geometry": {
         "type": "Polygon",
@@ -18580,17 +18580,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5050",
+        "SHEET": 5050,
         "KOLONNE": "VIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "St. Johann im Pongau",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "St. Johann im Pongau",
+        "N651": "$$aSankt Johann im Pongau (Rakousko : oblast)$$7ge273618",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. VIII",
+        "ZONE_COL": "Zone 16 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -18623,17 +18623,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5051",
+        "SHEET": 5051,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Radstadt",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "Radstadt",
+        "N651": "$$aRadstadt (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. IX",
+        "ZONE_COL": "Zone 16 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -18666,17 +18666,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5052",
+        "SHEET": 5052,
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Grömbing a Sankt Nicolai im Sölktal",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Gröbming und St. Nicolai",
+        "N651": "$$aGröbming (Rakousko : oblast)|$$aSankt Nicolai im Sölktal (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. X",
+        "ZONE_COL": "Zone 16 Col. X"
       },
       "geometry": {
         "type": "Polygon",

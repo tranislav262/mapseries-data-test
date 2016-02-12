@@ -19743,12 +19743,12 @@
       "properties": {
         "SHEET": 5177,
         "KOLONNE": "XXXV",
-        "TITLE": "Neamţŭ und Păşcani",
-        "SCALE": "75000",
+        "TITLE": "Târgu Neamț a Pașcani",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Neamţŭ und Păşcani",
-        "N651": "$$a",
+        "N245A": "Neamțŭ und Pășcani",
+        "N651": "$$aTârgu Neamț (Rumunsko : oblast)|$$aPașcani Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXXV",
         "ZONE_COL": "Zone 17 Col. XXXV"
@@ -20732,15 +20732,15 @@
       "properties": {
         "SHEET": "5165",
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kisujszállás a Mezőtúr",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Kisujszállás und Mezőtúr",
+        "N651": "$$aKisujszállás (Maďarsko : oblast)|$$aMezőtúr (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXIII",
+        "ZONE_COL": "Zone 17 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20773,17 +20773,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5166",
+        "SHEET": 5166,
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Biharnagybajom a Szeghalom",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "N. Bajom und Szeghalom",
+        "N651": "$$aBiharnagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXIV",
+        "ZONE_COL": "Zone 17 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -20816,17 +20816,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5167",
+        "SHEET": 5167,
         "KOLONNE": "XXV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Berettyóújfalu a Tărian",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Berettyó-Ujfalu und Kőröstarján",
+        "N651": "$$aBerettyóújfalu (Maďarsko : oblast)|$$aTărian (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXV",
+        "ZONE_COL": "Zone 17 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -20859,17 +20859,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5168",
+        "SHEET": 5168,
         "KOLONNE": "XXVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Velký Varadín",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Grosswardein",
+        "N651": "$$aOradea (Rumunsko : oblast)$$7ge856419",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXVI",
+        "ZONE_COL": "Zone 17 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -20902,14 +20902,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5169",
+        "SHEET": 5169,
         "KOLONNE": "XXVII",
-        "TITLE": "Szilágy-Somlyó und Élesd",
-        "SCALE": "75000",
+        "TITLE": "Șimleu Silvaniei a Aleșd",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Szilágy-Somlyó und Élesd",
-        "N651": "$$a",
+        "N651": "$$aȘimleu Silvaniei (Rumunsko : oblast)|$$aAleșd (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXVII",
         "ZONE_COL": "Zone 17 Col. XXVII"
@@ -20945,14 +20945,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5170",
+        "SHEET": 5170,
         "KOLONNE": "XXVIII",
-        "TITLE": "Zilah",
-        "SCALE": "75000",
+        "TITLE": "Zalău",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Zilah",
-        "N651": "$$a",
+        "N651": "$$aZalău (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXVIII",
         "ZONE_COL": "Zone 17 Col. XXVIII"
@@ -20988,14 +20988,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5171",
+        "SHEET": 5171,
         "KOLONNE": "XXIX",
-        "TITLE": "Alparét (Olprét)",
-        "SCALE": "75000",
+        "TITLE": "Bobâlna",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Alparét (Olprét)",
-        "N651": "$$a",
+        "N245A": "Olpretu|Alparét (Olprét)",
+        "N651": "$$aBobâlna (Rumunsko, Cluj : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXIX",
         "ZONE_COL": "Zone 17 Col. XXIX"
@@ -21031,14 +21031,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5172",
+        "SHEET": 5172,
         "KOLONNE": "XXX",
-        "TITLE": "Szamosujvár",
-        "SCALE": "75000",
+        "TITLE": "Gherla",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Szamosujvár",
-        "N651": "$$a",
+        "N245A": "Szamos-Ujvár|Szamosujvár",
+        "N651": "$$aGherla (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXX",
         "ZONE_COL": "Zone 17 Col. XXX"
@@ -21074,14 +21074,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5173",
+        "SHEET": 5173,
         "KOLONNE": "XXXI",
-        "TITLE": "Beszterce (Bistritz)",
-        "SCALE": "75000",
+        "TITLE": "Bistrița",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Beszterce (Bistritz)",
-        "N651": "$$a",
+        "N245A": "Bistritz|Besztercze (Bistritz)",
+        "N651": "$$aBistriţa (Rumunsko : oblast)$$7ge856654",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXXI",
         "ZONE_COL": "Zone 17 Col. XXXI"
@@ -21117,14 +21117,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5174",
+        "SHEET": 5174,
         "KOLONNE": "XXXII",
-        "TITLE": "Marosborgó",
-        "SCALE": "75000",
+        "TITLE": "Mureșenii Bârgăului",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Marosborgó",
-        "N651": "$$a",
+        "N245A": "Borgó Marosény|Marosborgó",
+        "N651": "$$aMureșenii Bârgăului (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXXII",
         "ZONE_COL": "Zone 17 Col. XXXII"
@@ -21160,14 +21160,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5175",
+        "SHEET": 5175,
         "KOLONNE": "XXXIII",
-        "TITLE": "Bélbor",
-        "SCALE": "75000",
+        "TITLE": "Bilbor",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Bélbor",
-        "N651": "$$a",
+        "N651": "$$aBilbor (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXXIII",
         "ZONE_COL": "Zone 17 Col. XXXIII"
@@ -21203,14 +21203,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5176",
+        "SHEET": 5176,
         "KOLONNE": "XXXIV",
         "TITLE": "Bistricioara",
-        "SCALE": "75000",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Bistricioara",
-        "N651": "$$a",
+        "N651": "$$aBistricioara (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 17 Kol. XXXIV",
         "ZONE_COL": "Zone 17 Col. XXXIV"

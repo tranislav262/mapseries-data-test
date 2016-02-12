@@ -20216,15 +20216,15 @@
       "properties": {
         "SHEET": "5153",
         "KOLONNE": "XI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Judenburg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Judenburg",
+        "N651": "$$aJudenburg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XI",
+        "ZONE_COL": "Zone 17 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -20257,17 +20257,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5154",
+        "SHEET": 5154,
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Köflach a Voitsberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Köflach und Voitsberg",
+        "N651": "$$aKöflach (Rakousko : oblast)|$$aVoitsberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XII",
+        "ZONE_COL": "Zone 17 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20300,17 +20300,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5155",
+        "SHEET": 5155,
         "KOLONNE": "XIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Štýrský Hradec",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Graz",
+        "N651": "$$aŠtýrský Hradec (Rakousko)$$7ge128479",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XIII",
+        "ZONE_COL": "Zone 17 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20343,17 +20343,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5156",
+        "SHEET": 5156,
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Fürstenfeld",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Fürstenfeld",
+        "N651": "$$aFürstenfeld (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XIV",
+        "ZONE_COL": "Zone 17 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -20386,17 +20386,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5157",
+        "SHEET": 5157,
         "KOLONNE": "XV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Szombathely a Körmend",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Steinmanger und Körmend",
+        "N651": "$$aSzombathely (Maďarsko : oblast)$$7ge856366|$$aKörmend (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XV",
+        "ZONE_COL": "Zone 17 Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -20429,17 +20429,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5158",
+        "SHEET": 5158,
         "KOLONNE": "XVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kissomlyó",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Hegyes-Kis-Somlyó",
+        "N651": "$$aKissomlyó (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XVI",
+        "ZONE_COL": "Zone 17 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -20472,17 +20472,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5159",
+        "SHEET": 5159,
         "KOLONNE": "XVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Devecser a Városlőd",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Devecser und Város-Lőd",
+        "N651": "$$aDevecser (Maďarsko : oblast)|$$aVároslőd (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XVII",
+        "ZONE_COL": "Zone 17 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20515,17 +20515,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5160",
+        "SHEET": 5160,
         "KOLONNE": "XVIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Veszprém a Várpalota",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Veszprim und Palota",
+        "N651": "$$aVeszprém (Maďarsko : oblast)$$7ge590129|$$aVárpalota (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XVIII",
+        "ZONE_COL": "Zone 17 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20558,17 +20558,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5161",
+        "SHEET": 5161,
         "KOLONNE": "XIX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Stoličný Bělehrad a Seregélyes",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Stuhlweissenburg und Seregélyes",
+        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)|$$aSeregélyes (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XIX",
+        "ZONE_COL": "Zone 17 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -20601,17 +20601,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5162",
+        "SHEET": 5162,
         "KOLONNE": "XX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Adony a Kunszentmiklós",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Rác-Adony und Kun-Szt.-Miklós",
+        "N651": "$$aAdony (Maďarsko : oblast)|$$aKunszentmiklós (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XX",
+        "ZONE_COL": "Zone 17 Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -20644,17 +20644,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5163",
+        "SHEET": 5163,
         "KOLONNE": "XXI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Cegléd",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Cegléd",
+        "N651": "$$aCegléd (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXI",
+        "ZONE_COL": "Zone 17 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -20687,17 +20687,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5164",
+        "SHEET": 5164,
         "KOLONNE": "XXII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Szolnok",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Szolnok",
+        "N651": "$$aSzolnok (Maďarsko : oblast)$$7ge459428",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. XXII",
+        "ZONE_COL": "Zone 17 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",

@@ -19786,15 +19786,15 @@
       "properties": {
         "SHEET": "5143",
         "KOLONNE": "I",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bludenz a Vaduz",
+        "SCALE": 75000,
+        "N43": "$$ae-sz---$$ae-au---$$ae-lh---",
+        "N80": "$$a913(436.7)$$2MRF|$$a913(494.9)$$2MRF",
+        "N245A": "Bludenz und Vaduz",
+        "N651": "$$aBludenz (Rakousko : oblast)$$7ge369173|$$aVaduz (Liechtenštejnsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "I",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. I",
+        "ZONE_COL": "Zone 17 Col. I"
       },
       "geometry": {
         "type": "Polygon",
@@ -19827,17 +19827,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5144",
+        "SHEET": 5144,
         "KOLONNE": "II",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Stuben",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "Stuben",
+        "N651": "$$aStuben (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "II",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. II",
+        "ZONE_COL": "Zone 17 Col. II"
       },
       "geometry": {
         "type": "Polygon",
@@ -19870,17 +19870,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5145",
+        "SHEET": 5145,
         "KOLONNE": "III",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Landeck",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Landeck",
+        "N651": "$$aLandeck (Rakousko : oblast)$$7ge117925",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. III",
+        "ZONE_COL": "Zone 17 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -19913,17 +19913,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5146",
+        "SHEET": 5146,
         "KOLONNE": "IV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Ötztal",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Ötz Thal",
+        "N651": "$$aÖtztal (Rakousko : údolí)$$7ge848387",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. IV",
+        "ZONE_COL": "Zone 17 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -19956,17 +19956,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5147",
+        "SHEET": 5147,
         "KOLONNE": "V",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Matrei am Brenner",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Matrei",
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. V",
+        "ZONE_COL": "Zone 17 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -19999,17 +19999,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5148",
+        "SHEET": 5148,
         "KOLONNE": "VI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hippach a Gerlosspitze",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Hippach und Wilde Gerlos Spitze",
+        "N651": "$$aHippach (Rakousko : oblast)|$$aGerlos (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. VI",
+        "ZONE_COL": "Zone 17 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -20042,17 +20042,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5149",
+        "SHEET": 5149,
         "KOLONNE": "VII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Großglockner",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(436.5)$$2MRF",
+        "N245A": "Gross-Glockner",
+        "N651": "$$aGrossglockner (Vysoké Taury, Rakousko : hora : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. VII",
+        "ZONE_COL": "Zone 17 Col. VII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20085,17 +20085,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5150",
+        "SHEET": 5150,
         "KOLONNE": "VIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bad Hofgastein",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "Hof-Gastein",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)|$$7ge828358",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. VIII",
+        "ZONE_COL": "Zone 17 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -20128,17 +20128,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5151",
+        "SHEET": 5151,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "St. Michael im Lungau",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "St. Michael",
+        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. IX",
+        "ZONE_COL": "Zone 17 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -20171,17 +20171,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5152",
+        "SHEET": 5152,
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Murau",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Murau",
+        "N651": "$$aMurau (Rakousko : oblast)$$7ge369080",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "17"
+        "ZONE_KOL": "Zone 17 Kol. X",
+        "ZONE_COL": "Zone 17 Col. X"
       },
       "geometry": {
         "type": "Polygon",

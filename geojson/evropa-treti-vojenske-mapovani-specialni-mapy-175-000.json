@@ -21248,12 +21248,12 @@
       "properties": {
         "SHEET": "5277",
         "KOLONNE": "XXXV",
-        "TITLE": "Piatra",
-        "SCALE": "75000",
+        "TITLE": "Piatra Neamț",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Piatra",
-        "N651": "$$a",
+        "N651": "$$aPiatra Neamţ (Rumunsko : oblast)$$7ge856679",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXXV",
         "ZONE_COL": "Zone 18 Col. XXXV"
@@ -21893,15 +21893,15 @@
       "properties": {
         "SHEET": "5258",
         "KOLONNE": "XVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sümeg a Zalaegerszeg",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Sümeg und Zalaegerszeg",
+        "N651": "$$aSümeg (Maďarsko : oblast)|$$aZalaegerszeg (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XVI",
+        "ZONE_COL": "Zone 18 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -21934,17 +21934,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5259",
+        "SHEET": 5259,
         "KOLONNE": "XVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nagyvázsony a Badacsonytomaj",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nagy-Vázsony und Badacson-Tomaj",
+        "N651": "$$aNagyvázsony (Maďarsko : oblast)|$$aBadacsonytomaj (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XVII",
+        "ZONE_COL": "Zone 18 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -21977,17 +21977,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5260",
+        "SHEET": 5260,
         "KOLONNE": "XVIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Balatonfüred a Szabadhídvég",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Batalon-Füred und Város-Hidvég",
+        "N651": "$$aBalatonfüred (Maďarsko : oblast)|$$aSzabadhídvég (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XVIII",
+        "ZONE_COL": "Zone 18 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -22020,17 +22020,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5261",
+        "SHEET": 5261,
         "KOLONNE": "XIX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sárbogárd",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Sárbogárd",
+        "N651": "$$aSárbogárd (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XIX",
+        "ZONE_COL": "Zone 18 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -22063,17 +22063,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5262",
+        "SHEET": 5262,
         "KOLONNE": "XX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Dunaföldvár a Szabadszállás",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Duna-Földvár und Szabadszállás",
+        "N651": "$$aDunaföldvár (Maďarsko : oblast)|$$aSzabadszállás (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XX",
+        "ZONE_COL": "Zone 18 Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -22106,17 +22106,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5263",
+        "SHEET": 5263,
         "KOLONNE": "XXI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kecskemét",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Kecskemét",
+        "N651": "$$aKecskemét (Maďarsko : oblast)$$7ge856394",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XXI",
+        "ZONE_COL": "Zone 18 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -22149,17 +22149,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5264",
+        "SHEET": 5264,
         "KOLONNE": "XXII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Tiszainoka",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Tisza-Inoka",
+        "N651": "$$aTiszainoka (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XXII",
+        "ZONE_COL": "Zone 18 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -22192,17 +22192,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5265",
+        "SHEET": 5265,
         "KOLONNE": "XXIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Szarvas",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Szarvas",
+        "N651": "$$aSzarvas (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XXIII",
+        "ZONE_COL": "Zone 18 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -22235,17 +22235,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5266",
+        "SHEET": 5266,
         "KOLONNE": "XXIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Körösladány a Békés",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Kőrös-Ladány und Békés",
+        "N651": "$$aKörösladány (Maďarsko : oblast)|$$aBékés (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XXIV",
+        "ZONE_COL": "Zone 18 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -22278,17 +22278,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5267",
+        "SHEET": 5267,
         "KOLONNE": "XXV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Salonta",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(498)$2MRF",
+        "N245A": "Nagy Szalonta",
+        "N651": "$$aSalonta (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XXV",
+        "ZONE_COL": "Zone 18 Col. XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -22321,14 +22321,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5268",
+        "SHEET": 5268,
         "KOLONNE": "XXVI",
-        "TITLE": "Tenke und Kardó",
-        "SCALE": "75000",
+        "TITLE": "Tinca a Cordău",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Tenke und Kardó",
-        "N651": "$$a",
+        "N651": "$$aTinca (Rumunsko : oblast)|$$aCordău (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXVI",
         "ZONE_COL": "Zone 18 Col. XXVI"
@@ -22364,14 +22364,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5269",
+        "SHEET": 5269,
         "KOLONNE": "XXVII",
-        "TITLE": "Királyhágó und Biharrósa",
-        "SCALE": "75000",
+        "TITLE": "Bucea a Roșia",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Királyhágó und Biharrósa",
-        "N651": "$$a",
+        "N245A": "Bucsa und Rossia|Királyhágó und Biharrósa",
+        "N651": "$$aBucea (Rumunsko : oblast)|$$aRoșia (Rumunsko, Bihor : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXVII",
         "ZONE_COL": "Zone 18 Col. XXVII"
@@ -22407,14 +22407,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5270",
+        "SHEET": 5270,
         "KOLONNE": "XXVIII",
-        "TITLE": "Bánffy-Hunyad",
-        "SCALE": "75000",
+        "TITLE": "Huedin",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Bánffy-Hunyad",
-        "N651": "$$a",
+        "N651": "$$aHuedin (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXVIII",
         "ZONE_COL": "Zone 18 Col. XXVIII"
@@ -22450,14 +22450,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5271",
+        "SHEET": 5271,
         "KOLONNE": "XXIX",
-        "TITLE": "Kolozsvár (Klausenburg)",
-        "SCALE": "75000",
+        "TITLE": "Kluž",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Kolozsvár (Klausenburg)",
-        "N651": "$$a",
+        "N245A": "Klausenburg|Kolozsvár (Klausenburg)",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXIX",
         "ZONE_COL": "Zone 18 Col. XXIX"
@@ -22493,14 +22493,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5272",
+        "SHEET": 5272,
         "KOLONNE": "XXX",
-        "TITLE": "Szék a Mocs",
-        "SCALE": "75000",
+        "TITLE": "Sic a Mociu",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Szék a Mocs",
-        "N651": "$$a",
+        "N651": "$$aSic (Rumunsko : oblast)|$$aMociu (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXX",
         "ZONE_COL": "Zone 18 Col. XXX"
@@ -22536,14 +22536,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5273",
+        "SHEET": 5273,
         "KOLONNE": "XXXI",
-        "TITLE": "Szász-Régen",
-        "SCALE": "75000",
+        "TITLE": "Reghin",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Szász-Régen",
-        "N651": "$$a",
+        "N651": "$$aReghin (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXXI",
         "ZONE_COL": "Zone 18 Col. XXXI"
@@ -22579,14 +22579,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5274",
+        "SHEET": 5274,
         "KOLONNE": "XXXII",
-        "TITLE": "Görgényszentimre",
-        "SCALE": "75000",
+        "TITLE": "Gurghiu",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Görgényszentimre",
-        "N651": "$$a",
+        "N245A": "Görgény Szt. Imre|Görgényszentimre",
+        "N651": "$$aGurghiu (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXXII",
         "ZONE_COL": "Zone 18 Col. XXXII"
@@ -22622,14 +22622,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5275",
+        "SHEET": 5275,
         "KOLONNE": "XXXIII",
-        "TITLE": "Gyergyó-Ditró",
-        "SCALE": "75000",
+        "TITLE": "Toplița a Tulgheș",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Gyergyó-Ditró",
-        "N651": "$$a",
+        "N245A": "Oláh-Toplica und Tölgyes|[Gyergyó-Ditró]",
+        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)|$$aDitrău (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXXIII",
         "ZONE_COL": "Zone 18 Col. XXXIII"
@@ -22665,14 +22665,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5276",
+        "SHEET": 5276,
         "KOLONNE": "XXXIV",
-        "TITLE": "Gyergyóbékás",
-        "SCALE": "75000",
+        "TITLE": "Bicaz",
+        "SCALE": 75000,
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Gyergyóbékás",
-        "N651": "$$a",
+        "N245A": "Békás|[Gyergyóbékás]",
+        "N651": "$$aBicaz (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 18 Kol. XXXIV",
         "ZONE_COL": "Zone 18 Col. XXXIV"

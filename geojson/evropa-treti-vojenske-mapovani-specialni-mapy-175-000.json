@@ -18711,15 +18711,15 @@
       "properties": {
         "SHEET": "5053",
         "KOLONNE": "XI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sankt Johann am Tauern",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "St. Johann am Tauern",
+        "N651": "$$aSankt Johann am Tauern (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XI",
+        "ZONE_COL": "Zone 16 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -18752,17 +18752,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5054",
+        "SHEET": 5054,
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Leoben a Bruck an der Mur",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Leoben und Bruck a.d. Mur",
+        "N651": "$$aLeoben (Rakousko : oblast)|$$aBruck an der Mur (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XII",
+        "ZONE_COL": "Zone 16 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -18795,17 +18795,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5055",
+        "SHEET": 5055,
         "KOLONNE": "XIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Birkfeld",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Birkfeld",
+        "N651": "$$aBirkfeld (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XIII",
+        "ZONE_COL": "Zone 16 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -18838,17 +18838,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5056",
+        "SHEET": 5056,
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hartberg a Pinkafeld",
+        "SCALE": 75000,
+        "N43": "$$ae-au--- ",
+        "N80": "$$a913(436.4)$$2MRF|$$a913(436.3)$$2MRF",
+        "N245A": "Hartberg und Pinkafeld (Pinkafő)",
+        "N651": "$$aHartberg (Rakousko : oblast)$$7ge691258|$$aPinkafeld (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XIV",
+        "ZONE_COL": "Zone 16 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -18881,17 +18881,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5057",
+        "SHEET": 5057,
         "KOLONNE": "XV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Kőszeg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Güns",
+        "N651": "$$aKőszeg (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XV",
+        "ZONE_COL": "Zone 16 Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -18924,17 +18924,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5058",
+        "SHEET": 5058,
         "KOLONNE": "XVI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sárvár, Celldömölk a Beled",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Sárvár, Kis-Cell und Beled",
+        "N651": "$$aSárvár (Maďarsko : oblast)|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XVI",
+        "ZONE_COL": "Zone 16 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -18967,17 +18967,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5059",
+        "SHEET": 5059,
         "KOLONNE": "XVII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Pápa",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Pápa",
+        "N651": "$$aPápa (Maďarsko : oblast)$$7ge828935",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XVII",
+        "ZONE_COL": "Zone 16 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -19010,17 +19010,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5060",
+        "SHEET": 5060,
         "KOLONNE": "XVIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Mór a Zirc",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Moór und Zirc",
+        "N651": "$$aMór (Maďarsko : oblast)|$$aZirc (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XVIII",
+        "ZONE_COL": "Zone 16 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -19053,17 +19053,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5061",
+        "SHEET": 5061,
         "KOLONNE": "XIX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bicske a Martonvásár",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Bicske und Mártonvásár",
+        "N651": "$$aBicske (Maďarsko : oblast)|$$aMartonvásár (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XIX",
+        "ZONE_COL": "Zone 16 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -19096,17 +19096,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5062",
+        "SHEET": 5062,
         "KOLONNE": "XX",
         "TITLE": "",
-        "SCALE": "75000",
+        "SCALE": 75000,
         "N43": "$$ae-",
         "N80": "$$a913(4",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "16"
+        "ZONE_COL": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -19139,17 +19139,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5063",
+        "SHEET": 5063,
         "KOLONNE": "XXI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nagykáta a Monor",
+        "SCALE": 75000,
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nagy Káta und Monor",
+        "N651": "$$aNagykáta (Maďarsko : oblast)|$$aMonor (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "16"
+        "ZONE_KOL": "Zone 16 Kol. XXI",
+        "ZONE_COL": "Zone 16 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -19182,7 +19182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5064",
+        "SHEET": 5064,
         "KOLONNE": "XXII",
         "TITLE": "",
         "SCALE": "75000",

@@ -21291,15 +21291,15 @@
       "properties": {
         "SHEET": "5244",
         "KOLONNE": "II",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Pramen Illu",
+        "SCALE": 75000,
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "Ill Ursprung",
+        "N651": "$$aIll (řeka, pramen : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "II",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. II",
+        "ZONE_COL": "Zone 18 Col. II"
       },
       "geometry": {
         "type": "Polygon",
@@ -21334,15 +21334,15 @@
       "properties": {
         "SHEET": "5245",
         "KOLONNE": "III",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Nauders",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Nauders",
+        "N651": "$$aNauders (Rakousko : oblast)$$7ge552263",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. III",
+        "ZONE_COL": "Zone 18 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -21375,17 +21375,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5246",
+        "SHEET": 5246,
         "KOLONNE": "IV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Sölden a San Leonardo in Passiria",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "Sölden und Sct. Leonhard",
+        "N651": "$$aSölden (Rakousko : oblast)|$$aSan Leonardo in Passiria (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. IV",
+        "ZONE_COL": "Zone 18 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -21418,17 +21418,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5247",
+        "SHEET": 5247,
         "KOLONNE": "V",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Vipiteno a Fortezza",
+        "SCALE": 75000,
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Sterzing und Franzensfeste",
+        "N651": "$$aVipiteno (Itálie : oblast)|$$aFortezza (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. V",
+        "ZONE_COL": "Zone 18 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -21461,17 +21461,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5248",
+        "SHEET": 5248,
         "KOLONNE": "VI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Bruneck",
+        "SCALE": 75000,
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Bruneck",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. VI",
+        "ZONE_COL": "Zone 18 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -21504,17 +21504,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5249",
+        "SHEET": 5249,
         "KOLONNE": "VII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Lienz",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "Lienz",
+        "N651": "$$aLienz (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. VII",
+        "ZONE_COL": "Zone 18 Col. VII"
       },
       "geometry": {
         "type": "Polygon",
@@ -21547,17 +21547,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5250",
+        "SHEET": 5250,
         "KOLONNE": "VIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Mölltal",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "Möll Thal",
+        "N651": "$$aMölltal (Rakousko : údolí)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. VIII",
+        "ZONE_COL": "Zone 18 Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -21590,17 +21590,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5251",
+        "SHEET": 5251,
         "KOLONNE": "IX",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gmünd a Spittal an der Drau",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "Gmünd und Spital",
+        "N651": "$$aGmünd (Rakousko, Korutany : oblast)|$$aSpittal an der Drau (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. IX",
+        "ZONE_COL": "Zone 18 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -21633,17 +21633,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5252",
+        "SHEET": 5252,
         "KOLONNE": "X",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gurktal",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "Gurk-Thal",
+        "N651": "$$aGurktal (Rakousko : údolí)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. X",
+        "ZONE_COL": "Zone 18 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -21676,17 +21676,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5253",
+        "SHEET": 5253,
         "KOLONNE": "XI",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Hüttenberg a Eberstein",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "Hüttenberg und Eberstein",
+        "N651": "$$aHüttenberg (Rakousko : oblast)|$$aEberstein (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XI",
+        "ZONE_COL": "Zone 18 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -21719,17 +21719,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5254",
+        "SHEET": 5254,
         "KOLONNE": "XII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Deutschlandsberg a Wolfsberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(436.4)$$2MRF",
+        "N245A": "D. Landsberg und Wolfsberg",
+        "N651": "$$aDeutschlandsberg (Rakousko : oblast)|$$aWolfsberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XII",
+        "ZONE_COL": "Zone 18 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -21762,17 +21762,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5255",
+        "SHEET": 5255,
         "KOLONNE": "XIII",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Wildon a Leibnitz",
+        "SCALE": 75000,
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Wildon und Leibnitz",
+        "N651": "$$aWildon (Rakousko : oblast)|$$aLeibnitz (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XIII",
+        "ZONE_COL": "Zone 18 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -21805,17 +21805,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5256",
+        "SHEET": 5256,
         "KOLONNE": "XIV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Gleichenberg",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-hu---$$ae-xv---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "Gleichenberg",
+        "N651": "$$aGleichenberg (Rakousko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XIV",
+        "ZONE_COL": "Zone 18 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -21848,17 +21848,17 @@
     {
       "type": "Feature",
       "properties": {
-        "SHEET": "5257",
+        "SHEET": 5257,
         "KOLONNE": "XV",
-        "TITLE": "",
-        "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "TITLE": "Csákánydoroszló a Zalalövő",
+        "SCALE": 75000,
+        "N43": "$$ae-au---$$ae-hu---$$ae-xv---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Csákány und Zala-Lövő",
+        "N651": "$$aCsákánydoroszló (Maďarsko : oblast)|$$aZalalövő (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "18"
+        "ZONE_KOL": "Zone 18 Kol. XV",
+        "ZONE_COL": "Zone 18 Col. XV"
       },
       "geometry": {
         "type": "Polygon",

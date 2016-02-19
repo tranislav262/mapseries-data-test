@@ -22796,15 +22796,15 @@
       "properties": {
         "SHEET": "5345",
         "KOLONNE": "III",
-        "TITLE": "",
+        "TITLE": "Glorenza",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Glurns und Ortler-Spitze",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "19"
+        "ZONE_KOL": "Zone 19 Kol. III",
+        "ZONE_COL": "Zone 19 Col. III"
       },
       "geometry": {
         "type": "Polygon",

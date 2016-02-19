@@ -24172,12 +24172,12 @@
       "properties": {
         "SHEET": "5477",
         "KOLONNE": "XXXV",
-        "TITLE": "Tirgul-Ocna",
+        "TITLE": "Târgu Ocna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Tirgul-Ocna",
-        "N651": "$$a",
+        "N245A": "[Tirgul-Ocna]",
+        "N651": "$$aTârgu Ocna (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 20 Kol. XXXV",
         "ZONE_COL": "Zone 20 Col. XXXV"
@@ -24480,8 +24480,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "",
-        "ZONE_COL": ""
+        "ZONE_KOL": "VII",
+        "ZONE_COL": "20"
       },
       "geometry": {
         "type": "Polygon",
@@ -24523,8 +24523,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "",
-        "ZONE_COL": ""
+        "ZONE_KOL": "VIII",
+        "ZONE_COL": "20"
       },
       "geometry": {
         "type": "Polygon",
@@ -25505,12 +25505,12 @@
       "properties": {
         "SHEET": "5473",
         "KOLONNE": "XXXI",
-        "TITLE": "Nayárádtő und Nagy-Kend",
+        "TITLE": "Ungheni a Chendu",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Nayárádtő und Nagy-Kend",
-        "N651": "$$a",
+        "N245A": "Nayárádtő und Nagy-Kend|Nayárádtő und Nagy Kend",
+        "N651": "$$aUngheni (Mureș, Rumunsko : oblast)|Chendu (Mureș, Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 20 Kol. XXXI",
         "ZONE_COL": "Zone 20 Col. XXXI"
@@ -25548,12 +25548,12 @@
       "properties": {
         "SHEET": "5474",
         "KOLONNE": "XXXII",
-        "TITLE": "Székely-Udvarhely",
+        "TITLE": "Odorheiu Secuiesc",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Székely-Udvarhely",
-        "N651": "$$a",
+        "N651": "$$aOdorheiu Secuiesc (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 20 Kol. XXXII",
         "ZONE_COL": "Zone 20 Col. XXXII"
@@ -25591,12 +25591,12 @@
       "properties": {
         "SHEET": "5475",
         "KOLONNE": "XXXIII",
-        "TITLE": "Csik-Szereda",
+        "TITLE": "Vlăhița a Miercurea Ciuc",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Csik-Szereda",
-        "N651": "$$a",
+        "N245A": "Oláhfalu und Csik-Szereda|Csik-Szereda",
+        "N651": "$$aVlăhița (Rumunsko : oblast)|$$aMiercurea Ciuc (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 20 Kol. XXXIII",
         "ZONE_COL": "Zone 20 Col. XXXIII"
@@ -25634,12 +25634,12 @@
       "properties": {
         "SHEET": "5476",
         "KOLONNE": "XXXIV",
-        "TITLE": "Csik-Ménaság",
+        "TITLE": "Armășeni",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Csik-Ménaság",
-        "N651": "$$a",
+        "N651": "$$aArmășeni (Harghita, Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 20 Kol. XXXIV",
         "ZONE_COL": "Zone 20 Col. XXXIV"
@@ -25677,7 +25677,7 @@
       "properties": {
         "SHEET": "5577",
         "KOLONNE": "XXXV",
-        "TITLE": "Ojtoz Pasz",
+        "TITLE": "",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",

@@ -22839,15 +22839,15 @@
       "properties": {
         "SHEET": "5346",
         "KOLONNE": "IV",
-        "TITLE": "",
+        "TITLE": "Merano",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Meran",
+        "N651": "$$aMerano (Itálie : oblast)$$7ge646205",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "19"
+        "ZONE_KOL": "Zone 19 Kol. IV",
+        "ZONE_COL": "Zone 19 Col. IV"
       },
       "geometry": {
         "type": "Polygon",

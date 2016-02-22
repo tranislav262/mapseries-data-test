@@ -27311,15 +27311,15 @@
       "properties": {
         "SHEET": "5645",
         "KOLONNE": "III",
-        "TITLE": "",
+        "TITLE": "Storo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Storo",
+        "N651": "$$aStoro (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. III",
+        "ZONE_COL": "Zone 22 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -27354,15 +27354,15 @@
       "properties": {
         "SHEET": "5646",
         "KOLONNE": "IV",
-        "TITLE": "",
+        "TITLE": "Roverta a Riva del Garda",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Roverto und Riva",
+        "N651": "$$aRoverto (Itálie : oblast)|$$aRiva dal Garda (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. IV",
+        "ZONE_COL": "Zone 22 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -27397,15 +27397,15 @@
       "properties": {
         "SHEET": "5647",
         "KOLONNE": "V",
-        "TITLE": "",
+        "TITLE": "Sette Comuni",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Sette Comuni",
+        "N651": "$$aSette Comuni (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. V",
+        "ZONE_COL": "Zone 22 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -27442,8 +27442,8 @@
         "KOLONNE": "VI",
         "TITLE": "",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
@@ -27526,15 +27526,15 @@
       "properties": {
         "SHEET": "5650",
         "KOLONNE": "VIII",
-        "TITLE": "",
+        "TITLE": "Strassoldo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Strassoldo bei Palmanova",
+        "N651": "$$aStrassoldo (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. VIII",
+        "ZONE_COL": "Zone Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27569,15 +27569,15 @@
       "properties": {
         "SHEET": "5651",
         "KOLONNE": "IX",
-        "TITLE": "",
+        "TITLE": "Gorice a Gradiška",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---$$ae-xv---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Görz und Gradisca",
+        "N651": "$$aGorizia (Itálie : oblast)|$$aGradisca d’Isonzo (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. IX",
+        "ZONE_COL": "Zone Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -27612,15 +27612,15 @@
       "properties": {
         "SHEET": "5652",
         "KOLONNE": "X",
-        "TITLE": "",
+        "TITLE": "Ajdovščina a Postojna",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Haidenschaft und Adelsberg",
+        "N651": "$$aAjdovščina (Slovinsko : oblast)|$$aPostojna (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. X",
+        "ZONE_COL": "Zone Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -27655,15 +27655,15 @@
       "properties": {
         "SHEET": "5653",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Višnja Gora a Cerknica",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Weixelburg und Zikrnitz",
+        "N651": "$$aVišnja Gora (Slovinsko : oblast)|$$aCerknica (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XI",
+        "ZONE_COL": "Zone Col. XI"
       },
       "geometry": {
         "type": "Polygon",

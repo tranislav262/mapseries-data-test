@@ -27182,12 +27182,12 @@
       "properties": {
         "SHEET": "5677",
         "KOLONNE": "XXXV",
-        "TITLE": "Putna-Patak",
+        "TITLE": "Putna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Putna-Patak",
-        "N651": "",
+        "N651": "$$aPutna (Rumunsko : potok : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXV",
         "ZONE_COL": "Zone 22 Col. XXXV"
@@ -28472,12 +28472,12 @@
       "properties": {
         "SHEET": "5672",
         "KOLONNE": "XXX",
-        "TITLE": "Nagyszeben (Hermannstadt)",
+        "TITLE": "Sibiu",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Nagyszeben (Hermannstadt)",
-        "N651": "$$a",
+        "N245A": "Nagyszeben (Hermannstadt)|Hermannstadt",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXX",
         "ZONE_COL": "Zone 22 Col. XXX"
@@ -28515,12 +28515,12 @@
       "properties": {
         "SHEET": "5673",
         "KOLONNE": "XXXI",
-        "TITLE": "Ujegyház (Leschkirch)",
+        "TITLE": "Nocrich",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Ujegyház (Leschkirch)",
-        "N651": "$$a",
+        "N245A": "Ujegyház (Leschkirch)|Leschkirch",
+        "N651": "$$aNocrich (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXI",
         "ZONE_COL": "Zone 22 Col. XXXI"
@@ -28558,12 +28558,12 @@
       "properties": {
         "SHEET": "5674",
         "KOLONNE": "XXXII",
-        "TITLE": "Fogaras",
+        "TITLE": "Făgăraș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Fogaras",
-        "N651": "$$a",
+        "N651": "$$aFăgăraș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXII",
         "ZONE_COL": "Zone 22 Col. XXXII"
@@ -28601,12 +28601,12 @@
       "properties": {
         "SHEET": "5675",
         "KOLONNE": "XXXIII",
-        "TITLE": "Földvár",
+        "TITLE": "Feldioara",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Földvár",
-        "N651": "$$a",
+        "N245A": "Földvár|Marienburg",
+        "N651": "$$aFeldioara (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXIII",
         "ZONE_COL": "Zone 22 Col. XXXIII"
@@ -28644,12 +28644,12 @@
       "properties": {
         "SHEET": "5676",
         "KOLONNE": "XXXIV",
-        "TITLE": "Kovászna",
+        "TITLE": "Covasna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Kovászna",
-        "N651": "$$a",
+        "N651": "$$aCovaszna (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXIV",
         "ZONE_COL": "Zone 22 Col. XXXIV"

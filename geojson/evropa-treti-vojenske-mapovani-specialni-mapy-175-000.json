@@ -29762,12 +29762,12 @@
       "properties": {
         "SHEET": "5767",
         "KOLONNE": "XXV",
-        "TITLE": "Buziásfürdő",
+        "TITLE": "Buziaș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Buziásfürdő",
-        "N651": "$$a",
+        "N651": "$$aBuziaș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXV",
         "ZONE_COL": "Zone 23 Col. XXV"
@@ -29805,12 +29805,12 @@
       "properties": {
         "SHEET": "5768",
         "KOLONNE": "XXVI",
-        "TITLE": "Lugos",
+        "TITLE": "Lugoj",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lugos",
-        "N651": "$$a",
+        "N651": "$$a Lugoj (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVI",
         "ZONE_COL": "Zone 23 Col. XXVI"
@@ -29848,12 +29848,12 @@
       "properties": {
         "SHEET": "5769",
         "KOLONNE": "XXVII",
-        "TITLE": "Ruszkabánya",
+        "TITLE": "Rusca Montană",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Ruszkabánya",
-        "N651": "$$a",
+        "N651": "$$aRusca Montană (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVII",
         "ZONE_COL": "Zone 23 Col. XXVII"
@@ -29891,12 +29891,12 @@
       "properties": {
         "SHEET": "5770",
         "KOLONNE": "XXVIII",
-        "TITLE": "Hátszeg",
+        "TITLE": "Hațeg",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Hátszeg",
-        "N651": "$$a",
+        "N651": "$$aHațeg (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVIII",
         "ZONE_COL": "Zone 23 Col. XXVIII"
@@ -29934,12 +29934,12 @@
       "properties": {
         "SHEET": "5771",
         "KOLONNE": "XXIX",
-        "TITLE": "Rîul Sebeş",
+        "TITLE": "Sebeș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Rîul Sebeş",
-        "N651": "$$a",
+        "N651": "$$aSebeș (Rumunsko : řeka : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXIX",
         "ZONE_COL": "Zone 23 Col. XXIX"
@@ -29977,12 +29977,12 @@
       "properties": {
         "SHEET": "5772",
         "KOLONNE": "XXX",
-        "TITLE": "Verestorony (Rothenthurm-Pasz)",
+        "TITLE": "Turnu Roșu",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Verestorony (Rothenthurm-Pasz)",
-        "N651": "$$a",
+        "N651": "$$aTurnu Roșu (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXX",
         "ZONE_COL": "Zone 23 Col. XXX"
@@ -30025,7 +30025,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Felek (Freck)",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXI",
         "ZONE_COL": "Zone 23 Col. XXXI"
@@ -30068,7 +30068,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lisza und Zernest",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXII",
         "ZONE_COL": "Zone 23 Col. XXXII"
@@ -30111,7 +30111,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Brassó (Kronstadt)",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXIII",
         "ZONE_COL": "Zone 23 Col. XXXIII"
@@ -30154,7 +30154,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Magyarbodza",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXIV",
         "ZONE_COL": "Zone 23 Col. XXXIV"

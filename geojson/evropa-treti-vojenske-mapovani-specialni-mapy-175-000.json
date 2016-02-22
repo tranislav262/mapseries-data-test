@@ -27698,15 +27698,15 @@
       "properties": {
         "SHEET": "5654",
         "KOLONNE": "XII",
-        "TITLE": "",
+        "TITLE": "Novo mesto",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Rudolfswerth",
+        "N651": "$$aNovo Mesto (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XII",
+        "ZONE_COL": "Zone Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27741,15 +27741,15 @@
       "properties": {
         "SHEET": "5655",
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Krško, Brežice a Samobor",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Gurkfeld, Rann und Samobor",
+        "N651": "$$aKrško (Slovinsko : oblast)|$$aBrežice (Slovinsko : oblast)|$$aSamobor (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XIII",
+        "ZONE_COL": "Zone Col. XIII"
       },
       "geometry": {
         "type": "Polygon",

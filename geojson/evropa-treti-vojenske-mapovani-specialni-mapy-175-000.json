@@ -25849,15 +25849,15 @@
       "properties": {
         "SHEET": "5546",
         "KOLONNE": "IV",
-        "TITLE": "",
+        "TITLE": "Trident",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Trient",
+        "N651": "$$aTrident (Itálie : oblast)$$7ge856350",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. IV",
+        "ZONE_COL": "Zone 21 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -25892,15 +25892,15 @@
       "properties": {
         "SHEET": "5547",
         "KOLONNE": "V",
-        "TITLE": "",
+        "TITLE": "Borgo Valsugana a Fiera di Primiero",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Borgo und Fiera di Primiero",
+        "N651": "$$aBorgo Valsugana (Itálie : oblast)|$$aFiera di Primiero (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. V",
+        "ZONE_COL": "Zone 21 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -25935,15 +25935,15 @@
       "properties": {
         "SHEET": "5548",
         "KOLONNE": "VI",
-        "TITLE": "",
+        "TITLE": "Belluno a Feltre",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Belluno und Feltre",
+        "N651": "$$aBelluno (Itálie : oblast)|$$aFeltre (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. VI",
+        "ZONE_COL": "Zone 21 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -25983,7 +25983,7 @@
         "N43": "$$ae-",
         "N80": "$$a913(4",
         "N245A": "",
-        "N651": "$$a",
+        "N651": "",
         "POZNAMKA": "",
         "ZONE_KOL": "VII",
         "ZONE_COL": "21"
@@ -26064,15 +26064,15 @@
       "properties": {
         "SHEET": "5551",
         "KOLONNE": "IX",
-        "TITLE": "",
+        "TITLE": "Tolmin",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Tolmein",
+        "N651": "$$aTolmin (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. IX",
+        "ZONE_COL": "Zone 21 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -26107,15 +26107,15 @@
       "properties": {
         "SHEET": "5552",
         "KOLONNE": "X",
-        "TITLE": "",
+        "TITLE": "Škofja Loka a Idrija",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Bischof Lack und Oberidria",
+        "N651": "$$aŠkofja Loka (Slovinsko : oblast)|$$aIdrija (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. X",
+        "ZONE_COL": "Zone 21 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -26150,15 +26150,15 @@
       "properties": {
         "SHEET": "5553",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Lublaň",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Laibach",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XI",
+        "ZONE_COL": "Zone 21 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -26193,15 +26193,15 @@
       "properties": {
         "SHEET": "5554",
         "KOLONNE": "XII",
-        "TITLE": "",
+        "TITLE": "Celje a Radeče",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Cilli und Ratschach",
+        "N651": "$$aCelje (Slovinsko : oblast)$$7ge856361|$$aRadeče (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XII",
+        "ZONE_COL": "Zone 21 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26243,8 +26243,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XIII",
+        "ZONE_COL": "Zone 21 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",

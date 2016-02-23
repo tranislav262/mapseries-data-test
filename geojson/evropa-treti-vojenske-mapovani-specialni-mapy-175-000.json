@@ -25677,12 +25677,12 @@
       "properties": {
         "SHEET": "5577",
         "KOLONNE": "XXXV",
-        "TITLE": "",
+        "TITLE": "Průsmyk Oitoz",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Ojtoz Pasz",
-        "N651": "$$a",
+        "N245A": "Ojtoz Pasz|Oitoz Pass",
+        "N651": "$$aOituz (Rumunsko : průsmyk : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXXV",
         "ZONE_COL": "Zone 21 Col. XXXV"
@@ -25849,15 +25849,15 @@
       "properties": {
         "SHEET": "5546",
         "KOLONNE": "IV",
-        "TITLE": "",
+        "TITLE": "Trident",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Trient",
+        "N651": "$$aTrident (Itálie : oblast)$$7ge856350",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. IV",
+        "ZONE_COL": "Zone 21 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -25892,15 +25892,15 @@
       "properties": {
         "SHEET": "5547",
         "KOLONNE": "V",
-        "TITLE": "",
+        "TITLE": "Borgo Valsugana a Fiera di Primiero",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Borgo und Fiera di Primiero",
+        "N651": "$$aBorgo Valsugana (Itálie : oblast)|$$aFiera di Primiero (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. V",
+        "ZONE_COL": "Zone 21 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -25935,15 +25935,15 @@
       "properties": {
         "SHEET": "5548",
         "KOLONNE": "VI",
-        "TITLE": "",
+        "TITLE": "Belluno a Feltre",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Belluno und Feltre",
+        "N651": "$$aBelluno (Itálie : oblast)|$$aFeltre (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VI",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. VI",
+        "ZONE_COL": "Zone 21 Col. VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -25983,7 +25983,7 @@
         "N43": "$$ae-",
         "N80": "$$a913(4",
         "N245A": "",
-        "N651": "$$a",
+        "N651": "",
         "POZNAMKA": "",
         "ZONE_KOL": "VII",
         "ZONE_COL": "21"
@@ -26064,15 +26064,15 @@
       "properties": {
         "SHEET": "5551",
         "KOLONNE": "IX",
-        "TITLE": "",
+        "TITLE": "Tolmin",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Tolmein",
+        "N651": "$$aTolmin (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. IX",
+        "ZONE_COL": "Zone 21 Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -26107,15 +26107,15 @@
       "properties": {
         "SHEET": "5552",
         "KOLONNE": "X",
-        "TITLE": "",
+        "TITLE": "Škofja Loka a Idrija",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Bischof Lack und Oberidria",
+        "N651": "$$aŠkofja Loka (Slovinsko : oblast)|$$aIdrija (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. X",
+        "ZONE_COL": "Zone 21 Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -26150,15 +26150,15 @@
       "properties": {
         "SHEET": "5553",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Lublaň",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Laibach",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XI",
+        "ZONE_COL": "Zone 21 Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -26193,15 +26193,15 @@
       "properties": {
         "SHEET": "5554",
         "KOLONNE": "XII",
-        "TITLE": "",
+        "TITLE": "Celje a Radeče",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Cilli und Ratschach",
+        "N651": "$$aCelje (Slovinsko : oblast)$$7ge856361|$$aRadeče (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XII",
+        "ZONE_COL": "Zone 21 Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26236,15 +26236,15 @@
       "properties": {
         "SHEET": "5555",
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Rogaška Slatina a Kozlja",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Rohitsch und Drachenburg",
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)|$$aKozlje (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XIII",
+        "ZONE_COL": "Zone 21 Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26279,15 +26279,15 @@
       "properties": {
         "SHEET": "5556",
         "KOLONNE": "XIV",
-        "TITLE": "",
+        "TITLE": "Krapina a Zlatar",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Krapina und Zlatar",
+        "N651": "$$aKrapina (Chorvatsko : oblast)|$$aZlatar (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XIV",
+        "ZONE_COL": "Zone 21 Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -26322,15 +26322,15 @@
       "properties": {
         "SHEET": "5557",
         "KOLONNE": "XV",
-        "TITLE": "",
+        "TITLE": "Koprivnica a Križevci",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Kopreinitz und Kreuz",
+        "N651": "$$aKoprivnica (Chorvatsko : oblast)|$$aKriževci (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XV",
+        "ZONE_COL": "Zone 21 Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -26365,15 +26365,15 @@
       "properties": {
         "SHEET": "5558",
         "KOLONNE": "XVI",
-        "TITLE": "",
+        "TITLE": "Berzence a Đurđevac",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Berzence und St. Georgen",
+        "N651": "$$aBerzence (Maďarsko : oblast)|$$aĐurđevac (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XVI",
+        "ZONE_COL": "Zone 21 Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -26408,15 +26408,15 @@
       "properties": {
         "SHEET": "5559",
         "KOLONNE": "XVII",
-        "TITLE": "",
+        "TITLE": "Nagyatád a Szigetvár",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Nagy-Atád und Szigetvár",
+        "N651": "$$aNagyatád (Maďarsko : oblast)|$$aSzigetvár (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XVII",
+        "ZONE_COL": "Zone 21 Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26451,15 +26451,15 @@
       "properties": {
         "SHEET": "5560",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Pécs",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Fünfkirchen",
+        "N651": "$$aPécs (Maďarsko : oblast)$$7ge856379",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XVIII",
+        "ZONE_COL": "Zone 21 Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26494,15 +26494,15 @@
       "properties": {
         "SHEET": "5561",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Bátaszék a Pécsvárad",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Báttaszék und Pécsvárad",
+        "N651": "$$aBátaszék (Maďarsko : oblast)|$$aPécsvárad (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XIX",
+        "ZONE_COL": "Zone 21 Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -26537,15 +26537,15 @@
       "properties": {
         "SHEET": "5563",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Baja",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-rb---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Baja",
+        "N651": "$$aBaja (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XX",
+        "ZONE_COL": "Zone 21 Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -26580,15 +26580,15 @@
       "properties": {
         "SHEET": "5563",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Subotica",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Maria-Theresiopel",
+        "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XXI",
+        "ZONE_COL": "Zone 21 Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -26623,15 +26623,15 @@
       "properties": {
         "SHEET": "5564",
         "KOLONNE": "XXII",
-        "TITLE": "",
+        "TITLE": "Novi Kneževac",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Török-Kanizsa",
+        "N651": "$$aNovi Kneževac (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XXII",
+        "ZONE_COL": "Zone 21 Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26666,15 +26666,15 @@
       "properties": {
         "SHEET": "5565",
         "KOLONNE": "XXIII",
-        "TITLE": "",
+        "TITLE": "Makó a Sânnicolau Mare",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Makó und Nagy-Szt. Miklós",
+        "N651": "$$aMakó (Maďarsko : oblast)|$$aSânnicolau Mare (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XXIII",
+        "ZONE_COL": "Zone 21 Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -26709,15 +26709,15 @@
       "properties": {
         "SHEET": "5566",
         "KOLONNE": "XXIV",
-        "TITLE": "",
+        "TITLE": "Arad a Periam",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rm---$$ae-hu---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Alt Arad und Perjámos",
+        "N651": "$$aArad (Maďarsko : oblast)|$$aPeriamos (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "21"
+        "ZONE_KOL": "Zone 21 Kol. XXIV",
+        "ZONE_COL": "Zone 21 Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -26752,12 +26752,12 @@
       "properties": {
         "SHEET": "5567",
         "KOLONNE": "XXV",
-        "TITLE": "Lippa",
+        "TITLE": "Lipova",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lippa",
-        "N651": "$$a",
+        "N651": "$$aLipova (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXV",
         "ZONE_COL": "Zone 21 Col. XXV"
@@ -26795,12 +26795,12 @@
       "properties": {
         "SHEET": "5568",
         "KOLONNE": "XXVI",
-        "TITLE": "Zarándnádás und Soborsin",
+        "TITLE": "Nadăș a Săvârșin",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Zarándnádás und Soborsin",
-        "N651": "$$a",
+        "N245A": "Zarándnádás und Soborsin|Nádas und Soborsin",
+        "N651": "$$aNadăș (Rumunsko : oblast)|$$aSăvârșin (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXVI",
         "ZONE_COL": "Zone 21 Col. XXVI"
@@ -26838,12 +26838,12 @@
       "properties": {
         "SHEET": "5569",
         "KOLONNE": "XXVII",
-        "TITLE": "Körösbánya",
+        "TITLE": "Baia de Criș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Körösbánya",
-        "N651": "$$a",
+        "N651": "$$aBaia de Criș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXVII",
         "ZONE_COL": "Zone 21 Col. XXVII"
@@ -26881,12 +26881,12 @@
       "properties": {
         "SHEET": "5570",
         "KOLONNE": "XXVIII",
-        "TITLE": "Zalatna",
+        "TITLE": "Zlatna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Zalatna",
-        "N651": "$$a",
+        "N651": "$$aZlatna (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXVIII",
         "ZONE_COL": "Zone 21 Col. XXVIII"
@@ -26924,12 +26924,12 @@
       "properties": {
         "SHEET": "5571",
         "KOLONNE": "XXIX",
-        "TITLE": "Gyulafehérvár (Karlsburg)",
+        "TITLE": "Alba Iulia",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Gyulafehérvár (Karlsburg)",
-        "N651": "$$a",
+        "N245A": "Gyulafehérvár (Karlsburg)|Karlsburg",
+        "N651": "$$aAlba Iulia (Rumunsko : oblast)$$7ge856441",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXIX",
         "ZONE_COL": "Zone 21 Col. XXIX"
@@ -26967,12 +26967,12 @@
       "properties": {
         "SHEET": "5572",
         "KOLONNE": "XXX",
-        "TITLE": "Balázsfalva (Blasendorf)",
+        "TITLE": "Blaj",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Balázsfalva (Blasendorf)",
-        "N651": "$$a",
+        "N245A": "Balázsfalva (Blasendorf)|Blasendorf",
+        "N651": "$$aBlaj (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXX",
         "ZONE_COL": "Zone 21 Col. XXX"
@@ -27010,12 +27010,12 @@
       "properties": {
         "SHEET": "5573",
         "KOLONNE": "XXXI",
-        "TITLE": "Erzsébetváros (Elisabethstadt)",
+        "TITLE": "Dumbrăveni",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Erzsébetváros (Elisabethstadt)",
-        "N651": "$$a",
+        "N245A": "Erzsébetváros (Elisabethstadt)|Elisabethstadt",
+        "N651": "$$aDumbrăveni (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXXI",
         "ZONE_COL": "Zone 21 Col. XXXI"
@@ -27053,12 +27053,12 @@
       "properties": {
         "SHEET": "5574",
         "KOLONNE": "XXXII",
-        "TITLE": "Bene (Meburg)",
+        "TITLE": "Beia",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Bene (Meburg)",
-        "N651": "$$a",
+        "N245A": "Bene (Meburg)|Mehburg",
+        "N651": "$$aBeia (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXXII",
         "ZONE_COL": "Zone 21 Col. XXXII"
@@ -27096,12 +27096,12 @@
       "properties": {
         "SHEET": "5575",
         "KOLONNE": "XXXIII",
-        "TITLE": "Barót",
+        "TITLE": "Baraolt",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Barót",
-        "N651": "$$a",
+        "N651": "$$aBaraolt (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXXIII",
         "ZONE_COL": "Zone 21 Col. XXXIII"
@@ -27139,12 +27139,12 @@
       "properties": {
         "SHEET": "5576",
         "KOLONNE": "XXXIV",
-        "TITLE": "Kézdivásárhely",
+        "TITLE": "Cozmeni a Poian",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Kézdivásárhely",
-        "N651": "$$a",
+        "N245A": "[Kézdivásárhely]|Kozmás und Polyán",
+        "N651": "$$aCozmeni (Rumunsko : oblast)|$$aPoian (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 21 Kol. XXXIV",
         "ZONE_COL": "Zone 21 Col. XXXIV"
@@ -27182,12 +27182,12 @@
       "properties": {
         "SHEET": "5677",
         "KOLONNE": "XXXV",
-        "TITLE": "Putna-Patak",
+        "TITLE": "Putna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Putna-Patak",
-        "N651": "$$a",
+        "N651": "$$aPutna (Rumunsko : potok : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXV",
         "ZONE_COL": "Zone 22 Col. XXXV"
@@ -27311,15 +27311,15 @@
       "properties": {
         "SHEET": "5645",
         "KOLONNE": "III",
-        "TITLE": "",
+        "TITLE": "Storo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Storo",
+        "N651": "$$aStoro (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "III",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. III",
+        "ZONE_COL": "Zone 22 Col. III"
       },
       "geometry": {
         "type": "Polygon",
@@ -27354,15 +27354,15 @@
       "properties": {
         "SHEET": "5646",
         "KOLONNE": "IV",
-        "TITLE": "",
+        "TITLE": "Roverta a Riva del Garda",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Roverto und Riva",
+        "N651": "$$aRoverto (Itálie : oblast)|$$aRiva dal Garda (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IV",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. IV",
+        "ZONE_COL": "Zone 22 Col. IV"
       },
       "geometry": {
         "type": "Polygon",
@@ -27397,15 +27397,15 @@
       "properties": {
         "SHEET": "5647",
         "KOLONNE": "V",
-        "TITLE": "",
+        "TITLE": "Sette Comuni",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Sette Comuni",
+        "N651": "$$aSette Comuni (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "V",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. V",
+        "ZONE_COL": "Zone 22 Col. V"
       },
       "geometry": {
         "type": "Polygon",
@@ -27442,8 +27442,8 @@
         "KOLONNE": "VI",
         "TITLE": "",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
@@ -27526,15 +27526,15 @@
       "properties": {
         "SHEET": "5650",
         "KOLONNE": "VIII",
-        "TITLE": "",
+        "TITLE": "Strassoldo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Strassoldo bei Palmanova",
+        "N651": "$$aStrassoldo (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "VIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. VIII",
+        "ZONE_COL": "Zone Col. VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27569,15 +27569,15 @@
       "properties": {
         "SHEET": "5651",
         "KOLONNE": "IX",
-        "TITLE": "",
+        "TITLE": "Gorice a Gradiška",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-it---$$ae-xv---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Görz und Gradisca",
+        "N651": "$$aGorizia (Itálie : oblast)|$$aGradisca d’Isonzo (Itálie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. IX",
+        "ZONE_COL": "Zone Col. IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -27612,15 +27612,15 @@
       "properties": {
         "SHEET": "5652",
         "KOLONNE": "X",
-        "TITLE": "",
+        "TITLE": "Ajdovščina a Postojna",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Haidenschaft und Adelsberg",
+        "N651": "$$aAjdovščina (Slovinsko : oblast)|$$aPostojna (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. X",
+        "ZONE_COL": "Zone Col. X"
       },
       "geometry": {
         "type": "Polygon",
@@ -27655,15 +27655,15 @@
       "properties": {
         "SHEET": "5653",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Višnja Gora a Cerknica",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Weixelburg und Zikrnitz",
+        "N651": "$$aVišnja Gora (Slovinsko : oblast)|$$aCerknica (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XI",
+        "ZONE_COL": "Zone Col. XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -27698,15 +27698,15 @@
       "properties": {
         "SHEET": "5654",
         "KOLONNE": "XII",
-        "TITLE": "",
+        "TITLE": "Novo mesto",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(497.4)$$2MRF",
+        "N245A": "Rudolfswerth",
+        "N651": "$$aNovo Mesto (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XII",
+        "ZONE_COL": "Zone Col. XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27741,15 +27741,15 @@
       "properties": {
         "SHEET": "5655",
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Krško, Brežice a Samobor",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Gurkfeld, Rann und Samobor",
+        "N651": "$$aKrško (Slovinsko : oblast)|$$aBrežice (Slovinsko : oblast)|$$aSamobor (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XIII",
+        "ZONE_COL": "Zone Col. XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27784,15 +27784,15 @@
       "properties": {
         "SHEET": "5656",
         "KOLONNE": "XIV",
-        "TITLE": "",
+        "TITLE": "Záhřeb",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Agram",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XIV",
+        "ZONE_COL": "Zone Col. XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -27827,15 +27827,15 @@
       "properties": {
         "SHEET": "5657",
         "KOLONNE": "XV",
-        "TITLE": "",
+        "TITLE": "Dubrava a Gradec",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Dubrava und Gradec",
+        "N651": "$$aDubrava (Chorvatsko : oblast)|$$aGradec (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XV",
+        "ZONE_COL": "Zone Col. XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -27870,15 +27870,15 @@
       "properties": {
         "SHEET": "5658",
         "KOLONNE": "XVI",
-        "TITLE": "",
+        "TITLE": "Bjelovar a Veliki Grđevac",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Belovar und Grdjevac Veliki",
+        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aVeliki Grđevac (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XVI",
+        "ZONE_COL": "Zone Col. XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -27913,15 +27913,15 @@
       "properties": {
         "SHEET": "5659",
         "KOLONNE": "XVII",
-        "TITLE": "",
+        "TITLE": "Barcs a Virovitica",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Barcs und Virovitica",
+        "N651": "$$aBarcs (Maďarsko : oblast)|$$aVirovitica (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XVII",
+        "ZONE_COL": "Zone Col. XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27956,15 +27956,15 @@
       "properties": {
         "SHEET": "5660",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Harkány a Donji Miholjac",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Harkány und Dolnji-Miholjac",
+        "N651": "$$aHarkány (Maďarsko : oblast)|$$aDonji Miholjac (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XVIII",
+        "ZONE_COL": "Zone Col. XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -27999,15 +27999,15 @@
       "properties": {
         "SHEET": "5661",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Moháč a Villány",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---$$ae-rb---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Mohács und Villány",
+        "N651": "$$aMohács (Maďarsko : oblast)|$$aVillány (Maďarsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XIX",
+        "ZONE_COL": "Zone Col. XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -28042,15 +28042,15 @@
       "properties": {
         "SHEET": "5663",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Sombor",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-hu---$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Zombor",
+        "N651": "$$aSombor (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XX",
+        "ZONE_COL": "Zone Col. XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -28085,15 +28085,15 @@
       "properties": {
         "SHEET": "5663",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Bajmok a Bačka Topola",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Bajmok und Topolya",
+        "N651": "$$aBajmok (Srbsko : oblast)|$$aBačka Topola (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XXI",
+        "ZONE_COL": "Zone Col. XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -28128,15 +28128,15 @@
       "properties": {
         "SHEET": "5664",
         "KOLONNE": "XXII",
-        "TITLE": "",
+        "TITLE": "Senta a Ada",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Zenta und Ada",
+        "N651": "$$aSenta (Srbsko : oblast)|$$aAda (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XXII",
+        "ZONE_COL": "Zone Col. XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -28171,15 +28171,15 @@
       "properties": {
         "SHEET": "5665",
         "KOLONNE": "XXIII",
-        "TITLE": "",
+        "TITLE": "Kikinda",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Gross Kikinda",
+        "N651": "$$aKikinda (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XXIII",
+        "ZONE_COL": "Zone Col. XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -28214,15 +28214,15 @@
       "properties": {
         "SHEET": "5666",
         "KOLONNE": "XXIV",
-        "TITLE": "",
+        "TITLE": "Temešvár a Șandra",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Temesvár und Sándorháza",
+        "N651": "$$aTemešvár (Rumunsko : oblast)|$$aȘandra (Timiș, Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "22"
+        "ZONE_KOL": "Zone 22 Kol. XXIV",
+        "ZONE_COL": "Zone Col. XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -28257,12 +28257,12 @@
       "properties": {
         "SHEET": "5667",
         "KOLONNE": "XXV",
-        "TITLE": "Temesrékas",
+        "TITLE": "Recaș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Temesrékas",
-        "N651": "$$a",
+        "N245A": "Temesrékas|Rékás",
+        "N651": "$$aRecaș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXV",
         "ZONE_COL": "Zone 22 Col. XXV"
@@ -28300,12 +28300,12 @@
       "properties": {
         "SHEET": "5668",
         "KOLONNE": "XXVI",
-        "TITLE": "Facsád",
+        "TITLE": "Făget",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Facsád",
-        "N651": "$$a",
+        "N245A": "Facsád|Facset",
+        "N651": "$$aFăget (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXVI",
         "ZONE_COL": "Zone 22 Col. XXVI"
@@ -28343,12 +28343,12 @@
       "properties": {
         "SHEET": "5669",
         "KOLONNE": "XXVII",
-        "TITLE": "Maros-Illye",
+        "TITLE": "Ilia",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Maros-Illye",
-        "N651": "$$a",
+        "N651": "$$aIlia (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXVII",
         "ZONE_COL": "Zone 22 Col. XXVII"
@@ -28386,12 +28386,12 @@
       "properties": {
         "SHEET": "5670",
         "KOLONNE": "XXVIII",
-        "TITLE": "Déva und Szászváros",
+        "TITLE": "Deva a Orăștie",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Déva und Szászváros",
-        "N651": "$$a",
+        "N245A": "Déva und Szászváros|Déva a Broos",
+        "N651": "$$aDeva (Rumunsko : oblast)|$$aOrăștie (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXVIII",
         "ZONE_COL": "Zone 22 Col. XXVIII"
@@ -28429,12 +28429,12 @@
       "properties": {
         "SHEET": "5671",
         "KOLONNE": "XXIX",
-        "TITLE": "Szász-Sebes (Mühlbach)",
+        "TITLE": "Sebeș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Szász-Sebes (Mühlbach)",
-        "N651": "$$a",
+        "N245A": "Szász-Sebes (Mühlbach)|Mühlbach",
+        "N651": "$$aSebeș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXIX",
         "ZONE_COL": "Zone 22 Col. XXIX"
@@ -28472,12 +28472,12 @@
       "properties": {
         "SHEET": "5672",
         "KOLONNE": "XXX",
-        "TITLE": "Nagyszeben (Hermannstadt)",
+        "TITLE": "Sibiu",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Nagyszeben (Hermannstadt)",
-        "N651": "$$a",
+        "N245A": "Nagyszeben (Hermannstadt)|Hermannstadt",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXX",
         "ZONE_COL": "Zone 22 Col. XXX"
@@ -28515,12 +28515,12 @@
       "properties": {
         "SHEET": "5673",
         "KOLONNE": "XXXI",
-        "TITLE": "Ujegyház (Leschkirch)",
+        "TITLE": "Nocrich",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Ujegyház (Leschkirch)",
-        "N651": "$$a",
+        "N245A": "Ujegyház (Leschkirch)|Leschkirch",
+        "N651": "$$aNocrich (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXI",
         "ZONE_COL": "Zone 22 Col. XXXI"
@@ -28558,12 +28558,12 @@
       "properties": {
         "SHEET": "5674",
         "KOLONNE": "XXXII",
-        "TITLE": "Fogaras",
+        "TITLE": "Făgăraș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Fogaras",
-        "N651": "$$a",
+        "N651": "$$aFăgăraș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXII",
         "ZONE_COL": "Zone 22 Col. XXXII"
@@ -28601,12 +28601,12 @@
       "properties": {
         "SHEET": "5675",
         "KOLONNE": "XXXIII",
-        "TITLE": "Földvár",
+        "TITLE": "Feldioara",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Földvár",
-        "N651": "$$a",
+        "N245A": "Földvár|Marienburg",
+        "N651": "$$aFeldioara (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXIII",
         "ZONE_COL": "Zone 22 Col. XXXIII"
@@ -28644,12 +28644,12 @@
       "properties": {
         "SHEET": "5676",
         "KOLONNE": "XXXIV",
-        "TITLE": "Kovászna",
+        "TITLE": "Covasna",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Kovászna",
-        "N651": "$$a",
+        "N651": "$$aCovaszna (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXXIV",
         "ZONE_COL": "Zone 22 Col. XXXIV"
@@ -29762,12 +29762,12 @@
       "properties": {
         "SHEET": "5767",
         "KOLONNE": "XXV",
-        "TITLE": "Buziásfürdő",
+        "TITLE": "Buziaș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Buziásfürdő",
-        "N651": "$$a",
+        "N651": "$$aBuziaș (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXV",
         "ZONE_COL": "Zone 23 Col. XXV"
@@ -29805,12 +29805,12 @@
       "properties": {
         "SHEET": "5768",
         "KOLONNE": "XXVI",
-        "TITLE": "Lugos",
+        "TITLE": "Lugoj",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lugos",
-        "N651": "$$a",
+        "N651": "$$a Lugoj (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVI",
         "ZONE_COL": "Zone 23 Col. XXVI"
@@ -29848,12 +29848,12 @@
       "properties": {
         "SHEET": "5769",
         "KOLONNE": "XXVII",
-        "TITLE": "Ruszkabánya",
+        "TITLE": "Rusca Montană",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Ruszkabánya",
-        "N651": "$$a",
+        "N651": "$$aRusca Montană (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVII",
         "ZONE_COL": "Zone 23 Col. XXVII"
@@ -29891,12 +29891,12 @@
       "properties": {
         "SHEET": "5770",
         "KOLONNE": "XXVIII",
-        "TITLE": "Hátszeg",
+        "TITLE": "Hațeg",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Hátszeg",
-        "N651": "$$a",
+        "N651": "$$aHațeg (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXVIII",
         "ZONE_COL": "Zone 23 Col. XXVIII"
@@ -29934,12 +29934,12 @@
       "properties": {
         "SHEET": "5771",
         "KOLONNE": "XXIX",
-        "TITLE": "Rîul Sebeş",
+        "TITLE": "Sebeș",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Rîul Sebeş",
-        "N651": "$$a",
+        "N651": "$$aSebeș (Rumunsko : řeka : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXIX",
         "ZONE_COL": "Zone 23 Col. XXIX"
@@ -29977,12 +29977,12 @@
       "properties": {
         "SHEET": "5772",
         "KOLONNE": "XXX",
-        "TITLE": "Verestorony (Rothenthurm-Pasz)",
+        "TITLE": "Turnu Roșu",
         "SCALE": "75000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Verestorony (Rothenthurm-Pasz)",
-        "N651": "$$a",
+        "N651": "$$aTurnu Roșu (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXX",
         "ZONE_COL": "Zone 23 Col. XXX"
@@ -30025,7 +30025,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Felek (Freck)",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXI",
         "ZONE_COL": "Zone 23 Col. XXXI"
@@ -30068,7 +30068,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lisza und Zernest",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXII",
         "ZONE_COL": "Zone 23 Col. XXXII"
@@ -30111,7 +30111,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Brassó (Kronstadt)",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXIII",
         "ZONE_COL": "Zone 23 Col. XXXIII"
@@ -30154,7 +30154,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Magyarbodza",
-        "N651": "$$a",
+        "N651": "$$a (Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 23 Kol. XXXIV",
         "ZONE_COL": "Zone 23 Col. XXXIV"

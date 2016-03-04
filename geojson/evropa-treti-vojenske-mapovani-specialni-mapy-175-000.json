@@ -5083,9 +5083,9 @@
         "TITLE": "Sudice",
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
-        "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Sudice",
-        "N651": "$$aSudice (Opava, Česko : oblast)$$7ge829184",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Sudice|Sudice a Ratibor",
+        "N651": "$$aSudice (Opava, Česko : oblast)$$7ge829184|$$aRatiboř (Polsko : oblast)$$7ge130627",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 5 Kol. XVIII",
         "ZONE_COL": "Zone 5 Col. XVIII"

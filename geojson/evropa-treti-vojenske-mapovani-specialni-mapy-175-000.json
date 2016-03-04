@@ -9125,7 +9125,7 @@
         "TITLE": "Dukelský průsmyk",
         "SCALE": "75000",
         "N43": "$$ae-xo---$$ae-pl---",
-        "N80": "$$a913(437.6+438)$$2MRF",
+        "N80": "$$a913(437.6+438)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Průsmyk dukelský|Dukelský průsmyk| Vyšní Svidník",
         "N651": "$$aDukelský průsmyk (Polsko a Slovensko : oblast)$$7ge905422|$$aSvidník (Slovensko : oblast)$$7ge737398",
         "POZNAMKA": "",
@@ -9165,15 +9165,15 @@
       "properties": {
         "SHEET": "4268",
         "KOLONNE": "XXVI",
-        "TITLE": "",
+        "TITLE": "Medzilaborce",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Medzi Laborce a Lisko|Medzilaborce a Lisko|Medzilaborce",
+        "N651": "$$aMedzilaborce (Slovensko : oblast)$$7xx0121815|$$aLesko (Polsko : oblast)$$7ge905427",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "8"
+        "ZONE_KOL": "Zone 8 Kol. XXVI",
+        "ZONE_COL": "Zone 8 Col. XXVI"
       },
       "geometry": {
         "type": "Polygon",

@@ -4981,7 +4981,7 @@
         "TITLE": "Hradec Králové",
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-kr",
-        "N80": "$$a913(437.313)$$2MRF",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Hradec Králové|Pardubice a Hradec Králové",
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227",
         "POZNAMKA": "",
@@ -9821,13 +9821,13 @@
         "TITLE": "Železná Ruda",
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
-        "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Železná Ruda",
-        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430.129)$$2MRF",
+        "N245A": "Železná Ruda|Železná Ruda a Vichtach",
+        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597|$$aViechtach (Německo : oblast)$$7ge905438",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. VIII",
         "ZONE_COL": "Zone 9 Col. VIII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-VIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -9865,13 +9865,13 @@
         "TITLE": "Sušice",
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-pl",
-        "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Sušice",
-        "N651": "$$aSušice (Klatovy, Česko : oblast)$$7ge131006",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF",
+        "N245A": "Sušice|Sušice a Vimperk",
+        "N651": "$$aSušice (Klatovy, Česko : oblast)$$7ge131006|$$aVimperk (Česko : oblast)$$7ge131300",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. IX",
         "ZONE_COL": "Zone 9 Col. IX",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-IX"
       },
       "geometry": {
         "type": "Polygon",
@@ -9915,7 +9915,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. X",
         "ZONE_COL": "Zone 9 Col. X",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-X"
       },
       "geometry": {
         "type": "Polygon",
@@ -9959,7 +9959,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XI",
         "ZONE_COL": "Zone 9 Col. XI",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XI"
       },
       "geometry": {
         "type": "Polygon",
@@ -10003,7 +10003,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XII",
         "ZONE_COL": "Zone 9 Col. XII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10042,12 +10042,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "Datschitz und Mhr. Budwitz|Moravské Budějovice",
+        "N245A": "Datschitz und Mhr. Budwitz|Moravské Budějovice|Dačice a Mor. Budějovice",
         "N651": "$$aMoravské Budějovice (Česko : oblast)$$7ge130092|$$aDačice (Česko : oblast)$$7ge128993",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XIII",
         "ZONE_COL": "Zone 9 Col. XIII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10091,7 +10091,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XIV",
         "ZONE_COL": "Zone 9 Col. XIV",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -10135,7 +10135,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XV",
         "ZONE_COL": "Zone 9 Col. XV",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XV"
       },
       "geometry": {
         "type": "Polygon",
@@ -10179,7 +10179,7 @@
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XVI",
         "ZONE_COL": "Zone 9 Col. XVI",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -10218,12 +10218,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Ung. Hradisch und Ung. Brod|Uherské Hradiště",
+        "N245A": "Ung. Hradisch und Ung. Brod|Uherské Hradiště|Uh. Hradiště a Uh. Brod",
         "N651": "$$aUherské Hradiště (Česko : oblast)$$7ge131202|$$aUherský Brod (Česko : oblast)$$7ge131204",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XVII",
         "ZONE_COL": "Zone 9 Col. XVII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10261,13 +10261,13 @@
         "TITLE": "Vizovice",
         "SCALE": "75000",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
-        "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Wisowitz und Bellus|Vizovice",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Wisowitz und Bellus|Vizovice|Vizovice a Beluša|Beluša a Vizovice",
         "N651": "$$aVizovice (Česko : oblast)$$7ge131305|$$aBeluša (Slovensko : oblast)$$7ge888751",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XVIII",
         "ZONE_COL": "Zone 9 Col. XVIII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10302,16 +10302,16 @@
       "properties": {
         "SHEET": "4361",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Žilina",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Žilina",
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XIX",
+        "ZONE_COL": "Zone 9 Col. XIX",
+        "ZONE_CSR": "9-XIX"
       },
       "geometry": {
         "type": "Polygon",
@@ -10346,16 +10346,16 @@
       "properties": {
         "SHEET": "4362",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Ružomberok",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Ružomberok",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XX",
+        "ZONE_COL": "Zone 9 Col. XX",
+        "ZONE_CSR": "9-XX"
       },
       "geometry": {
         "type": "Polygon",
@@ -10394,12 +10394,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Liptó Szt. Miklós",
+        "N245A": "Liptó Szt. Miklós|Lipt. Sv. Mikuláš|Liptovský Sv. Mikuláš",
         "N651": "$$aLiptovský Mikuláš (Slovensko : oblast)$$7xx0121331",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XXI",
         "ZONE_COL": "Zone 9 Col. XXI",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XXI"
       },
       "geometry": {
         "type": "Polygon",
@@ -10438,12 +10438,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6-17)$$2MRF|$$a913(438-13)$$2MRF",
-        "N245A": "Hohe Tátra",
+        "N245A": "Hohe Tátra|Vysoké Tatry",
         "N651": "$$aVysoké Tatry (Polsko a Slovensko : pohoří : oblast)$$7ge131356",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XXII",
         "ZONE_COL": "Zone 9 Col. XXII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XXII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10482,12 +10482,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Késmark und Lőcse",
+        "N245A": "Késmark und Lőcse|Levoča a Kežmarok|Levoča",
         "N651": "$$aKežmarok (Slovensko : oblast)$$7ge385104|$$aLevoča (Slovensko : oblast)$$7xx0092932",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XXIII",
         "ZONE_COL": "Zone 9 Col. XXIII",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XXIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10526,12 +10526,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Kisszeben",
-        "N651": "$$aSabinov (Slovensko : oblast)$$7ge888986",
+        "N245A": "Kisszeben|Prešov a Sabinov|Prešov",
+        "N651": "$$aSabinov (Slovensko : oblast)$$7ge888986|$$aPrešov (Slovensko : oblast)$$7ge132352",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XXIV",
         "ZONE_COL": "Zone 9 Col. XXIV",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XXIV"
       },
       "geometry": {
         "type": "Polygon",
@@ -10570,12 +10570,12 @@
         "SCALE": "75000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Girált",
+        "N245A": "Girált|Giraltovce",
         "N651": "$$aGiraltovce (Slovensko : oblast)$$7ge888983",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 9 Kol. XXV",
         "ZONE_COL": "Zone 9 Col. XXV",
-        "ZONE_CSR": null
+        "ZONE_CSR": "9-XXV"
       },
       "geometry": {
         "type": "Polygon",
@@ -10610,16 +10610,16 @@
       "properties": {
         "SHEET": "4368",
         "KOLONNE": "XXVI",
-        "TITLE": "",
+        "TITLE": "Papín",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Papín|Vyš. Radvaň a Wola Michowa",
+        "N651": "$$aPapín (Slovensko : oblast)$$7ge905442|$$aRadvaň nad Laborcom (Slovensko : oblast)$$7ge905443|$$aWola Michowa (Polsko : oblast)$$7ge905444",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XXVI",
+        "ZONE_COL": "Zone 9 Col. XXVI",
+        "ZONE_CSR": "9-XXVI"
       },
       "geometry": {
         "type": "Polygon",
@@ -10654,16 +10654,16 @@
       "properties": {
         "SHEET": "4369",
         "KOLONNE": "XXVII",
-        "TITLE": "",
+        "TITLE": "Ruské",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Ruské|Ruská a Dydiowa",
+        "N651": "$$aRuské (Slovensko : zaniklá obec : oblast)$$7ge905447|$$aDydiowa (Polsko : oblast)$$7ge905450",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XXVII",
+        "ZONE_COL": "Zone 9 Col. XXVII",
+        "ZONE_CSR": "9-XXVII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10698,16 +10698,16 @@
       "properties": {
         "SHEET": "4370",
         "KOLONNE": "XXVIII",
-        "TITLE": "",
+        "TITLE": "Turka",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-un---$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Turka|Užocký průsmyk",
+        "N651": "$$aTurka (Ukrajina : oblast)$$7ge805260|$$aUžocký průsmyk (Ukrajina : oblast)$$7ge905452",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XXVIII",
+        "ZONE_COL": "Zone 9 Col. XXVIII",
+        "ZONE_CSR": "9-XXVIII"
       },
       "geometry": {
         "type": "Polygon",
@@ -10749,9 +10749,9 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIX",
-        "ZONE_COL": "9",
-        "ZONE_CSR": null
+        "ZONE_KOL": "Zone 9 Kol. XXIX",
+        "ZONE_COL": "Zone 9 Col. XXIX",
+        "ZONE_CSR": "9-XXIX"
       },
       "geometry": {
         "type": "Polygon",

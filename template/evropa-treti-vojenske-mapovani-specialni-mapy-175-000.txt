@@ -224,7 +224,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,
-    "width": 52,
+    "width": 60,
     "valueSeparator": "\n651 7 L ",
     "value": {
       "attr": "N651"

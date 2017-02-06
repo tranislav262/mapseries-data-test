@@ -78,7 +78,7 @@ LDR   L -----nem-a22------i-4500
       "Zeměpisný ústav Ministerstva vnitra",
       "Zeměměřičský úřad Čechy a Morava",
       "Zeměměřický úřad",
-      "Německo. $$bReichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien"
+      "Německo. $$bReichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien",
       "Rakousko. $$bKartographisches Institut"
     ]
   }$$4ctg$$4pbl$$7{

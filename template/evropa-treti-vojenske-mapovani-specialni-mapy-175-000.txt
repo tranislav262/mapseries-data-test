@@ -79,12 +79,13 @@ LDR   L -----nem-a22------i-4500
       "Zeměměřičský úřad Čechy a Morava",
       "Zeměměřický úřad",
       "Německo. Reichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien"
+      "Rakousko. Kartographisches Institut"
     ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630", "uk2011138116"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -114,6 +115,7 @@ LDR   L -----nem-a22------i-4500
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
       "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien"
+      "[Militärgeographisches Institut] ; Kartographisches Institut
     ]
   }
 2463  L $$a{

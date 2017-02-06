@@ -66,7 +66,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "1"]
+    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "1", "1"]
   }  L $$a{
     "id":"corporation",
     "width": 70,
@@ -78,8 +78,8 @@ LDR   L -----nem-a22------i-4500
       "Zeměpisný ústav Ministerstva vnitra",
       "Zeměměřičský úřad Čechy a Morava",
       "Zeměměřický úřad",
-      "Německo. Reichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien"
-      "Rakousko. Kartographisches Institut"
+      "Německo. $$bReichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien"
+      "Rakousko. $$bKartographisches Institut"
     ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
@@ -157,6 +157,7 @@ LDR   L -----nem-a22------i-4500
       "Prag :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
       "Wien :$$bHauptvermessungsabteilung XIV,"
+      "Wien :$$bKartographisches Institut," 
     ]
   }$$c{
     "base":"year"

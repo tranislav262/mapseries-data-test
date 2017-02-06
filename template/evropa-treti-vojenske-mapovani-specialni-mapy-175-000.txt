@@ -114,7 +114,7 @@ LDR   L -----nem-a22------i-4500
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměpisný ústav ministerstva vnitra",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
-      "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien"
+      "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien",
       "[Militärgeographisches Institut] ; Kartographisches Institut"
     ]
   }

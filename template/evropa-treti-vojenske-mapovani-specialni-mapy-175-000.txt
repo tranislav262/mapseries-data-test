@@ -156,7 +156,7 @@ LDR   L -----nem-a22------i-4500
       "Praha :$$bZeměpisný ústav ministerstva vnitra,",
       "Prag :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
-      "Wien :$$bHauptvermessungsabteilung XIV,"
+      "Wien :$$bHauptvermessungsabteilung XIV,",
       "Wien :$$bKartographisches Institut," 
     ]
   }$$c{
@@ -239,13 +239,14 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "1", "1", "1", "1", "1", "1"]
+    "valuesByBaseIndex": ["1", "1", "1", "1", "1", "1", "1", "1"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
     "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
@@ -258,7 +259,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "1", "1", "2", "2", "2", "1"]
+    "valuesByBaseIndex": ["1", "1", "1", "2", "2", "2", "1", "1"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
@@ -270,7 +271,8 @@ LDR   L -----nem-a22------i-4500
     "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
     "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
     "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
-    "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116"
+    "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116",
+    ""
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:75 000 ;$$v{

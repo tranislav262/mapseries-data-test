@@ -9,7 +9,8 @@
         "TITLE": "Gallipoli, Brussa.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -47,7 +48,8 @@
         "TITLE": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -85,7 +87,8 @@
         "TITLE": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -123,7 +126,8 @@
         "TITLE": "Bielcy, Kisziniew, Jassi.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -161,7 +165,8 @@
         "TITLE": "Bałta, Umań, Bracław.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -199,7 +204,8 @@
         "TITLE": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -237,7 +243,8 @@
         "TITLE": "Bobrujsk, Czerikow, Str. Szkłow.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -275,7 +282,8 @@
         "TITLE": "Elbasan, Argyrokastron, Janina, Korfu, Philiataes.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -313,7 +321,8 @@
         "TITLE": "Saloniki, Seres, Xanthi, Kastro, Pharsalos.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -351,7 +360,8 @@
         "TITLE": "Sofia, Philippopel.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -389,7 +399,8 @@
         "TITLE": "Nagyszeben (Hermannstadt), Brassó (Kronstadt), Bukarest, Craiova, Vidin, Ruščuk.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -427,7 +438,8 @@
         "TITLE": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -465,7 +477,8 @@
         "TITLE": "Tarnopol, Brody, Stryj, Czernowitz.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -503,7 +516,8 @@
         "TITLE": "Brest-Litowsk, Pinsk, Ostrog, Kołki.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -541,7 +555,8 @@
         "TITLE": "Wilna, Minsk, Grodno, Słonim.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -579,7 +594,8 @@
         "TITLE": "Rom, Ancona, Pescara, Velletri.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -617,7 +633,8 @@
         "TITLE": "Pola, Zara, Commacchio.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -655,7 +672,8 @@
         "TITLE": "Laibach Villach, Kufstein, Belluno.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -693,7 +711,8 @@
         "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Praha"
+        "N245A": "Praha",
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
         "type": "Polygon",
@@ -731,7 +750,8 @@
         "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -769,7 +789,8 @@
         "TITLE": "Lübeck, Stralsund, Stettin.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -807,7 +828,8 @@
         "TITLE": "Toulon.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -845,7 +867,8 @@
         "TITLE": "Civitavecchia, I. Corsica",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -883,7 +906,8 @@
         "TITLE": "Turin, Marseille, Avignon, Antibes.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -921,7 +945,8 @@
         "TITLE": "Mailand, Genua, Bologna, Florenz.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -959,7 +984,8 @@
         "TITLE": "Genf, Lyon, Belfort, Macon.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -997,7 +1023,8 @@
         "TITLE": "Innsbruck, Trient, Basel, Zürich.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1035,7 +1062,8 @@
         "TITLE": "Luxemburg, Metz, Chalons sur Marne.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1073,7 +1101,8 @@
         "TITLE": "Mainz, Nürnberg, Strassburg, Ulm.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1111,7 +1140,8 @@
         "TITLE": "Aachen, Brüssel, St. Quentin.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1149,7 +1179,8 @@
         "TITLE": "Cöln, Cassel, Hannover, Osnabrück, Fulda.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1187,7 +1218,8 @@
         "TITLE": "Amsterdam, Haag, Flensburg, Memel.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1225,7 +1257,8 @@
         "TITLE": "Hamburg, Wilhelmshaven, Schleswig.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1263,7 +1296,8 @@
         "TITLE": "Veles, Priština, Scutari.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1301,7 +1335,8 @@
         "TITLE": "Ragusa, Mostar.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1339,7 +1374,8 @@
         "TITLE": "Zemun, Orsova, Belgrad, Užice.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1377,7 +1413,8 @@
         "TITLE": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1415,7 +1452,8 @@
         "TITLE": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1453,7 +1491,8 @@
         "TITLE": "Wien, Graz, Budapest.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1491,7 +1530,8 @@
         "TITLE": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1529,7 +1569,8 @@
         "TITLE": "Brünn, Troppau, Neutra",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1567,7 +1608,8 @@
         "TITLE": "Warschau, Lublin, Modlin (Nowogeorgiewsk).",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1605,7 +1647,8 @@
         "TITLE": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1643,7 +1686,8 @@
         "TITLE": "Königsberg, Guttstadt, Biełostok, Suwałki.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1681,7 +1725,8 @@
         "TITLE": "Danzig, Colberg, Thorn.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1719,7 +1764,8 @@
         "TITLE": "Windau, I. Ösel, Dünamünde",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1757,7 +1803,8 @@
         "TITLE": "Riga, Libau, Memel, Kowno.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1795,7 +1842,8 @@
         "TITLE": "Dorpat, Pskow, Ostrow.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1833,7 +1881,8 @@
         "TITLE": "Nowgorod, Str. Russa, Ostaszkow.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1871,7 +1920,8 @@
         "TITLE": "Dwinsk (Dünaburg), Friedrichstadt.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1909,7 +1959,8 @@
         "TITLE": "Połock, Witebsk, Smolensk.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1947,7 +1998,8 @@
         "TITLE": "Tammerfors, Helsingfors, Reval.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1985,7 +2037,8 @@
         "TITLE": "Kronstadt, Wiborg, Wesenberg.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2023,7 +2076,8 @@
         "TITLE": "St. Petersburg, Tichwin.",
         "N43": null,
         "N80": null,
-        "N245A": null
+        "N245A": null,
+        "N651": null
       },
       "geometry": {
         "type": "Polygon",

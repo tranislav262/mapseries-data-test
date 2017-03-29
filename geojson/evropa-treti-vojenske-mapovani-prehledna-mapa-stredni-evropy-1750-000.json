@@ -10,7 +10,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -49,7 +50,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -88,7 +90,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -127,7 +130,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -166,7 +170,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -205,7 +210,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -244,7 +250,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -283,7 +290,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -322,7 +330,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -361,7 +370,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -400,7 +410,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -439,7 +450,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -478,7 +490,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -517,7 +530,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -556,7 +570,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -595,7 +610,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -634,7 +650,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -673,7 +690,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -712,7 +730,8 @@
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Praha",
-        "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146"
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -751,7 +770,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -790,7 +810,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -829,7 +850,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -868,7 +890,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -907,7 +930,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -946,7 +970,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -985,7 +1010,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1024,7 +1050,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1063,7 +1090,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1102,7 +1130,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1141,7 +1170,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1180,7 +1210,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1219,7 +1250,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1258,7 +1290,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1297,7 +1330,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1336,7 +1370,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1375,7 +1410,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1414,7 +1450,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1453,7 +1490,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1492,7 +1530,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1531,7 +1570,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1570,7 +1610,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1609,7 +1650,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1648,7 +1690,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1687,7 +1730,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1726,7 +1770,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1765,7 +1810,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1804,7 +1850,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1843,7 +1890,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1882,7 +1930,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1921,7 +1970,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1960,7 +2010,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1999,7 +2050,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2038,7 +2090,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2077,7 +2130,8 @@
         "N43": null,
         "N80": null,
         "N245A": null,
-        "N651": null
+        "N651": null,
+        "POZNAMKA": null
       },
       "geometry": {
         "type": "Polygon",

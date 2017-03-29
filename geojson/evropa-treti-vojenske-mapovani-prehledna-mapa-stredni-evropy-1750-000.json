@@ -655,7 +655,7 @@
         "SCALE": "750000",
         "SHEET": "B.2.",
         "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
-        "N43": "$$ae-xr---"
+        "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---"
       },
       "geometry": {
         "type": "Polygon",

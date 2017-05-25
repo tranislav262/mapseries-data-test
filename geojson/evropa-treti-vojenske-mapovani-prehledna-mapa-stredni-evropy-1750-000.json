@@ -7,11 +7,11 @@
         "SCALE": "750000",
         "SHEET": "F.6.",
         "TITLE": "Gallipoli, Brussa.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gr---|$$aa-tu---",
+        "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -47,11 +47,11 @@
         "SCALE": "750000",
         "SHEET": "F.5.",
         "TITLE": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gr---|$$aa-tu---|$$ae-bu---",
+        "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -87,11 +87,11 @@
         "SCALE": "750000",
         "SHEET": "F.4.",
         "TITLE": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rm---|$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -127,11 +127,11 @@
         "SCALE": "750000",
         "SHEET": "F.3.",
         "TITLE": "Bielcy, Kisziniew, Jassi.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -167,11 +167,11 @@
         "SCALE": "750000",
         "SHEET": "F.2.",
         "TITLE": "Bałta, Umań, Bracław.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -207,11 +207,11 @@
         "SCALE": "750000",
         "SHEET": "F.1.",
         "TITLE": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-un---|$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -247,11 +247,11 @@
         "SCALE": "750000",
         "SHEET": "F.",
         "TITLE": "Bobrujsk, Czerikow, Str. Szkłow.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-un---|$$ae-bw---|$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -287,11 +287,11 @@
         "SCALE": "750000",
         "SHEET": "D.6.",
         "TITLE": "Elbasan, Argyrokastron, Janina, Korfu, Philiataes.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-aa---|$$ae-xn---|$$ae-gr---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF|$$a913(495)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -327,11 +327,11 @@
         "SCALE": "750000",
         "SHEET": "E.6.",
         "TITLE": "Saloniki, Seres, Xanthi, Kastro, Pharsalos.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gr---|$$ae-xn---|$$ae-bu---|$$aa-tu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -367,11 +367,11 @@
         "SCALE": "750000",
         "SHEET": "E.5.",
         "TITLE": "Sofia, Philippopel.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gr---|$$ae-xn---|$$ae-bu---|$$ae-rb---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -407,11 +407,11 @@
         "SCALE": "750000",
         "SHEET": "E.4.",
         "TITLE": "Nagyszeben (Hermannstadt), Brassó (Kronstadt), Bukarest, Craiova, Vidin, Ruščuk.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rm---|$$ae-bu---|$$ae-rb---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -447,11 +447,11 @@
         "SCALE": "750000",
         "SHEET": "E.3.",
         "TITLE": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rm---|$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -487,11 +487,11 @@
         "SCALE": "750000",
         "SHEET": "E.2.",
         "TITLE": "Tarnopol, Brody, Stryj, Czernowitz.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-un---|$$ae-rm---|$$ae-mv---|$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -527,11 +527,11 @@
         "SCALE": "750000",
         "SHEET": "E.1.",
         "TITLE": "Brest-Litowsk, Pinsk, Ostrog, Kołki.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-un---|$$ae-bw---|$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -567,11 +567,11 @@
         "SCALE": "750000",
         "SHEET": "E.",
         "TITLE": "Wilna, Minsk, Grodno, Słonim.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-bw---|$$ae-pl---|$$ae-li---",
+        "N80": "$$a913 (476)$$2MRF|$$a913(438)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -607,11 +607,11 @@
         "SCALE": "750000",
         "SHEET": "B.5.",
         "TITLE": "Rom, Ancona, Pescara, Velletri.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---|$$ae-ci---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -647,11 +647,11 @@
         "SCALE": "750000",
         "SHEET": "B.4.",
         "TITLE": "Pola, Zara, Commacchio.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---|$$ae-ci---|$$ae-xv---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -687,11 +687,11 @@
         "SCALE": "750000",
         "SHEET": "B.3.",
         "TITLE": "Laibach Villach, Kufstein, Belluno.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---|$$ae-xv---|$$ae-au---|$$ae-gx---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -728,10 +728,10 @@
         "SHEET": "B.2.",
         "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
-        "N80": "$$a913(437.325)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Praha",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
-        "POZNAMKA": null
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -767,11 +767,11 @@
         "SCALE": "750000",
         "SHEET": "B.1.",
         "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-xr---|$$ae-pl---|$$ae-gx---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -807,11 +807,11 @@
         "SCALE": "750000",
         "SHEET": "B.",
         "TITLE": "Lübeck, Stralsund, Stettin.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-dk---|$$ae-pl---|$$ae-gx---",
+        "N80": "$$a913(489)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -847,11 +847,11 @@
         "SCALE": "750000",
         "SHEET": "westl.A.5.",
         "TITLE": "Toulon.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -887,11 +887,11 @@
         "SCALE": "750000",
         "SHEET": "A.5.",
         "TITLE": "Civitavecchia, I. Corsica",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---|$$ae-it---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -927,11 +927,11 @@
         "SCALE": "750000",
         "SHEET": "westl.A.4.",
         "TITLE": "Turin, Marseille, Avignon, Antibes.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---|$$ae-it---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -967,11 +967,11 @@
         "SCALE": "750000",
         "SHEET": "A.4.",
         "TITLE": "Mailand, Genua, Bologna, Florenz.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1007,11 +1007,11 @@
         "SCALE": "750000",
         "SHEET": "westl.A.3",
         "TITLE": "Genf, Lyon, Belfort, Macon.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---|$$ae-it---|$$ae-sz---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1047,11 +1047,11 @@
         "SCALE": "750000",
         "SHEET": "A.3.",
         "TITLE": "Innsbruck, Trient, Basel, Zürich.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---|$$ae-sz---|$$ae-au---|$$ae-gx---|$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1087,11 +1087,11 @@
         "SCALE": "750000",
         "SHEET": "Westl.A.2.",
         "TITLE": "Luxemburg, Metz, Chalons sur Marne.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1127,11 +1127,11 @@
         "SCALE": "750000",
         "SHEET": "A.2.",
         "TITLE": "Mainz, Nürnberg, Strassburg, Ulm.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gx---|$$ae-fr---",
+        "N80": "$$a913(430)$$2MRF|$$a913$$(44)2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1167,11 +1167,11 @@
         "SCALE": "750000",
         "SHEET": "Westl.A.1.",
         "TITLE": "Aachen, Brüssel, St. Quentin.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---|$$ae-ne---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1207,11 +1207,11 @@
         "SCALE": "750000",
         "SHEET": "A.1.",
         "TITLE": "Cöln, Cassel, Hannover, Osnabrück, Fulda.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gx---|$$ae-ne---",
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1247,11 +1247,11 @@
         "SCALE": "750000",
         "SHEET": "Westl.A.",
         "TITLE": "Amsterdam, Haag, Flensburg, Memel.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-ne---|$$ae-dk---|$$ae-gx---",
+        "N80": "$$a913(492)$$2MRF|$$a913(489)$$2MRF|$$a913(430)$$2MRF|",
+        "N245A": "Amsterdam, Haag, Flensburg, Memel.",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1287,11 +1287,11 @@
         "SCALE": "750000",
         "SHEET": "A.",
         "TITLE": "Hamburg, Wilhelmshaven, Schleswig.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-gx---|$$ae-ne---",
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1327,11 +1327,11 @@
         "SCALE": "750000",
         "SHEET": "D.5.",
         "TITLE": "Veles, Priština, Scutari.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-aa---|$$ae-mo---|$$ae-rb---|$$ae-xn---|$$ae-bu---|$$ae-bn---|$$ae-kv---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.115)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1367,11 +1367,11 @@
         "SCALE": "750000",
         "SHEET": "C.5.",
         "TITLE": "Ragusa, Mostar.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-it---|$$ae-ci---|$$ae-bn---|$$ae-mo---",
+        "N80": "$$a913 (450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1407,11 +1407,11 @@
         "SCALE": "750000",
         "SHEET": "D.4.",
         "TITLE": "Zemun, Orsova, Belgrad, Užice.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-rb---|$$ae-bn---|$$ae-ci---|$$ae-hu---|$$ae-rm---|$$ae-bu---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1447,11 +1447,11 @@
         "SCALE": "750000",
         "SHEET": "C.4.",
         "TITLE": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-bn---|$$ae-ci---|$$ae-xv---|$$ae-hu---|$$ae-rb---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1487,11 +1487,11 @@
         "SCALE": "750000",
         "SHEET": "D.3.",
         "TITLE": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-hu---|$$ae-rm---|$$ae-rb---|$$ae-xo---|$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1527,11 +1527,11 @@
         "SCALE": "750000",
         "SHEET": "C.3.",
         "TITLE": "Wien, Graz, Budapest.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-hu---|$$ae-au---|$$ae-xo---|$$ae-xv---|$$ae-ci---",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1567,11 +1567,11 @@
         "SCALE": "750000",
         "SHEET": "D.2.",
         "TITLE": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-hu---|$$ae-xo---|$$ae-pl---|$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,11 +1607,11 @@
         "SCALE": "750000",
         "SHEET": "C.2.",
         "TITLE": "Brünn, Troppau, Neutra",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-xr---|$$ae-au---|$$ae-xo---|$$ae-pl---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913$$(437.6)2MRF|$$a913$$(438)2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1647,11 +1647,11 @@
         "SCALE": "750000",
         "SHEET": "D.1.",
         "TITLE": "Warschau, Lublin, Modlin (Nowogeorgiewsk).",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-pl---|$$ae-bw---",
+        "N80": "$$a913(438)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1687,11 +1687,11 @@
         "SCALE": "750000",
         "SHEET": "C.1.",
         "TITLE": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$ae-pl---|$$ae-xr---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1727,11 +1727,11 @@
         "SCALE": "750000",
         "SHEET": "D.",
         "TITLE": "Königsberg, Guttstadt, Biełostok, Suwałki.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1767,11 +1767,11 @@
         "SCALE": "750000",
         "SHEET": "C.",
         "TITLE": "Danzig, Colberg, Thorn.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1807,11 +1807,11 @@
         "SCALE": "750000",
         "SHEET": "D.II. Provisorisch",
         "TITLE": "Windau, I. Ösel, Dünamünde",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1847,11 +1847,11 @@
         "SCALE": "750000",
         "SHEET": "D.I. Provisorisch",
         "TITLE": "Riga, Libau, Memel, Kowno.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1887,11 +1887,11 @@
         "SCALE": "750000",
         "SHEET": "E.II. Provisorisch",
         "TITLE": "Dorpat, Pskow, Ostrow.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1927,11 +1927,11 @@
         "SCALE": "750000",
         "SHEET": "F.II. Provisorisch",
         "TITLE": "Nowgorod, Str. Russa, Ostaszkow.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1967,11 +1967,11 @@
         "SCALE": "750000",
         "SHEET": "E.I. Provisorisch",
         "TITLE": "Dwinsk (Dünaburg), Friedrichstadt.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2007,11 +2007,11 @@
         "SCALE": "750000",
         "SHEET": "F.I. Provisorisch",
         "TITLE": "Połock, Witebsk, Smolensk.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2047,11 +2047,11 @@
         "SCALE": "750000",
         "SHEET": "D.III. Provisorisch",
         "TITLE": "Tammerfors, Helsingfors, Reval.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2087,11 +2087,11 @@
         "SCALE": "750000",
         "SHEET": "E.III. Provisorisch",
         "TITLE": "Kronstadt, Wiborg, Wesenberg.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2127,11 +2127,11 @@
         "SCALE": "750000",
         "SHEET": "F.III. Provisorisch",
         "TITLE": "St. Petersburg, Tichwin.",
-        "N43": null,
-        "N80": null,
-        "N245A": null,
-        "N651": null,
-        "POZNAMKA": null
+        "N43": "$$a|$$a|$$a|",
+        "N80": "$$a913$$2MRF|$$a913$$2MRF|$$a913$$2MRF|",
+        "N245A": "",
+        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",

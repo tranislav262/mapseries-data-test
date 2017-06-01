@@ -1369,8 +1369,8 @@
         "TITLE": "Ragusa, Mostar.",
         "N43": "$$ae-it---|$$ae-ci---|$$ae-bn---|$$ae-mo---",
         "N80": "$$a913 (450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Ragusa, Mostar.",
+        "N651": "$$aDubrovník (Chorvatsko : oblast)|$$aMostar (Bosna a Hercegovina)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1450,7 +1450,7 @@
         "N43": "$$ae-bn---|$$ae-ci---|$$ae-xv---|$$ae-hu---|$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
-        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)$$7ge369509|$$a|$$a",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)|$$aGlina (Chorvatsko : oblast)|$$aKnin (Chorvatsko : oblast)$$7ge336617|$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1809,8 +1809,8 @@
         "TITLE": "Windau, I. Ösel, Dünamünde",
         "N43": "$$ae-lv---|$$ae-er---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(474.2)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Windau, I. Ösel, Dünamünde",
+        "N651": "$$aVentspils (Lotyšsko : oblast)|$$aSaaremaa (Estonsko : oblast)|$$aDaugavgriva (Lotyšsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1849,8 +1849,8 @@
         "TITLE": "Riga, Libau, Memel, Kowno.",
         "N43": "$$ae-ru---|$$ae-li---|$$ae-lv---",
         "N80": "$$a913(470-15)$$2MRF|$$a913(474.5)$$2MRF|$$a913(474.3)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Riga, Libau, Memel, Kowno.",
+        "N651": "$$aRiga (Lotyšsko : oblast)|$$aLiepāja (Lotyšsko : oblast)|$$aKlajpeda (Litva : oblast)|$$aKaunas (Litva : oblast)$$7ge624716",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2049,8 +2049,8 @@
         "TITLE": "Tammerfors, Helsingfors, Reval.",
         "N43": "$$ae-er---|$$ae-fi---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Tammerfors, Helsingfors, Reval.",
+        "N651": "$$aTampere (Finsko : oblast)|$$aHelsinky (Finsko : oblast)|$$aTallinn (Estonsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {

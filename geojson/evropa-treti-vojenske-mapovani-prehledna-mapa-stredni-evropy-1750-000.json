@@ -809,8 +809,8 @@
         "TITLE": "Lübeck, Stralsund, Stettin.",
         "N43": "$$ae-dk---|$$ae-pl---|$$ae-gx---",
         "N80": "$$a913(489)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Lübeck, Stralsund, Stettin.",
+        "N651": "$$aLübeck (Německo)$$7ge129922|$$aStralsund (Německo)$$7ge130964|$$aŠtětín (Polsko)$$7ge131554",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -849,8 +849,8 @@
         "TITLE": "Toulon.",
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Toulon.",
+        "N651": "$$aToulon (Francie)$$7ge131100",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -889,8 +889,8 @@
         "TITLE": "Civitavecchia, I. Corsica",
         "N43": "$$ae-fr---|$$ae-it---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Civitavecchia, I. Corsica",
+        "N651": "$$aCivitavecchia (Itálie)|$$aKorsika (Francie)$$7ge134281",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -929,8 +929,8 @@
         "TITLE": "Turin, Marseille, Avignon, Antibes.",
         "N43": "$$ae-fr---|$$ae-it---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Turin, Marseille, Avignon, Antibes.",
+        "N651": "$$aTurín (Itálie)$$7ge137817|$$aMarseille (Francie)$$7ge129970|$$aAvignon (Francie)$$7ge128697|$$aAntibes (Francie)$$7ge672197",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -969,8 +969,8 @@
         "TITLE": "Mailand, Genua, Bologna, Florenz.",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Mailand, Genua, Bologna, Florenz.",
+        "N651": "$$aMilán (Itálie)$$7ge130016|$$aJanov (Itálie)$$7ge128948|$$aBologna (Itálie)$$7ge164666|$$aFlorencie (Itálie)$$7ge134169",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1009,8 +1009,8 @@
         "TITLE": "Genf, Lyon, Belfort, Macon.",
         "N43": "$$ae-fr---|$$ae-it---|$$ae-sz---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(494)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Genf, Lyon, Belfort, Macon.",
+        "N651": "$$aŽeneva (Švýcarsko)$$7ge131610|$$aLyon (Francie)$$7ge129908|$$aBelfort (Francie)$$7ge540913|$$aMâcon (Francie)$$7ge635553",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1049,8 +1049,8 @@
         "TITLE": "Innsbruck, Trient, Basel, Zürich.",
         "N43": "$$ae-it---|$$ae-sz---|$$ae-au---|$$ae-gx---|$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF|$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Innsbruck, Trient, Basel, Zürich.",
+        "N651": "$$aInnsbruck (Rakousko)$$7ge134234|$$aTrident (Itálie)$$7ge134547|$$aBasilej (Švýcarsko)$$7ge128722|$$aCurych (Švýcarsko)$$7ge128459",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1089,8 +1089,8 @@
         "TITLE": "Luxemburg, Metz, Chalons sur Marne.",
         "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Luxemburg, Metz, Chalons sur Marne.",
+        "N651": "$$aLucemburk (Lucembursko)$$7ge612305|$$aMety (Francie)$$7xx0041701|$$aChâlons-en-Champagne (Francie)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1129,8 +1129,8 @@
         "TITLE": "Mainz, Nürnberg, Strassburg, Ulm.",
         "N43": "$$ae-gx---|$$ae-fr---",
         "N80": "$$a913(430)$$2MRF|$$a913$$(44)2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Mainz, Nürnberg, Strassburg, Ulm.",
+        "N651": "$$aMohuč (Německo)$$7ge130057|$$aNorimberk (Německo)$$7ge130187|$$aŠtrasburk (Francie)$$7ge131549|$$aUlm (Německo)$$7ge263065",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1209,8 +1209,8 @@
         "TITLE": "Cöln, Cassel, Hannover, Osnabrück, Fulda.",
         "N43": "$$ae-gx---|$$ae-ne---",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Cöln, Cassel, Hannover, Osnabbrück, Fulda.",
+        "N651": "$$aKolín nad Rýnem (Německo)$$7ge129620|$$aKassel (Německo)$$7ge208032|$$aHannover (Německo)$$7ge134203|$$aOsnabrück (Německo)$$7ge344233|$$aFulda (Německo)$$7ge129169",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1289,8 +1289,8 @@
         "TITLE": "Hamburg, Wilhelmshaven, Schleswig.",
         "N43": "$$ae-gx---|$$ae-ne---",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Hamburg, Wilhelmshaven, Schleswig.",
+        "N651": "$$aHamburk (Německo)$$7ge134202|$$aWilhelmshaven (Německo)|$$aSchleswig (Německo)$$7ge343941",
         "POZNAMKA": ""
       },
       "geometry": {

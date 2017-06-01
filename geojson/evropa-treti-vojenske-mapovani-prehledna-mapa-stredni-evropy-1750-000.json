@@ -609,8 +609,8 @@
         "TITLE": "Rom, Ancona, Pescara, Velletri.",
         "N43": "$$ae-it---|$$ae-ci---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Rom, Ancona, Pescara, Velletri.",
+        "N651": "$$aŘím (Itálie : oblast)|$$aAncona (Itálie : oblast)|$$aPescara (Itálie : oblast)|$$aVelletri (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -649,8 +649,8 @@
         "TITLE": "Pola, Zara, Commacchio.",
         "N43": "$$ae-it---|$$ae-ci---|$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Pola, Zara, Comacchio.",
+        "N651": "$$aPula (Chorvatsko : oblast)$$7ge828495|$$aZadar (Chorvatsko : oblast)$$7xx0160293|$$aComacchio (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -689,8 +689,8 @@
         "TITLE": "Laibach Villach, Kufstein, Belluno.",
         "N43": "$$ae-it---|$$ae-xv---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Laibach Villach, Kufstein, Belluno.",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052|$$aVillach (Rakousko : oblast)|$$aKufstein (Rakousko : oblast)$$7ge560468|$$aBelluno (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -729,7 +729,7 @@
         "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Praha",
+        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
         "POZNAMKA": ""
       },
@@ -769,8 +769,8 @@
         "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
         "N43": "$$ae-xr---|$$ae-pl---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Berlin, Brandenburg, Bautzen, Leipzig.",
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750|$$aBrandenburg an der Havel (Německo : oblast)|$$aBudyšín (Německo : oblast)$$7ge807051|$$aLipsko (Německo : oblast)$$7ge327542",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -810,7 +810,7 @@
         "N43": "$$ae-dk---|$$ae-pl---|$$ae-gx---",
         "N80": "$$a913(489)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Lübeck, Stralsund, Stettin.",
-        "N651": "$$aLübeck (Německo)$$7ge129922|$$aStralsund (Německo)$$7ge130964|$$aŠtětín (Polsko)$$7ge131554",
+        "N651": "$$aLübeck (Německo : oblast)$$7ge583547|$$aStralsund (Německo : oblast)|$$aŠtětín (Polsko : oblast)$$7ge134526",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -850,7 +850,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Toulon.",
-        "N651": "$$aToulon (Francie)$$7ge131100",
+        "N651": "$$aToulon (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -890,7 +890,7 @@
         "N43": "$$ae-fr---|$$ae-it---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Civitavecchia, I. Corsica",
-        "N651": "$$aCivitavecchia (Itálie)|$$aKorsika (Francie)$$7ge134281",
+        "N651": "$$aCivitavecchia (Itálie : oblast)|$$aKorsika (Francie)$$7ge134281",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -930,7 +930,7 @@
         "N43": "$$ae-fr---|$$ae-it---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Turin, Marseille, Avignon, Antibes.",
-        "N651": "$$aTurín (Itálie)$$7ge137817|$$aMarseille (Francie)$$7ge129970|$$aAvignon (Francie)$$7ge128697|$$aAntibes (Francie)$$7ge672197",
+        "N651": "$$aTurín (Itálie : oblast)$$7ge572776|$$aMarseille (Francie : oblast)|$$aAvignon (Francie : oblast)|$$aAntibes (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -970,7 +970,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Mailand, Genua, Bologna, Florenz.",
-        "N651": "$$aMilán (Itálie)$$7ge130016|$$aJanov (Itálie)$$7ge128948|$$aBologna (Itálie)$$7ge164666|$$aFlorencie (Itálie)$$7ge134169",
+        "N651": "$$aMilán (Itálie : oblast)$$7ge392508|$$aJanov (Itálie : oblast)$$7ge418801|$$aBologna (Itálie : oblast)|$$aFlorencie (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1010,7 +1010,7 @@
         "N43": "$$ae-fr---|$$ae-it---|$$ae-sz---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Genf, Lyon, Belfort, Macon.",
-        "N651": "$$aŽeneva (Švýcarsko)$$7ge131610|$$aLyon (Francie)$$7ge129908|$$aBelfort (Francie)$$7ge540913|$$aMâcon (Francie)$$7ge635553",
+        "N651": "$$aŽeneva (Švýcarsko : oblast)$$7ge663896|$$aLyon (Francie : oblast)|$$aBelfort (Francie : oblast)|$$aMâcon (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1050,7 +1050,7 @@
         "N43": "$$ae-it---|$$ae-sz---|$$ae-au---|$$ae-gx---|$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Innsbruck, Trient, Basel, Zürich.",
-        "N651": "$$aInnsbruck (Rakousko)$$7ge134234|$$aTrident (Itálie)$$7ge134547|$$aBasilej (Švýcarsko)$$7ge128722|$$aCurych (Švýcarsko)$$7ge128459",
+        "N651": "$$aInnsbruck (Rakousko : oblast)$$7ge494545|$$aTrident (Itálie : oblast)$$7ge856350|$$aBasilej (Švýcarsko : oblast)$$7ge565555|$$aCurych (Švýcarsko : oblast)$$7ge128980",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1090,7 +1090,7 @@
         "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
         "N245A": "Luxemburg, Metz, Chalons sur Marne.",
-        "N651": "$$aLucemburk (Lucembursko)$$7ge612305|$$aMety (Francie)$$7xx0041701|$$aChâlons-en-Champagne (Francie)",
+        "N651": "$$aLucemburk (Lucembursko : oblast)|$$aMety (Francie : oblast)|$$aChâlons-en-Champagne (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1130,7 +1130,7 @@
         "N43": "$$ae-gx---|$$ae-fr---",
         "N80": "$$a913(430)$$2MRF|$$a913$$(44)2MRF",
         "N245A": "Mainz, Nürnberg, Strassburg, Ulm.",
-        "N651": "$$aMohuč (Německo)$$7ge130057|$$aNorimberk (Německo)$$7ge130187|$$aŠtrasburk (Francie)$$7ge131549|$$aUlm (Německo)$$7ge263065",
+        "N651": "$$aMohuč (Německo : oblast)$$7ge130058|$$aNorimberk (Německo : oblast)$$7ge206801|$$aŠtrasburk (Francie : oblast)|$$aUlm (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1170,7 +1170,7 @@
         "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---|$$ae-ne---",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Aachen, Brüssel, St. Quentin.",
-        "N651": "$$aCáchy (Německo)$$7ge134535|$$aBrusel (Belgie)$$7ge128842|$$a$$7|$$aSaint-Quentin (Francie)$$7ge295571",
+        "N651": "$$aCáchy (Německo : oblast)$$7ge259169|$$aBrusel (Belgie : oblast)$$7ge290585|$$a$$7|$$aSaint-Quentin (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1210,7 +1210,7 @@
         "N43": "$$ae-gx---|$$ae-ne---",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Cöln, Cassel, Hannover, Osnabbrück, Fulda.",
-        "N651": "$$aKolín nad Rýnem (Německo)$$7ge129620|$$aKassel (Německo)$$7ge208032|$$aHannover (Německo)$$7ge134203|$$aOsnabrück (Německo)$$7ge344233|$$aFulda (Německo)$$7ge129169",
+        "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983|$$aKassel (Německo : oblast)|$$aHannover (Německo : oblast)$$7ge679596|$$aOsnabrück (Německo : oblast)|$$aFulda (Německo : oblast)$$7ge897939",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1250,7 +1250,7 @@
         "N43": "$$ae-ne---|$$ae-dk---|$$ae-gx---",
         "N80": "$$a913(492)$$2MRF|$$a913(489)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Amsterdam, Haag, Flensburg, Memel.",
-        "N651": "$$aAmsterdam (Nizozemsko)$$7ge128661|$$aHaag (Nizozemsko)$$7ge134198|$$aFlensburg (Německo)$$7ge731741|$$aKlajpeda (Litva)$$ge187276",
+        "N651": "$$aAmsterdam (Nizozemsko : oblast)|$$aHaag (Nizozemsko : oblast)|$$aFlensburg (Německo : oblast)|$$aKlajpeda (Litva : oblast)$$7ge187278",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1290,7 +1290,7 @@
         "N43": "$$ae-gx---|$$ae-ne---",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Hamburg, Wilhelmshaven, Schleswig.",
-        "N651": "$$aHamburk (Německo)$$7ge134202|$$aWilhelmshaven (Německo)|$$aSchleswig (Německo)$$7ge343941",
+        "N651": "$$aHamburk (Německo : oblast)$$7ge679598|$$aWilhelmshaven (Německo : oblast)|$$aSchleswig (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1449,8 +1449,8 @@
         "TITLE": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
         "N43": "$$ae-bn---|$$ae-ci---|$$ae-xv---|$$ae-hu---|$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)$$7ge369509|$$a|$$a",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1529,8 +1529,8 @@
         "TITLE": "Wien, Graz, Budapest.",
         "N43": "$$ae-hu---|$$ae-au---|$$ae-xo---|$$ae-xv---|$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Wien, Graz, Budapest.",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468|$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581|$$aBudapešť (Maďarsko : oblast)$$7ge251149",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1609,8 +1609,8 @@
         "TITLE": "Brünn, Troppau, Neutra",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-xo---|$$ae-pl---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913$$(437.6)2MRF|$$a913$$(438)2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Brünn, Troppau, Neutra",
+        "N651": "$$aBrno (Česko : oblast)$$7ge128414|$$aOpava (Česko : oblast)$$7ge128535|$$aNitra (Slovensko : oblast)$$7ge128490",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1689,8 +1689,8 @@
         "TITLE": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
         "N43": "$$ae-pl---|$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpole (Polsko : oblast)|$$aKalisz (Polsko : oblast)$$7ge367358",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1769,8 +1769,8 @@
         "TITLE": "Danzig, Colberg, Thorn.",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Danzig, Colberg, Thorn.",
+        "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456|$$aKołobrzeg (Polsko : oblast)$$7ge570347|$$aToruň (Polsko : oblast)$$7ge131098",
         "POZNAMKA": ""
       },
       "geometry": {

@@ -1169,8 +1169,8 @@
         "TITLE": "Aachen, Brüssel, St. Quentin.",
         "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---|$$ae-ne---",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF|$$a913(492)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Aachen, Brüssel, St. Quentin.",
+        "N651": "$$aCáchy (Německo)$$7ge134535|$$aBrusel (Belgie)$$7ge128842|$$a$$7|$$aSaint-Quentin (Francie)$$7ge295571",
         "POZNAMKA": ""
       },
       "geometry": {

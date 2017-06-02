@@ -250,7 +250,7 @@
         "N43": "$$ae-un---|$$ae-bw---|$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
         "N245A": "Bobrujsk, Czerikow, Str. Szkłow.",
-        "N651": "$$aBobrujsk (Bělorusko : oblast)|$$aČerikov (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)|$$aČerikaŭ (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -530,7 +530,7 @@
         "N43": "$$ae-un---|$$ae-bw---|$$ae-pl---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Brest-Litowsk, Pinsk, Ostrog, Kołki.",
-        "N651": "$$aBrest (Bělorusko : oblast)$$7ge214861|$$aPinsk (Bělorusko : oblast)$$7ge579940|$$aOstroh (Ukrajina : oblast)$$7ge828847|$$aKolky (Ukrajina : oblast)",
+        "N651": "$$aBrest (Bělorusko : oblast)$$7ge214861|$$aPinsk (Bělorusko : oblast)$$7ge579940|$$aOstroh (Ukrajina : oblast)$$7ge828847|$$aKolkì (Volyň, Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1410,7 +1410,7 @@
         "N43": "$$ae-rb---|$$ae-bn---|$$ae-ci---|$$ae-hu---|$$ae-rm---|$$ae-bu---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Zemun, Orsova, Belgrad, Užice.",
-        "N651": "$$aZemun (Bělehrad, Srbsko : oblast)|$$aOršava (Rumunsko : oblast)|$$aBělehrad (Srbsko : oblast)$$7ge452990|$$aUžice (Srbsko : oblast)$$7ge856404",
+        "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990|$$aOršava (Rumunsko : oblast)|$$aUžice (Srbsko : oblast)$$7ge856404",
         "POZNAMKA": ""
       },
       "geometry": {

@@ -9,8 +9,8 @@
         "TITLE": "Gallipoli, Brussa.",
         "N43": "$$ae-gr---|$$aa-tu---",
         "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Gallipoli, Brussa.",
+        "N651": "$$aGallipoli (Turecko : oblast)|$$aBursa (Turecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -49,8 +49,8 @@
         "TITLE": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
         "N43": "$$ae-gr---|$$aa-tu---|$$ae-bu---",
         "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578|$$aŠumen (Bulharsko : oblast)$$7ge746648|$$aEdirne (Turecko : oblast)$$7ge746652|$$aDidymoteicho (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -89,8 +89,8 @@
         "TITLE": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
         "N43": "$$ae-rm---|$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
+        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -129,8 +129,8 @@
         "TITLE": "Bielcy, Kisziniew, Jassi.",
         "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Bielcy, Kisziniew, Jassi.",
+        "N651": "$$aBălți (Moldavsko : oblast)|$$aKišiněv (Moldavsko : oblast)|$$aJasy (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -169,8 +169,8 @@
         "TITLE": "Bałta, Umań, Bracław.",
         "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Bałta, Umań, Bracław.",
+        "N651": "$$aBalta (Ukrajina : oblast)|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -209,8 +209,8 @@
         "TITLE": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
         "N43": "$$ae-un---|$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658|$$aŽytomyr (Ukrajina : oblast)$$7ge413901|$$aOvruč (Ukrajina : oblast)|$$aČernobyl (Ukrajina : oblast)|$$aMazyr (Bělorusko : oblast)$$7ge577267|$$aLojeŭ (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -249,8 +249,8 @@
         "TITLE": "Bobrujsk, Czerikow, Str. Szkłow.",
         "N43": "$$ae-un---|$$ae-bw---|$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Bobrujsk, Czerikow, Str. Szkłow.",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)|$$aČerikov (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1370,7 +1370,7 @@
         "N43": "$$ae-it---|$$ae-ci---|$$ae-bn---|$$ae-mo---",
         "N80": "$$a913 (450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Ragusa, Mostar.",
-        "N651": "$$aDubrovník (Chorvatsko : oblast)|$$aMostar (Bosna a Hercegovina)",
+        "N651": "$$aDubrovník (Chorvatsko : oblast)|$$aMostar (Bosna a Hercegovina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2009,8 +2009,8 @@
         "TITLE": "Połock, Witebsk, Smolensk.",
         "N43": "$$ae-bw---|$$ae-ru---",
         "N80": "$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
-        "N245A": "",
-        "N651": "$$a$$7|$$a$$7|$$a$$7|",
+        "N245A": "Połock, Witebsk, Smolensk.",
+        "N651": "$$aPolack (Bělorusko : oblast)$$7ge579982|$$aVitebsk (Bělorusko : oblast)$$7ge424527|$$aSmolensk (Rusko : oblast)$$7ge130866",
         "POZNAMKA": ""
       },
       "geometry": {

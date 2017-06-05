@@ -1,5 +1,5 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
+LDR   L -----nem-a22------i-4500
 007   L aj|ca|||
 008   L  ||||s{
     "id": "year",
@@ -24,6 +24,7 @@ LDR   L -----nem-a22--------4500
       "formatFunction": "ms:marc21_0341_bbox"
     }
   }
+040   L $$bcze$$erda
 0410  L $$a{
     "id":"langcode",
     "width":3,
@@ -123,7 +124,7 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+2641  L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",
@@ -143,6 +144,9 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 2
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$rdacarrier
 4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

@@ -1,4 +1,2165 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.6.",
+        "TITLE": "Gallipoli, Brussa.",
+        "N43": "$$ae-gr---|$$aa-tu---",
+        "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "Gallipoli, Brussa.",
+        "N651": "$$aGallipoli (Turecko : oblast)|$$aBursa (Turecko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.73940409080519,
+              39.00910880129
+            ],
+            [
+              25.94960373170529,
+              41.22948938000758
+            ],
+            [
+              29.470043580317498,
+              40.827449189086195
+            ],
+            [
+              29.1531397773736,
+              38.62123457828233
+            ],
+            [
+              25.73940409080519,
+              39.00910880129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.5.",
+        "TITLE": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
+        "N43": "$$ae-gr---|$$aa-tu---|$$ae-bu---",
+        "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578|$$aŠumen (Bulharsko : oblast)$$7ge746648|$$aEdirne (Turecko : oblast)$$7ge746652|$$aDidymoteicho (Řecko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.94960373170529,
+              41.22948938000758
+            ],
+            [
+              26.212183352858432,
+              43.426009514493344
+            ],
+            [
+              29.849271410682963,
+              43.00332382658546
+            ],
+            [
+              29.470043580317498,
+              40.827449189086195
+            ],
+            [
+              25.94960373170529,
+              41.22948938000758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.4.",
+        "TITLE": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
+        "N43": "$$ae-rm---|$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
+        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.212183352858432,
+              43.426009514493344
+            ],
+            [
+              26.5326476418924,
+              45.607528247752775
+            ],
+            [
+              30.29802471533897,
+              45.16010891363776
+            ],
+            [
+              29.849271410682963,
+              43.00332382658546
+            ],
+            [
+              26.212183352858432,
+              43.426009514493344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.3.",
+        "TITLE": "Bielcy, Kisziniew, Jassi.",
+        "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Bielcy, Kisziniew, Jassi.",
+        "N651": "$$aBălți (Moldavsko : oblast)|$$aKišiněv (Moldavsko : oblast)|$$aJasy (Rumunsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.532647641892332,
+              45.607528247752796
+            ],
+            [
+              26.918923103626287,
+              47.7845386651183
+            ],
+            [
+              30.82696351435079,
+              47.31139681255484
+            ],
+            [
+              30.29802471533897,
+              45.16010891363776
+            ],
+            [
+              26.532647641892332,
+              45.607528247752796
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.2.",
+        "TITLE": "Bałta, Umań, Bracław.",
+        "N43": "$$ae-rm---|$$ae-un---|$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Bałta, Umań, Bracław.",
+        "N651": "$$aBalta (Ukrajina : oblast)|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.918923103626287,
+              47.7845386651183
+            ],
+            [
+              27.387431482421785,
+              49.991596866414554
+            ],
+            [
+              31.458293049659382,
+              49.49467569579348
+            ],
+            [
+              30.82696351435079,
+              47.31139681255484
+            ],
+            [
+              26.918923103626287,
+              47.7845386651183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.1.",
+        "TITLE": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
+        "N43": "$$ae-un---|$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658|$$aŽytomyr (Ukrajina : oblast)$$7ge413901|$$aOvruč (Ukrajina : oblast)|$$aČernobyl (Ukrajina : oblast)|$$aMazyr (Bělorusko : oblast)$$7ge577267|$$aLojeŭ (Bělorusko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.387431482421785,
+              49.991596866414554
+            ],
+            [
+              27.93429838144915,
+              52.16000795611882
+            ],
+            [
+              32.18174321389361,
+              51.629966667919966
+            ],
+            [
+              31.458293049659382,
+              49.49467569579348
+            ],
+            [
+              27.387431482421785,
+              49.991596866414554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.",
+        "TITLE": "Bobrujsk, Czerikow, Str. Szkłow.",
+        "N43": "$$ae-un---|$$ae-bw---|$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
+        "N245A": "Bobrujsk, Czerikow, Str. Szkłow.",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)|$$aČerikaŭ (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.934298381449153,
+              52.16000795611878
+            ],
+            [
+              28.586028821841584,
+              54.34426173170275
+            ],
+            [
+              33.03354343304362,
+              53.77997635178039
+            ],
+            [
+              32.18174321389356,
+              51.62996666791994
+            ],
+            [
+              27.934298381449153,
+              52.16000795611878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.6.",
+        "TITLE": "Elbasan, Argyrokastron, Janina, Korfu, Philiataes.",
+        "N43": "$$ae-aa---|$$ae-xn---|$$ae-gr---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF|$$a913(495)$$2MRF",
+        "N245A": "Elbasan, Argyrokastron, Janina, Korfu, Philiataes.",
+        "N651": "$$aElbasan (Albánie : oblast)|$$aGjirokastër (Albánie : oblast)|$$aIoannina (Řecko : oblast)|$$aKorfu (Řecko : oblast)$$7ge856399|$$aFiliates (Řecko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.332964330464065,
+              39.26707119888405
+            ],
+            [
+              18.968340037795166,
+              39.39544755943652
+            ],
+            [
+              18.966364353460285,
+              41.62757812236513
+            ],
+            [
+              22.433211545743543,
+              41.49613164075197
+            ],
+            [
+              22.332964330464065,
+              39.26707119888405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.6.",
+        "TITLE": "Saloniki, Seres, Xanthi, Kastro, Pharsalos.",
+        "N43": "$$ae-gr---|$$ae-xn---|$$ae-bu---|$$aa-tu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "Saloniki, Seres, Xanthi, Kastro, Pharsalos.",
+        "N651": "$$aSoluň (Řecko : oblast)$$7ge826145|$$aSérrai (Řecko : oblast)|$$aXanthé (Řecko : oblast)|$$a$$7|$$aMyrina (Řecko : oblast)|$$aFársala (Řecko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.332964330464065,
+              39.26707119888405
+            ],
+            [
+              22.433211545743543,
+              41.49613164075197
+            ],
+            [
+              25.94960373170529,
+              41.22948938000758
+            ],
+            [
+              25.73940409080519,
+              39.00910880129
+            ],
+            [
+              22.332964330464065,
+              39.26707119888405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.5.",
+        "TITLE": "Sofia, Philippopel.",
+        "N43": "$$ae-gr---|$$ae-xn---|$$ae-bu---|$$ae-rb---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Sofia, Philippopel.",
+        "N651": "$$aSofie (Bulharsko : oblast)$$7ge749573|$$aPlovdiv (Bulharsko : oblast)$$7ge723127",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.433211545743475,
+              41.49613164075199
+            ],
+            [
+              22.574529637264607,
+              43.70745973719302
+            ],
+            [
+              26.212183352858432,
+              43.426009514493344
+            ],
+            [
+              25.94960373170529,
+              41.22948938000758
+            ],
+            [
+              22.433211545743475,
+              41.49613164075199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.4.",
+        "TITLE": "Nagyszeben (Hermannstadt), Brassó (Kronstadt), Bukarest, Craiova, Vidin, Ruščuk.",
+        "N43": "$$ae-rm---|$$ae-bu---|$$ae-rb---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Nagyszeben (Hermannstadt), Brassó (Kronstadt), Bukarest, Craiova, Vidin, Ruščuk.",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458|$$aBrašov (Rumunsko : oblast)$$7ge385110|$$aBukurešť (Rumunsko : oblast)$$7ge856669|$$aKrajova (Rumunsko : oblast)|$$aVidin (Bulharsko : oblast)$$7ge749570|$$aRuse (Bulharsko : oblast)$$7ge681740",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.574529637264607,
+              43.70745973719302
+            ],
+            [
+              22.760629021696392,
+              45.907442682896416
+            ],
+            [
+              26.5326476418924,
+              45.607528247752775
+            ],
+            [
+              26.212183352858432,
+              43.426009514493344
+            ],
+            [
+              22.574529637264607,
+              43.70745973719302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.3.",
+        "TITLE": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.",
+        "N43": "$$ae-rm---|$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.|Veliký Bočkov",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aTulgheș (Rumunsko : oblast)|$$aVelký Bočkov (Ukrajina : oblast)$$7ge909723",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.760629021696392,
+              45.907442682896416
+            ],
+            [
+              22.996732922455337,
+              48.10335388153178
+            ],
+            [
+              26.918923103626287,
+              47.7845386651183
+            ],
+            [
+              26.532647641892332,
+              45.607528247752796
+            ],
+            [
+              22.760629021696392,
+              45.907442682896416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.2.",
+        "TITLE": "Tarnopol, Brody, Stryj, Czernowitz.",
+        "N43": "$$ae-un---|$$ae-rm---|$$ae-mv---|$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Tarnopol, Brody, Stryj, Czernowitz.|Chust",
+        "N651": "$$aTarnopol (Ukrajina : oblast)|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.996732922455337,
+              48.10335388153178
+            ],
+            [
+              23.29349814246193,
+              50.326565546890535
+            ],
+            [
+              27.387431482421785,
+              49.991596866414554
+            ],
+            [
+              26.918923103626287,
+              47.7845386651183
+            ],
+            [
+              22.996732922455337,
+              48.10335388153178
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.1.",
+        "TITLE": "Brest-Litowsk, Pinsk, Ostrog, Kołki.",
+        "N43": "$$ae-un---|$$ae-bw---|$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Brest-Litowsk, Pinsk, Ostrog, Kołki.",
+        "N651": "$$aBrest (Bělorusko : oblast)$$7ge214861|$$aPinsk (Bělorusko : oblast)$$7ge579940|$$aOstroh (Ukrajina : oblast)$$7ge828847|$$aKolkì (Volyň, Ukrajina : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.293498142461853,
+              50.326565546890556
+            ],
+            [
+              23.651233234038507,
+              52.51998643808184
+            ],
+            [
+              27.93429838144915,
+              52.16000795611882
+            ],
+            [
+              27.387431482421785,
+              49.991596866414554
+            ],
+            [
+              23.293498142461853,
+              50.326565546890556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.",
+        "TITLE": "Wilna, Minsk, Grodno, Słonim.",
+        "N43": "$$ae-bw---|$$ae-pl---|$$ae-li---",
+        "N80": "$$a913 (476)$$2MRF|$$a913(438)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "Wilna, Minsk, Grodno, Słonim.",
+        "N651": "$$aVilnius (Litva : oblast)$$7ge565125|$$aMinsk (Bělorusko : oblast)$$7ge492465|$$aGrodno (Bělorusko : oblast)$$7ge290473|$$aSlonim (Bělorusko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.651233234038532,
+              52.519986438081794
+            ],
+            [
+              24.087045637614626,
+              54.72946237695285
+            ],
+            [
+              28.586028821841584,
+              54.34426173170275
+            ],
+            [
+              27.934298381449153,
+              52.16000795611878
+            ],
+            [
+              23.651233234038532,
+              52.519986438081794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.5.",
+        "TITLE": "Rom, Ancona, Pescara, Velletri.",
+        "N43": "$$ae-it---|$$ae-ci---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Rom, Ancona, Pescara, Velletri.",
+        "N651": "$$aŘím (Itálie : oblast)|$$aAncona (Itálie : oblast)|$$aPescara (Itálie : oblast)|$$aVelletri (Itálie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.928217190555689,
+              41.49340909317671
+            ],
+            [
+              11.687622468677246,
+              43.711854969886524
+            ],
+            [
+              15.321906185411052,
+              43.85047022023941
+            ],
+            [
+              15.439427616214479,
+              41.62818483583271
+            ],
+            [
+              11.928217190555689,
+              41.49340909317671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.4.",
+        "TITLE": "Pola, Zara, Commacchio.",
+        "N43": "$$ae-it---|$$ae-ci---|$$ae-xv---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Pola, Zara, Comacchio.",
+        "N651": "$$aPula (Chorvatsko : oblast)$$7ge828495|$$aZadar (Chorvatsko : oblast)$$7xx0160293|$$aComacchio (Itálie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.687622468677313,
+              43.711854969886524
+            ],
+            [
+              11.446772217791759,
+              45.92886827668311
+            ],
+            [
+              15.219336208000982,
+              46.06822716325516
+            ],
+            [
+              15.321906185411052,
+              43.85047022023941
+            ],
+            [
+              11.687622468677313,
+              43.711854969886524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.3.",
+        "TITLE": "Laibach Villach, Kufstein, Belluno.",
+        "N43": "$$ae-it---|$$ae-xv---|$$ae-au---|$$ae-gx---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Laibach Villach, Kufstein, Belluno.",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052|$$aVillach (Rakousko : oblast)|$$aKufstein (Rakousko : oblast)$$7ge560468|$$aBelluno (Itálie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.446772217791686,
+              45.92886827668312
+            ],
+            [
+              11.204316418018548,
+              48.13948085602371
+            ],
+            [
+              15.132036255251641,
+              48.28099868144203
+            ],
+            [
+              15.219336208000982,
+              46.06822716325516
+            ],
+            [
+              11.446772217791686,
+              45.92886827668312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.2.",
+        "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
+        "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.204316418018548,
+              48.13948085602371
+            ],
+            [
+              10.955771331915296,
+              50.364127725627284
+            ],
+            [
+              15.0597982144722,
+              50.51306366858619
+            ],
+            [
+              15.132036255251641,
+              48.28099868144203
+            ],
+            [
+              11.204316418018548,
+              48.13948085602371
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.1.",
+        "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
+        "N43": "$$ae-xr---|$$ae-pl---|$$ae-gx---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Berlin, Brandenburg, Bautzen, Leipzig.|Liberec|Berlín, Braniboř, Budišín, Lipsko.",
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750|$$aBrandenburg an der Havel (Německo : oblast)|$$aBudyšín (Německo : oblast)$$7ge807051|$$aLipsko (Německo : oblast)$$7ge327542|$$aLiberec (Česko : oblast)$$7ge129801",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.955771331915296,
+              50.364127725627284
+            ],
+            [
+              10.700844607941484,
+              52.58148991492269
+            ],
+            [
+              15.004611320830797,
+              52.73113027884869
+            ],
+            [
+              15.0597982144722,
+              50.51306366858619
+            ],
+            [
+              10.955771331915296,
+              50.364127725627284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "B.",
+        "TITLE": "Lübeck, Stralsund, Stettin.",
+        "N43": "$$ae-dk---|$$ae-pl---|$$ae-gx---",
+        "N80": "$$a913(489)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Lübeck, Stralsund, Stettin.",
+        "N651": "$$aLübeck (Německo : oblast)$$7ge583547|$$aStralsund (Německo : oblast)|$$aŠtětín (Polsko : oblast)$$7ge134526",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.700844607941447,
+              52.58148991492267
+            ],
+            [
+              10.43423306249563,
+              54.80927640631822
+            ],
+            [
+              14.966978640320074,
+              54.96259077547914
+            ],
+            [
+              15.004611320830797,
+              52.73113027884869
+            ],
+            [
+              10.700844607941447,
+              52.58148991492267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "westl.A.5.",
+        "TITLE": "Toulon.",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Toulon.",
+        "N651": "$$aToulon (Francie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.444582017826761,
+              41.22424123730581
+            ],
+            [
+              5.001440082903413,
+              40.82279852555869
+            ],
+            [
+              4.517088170554334,
+              43.01607171554888
+            ],
+            [
+              8.077937946495586,
+              43.432751044311374
+            ],
+            [
+              8.444582017826761,
+              41.22424123730581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.5.",
+        "TITLE": "Civitavecchia, I. Corsica",
+        "N43": "$$ae-fr---|$$ae-it---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "Civitavecchia, I. Corsica",
+        "N651": "$$aCivitavecchia (Itálie : oblast)|$$aKorsika (Francie)$$7ge134281",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.444582017826761,
+              41.22424123730581
+            ],
+            [
+              8.077937946495586,
+              43.432751044311374
+            ],
+            [
+              11.687622468677246,
+              43.711854969886524
+            ],
+            [
+              11.928217190555689,
+              41.49340909317671
+            ],
+            [
+              8.444582017826761,
+              41.22424123730581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "westl.A.4.",
+        "TITLE": "Turin, Marseille, Avignon, Antibes.",
+        "N43": "$$ae-fr---|$$ae-it---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "Turin, Marseille, Avignon, Antibes.",
+        "N651": "$$aTurín (Itálie : oblast)$$7ge572776|$$aMarseille (Francie : oblast)|$$aAvignon (Francie : oblast)|$$aAntibes (Francie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.077937946495586,
+              43.432751044311374
+            ],
+            [
+              4.517088170554334,
+              43.01607171554888
+            ],
+            [
+              4.002360469859946,
+              45.212459728536004
+            ],
+            [
+              7.695532302995584,
+              45.642362746003094
+            ],
+            [
+              8.077937946495586,
+              43.432751044311374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.4.",
+        "TITLE": "Mailand, Genua, Bologna, Florenz.",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Mailand, Genua, Bologna, Florenz.",
+        "N651": "$$aMilán (Itálie : oblast)$$7ge392508|$$aJanov (Itálie : oblast)$$7ge418801|$$aBologna (Itálie : oblast)|$$aFlorencie (Itálie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.077937946495586,
+              43.432751044311374
+            ],
+            [
+              7.695532302995584,
+              45.642362746003094
+            ],
+            [
+              11.446772217791759,
+              45.92886827668311
+            ],
+            [
+              11.687622468677313,
+              43.711854969886524
+            ],
+            [
+              8.077937946495586,
+              43.432751044311374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "westl.A.3",
+        "TITLE": "Genf, Lyon, Belfort, Macon.",
+        "N43": "$$ae-fr---|$$ae-it---|$$ae-sz---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "Genf, Lyon, Belfort, Macon.",
+        "N651": "$$aŽeneva (Švýcarsko : oblast)$$7ge663896|$$aLyon (Francie : oblast)|$$aBelfort (Francie : oblast)|$$aMâcon (Francie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.695532302995584,
+              45.642362746003094
+            ],
+            [
+              4.002360469859946,
+              45.212459728536004
+            ],
+            [
+              3.454508281487674,
+              47.397888259564915
+            ],
+            [
+              7.294929071151453,
+              47.8435498567919
+            ],
+            [
+              7.695532302995584,
+              45.642362746003094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.3.",
+        "TITLE": "Innsbruck, Trient, Basel, Zürich.",
+        "N43": "$$ae-it---|$$ae-sz---|$$ae-au---|$$ae-gx---|$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Innsbruck, Trient, Basel, Zürich.",
+        "N651": "$$aInnsbruck (Rakousko : oblast)$$7ge494545|$$aTrident (Itálie : oblast)$$7ge856350|$$aBasilej (Švýcarsko : oblast)$$7ge565555|$$aCurych (Švýcarsko : oblast)$$7ge128980",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.695532302995584,
+              45.642362746003094
+            ],
+            [
+              7.294929071151453,
+              47.8435498567919
+            ],
+            [
+              11.204316418018548,
+              48.13948085602371
+            ],
+            [
+              11.446772217791686,
+              45.92886827668312
+            ],
+            [
+              7.695532302995584,
+              45.642362746003094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "Westl.A.2.",
+        "TITLE": "Luxemburg, Metz, Chalons sur Marne.",
+        "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
+        "N245A": "Luxemburg, Metz, Chalons sur Marne.",
+        "N651": "$$aLucemburk (Lucembursko : oblast)|$$aMety (Francie : oblast)|$$aChâlons-en-Champagne (Francie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.294929071151453,
+              47.8435498567919
+            ],
+            [
+              3.454508281487674,
+              47.397888259564915
+            ],
+            [
+              2.863196159083706,
+              49.58470743890189
+            ],
+            [
+              6.868133531673617,
+              50.0527315697405
+            ],
+            [
+              7.294929071151453,
+              47.8435498567919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.2.",
+        "TITLE": "Mainz, Nürnberg, Strassburg, Ulm.",
+        "N43": "$$ae-gx---|$$ae-fr---",
+        "N80": "$$a913(430)$$2MRF|$$a913$$(44)2MRF",
+        "N245A": "Mainz, Nürnberg, Strassburg, Ulm.",
+        "N651": "$$aMohuč (Německo : oblast)$$7ge130058|$$aNorimberk (Německo : oblast)$$7ge206801|$$aŠtrasburk (Francie : oblast)|$$aUlm (Německo : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.294929071151453,
+              47.8435498567919
+            ],
+            [
+              6.868133531673617,
+              50.0527315697405
+            ],
+            [
+              10.955771331915296,
+              50.364127725627284
+            ],
+            [
+              11.204316418018548,
+              48.13948085602371
+            ],
+            [
+              7.294929071151453,
+              47.8435498567919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "Westl.A.1.",
+        "TITLE": "Aachen, Brüssel, St. Quentin.",
+        "N43": "$$ae-fr---|$$ae-gx---|$$ae-be---|$$ae-lu---|$$ae-ne---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Aachen, Brüssel, St. Quentin.",
+        "N651": "$$aCáchy (Německo : oblast)$$7ge259169|$$aBrusel (Belgie : oblast)$$7ge290585|$$a$$7|$$aSaint-Quentin (Francie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.868133531673617,
+              50.0527315697405
+            ],
+            [
+              2.863196159083706,
+              49.58470743890189
+            ],
+            [
+              2.218504019656614,
+              51.775176459311936
+            ],
+            [
+              6.410742435286545,
+              52.26051309987389
+            ],
+            [
+              6.868133531673617,
+              50.0527315697405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.1.",
+        "TITLE": "Cöln, Cassel, Hannover, Osnabrück, Fulda.",
+        "N43": "$$ae-gx---|$$ae-ne---",
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Cöln, Cassel, Hannover, Osnabbrück, Fulda.",
+        "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983|$$aKassel (Německo : oblast)|$$aHannover (Německo : oblast)$$7ge679596|$$aOsnabrück (Německo : oblast)|$$aFulda (Německo : oblast)$$7ge897939",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.868133531673617,
+              50.0527315697405
+            ],
+            [
+              6.410742435286545,
+              52.26051309987389
+            ],
+            [
+              10.700844607941484,
+              52.58148991492269
+            ],
+            [
+              10.955771331915296,
+              50.364127725627284
+            ],
+            [
+              6.868133531673617,
+              50.0527315697405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "Westl.A.",
+        "TITLE": "Amsterdam, Haag, Flensburg, Memel.",
+        "N43": "$$ae-ne---|$$ae-dk---|$$ae-gx---",
+        "N80": "$$a913(492)$$2MRF|$$a913(489)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Amsterdam, Haag, Flensburg, Memel.",
+        "N651": "$$aAmsterdam (Nizozemsko : oblast)|$$aHaag (Nizozemsko : oblast)|$$aFlensburg (Německo : oblast)|$$aKlajpeda (Litva : oblast)$$7ge187278",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.410742435286545,
+              52.26051309987389
+            ],
+            [
+              2.218504019656559,
+              51.77517645931192
+            ],
+            [
+              1.509459188820215,
+              53.96722340905127
+            ],
+            [
+              5.913433928421106,
+              54.47470348155557
+            ],
+            [
+              6.410742435286545,
+              52.26051309987389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "A.",
+        "TITLE": "Hamburg, Wilhelmshaven, Schleswig.",
+        "N43": "$$ae-gx---|$$ae-ne---",
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Hamburg, Wilhelmshaven, Schleswig.",
+        "N651": "$$aHamburk (Německo : oblast)$$7ge679598|$$aWilhelmshaven (Německo : oblast)|$$aSchleswig (Německo : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.410742435286545,
+              52.26051309987389
+            ],
+            [
+              5.913433928421106,
+              54.47470348155557
+            ],
+            [
+              10.43423306249563,
+              54.80927640631822
+            ],
+            [
+              10.700844607941447,
+              52.58148991492267
+            ],
+            [
+              6.410742435286545,
+              52.26051309987389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.5.",
+        "TITLE": "Veles, Priština, Scutari.",
+        "N43": "$$ae-aa---|$$ae-mo---|$$ae-rb---|$$ae-xn---|$$ae-bu---|$$ae-bn---|$$ae-kv---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.115)$$2MRF",
+        "N245A": "Veles, Priština, Scutari.",
+        "N651": "$$aVeles (Makedonie : oblast)|$$aPriština (Kosovo : oblast)$$7ge856412|$$aShkodër (Albánie : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.966364353460285,
+              41.62757812236513
+            ],
+            [
+              18.978982271996635,
+              43.847918808342946
+            ],
+            [
+              22.574529637264607,
+              43.70745973719302
+            ],
+            [
+              22.433211545743475,
+              41.49613164075199
+            ],
+            [
+              18.966364353460285,
+              41.62757812236513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.5.",
+        "TITLE": "Ragusa, Mostar.",
+        "N43": "$$ae-it---|$$ae-ci---|$$ae-bn---|$$ae-mo---",
+        "N80": "$$a913 (450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
+        "N245A": "Ragusa, Mostar.",
+        "N651": "$$aDubrovník (Chorvatsko : oblast)|$$aMostar (Bosna a Hercegovina : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.966364353460285,
+              41.62757812236513
+            ],
+            [
+              15.439427616214479,
+              41.62818483583271
+            ],
+            [
+              15.321906185411052,
+              43.85047022023941
+            ],
+            [
+              18.978982271996635,
+              43.847918808342946
+            ],
+            [
+              18.966364353460285,
+              41.62757812236513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.4.",
+        "TITLE": "Zemun, Orsova, Belgrad, Užice.",
+        "N43": "$$ae-rb---|$$ae-bn---|$$ae-ci---|$$ae-hu---|$$ae-rm---|$$ae-bu---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Zemun, Orsova, Belgrad, Užice.",
+        "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990|$$aOršava (Rumunsko : oblast)|$$aUžice (Srbsko : oblast)$$7ge856404",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.978982271996635,
+              43.847918808342946
+            ],
+            [
+              19.021908404396623,
+              46.06008407728772
+            ],
+            [
+              22.760629021696392,
+              45.907442682896416
+            ],
+            [
+              22.574529637264607,
+              43.70745973719302
+            ],
+            [
+              18.978982271996635,
+              43.847918808342946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.4.",
+        "TITLE": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
+        "N43": "$$ae-bn---|$$ae-ci---|$$ae-xv---|$$ae-hu---|$$ae-rb---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)|$$aGlina (Chorvatsko : oblast)|$$aKnin (Chorvatsko : oblast)$$7ge336617|$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.978982271996635,
+              43.847918808342946
+            ],
+            [
+              15.321906185411052,
+              43.85047022023941
+            ],
+            [
+              15.219336208000982,
+              46.06822716325516
+            ],
+            [
+              19.021908404396623,
+              46.06008407728772
+            ],
+            [
+              18.978982271996635,
+              43.847918808342946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.3.",
+        "TITLE": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.",
+        "N43": "$$ae-hu---|$$ae-rm---|$$ae-rb---|$$ae-xo---|$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.|Sklabiná",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aOradea (Rumunsko : oblast)$$7ge856419|$$aArad (Rumunsko : oblast)|$$aEger (Maďarsko : oblast)|$$aSzolnok (Maďarsko : oblast)$$7ge459428|$$aSklabiná (Slovensko : oblast)$$7ge909711",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.021908404396623,
+              46.06008407728772
+            ],
+            [
+              19.097746889169002,
+              48.2680545479879
+            ],
+            [
+              22.996732922455337,
+              48.10335388153178
+            ],
+            [
+              22.760629021696392,
+              45.907442682896416
+            ],
+            [
+              19.021908404396623,
+              46.06008407728772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.3.",
+        "TITLE": "Wien, Graz, Budapest.",
+        "N43": "$$ae-hu---|$$ae-au---|$$ae-xo---|$$ae-xv---|$$ae-ci---",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Wien, Graz, Budapest.|Bratislava|Vídeň, Št. Hradec, Budapešť.",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468|$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581|$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aBratislava (Slovensko : oblast)$$7ge225358",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.021908404396623,
+              46.06008407728772
+            ],
+            [
+              15.219336208000982,
+              46.06822716325516
+            ],
+            [
+              15.132036255251641,
+              48.28099868144203
+            ],
+            [
+              19.097746889169002,
+              48.2680545479879
+            ],
+            [
+              19.021908404396623,
+              46.06008407728772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.2.",
+        "TITLE": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau",
+        "N43": "$$ae-hu---|$$ae-xo---|$$ae-pl---|$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau|Užhorod|Krakau, Przemyśl, Jaroslau, Kassa, Lőcse.",
+        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258|$$aPrzemyśl (Polsko : oblast)$$7ge130543|$$aJarosław (Polsko : oblast)|$$aKošice (Slovensko : oblast)$$7ge189287|$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aUžhorod (Ukrajina : oblast)$$7ge784174",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.097746889169002,
+              48.2680545479879
+            ],
+            [
+              19.2114891315716,
+              50.4998003157477
+            ],
+            [
+              23.29349814246193,
+              50.326565546890535
+            ],
+            [
+              22.996732922455337,
+              48.10335388153178
+            ],
+            [
+              19.097746889169002,
+              48.2680545479879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.2.",
+        "TITLE": "Brünn, Troppau, Neutra",
+        "N43": "$$ae-xr---|$$ae-au---|$$ae-xo---|$$ae-pl---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913$$(437.6)2MRF|$$a913$$(438)2MRF",
+        "N245A": "Brünn, Troppau, Neutra|Brno|Brno, Opava, Nitra|Brünn, Troppau, Nyitra.",
+        "N651": "$$aBrno (Česko : oblast)$$7ge128414|$$aOpava (Česko : oblast)$$7ge128535|$$aNitra (Slovensko : oblast)$$7ge128490",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.097746889169002,
+              48.2680545479879
+            ],
+            [
+              15.132036255251641,
+              48.28099868144203
+            ],
+            [
+              15.0597982144722,
+              50.51306366858619
+            ],
+            [
+              19.2114891315716,
+              50.4998003157477
+            ],
+            [
+              19.097746889169002,
+              48.2680545479879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.1.",
+        "TITLE": "Warschau, Lublin, Modlin (Nowogeorgiewsk).",
+        "N43": "$$ae-pl---|$$ae-bw---",
+        "N80": "$$a913(438)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Warschau, Lublin, Modlin (Nowogeorgiewsk.)",
+        "N651": "$$aVaršava (Polsko : oblast)$$7ge217232|$$aLublin (Polsko : oblast)$$7ge251172|$$aNowy Dwór Mazowiecki (Polsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2114891315716,
+              50.4998003157477
+            ],
+            [
+              19.36540183578236,
+              52.70997261735166
+            ],
+            [
+              23.651233234038507,
+              52.51998643808184
+            ],
+            [
+              23.293498142461853,
+              50.326565546890556
+            ],
+            [
+              19.2114891315716,
+              50.4998003157477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.1.",
+        "TITLE": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
+        "N43": "$$ae-pl---|$$ae-xr---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.|Trutnov|Poznaň, Hlohov, Svídnice, Opolí, Kalisz. (Posen, Glogau, Schweidnitz, Oppeln, Kalisz).",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpole (Polsko : oblast)|$$aKalisz (Polsko : oblast)$$7ge367358|$$aTrutnov (Česko : oblast)$$7ge131134",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2114891315716,
+              50.4998003157477
+            ],
+            [
+              15.0597982144722,
+              50.51306366858619
+            ],
+            [
+              15.004611320830797,
+              52.73113027884869
+            ],
+            [
+              19.36540183578236,
+              52.70997261735166
+            ],
+            [
+              19.2114891315716,
+              50.4998003157477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.",
+        "TITLE": "Königsberg, Guttstadt, Biełostok, Suwałki.",
+        "N43": "$$ae-pl---|$$ae-ru---|$$ae-bw---|$$ae-li---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470-15)$$2MRF|$$a913(476)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "Königsberg, Guttstadt, Biełostok, Suwałki.",
+        "N651": "$$aKaliningrad (Rusko : oblast)|$$aDobre Miasto (Polsko : oblast)|$$aBiałystok (Polsko : oblast)$$7ge189073|$$aSuwałki (Polsko : oblast)$$7ge135739",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.36540183578233,
+              52.7099726173516
+            ],
+            [
+              19.567711453050787,
+              54.93544872952015
+            ],
+            [
+              24.087045637614626,
+              54.72946237695285
+            ],
+            [
+              23.651233234038532,
+              52.519986438081794
+            ],
+            [
+              19.36540183578233,
+              52.7099726173516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "C.",
+        "TITLE": "Danzig, Colberg, Thorn.",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Danzig, Colberg, Thorn.",
+        "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456|$$aKołobrzeg (Polsko : oblast)$$7ge570347|$$aToruň (Polsko : oblast)$$7ge131098",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.36540183578233,
+              52.7099726173516
+            ],
+            [
+              15.004611320830797,
+              52.73113027884869
+            ],
+            [
+              14.966978640320074,
+              54.96259077547914
+            ],
+            [
+              19.567711453050787,
+              54.93544872952015
+            ],
+            [
+              19.36540183578233,
+              52.7099726173516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.II. Provisorisch",
+        "TITLE": "Windau, I. Ösel, Dünamünde",
+        "N43": "$$ae-lv---|$$ae-er---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.2)$$2MRF",
+        "N245A": "Windau, I. Ösel, Dünamünde",
+        "N651": "$$aVentspils (Lotyšsko : oblast)|$$aSaaremaa (Estonsko)|$$aDaugavgriva (Lotyšsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.624678090850963,
+              56.95820363856914
+            ],
+            [
+              19.792112998042974,
+              57.19623503187075
+            ],
+            [
+              20.06754087502949,
+              59.37820320498867
+            ],
+            [
+              25.25408576077216,
+              59.13232281402328
+            ],
+            [
+              24.624678090850963,
+              56.95820363856914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.I. Provisorisch",
+        "TITLE": "Riga, Libau, Memel, Kowno.",
+        "N43": "$$ae-ru---|$$ae-li---|$$ae-lv---",
+        "N80": "$$a913(470-15)$$2MRF|$$a913(474.5)$$2MRF|$$a913(474.3)$$2MRF",
+        "N245A": "Riga, Libau, Memel, Kowno.",
+        "N651": "$$aRiga (Lotyšsko : oblast)|$$aLiepāja (Lotyšsko : oblast)|$$aKlajpeda (Litva : oblast)|$$aKaunas (Litva : oblast)$$7ge624716",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.087045637311963,
+              54.729462375086584
+            ],
+            [
+              19.567711453050787,
+              54.93544872952015
+            ],
+            [
+              19.792112998042974,
+              57.19623503187075
+            ],
+            [
+              24.62467809085089,
+              56.958203638569174
+            ],
+            [
+              24.087045637311963,
+              54.729462375086584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.II. Provisorisch",
+        "TITLE": "Dorpat, Pskow, Ostrow.",
+        "N43": "$$ae-lv---|$$ae-ru---|$$ae-er---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(470-15)$$2MRF|$$a913(474.2)$$2MRF",
+        "N245A": "Dorpat, Pskow, Ostrow.",
+        "N651": "$$aTartu (Estonsko : oblast)|$$aPskov (Rusko : oblast)$$7ge327454|$$aOstrov (Pskovská oblast, Rusko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.37578991074267,
+              56.53106908393411
+            ],
+            [
+              24.624678090850963,
+              56.95820363856914
+            ],
+            [
+              25.25408576077216,
+              59.13232281402328
+            ],
+            [
+              30.294867320175054,
+              58.68610044645448
+            ],
+            [
+              29.37578991074267,
+              56.53106908393411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.II. Provisorisch",
+        "TITLE": "Nowgorod, Str. Russa, Ostaszkow.",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470-15)$$2MRF",
+        "N245A": "Nowgorod, Str. Russa, Ostaszkow.",
+        "N651": "$$aNovgorod (Rusko : oblast)$$7ge590304|$$aStaraja Russa (Rusko : oblast)|$$aOstashkov (Rusko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.37578991074267,
+              56.53106908393411
+            ],
+            [
+              30.294867320175054,
+              58.68610044645448
+            ],
+            [
+              35.17877073797112,
+              58.04711317070797
+            ],
+            [
+              34.02306833839611,
+              55.91874138737393
+            ],
+            [
+              29.37578991074267,
+              56.53106908393411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.I. Provisorisch",
+        "TITLE": "Dwinsk (Dünaburg), Friedrichstadt.",
+        "N43": "$$ae-lv---|$$ae-li---|$$ae-bw---|$$ae-ru---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
+        "N245A": "Dwinsk (Dünaburg), Friedrichstadt.",
+        "N651": "$$aDaugavpils (Lotyšsko : oblast)|$$aJaunjelgava (Lotyšsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.587212400706495,
+              54.3441361986814
+            ],
+            [
+              24.087045637311963,
+              54.729462375086584
+            ],
+            [
+              24.62467809085089,
+              56.958203638569174
+            ],
+            [
+              29.375789910742757,
+              56.531069083934135
+            ],
+            [
+              28.587212400706495,
+              54.3441361986814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.I. Provisorisch",
+        "TITLE": "Połock, Witebsk, Smolensk.",
+        "N43": "$$ae-bw---|$$ae-ru---",
+        "N80": "$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
+        "N245A": "Połock, Witebsk, Smolensk.",
+        "N651": "$$aPolack (Bělorusko : oblast)$$7ge579982|$$aVitebsk (Bělorusko : oblast)$$7ge424527|$$aSmolensk (Rusko : oblast)$$7ge130866",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.587212400706495,
+              54.3441361986814
+            ],
+            [
+              29.375789910742757,
+              56.531069083934135
+            ],
+            [
+              34.02306833839604,
+              55.91874138737393
+            ],
+            [
+              33.033543441274844,
+              53.779976338926964
+            ],
+            [
+              28.587212400706495,
+              54.3441361986814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "D.III. Provisorisch",
+        "TITLE": "Tammerfors, Helsingfors, Reval.",
+        "N43": "$$ae-er---|$$ae-fi---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Tammerfors, Helsingfors, Reval.",
+        "N651": "$$aTampere (Finsko : oblast)|$$aHelsinky (Finsko : oblast)|$$aTallinn (Estonsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.2540857607722,
+              59.13232281402325
+            ],
+            [
+              20.06754087502945,
+              59.37820320498867
+            ],
+            [
+              20.42133399504668,
+              61.612575345300236
+            ],
+            [
+              26.04023031326964,
+              61.335598988114384
+            ],
+            [
+              25.2540857607722,
+              59.13232281402325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "E.III. Provisorisch",
+        "TITLE": "Kronstadt, Wiborg, Wesenberg.",
+        "N43": "$$ae-er---|$$ae-fi---|$$ae-ru---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF|$$a913(470-15)$$2MRF",
+        "N245A": "Kronstadt, Wiborg, Wesenberg.",
+        "N651": "$$aKronštadt (Rusko : oblast)|$$aVyborg (Rusko : oblast)|$$aRakvere (Estonsko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.294867320175054,
+              58.68610044645448
+            ],
+            [
+              25.2540857607722,
+              59.13232281402325
+            ],
+            [
+              26.04023031326964,
+              61.335598988114384
+            ],
+            [
+              31.384401845161648,
+              60.849423189897585
+            ],
+            [
+              30.294867320175054,
+              58.68610044645448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALE": "750000",
+        "SHEET": "F.III. Provisorisch",
+        "TITLE": "St. Petersburg, Tichwin.",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470-15)$$2MRF",
+        "N245A": "St. Petersburg, Tichwin.",
+        "N651": "$$aPetrohrad (Rusko : oblast)$$7ge130402|$$aTichvin (Rusko : oblast)",
+        "POZNAMKA": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.294867320175054,
+              58.68610044645448
+            ],
+            [
+              31.384401845161648,
+              60.849423189897585
+            ],
+            [
+              36.53084427497261,
+              60.160349755628815
+            ],
+            [
+              35.178770737971064,
+              58.04711317070795
+            ],
+            [
+              30.294867320175054,
+              58.68610044645448
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -83,7 +83,7 @@ LDR   L -----nem-a22--------4500
   }.$$p{
     "id":"sheet",
     "title": "Označení listu",
-    "width": 10,
+    "width": 50,
     "values": [
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}

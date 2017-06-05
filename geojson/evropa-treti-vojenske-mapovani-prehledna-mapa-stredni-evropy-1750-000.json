@@ -726,10 +726,10 @@
       "properties": {
         "SCALE": "750000",
         "SHEET": "B.2.",
-        "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
+        "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.",
+        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
         "POZNAMKA": ""
       },
@@ -766,11 +766,11 @@
       "properties": {
         "SCALE": "750000",
         "SHEET": "B.1.",
-        "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
+        "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.|Liberec|Berlín, Braniboř, Budišín, Lipsko.",
         "N43": "$$ae-xr---|$$ae-pl---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Berlin, Brandenburg, Bautzen, Leipzig.",
-        "N651": "$$aBerlín (Německo : oblast)$$7ge128750|$$aBrandenburg an der Havel (Německo : oblast)|$$aBudyšín (Německo : oblast)$$7ge807051|$$aLipsko (Německo : oblast)$$7ge327542",
+        "N245A": "Berlin, Brandenburg, Bautzen, Leipzig.|Liberec|Berlín, Braniboř, Budišín, Lipsko.",
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750|$$aBrandenburg an der Havel (Německo : oblast)|$$aBudyšín (Německo : oblast)$$7ge807051|$$aLipsko (Německo : oblast)$$7ge327542|$$aLiberec (Česko : oblast)$$7ge129801",
         "POZNAMKA": ""
       },
       "geometry": {

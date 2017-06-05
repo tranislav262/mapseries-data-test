@@ -449,8 +449,8 @@
         "TITLE": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.",
         "N43": "$$ae-rm---|$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.",
-        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aTulgheș (Rumunsko : oblast)",
+        "N245A": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.|Veliký Bočkov",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aTulgheș (Rumunsko : oblast)|$$aVelký Bočkov (Ukrajina : oblast)$$7ge909723",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -489,8 +489,8 @@
         "TITLE": "Tarnopol, Brody, Stryj, Czernowitz.",
         "N43": "$$ae-un---|$$ae-rm---|$$ae-mv---|$$ae-pl---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Tarnopol, Brody, Stryj, Czernowitz.",
-        "N651": "$$aTarnopol (Ukrajina : oblast)|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845",
+        "N245A": "Tarnopol, Brody, Stryj, Czernowitz.|Chust",
+        "N651": "$$aTarnopol (Ukrajina : oblast)|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -726,10 +726,10 @@
       "properties": {
         "SCALE": "750000",
         "SHEET": "B.2.",
-        "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
+        "TITLE": "Prag, Eger, Budweis, Linz, München, Regensburg.",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
+        "N245A": "Prag, Eger, Budweis, Linz, München, Regensburg.|Praha|Praha, Cheb, Č. Budějovice, Linec, Mnichov, Řezno.",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513|$$aCheb (Česko : oblast)$$7ge128921|$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aLinec (Rakousko : oblast)$$7ge494546|$$aMnichov (Německo : oblast)$$7ge273426|$$aŘezno (Německo : oblast)$$7ge391146",
         "POZNAMKA": ""
       },
@@ -766,7 +766,7 @@
       "properties": {
         "SCALE": "750000",
         "SHEET": "B.1.",
-        "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.|Liberec|Berlín, Braniboř, Budišín, Lipsko.",
+        "TITLE": "Berlin, Brandenburg, Bautzen, Leipzig.",
         "N43": "$$ae-xr---|$$ae-pl---|$$ae-gx---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Berlin, Brandenburg, Bautzen, Leipzig.|Liberec|Berlín, Braniboř, Budišín, Lipsko.",
@@ -1489,8 +1489,8 @@
         "TITLE": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.",
         "N43": "$$ae-hu---|$$ae-rm---|$$ae-rb---|$$ae-xo---|$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.",
-        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aOradea (Rumunsko : oblast)$$7ge856419|$$aArad (Rumunsko : oblast)|$$aEger (Maďarsko : oblast)|$$aSzolnok (Maďarsko : oblast)$$7ge459428",
+        "N245A": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.|Sklabiná",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aOradea (Rumunsko : oblast)$$7ge856419|$$aArad (Rumunsko : oblast)|$$aEger (Maďarsko : oblast)|$$aSzolnok (Maďarsko : oblast)$$7ge459428|$$aSklabiná (Slovensko : oblast)$$7ge909711",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1529,8 +1529,8 @@
         "TITLE": "Wien, Graz, Budapest.",
         "N43": "$$ae-hu---|$$ae-au---|$$ae-xo---|$$ae-xv---|$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "Wien, Graz, Budapest.",
-        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468|$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581|$$aBudapešť (Maďarsko : oblast)$$7ge251149",
+        "N245A": "Wien, Graz, Budapest.|Bratislava|Vídeň, Št. Hradec, Budapešť.",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468|$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581|$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aBratislava (Slovensko : oblast)$$7ge225358",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1569,8 +1569,8 @@
         "TITLE": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau",
         "N43": "$$ae-hu---|$$ae-xo---|$$ae-pl---|$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau",
-        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258|$$aPrzemyśl (Polsko : oblast)$$7ge130543|$$aJarosław (Polsko : oblast)|$$aKošice (Slovensko : oblast)$$7ge189287|$$aLevoča (Slovensko : oblast)$$7xx0092932",
+        "N245A": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau|Užhorod|Krakau, Przemyśl, Jaroslau, Kassa, Löcse.",
+        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258|$$aPrzemyśl (Polsko : oblast)$$7ge130543|$$aJarosław (Polsko : oblast)|$$aKošice (Slovensko : oblast)$$7ge189287|$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aUžhorod (Ukrajina : oblast)$$7ge784174",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1609,7 +1609,7 @@
         "TITLE": "Brünn, Troppau, Neutra",
         "N43": "$$ae-xr---|$$ae-au---|$$ae-xo---|$$ae-pl---",
         "N80": "$$a913(437.3)$$2MRF|$$a913(436)$$2MRF|$$a913$$(437.6)2MRF|$$a913$$(438)2MRF",
-        "N245A": "Brünn, Troppau, Neutra",
+        "N245A": "Brünn, Troppau, Neutra|Brno|Brno, Opava, Nitra|Brünn, Troppau, Nyitra.",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414|$$aOpava (Česko : oblast)$$7ge128535|$$aNitra (Slovensko : oblast)$$7ge128490",
         "POZNAMKA": ""
       },
@@ -1689,8 +1689,8 @@
         "TITLE": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
         "N43": "$$ae-pl---|$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
-        "N245A": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.",
-        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpole (Polsko : oblast)|$$aKalisz (Polsko : oblast)$$7ge367358",
+        "N245A": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.|Trutnov|Poznaň, Hlohov, Svídnice, Opolí, Kalisz. (Posen, Glogau, Schweidnitz, Oppeln, Kalisz).",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpole (Polsko : oblast)|$$aKalisz (Polsko : oblast)$$7ge367358|$$aTrutnov (Česko : oblast)$$7ge131134",
         "POZNAMKA": ""
       },
       "geometry": {

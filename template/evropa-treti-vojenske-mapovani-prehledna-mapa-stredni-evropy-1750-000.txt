@@ -99,14 +99,6 @@ LDR   L -----nem-a22------i-4500
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
-2463  L $$a{
-    "base":"sheet",
-    "title": "Variantní název",
-    "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"}
-    ]
-  }
 24630 L $$a{
     "base": "sheet",
     "title": "Název části"

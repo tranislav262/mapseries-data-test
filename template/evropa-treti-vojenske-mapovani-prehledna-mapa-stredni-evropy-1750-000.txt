@@ -77,6 +77,7 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název listu",
+    "width": 50,
     "value": {
       "attr": "N245A",
       "width": 50
@@ -84,7 +85,7 @@ LDR   L -----nem-a22--------4500
   }.$$p{
     "id":"sheet",
     "title": "Označení listu",
-    "width": 50,
+    "width": 10,
     "values": [
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
@@ -134,7 +135,7 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+300   L $$a1 mapa :$$bbarev. ;$$c 33 x 39 cm, na listu {
   "id": "height",
   "title": "Výška",
   "width": 2

@@ -16,7 +16,7 @@ LDR   L -----nem-a22--------4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b750000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -78,7 +78,7 @@ LDR   L -----nem-a22--------4500
 24510 L $$a{
     "title": "Název listu",
     "value": {
-      "attr": "245a"
+      "attr": "N245A"
     }
   }.$$p{
     "id":"sheet",
@@ -114,7 +114,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:750 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -175,7 +175,7 @@ LDR   L -----nem-a22--------4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+830 0 L $$aTřetí vojenské mapování 1:750 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

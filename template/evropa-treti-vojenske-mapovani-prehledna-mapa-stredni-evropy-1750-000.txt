@@ -138,7 +138,7 @@ LDR   L -----nem-a22------i-4500
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
-338   L $$alist$$bnb$$crdacarrier
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

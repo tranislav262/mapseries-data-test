@@ -124,7 +124,7 @@ LDR   L -----nem-a22------i-4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+264 1  L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",

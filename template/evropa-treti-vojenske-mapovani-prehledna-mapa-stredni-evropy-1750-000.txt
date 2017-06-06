@@ -53,7 +53,7 @@ LDR   L -----nem-a22------i-4500
     "multipleValues": true,
     "valueSeparator": "\n080   L ",
     "value": {
-      "attr": "80"
+      "attr": "N80"
     }
   }
 080   L $$a(084.3)528.42 $$2MRF

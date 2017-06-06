@@ -51,7 +51,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Pole 080",
     "enabled": false,
     "multipleValues": true,
-    "valueSeparator": "\n080   L ",
+    "valueSeparator": "\n80   L ",
     "value": {
       "attr": "N80"
     }

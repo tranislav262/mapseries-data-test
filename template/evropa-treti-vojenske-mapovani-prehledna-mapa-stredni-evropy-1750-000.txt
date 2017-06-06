@@ -90,7 +90,7 @@ LDR   L -----nem-a22------i-4500
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
     ]
-  }$$h[kartografický dokument] /$$c{
+  }$$c{
     "base":"corporation",
     "width": 60,
     "title": "Údaj o odpovědnosti",
@@ -168,7 +168,7 @@ LDR   L -----nem-a22------i-4500
     "enabled": false,
     "multipleValues": true,
     "width": 60,
-    "valueSeparator": "\n651 7 L ",
+    "valueSeparator": "\N651 7 L ",
     "value": {
       "attr": "651"
     }
@@ -184,7 +184,7 @@ LDR   L -----nem-a22------i-4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:750 000 ;$$v{
+830 0 L $$aTřetí vojenské mapování 1:750 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

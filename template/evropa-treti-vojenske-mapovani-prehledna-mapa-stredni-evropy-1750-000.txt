@@ -41,7 +41,7 @@ LDR   L -----nem-a22------i-4500
     "enabled": false,
     "width": 40,
     "value": {
-      "attr": "43"
+      "attr": "N43"
     }
   }
 072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
@@ -51,7 +51,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Pole 080",
     "enabled": false,
     "multipleValues": true,
-    "valueSeparator": "\n80   L ",
+    "valueSeparator": "\n080   L ",
     "value": {
       "attr": "N80"
     }

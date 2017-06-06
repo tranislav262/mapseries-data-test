@@ -168,7 +168,7 @@ LDR   L -----nem-a22------i-4500
     "enabled": false,
     "multipleValues": true,
     "width": 60,
-    "valueSeparator": "\N651 7 L ",
+    "valueSeparator": "\n651 7 L ",
     "value": {
       "attr": "N651"
     }

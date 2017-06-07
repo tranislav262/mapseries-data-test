@@ -103,6 +103,7 @@ LDR   L -----nem-a22------i-4500
     "base": "sheet",
     "title": "Název části"
   }
+2463  L $$aÜbersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur.$$gBearbeitet und herausgegegeben vom K.u.k. Militär-geographischen Institute in Wien 1882-1886
 250   L $$a{
     "id":"poradi_vydani",
     "width":5,
@@ -139,6 +140,17 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Übersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur] ; $$v{
+    "base":"sheet",
+    "title": "Označení svazku/pořadí",
+    "valuesByBaseIndex": [
+      {},
+      {"attr":"SHEET"}
+    ]
+  }, {
+    "base":"year",
+    "title": "Označení svazku/pořadí"
+  }
 4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

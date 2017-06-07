@@ -89,7 +89,7 @@ LDR   L -----nem-a22------i-4500
     "values": [
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
+    ] /
   }$$c{
     "base":"corporation",
     "width": 60,

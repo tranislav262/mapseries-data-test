@@ -184,6 +184,21 @@ LDR   L -----nem-a22------i-4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", "1"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "",
+    "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116",
+    ""
+  ]
+}
 830 0 L $$aTřetí vojenské mapování 1:750 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

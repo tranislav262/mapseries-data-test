@@ -65,20 +65,6 @@ mapseries.config = {
           return stringValue;
         }
       }
-    },
-    {
-      title: "Evropa: Třetí vojenské mapování, topografické mapy 1:25 000",
-      layer: "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
-      template: "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
     }
   ]
 }

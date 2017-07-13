@@ -29,12 +29,12 @@ LDR   L -----nem-a22------i-4500
     "id":"langcode",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "pol"]
   }$$a{
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "pol"]
   }
 043   L {
     "title": "Pole 043",
@@ -96,14 +96,13 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
 24630 L $$a{
     "base": "sheet",
     "title": "Název části"
   }
-2463  L $$aÜbersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur.$$gBearbeitet und herausgegegeben vom K.u.k. Militär-geographischen Institute in Wien 1882-1886
 250   L $$a{
     "id":"poradi_vydani",
     "width":5,

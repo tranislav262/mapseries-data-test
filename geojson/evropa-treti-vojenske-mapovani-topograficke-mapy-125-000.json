@@ -368,7 +368,7 @@
         "SHEET": "3552c",
         "TITLE": "Lobendava",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Lobendava]",
         "N651": "$$aLobendava (Česko : oblast)$$7ge828262"
@@ -1468,7 +1468,7 @@
         "SHEET": "3653c",
         "TITLE": "Varnsdorf",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Varnsdorf]",
         "N651": "$$aVarnsdorf (Česko : oblast)$$7ge202249"
@@ -1518,7 +1518,7 @@
         "SHEET": "3654c",
         "TITLE": "Liberec",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$$a913(437.16)$$2MRF",
         "N245A": "[Liberec]",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
@@ -2568,7 +2568,7 @@
         "SHEET": "3751d",
         "TITLE": "Teplice",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Teplice]",
         "N651": "$$aTeplice (Česko : oblast)$$7ge131061"
@@ -2618,7 +2618,7 @@
         "SHEET": "3752c",
         "TITLE": "Litoměřice",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Litoměřice]",
         "N651": "$$aLitoměřice (Česko : oblast)$$7ge129847"
@@ -2718,7 +2718,7 @@
         "SHEET": "3754c",
         "TITLE": "Turnov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st$$be-xr-kr",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Turnov]",
         "N651": "$$aTurnov (Česko : oblast)$$7ge131147"
@@ -2768,7 +2768,7 @@
         "SHEET": "3755c",
         "TITLE": "Vrchlabí",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "[Vrchlabí]",
         "N651": "$$aVrchlabí (Česko : oblast)$$7ge296304"
@@ -3918,7 +3918,7 @@
         "SHEET": "3850c",
         "TITLE": "Kadaň",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Kadaň]",
         "N651": "$$aKadaň (Česko : oblast)$$7ge129509"
@@ -4068,7 +4068,7 @@
         "SHEET": "3853c",
         "TITLE": "Mělník",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-st$$be-xr-us$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-us",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
         "N245A": "[Mělník]",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
@@ -4118,7 +4118,7 @@
         "SHEET": "3854c",
         "TITLE": "Mladá Boleslav ",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr",
+        "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
         "N245A": "[Mladá Boleslav ]",
         "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
@@ -4168,7 +4168,7 @@
         "SHEET": "3855c",
         "TITLE": "Jičín",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Jičín]",
         "N651": "$$aJičín (Česko : oblast)$$7ge129491"
@@ -4218,7 +4218,7 @@
         "SHEET": "3856c",
         "TITLE": "Náchod",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Náchod]",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
@@ -46868,7 +46868,7 @@
         "SHEET": "3552b",
         "TITLE": "Lobendava",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Lobendava]",
         "N651": "$$aLobendava (Česko : oblast)$$7ge828262"
@@ -46918,7 +46918,7 @@
         "SHEET": "3552a",
         "TITLE": "Lobendava",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Lobendava]",
         "N651": "$$aLobendava (Česko : oblast)$$7ge828262"
@@ -47018,7 +47018,7 @@
         "SHEET": "3553b",
         "TITLE": "Šluknov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$$a913(437.15)$$2MRF",
         "N245A": "[Šluknov]",
         "N651": "$$aŠluknov (Česko : oblast)$$7ge131540"
@@ -47068,7 +47068,7 @@
         "SHEET": "3553a",
         "TITLE": "Šluknov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$$a913(437.15)$$2MRF",
         "N245A": "[Šluknov]",
         "N651": "$$aŠluknov (Česko : oblast)$$7ge131540"
@@ -47118,7 +47118,7 @@
         "SHEET": "3553d",
         "TITLE": "Šluknov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$$a913(437.15)$$2MRF",
         "N245A": "[Šluknov]",
         "N651": "$$aŠluknov (Česko : oblast)$$7ge131540"
@@ -47168,7 +47168,7 @@
         "SHEET": "3554b",
         "TITLE": "Černousy",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Černousy]",
         "N651": "$$aČernousy (Česko : oblast)$$7ge319139"
@@ -47218,7 +47218,7 @@
         "SHEET": "3554a",
         "TITLE": "Černousy",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Černousy]",
         "N651": "$$aČernousy (Česko : oblast)$$7ge319139"
@@ -47268,7 +47268,7 @@
         "SHEET": "3554d",
         "TITLE": "Černousy",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Černousy]",
         "N651": "$$aČernousy (Česko : oblast)$$7ge319139"
@@ -47368,7 +47368,7 @@
         "SHEET": "3652a",
         "TITLE": "Podmokly",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Podmokly]",
         "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
@@ -47468,7 +47468,7 @@
         "SHEET": "3653b",
         "TITLE": "Varnsdorf",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Varnsdorf]",
         "N651": "$$aVarnsdorf (Česko : oblast)$$7ge202249"
@@ -47518,7 +47518,7 @@
         "SHEET": "3653a",
         "TITLE": "Varnsdorf",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Varnsdorf]",
         "N651": "$$aVarnsdorf (Česko : oblast)$$7ge202249"
@@ -47618,7 +47618,7 @@
         "SHEET": "3654b",
         "TITLE": "Liberec",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$$a913(437.16)$$2MRF",
         "N245A": "[Liberec]",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
@@ -47718,7 +47718,7 @@
         "SHEET": "3654d",
         "TITLE": "Liberec",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$$a913(437.16)$$2MRF",
         "N245A": "[Liberec]",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
@@ -47768,7 +47768,7 @@
         "SHEET": "3655b",
         "TITLE": "Harrachov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Harrachov]",
         "N651": "$$aHarrachov (Semily, Česko : oblast)$$7ge251147"
@@ -47818,7 +47818,7 @@
         "SHEET": "3655a",
         "TITLE": "Harrachov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Harrachov]",
         "N651": "$$aHarrachov (Semily, Česko : oblast)$$7ge251147"
@@ -47868,7 +47868,7 @@
         "SHEET": "3655d",
         "TITLE": "Harrachov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "[Harrachov]",
         "N651": "$$aHarrachov (Semily, Česko : oblast)$$7ge251147"
@@ -47918,7 +47918,7 @@
         "SHEET": "3750b",
         "TITLE": "Hora Sv. Šebestiána",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Hora Sv. Šebestiána]",
         "N651": "$$aHora Svatého Šebestiána (Česko : oblast)$$7ge725004"
@@ -47968,7 +47968,7 @@
         "SHEET": "3750a",
         "TITLE": "Hora Sv. Šebestiána",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "[Hora Sv. Šebestiána]",
         "N651": "$$aHora Svatého Šebestiána (Česko : oblast)$$7ge725004"
@@ -48218,7 +48218,7 @@
         "SHEET": "3752b",
         "TITLE": "Litoměřice",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Litoměřice]",
         "N651": "$$aLitoměřice (Česko : oblast)$$7ge129847"
@@ -48318,7 +48318,7 @@
         "SHEET": "3752d",
         "TITLE": "Litoměřice",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Litoměřice]",
         "N651": "$$aLitoměřice (Česko : oblast)$$7ge129847"
@@ -48368,7 +48368,7 @@
         "SHEET": "3753b",
         "TITLE": "Česká Lípa",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us$$be-xr-st",
+        "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Česká Lípa]",
         "N651": "$$aČeská Lípa (Česko : oblast)$$7ge131693"
@@ -48418,7 +48418,7 @@
         "SHEET": "3753a",
         "TITLE": "Česká Lípa",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us$$be-xr-st",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Česká Lípa]",
         "N651": "$$aČeská Lípa (Česko : oblast)$$7ge131693"
@@ -48468,7 +48468,7 @@
         "SHEET": "3753d",
         "TITLE": "Česká Lípa",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us$$be-xr-st",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Česká Lípa]",
         "N651": "$$aČeská Lípa (Česko : oblast)$$7ge131693"
@@ -48518,7 +48518,7 @@
         "SHEET": "3754b",
         "TITLE": "Turnov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st$$be-xr-kr",
+        "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Turnov]",
         "N651": "$$aTurnov (Česko : oblast)$$7ge131147"
@@ -48568,7 +48568,7 @@
         "SHEET": "3754a",
         "TITLE": "Turnov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st$$be-xr-kr",
+        "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.16)$$2MRF",
         "N245A": "[Turnov]",
         "N651": "$$aTurnov (Česko : oblast)$$7ge131147"
@@ -48718,7 +48718,7 @@
         "SHEET": "3755a",
         "TITLE": "Vrchlabí",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "[Vrchlabí]",
         "N651": "$$aVrchlabí (Česko : oblast)$$7ge296304"
@@ -48768,7 +48768,7 @@
         "SHEET": "3755d",
         "TITLE": "Vrchlabí",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "[Vrchlabí]",
         "N651": "$$aVrchlabí (Česko : oblast)$$7ge296304"
@@ -48818,7 +48818,7 @@
         "SHEET": "3848a",
         "TITLE": "Hranice u Aše",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "[Hranice u Aše]",
         "N651": "$$aHranice (Cheb, Česko : oblast)$$7ge749582"
@@ -48868,7 +48868,7 @@
         "SHEET": "3848b",
         "TITLE": "Hranice u Aše",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "[Hranice u Aše]",
         "N651": "$$aHranice (Cheb, Česko : oblast)$$7ge749582"
@@ -48918,7 +48918,7 @@
         "SHEET": "3848c",
         "TITLE": "Hranice u Aše",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "[Hranice u Aše]",
         "N651": "$$aHranice (Cheb, Česko : oblast)$$7ge749582"
@@ -49068,7 +49068,7 @@
         "SHEET": "3849d",
         "TITLE": "Kraslice",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.18)$$2MRF",
         "N245A": "[Kraslice]",
         "N651": "$$aKraslice (Česko : oblast)$$7ge129674"
@@ -49118,7 +49118,7 @@
         "SHEET": "3850b",
         "TITLE": "Kadaň",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Kadaň]",
         "N651": "$$aKadaň (Česko : oblast)$$7ge129509"
@@ -49218,7 +49218,7 @@
         "SHEET": "3850d",
         "TITLE": "Kadaň",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Kadaň]",
         "N651": "$$aKadaň (Česko : oblast)$$7ge129509"
@@ -49418,7 +49418,7 @@
         "SHEET": "3852b",
         "TITLE": "Roudnice nad Labem",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Roudnice nad Labem]",
         "N651": "$$aRoudnice nad Labem (Česko : oblast)$$7ge130669"
@@ -49468,7 +49468,7 @@
         "SHEET": "3852a",
         "TITLE": "Roudnice nad Labem",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
+        "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.15)$$2MRF",
         "N245A": "[Roudnice nad Labem]",
         "N651": "$$aRoudnice nad Labem (Česko : oblast)$$7ge130669"
@@ -49568,7 +49568,7 @@
         "SHEET": "3853b",
         "TITLE": "Mělník",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-st$$be-xr-us$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-li",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
         "N245A": "[Mělník]",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
@@ -49668,7 +49668,7 @@
         "SHEET": "3853d",
         "TITLE": "Mělník",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-st$$be-xr-us$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
         "N245A": "[Mělník]",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
@@ -49768,7 +49768,7 @@
         "SHEET": "3854a",
         "TITLE": "Mladá Boleslav ",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr",
+        "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
         "N245A": "[Mladá Boleslav ]",
         "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
@@ -49868,7 +49868,7 @@
         "SHEET": "3855b",
         "TITLE": "Jičín",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Jičín]",
         "N651": "$$aJičín (Česko : oblast)$$7ge129491"
@@ -49918,7 +49918,7 @@
         "SHEET": "3855a",
         "TITLE": "Jičín",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-li",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Jičín]",
         "N651": "$$aJičín (Česko : oblast)$$7ge129491"
@@ -49968,7 +49968,7 @@
         "SHEET": "3855d",
         "TITLE": "Jičín",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Jičín]",
         "N651": "$$aJičín (Česko : oblast)$$7ge129491"
@@ -86768,7 +86768,7 @@
         "SHEET": "3757b",
         "TITLE": "Broumov",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "[Broumov]",
         "N651": "$$aBroumov (Náchod, Česko : oblast)$$7ge128415"
@@ -88618,7 +88618,7 @@
         "SHEET": "3856a",
         "TITLE": "Náchod",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.13)$$2MRF",
         "N245A": "[Náchod]",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
@@ -88718,7 +88718,7 @@
         "SHEET": "3857b",
         "TITLE": "Orlické Záhoří",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.313)",
         "N245A": "[Orlické Záhoří]",
         "N651": "$$aOrlické Záhoří (Česko : oblast)$$7ge894649"
@@ -88818,7 +88818,7 @@
         "SHEET": "3857d",
         "TITLE": "Orlické Záhoří",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.313)",
         "N245A": "[Orlické Záhoří]",
         "N651": "$$aOrlické Záhoří (Česko : oblast)$$7ge894649"
@@ -89018,7 +89018,7 @@
         "SHEET": "3859b",
         "TITLE": "Zlaté Hory",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF",
         "N245A": "[Zlaté Hory]",
         "N651": "$$aZlaté Hory (Česko : oblast)$$7ge171398"
@@ -89068,7 +89068,7 @@
         "SHEET": "3859a",
         "TITLE": "Zlaté Hory",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
+        "N43": "$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF",
         "N245A": "[Zlaté Hory]",
         "N651": "$$aZlaté Hory (Česko : oblast)$$7ge171398"
@@ -89118,7 +89118,7 @@
         "SHEET": "3859d",
         "TITLE": "Zlaté Hory",
         "SCALE": "25000",
-        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF",
         "N245A": "[Zlaté Hory]",
         "N651": "$$aZlaté Hory (Česko : oblast)$$7ge171398"

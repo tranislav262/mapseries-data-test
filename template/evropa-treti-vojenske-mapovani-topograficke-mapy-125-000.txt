@@ -127,7 +127,7 @@ LDR   L -----nem-a22------i-4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarevná ;$$c 56 x 74 cm, na listu {
+300   L $$a1 mapa :$$bbarevná ;$$c  x  cm, na listu {
   "id": "height",
   "title": "Výška",
   "width": 2

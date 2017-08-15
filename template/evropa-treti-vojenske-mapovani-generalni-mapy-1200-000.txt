@@ -106,11 +106,11 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "K.u.k. Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
-      "[Militärgeographisches Institut] ; Ministerstvo národní obrany Kartografické oddělení",
-      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměpisný ústav ministerstva vnitra",
-      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
-      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
+      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
+      "[K.u.k. Militärgeographisches Institut] ; Ministerstvo národní obrany Kartografické oddělení",
+      "[K.u.k. Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměpisný ústav ministerstva vnitra",
+      "[K.u.k. Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
+      "[K.u.k. Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
       "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien"
     ]
   }

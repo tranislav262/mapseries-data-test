@@ -65,6 +65,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Geologická speciální mapa 1:75 000",
+      layer: "evropa-geologicka-specialni-mapa-175-000",
+      template: "evropa-geologicka-specialni-mapa-175-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

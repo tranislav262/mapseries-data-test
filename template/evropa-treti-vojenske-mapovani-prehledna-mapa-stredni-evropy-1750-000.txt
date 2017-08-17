@@ -201,7 +201,8 @@ LDR   L -----nem-a22------i-4500
   "valuesByBaseIndex": [
     "",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
-    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    ""
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:750 000 ; $$v{

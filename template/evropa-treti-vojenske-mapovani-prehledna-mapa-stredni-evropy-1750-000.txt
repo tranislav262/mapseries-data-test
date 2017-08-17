@@ -62,7 +62,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["1", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
@@ -193,7 +193,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "1"]
+    "valuesByBaseIndex": ["1", "1", "1"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",

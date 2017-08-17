@@ -3089,7 +3089,7 @@
         "SHEET": "3549",
         "N43": "$$ae-xr---$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF",
-        "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín| Přerov a Hodonín|Gottwaldov, Breclav",
+        "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín| Přerov a Hodonín|Gottwaldov, Breclav|Gottwaldov",
         "N651": "$$aHodonín (Česko : oblast)$$7ge134218|$$aBřeclav (Česko : oblast)$$7ge128421|$$aPřerov (Česko : oblast)$$7ge130578|$$aZlín (Česko : oblast)$$7ge131454",
         "POZNAMKA": ""
       },
@@ -4449,7 +4449,7 @@
         "SHEET": "3450",
         "N43": "$$ae-xr---$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Josefstadt|Josefov|Vysoké Mýto|Glatz, Josefstadt",
+        "N245A": "Josefstadt|Josefov|Vysoké Mýto|Glatz, Josefstadt|Náchod",
         "N651": "$$aJosefov (Jaroměř, Česko : oblast)$$7ge884444|$$aVysoké Mýto (Česko : oblast)$$7ge131354|$$aKladsko (Polsko : oblast)$$7ge129579",
         "POZNAMKA": ""
       },
@@ -4489,7 +4489,7 @@
         "SHEET": "3451",
         "N43": "$$ae-pl---$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
-        "N245A": "Schweidnitz|Trutnov, Schweidnitz|Trutnov|Úpice, Schweidnitz",
+        "N245A": "Schweidnitz|Trutnov, Schweidnitz|Trutnov|Úpice, Schweidnitz|Úpice",
         "N651": "$$aSvídnice (Polsko : oblast)$$7ge343761|$$aTrutnov (Česko : oblast)$$7ge131134|$$aÚpice (Česko : oblast)$$7ge250326",
         "POZNAMKA": "Svídnice"
       },
@@ -4889,7 +4889,7 @@
         "SHEET": "3150",
         "N43": "$$ae-xr---$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Pilsen|Plzeň|Pilsen (Plzeň), Pilsen",
+        "N245A": "Pilsen|Plzeň|Pilsen (Plzeň), Pilsen|Pilsen (Plzeň)",
         "N651": "$$aPlzeň (Česko : oblast)\n$$7ge130440",
         "POZNAMKA": ""
       },
@@ -4929,7 +4929,7 @@
         "SHEET": "3151",
         "N43": "$$ae-gx---$$ae-xr---",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Dresden|Teplice-Šanov, Dresden|Teplice-Šanov|Teplice-Šanov, Dresden, Dresen",
+        "N245A": "Dresden|Teplice-Šanov, Dresden|Teplice-Šanov|Teplice-Šanov, Dresden, Dresen|Teplice",
         "N651": "$$aDrážďany (Německo : oblast)$$7ge129087|$$aTeplice (Česko : oblast)$$7ge131061",
         "POZNAMKA": "Drážďany"
       },
@@ -5129,7 +5129,7 @@
         "SHEET": "3049",
         "N43": "$$ae-gx---$$ae-xr---",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF",
-        "N245A": "Kleneč pod Čerchovem|Kleneč, Regensburg|Klenčí pod Čerchovem|Regensburg|Kleneč pod Čerchovem, Regensburg",
+        "N245A": "Kleneč pod Čerchovem|Kleneč, Regensburg|Klenčí pod Čerchovem|Regensburg|Kleneč pod Čerchovem, Regensburg|Klenčí p. Čerchovem",
         "N651": "$$aKlenčí pod Čerchovem (Česko : oblast)$$7ge500297|$$aŘezno (Německo : oblast)$$7ge391146",
         "POZNAMKA": "Kleneč p. Čerchovem, Regensburg|Kleneč p. Čerch."
       },
@@ -5369,7 +5369,7 @@
         "SHEET": "3050",
         "N43": "$$ae-gx---$$ae-xr---",
         "N80": "$$a913(437.318)$$2MRF",
-        "N245A": "Eger|Cheb, Eger",
+        "N245A": "Eger|Cheb, Eger|Cheb",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921",
         "POZNAMKA": ""
       },
@@ -6729,7 +6729,7 @@
         "SHEET": "3948",
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Cejkov|Debreczen|Debrecín, Debrecen",
+        "N245A": "Cejkov|Debreczen|Debrecín, Debrecen|Debrecen",
         "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510|$$aCejkov (Slovensko : oblast)$$7ge828966",
         "POZNAMKA": ""
       },
@@ -8129,7 +8129,7 @@
         "SHEET": "4248",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Máramaros-Sziget|Maramoros-Sziget|Marmaroš Sihoť|Rahovo a Sighetul Maram|Rachov|Rachov, Sighet, Máramarossziget",
+        "N245A": "Máramaros-Sziget|Maramoros-Sziget|Marmaroš Sihoť|Rahovo a Sighetul Maram|Rachov|Rachov, Sighet, Máramarossziget|Rachov, Sighet",
         "N651": "$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aRachov (Ukrajina : oblast)$$7ge828865",
         "POZNAMKA": "Rahovo, Maramureșului|Rahovo"
       },
@@ -9889,7 +9889,7 @@
         "SHEET": "3649",
         "N43": "$$ae-xo---$$ae-xr---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Trenčín|Trentschin|Trentschin (Trenčín)|Žilina, Trenčín, Trencsén",
+        "N245A": "Trenčín|Trentschin|Trentschin (Trenčín)|Žilina, Trenčín, Trencsén|Žilina, Trenčín|Žilina",
         "N651": "$$aTrenčín (Slovensko : oblast)$$7ge301093|$$aŽilina (Slovensko : oblast)$$7ge131618",
         "POZNAMKA": ""
       },
@@ -10049,7 +10049,7 @@
         "SHEET": "3648",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Komárno|Komorn|Komárom, Komárom",
+        "N245A": "Komárno|Komorn|Komárom, Komárom|Nitra",
         "N651": "$$aKomárno (Slovensko : oblast)$$7ge831948",
         "POZNAMKA": ""
       },
@@ -10529,7 +10529,7 @@
         "SHEET": "3350",
         "N43": "$$ae-xr---",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Kolin|Kolín|Kolin (Kolín), Kolin",
+        "N245A": "Kolin|Kolín|Kolin (Kolín), Kolin|Kolin (Kolín)",
         "N651": "$$aKolín (Česko : oblast)$$7ge129621",
         "POZNAMKA": ""
       },

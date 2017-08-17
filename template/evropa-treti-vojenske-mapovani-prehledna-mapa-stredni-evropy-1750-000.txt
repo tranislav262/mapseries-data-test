@@ -69,12 +69,13 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav",
+      "Rakousko.$$bKartographisches Institut"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["ko20060405003", "ko2005263855", "uk2011388116"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -96,7 +97,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Militärgeographisches Institut",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
+      "[K.u.k. Militärgeographisches Institut] ; Kartographisches Institut"
     ]
   }
 24630 L $$a{
@@ -122,7 +124,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Wien :$$bMilitärgeographisches Institut,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVojenský zeměpisný ústav,",
+      "Wien :$$bKartographisches Institut,"
     ]
   }$$c{
     "base":"year"
@@ -197,7 +200,8 @@ LDR   L -----nem-a22------i-4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003", 
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
     ""
   ]
 }

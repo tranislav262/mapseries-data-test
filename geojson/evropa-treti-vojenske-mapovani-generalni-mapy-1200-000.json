@@ -409,7 +409,7 @@
         "SHEET": "3750",
         "N43": "$$ae-pl---$$ae-xo---$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Oświęcim|Polhora, Oswiecim",
+        "N245A": "Oświęcim|Polhora, Oswiecim|Oravská Polhora",
         "N651": "$$aOsvětim (Polsko : oblast)$$7ge784116|$$aOravská Polhora (Slovensko : oblast)$$7ge516122",
         "POZNAMKA": "Oswiecim"
       },
@@ -1769,7 +1769,7 @@
         "SHEET": "4048",
         "N43": "$$ae-hu---$$ae-un---$$ae-rm---$$ae-xo---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "Munkács|Munkačevo|Mukačevo|Mukačevo, Carăii Mari|Král. Chlumec, Munkács",
+        "N245A": "Munkács|Munkačevo|Mukačevo|Mukačevo, Carăii Mari|Král. Chlumec, Munkács|Král. Chlmec",
         "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149|$$aCarei (Rumunsko : oblast)$$7ge828883|$$aKráľovský Chlmec (Slovensko : oblast)$$7ge856420",
         "POZNAMKA": ""
       },
@@ -3289,7 +3289,7 @@
         "SHEET": "3550",
         "N43": "$$ae-xr---$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc, Olomouc",
+        "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc, Olomouc|Olomouc",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534",
         "POZNAMKA": ""
       },
@@ -3729,7 +3729,7 @@
         "SHEET": "3251",
         "N43": "$$ae-gx---$$ae-xr---$$ae-pl---",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "Bautzen|Litoměřice|Č. Lípa, Bautzen|Terezín, Bautzen",
+        "N245A": "Bautzen|Litoměřice|Č. Lípa, Bautzen|Terezín, Bautzen|Ústí n. L.",
         "N651": "$$aBudyšín (Německo : oblast)$$7ge807051|$$aLitoměřice (Česko : oblast)$$7ge129847|$$aČeská Lípa (Česko : oblast)$$7ge131693|$$aTerezín (Litoměřice, Česko : oblast)$$7ge131067",
         "POZNAMKA": "Č. Lípa"
       },
@@ -6729,7 +6729,7 @@
         "SHEET": "3948",
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Cejkov|Debreczen|Debrecín, Debrecen|Debrecen",
+        "N245A": "Cejkov|Debreczen|Debrecín, Debrecen|Debrecen|Streda n. Bodr.",
         "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510|$$aCejkov (Slovensko : oblast)$$7ge828966",
         "POZNAMKA": ""
       },

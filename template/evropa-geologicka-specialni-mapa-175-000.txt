@@ -91,13 +91,12 @@ LDR   L -----nem-a22------i-4500
   }.$$p{
     "id":"sheet",
     "title": "Označení listu",
-    "width": 20,
+    "width": 10,
     "values": [
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"},
       {"attr":"ZONE_COL"},
-      {"attr":"ZONE_KOL"},
-      {"attr":"ZONE_GEOL"}
+      {"attr":"ZONE_KOL"}
     ]
   } /$$c{
     "base":"corporation",
@@ -115,7 +114,6 @@ LDR   L -----nem-a22------i-4500
     "title": "Variantní název",
     "valuesByBaseIndex": [
       {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"},
       {"attr":"SHEET"},
       {"attr":"SHEET"},
       {"attr":"SHEET"}
@@ -183,7 +181,6 @@ LDR   L -----nem-a22------i-4500
       {},
       {"attr":"SHEET"},
       {"attr":"SHEET"},
-      {"attr":"SHEET"},
       {"attr":"SHEET"}
     ]
   }, {
@@ -245,7 +242,6 @@ LDR   L -----nem-a22------i-4500
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
       {},
-      {"attr":"SHEET"},
       {"attr":"SHEET"},
       {"attr":"SHEET"},
       {"attr":"SHEET"}

@@ -97,7 +97,7 @@ LDR   L -----nem-a22------i-4500
       {"attr":"SHEET", "formatFunction":"addDegrees"},
       {"attr":"ZONE_COL"},
       {"attr":"ZONE_KOL"},
-      {"attr":"ZONE_GEOL"}
+      {"attr":"ZONE_GEO"}
     ]
   } /$$c{
     "base":"corporation",

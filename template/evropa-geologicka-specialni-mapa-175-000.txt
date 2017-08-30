@@ -100,7 +100,7 @@ LDR   L -----nem-a22------i-4500
     ]
   } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 90,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "K.k. geologische Reichsanstalt",

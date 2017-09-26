@@ -76,7 +76,7 @@ LDR   L -----nem-a22------i-4500
       "Geologische Bundesanstalt (Rakousko)",
       "Státní geologický ústav Republiky československé"
     ]
-  }$$4ctg$$4pbl$$7{
+  }$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
@@ -174,7 +174,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Geologische Spezialkarte der im Reichsrate vetretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000] ; $$v{
+4901  L $$a[Geologische Spezialkarte der im Reichsrate vertretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -186,18 +186,6 @@ LDR   L -----nem-a22------i-4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
-  }
-500   L $$a{
-    "id":"note",
-    "width": 20,
-    "title": "Poznámka k barevnosti",
-    "values": [
-    "Jednobarevný otisk", 
-    "Dvojbarevný otisk", 
-    "Tříbarevný otisk", 
-    "Čtyřbarevný otisk", 
-    "Pětibarevný otisk"
-    ]
   }
 500   L $$a{
     "id": "note2",
@@ -237,7 +225,8 @@ LDR   L -----nem-a22------i-4500
     "K.K. Geologische Reichsanstalt (Rakousko)$$4ant$$7ko2008449862"
   ]
 }
-830 0 L $$aGeologische Spezialkarte der im Reichsrate vetretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000 ;$$v{
+710 1 L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ctg$$4prt$$7kn20060405003
+830 0 L $$aGeologische Spezialkarte der im Reichsrate vertretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

@@ -5236,7 +5236,7 @@
         "ZONE_KOL": "Zone 5 Kol. XVI",
         "ZONE_COL": "Zone 5 Col. XVI",
         "ZONE_CSR": "5-XVI",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 41"
       },
       "geometry": {
         "type": "Polygon",
@@ -6541,7 +6541,7 @@
         "ZONE_KOL": "Zone 6 Kol. XVI",
         "ZONE_COL": "Zone 6 Col. XVI",
         "ZONE_CSR": "6-XVI",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 40"
       },
       "geometry": {
         "type": "Polygon",
@@ -7711,7 +7711,7 @@
         "ZONE_KOL": "Zone 7 Kol. XIII",
         "ZONE_COL": "Zone 7 Col. XIII",
         "ZONE_CSR": "7-XIII",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 51"
       },
       "geometry": {
         "type": "Polygon",
@@ -7756,7 +7756,7 @@
         "ZONE_KOL": "Zone 7 Kol. XIV",
         "ZONE_COL": "Zone 7 Col. XIV",
         "ZONE_CSR": "7-XIV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 52"
       },
       "geometry": {
         "type": "Polygon",
@@ -7801,7 +7801,7 @@
         "ZONE_KOL": "Zone 7 Kol. XV",
         "ZONE_COL": "Zone 7 Col. XV",
         "ZONE_CSR": "7-XV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 53"
       },
       "geometry": {
         "type": "Polygon",
@@ -7846,7 +7846,7 @@
         "ZONE_KOL": "Zone 7 Kol. XVI",
         "ZONE_COL": "Zone 7 Col. XVI",
         "ZONE_CSR": "7-XVI",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 54"
       },
       "geometry": {
         "type": "Polygon",
@@ -9016,7 +9016,7 @@
         "ZONE_KOL": "Zone 8 Kol. XIII",
         "ZONE_COL": "Zone 8 Col. XIII",
         "ZONE_CSR": "8-XIII",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 64"
       },
       "geometry": {
         "type": "Polygon",
@@ -9061,7 +9061,7 @@
         "ZONE_KOL": "Zone 8 Kol. XIV",
         "ZONE_COL": "Zone 8 Col. XIV",
         "ZONE_CSR": "8-XIV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 65"
       },
       "geometry": {
         "type": "Polygon",
@@ -9106,7 +9106,7 @@
         "ZONE_KOL": "Zone 8 Kol. XV",
         "ZONE_COL": "Zone 8 Col. XV",
         "ZONE_CSR": "8-XV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 66"
       },
       "geometry": {
         "type": "Polygon",
@@ -9151,7 +9151,7 @@
         "ZONE_KOL": "Zone 8 Kol. XVI",
         "ZONE_COL": "Zone 8 Col. XVI",
         "ZONE_CSR": "8-XVI",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 67"
       },
       "geometry": {
         "type": "Polygon",
@@ -10321,7 +10321,7 @@
         "ZONE_KOL": "Zone 9 Kol. XIV",
         "ZONE_COL": "Zone 9 Col. XIV",
         "ZONE_CSR": "9-XIV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 75"
       },
       "geometry": {
         "type": "Polygon",
@@ -10411,7 +10411,7 @@
         "ZONE_KOL": "Zone 9 Kol. XVI",
         "ZONE_COL": "Zone 9 Col. XVI",
         "ZONE_CSR": "9-XVI",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 77"
       },
       "geometry": {
         "type": "Polygon",
@@ -11536,7 +11536,7 @@
         "ZONE_KOL": "Zone 10 Kol. XIV",
         "ZONE_COL": "Zone 10 Col. XIV",
         "ZONE_CSR": "10-XIV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 84"
       },
       "geometry": {
         "type": "Polygon",
@@ -11581,7 +11581,7 @@
         "ZONE_KOL": "Zone 10 Kol. XV",
         "ZONE_COL": "Zone 10 Col. XV",
         "ZONE_CSR": "10-XV",
-        "ZONE_GEOL": ""
+        "ZONE_GEOL": "NW.-Gruppe Nr. 85"
       },
       "geometry": {
         "type": "Polygon",

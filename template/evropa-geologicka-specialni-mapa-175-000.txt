@@ -76,7 +76,7 @@ LDR   L -----nem-a22------i-4500
       "Geologische Bundesanstalt (Rakousko)",
       "Státní geologický ústav Republiky československé"
     ]
-  }$$4ctg$$4pbl$$7{
+  }$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
@@ -225,6 +225,7 @@ LDR   L -----nem-a22------i-4500
     "K.K. Geologische Reichsanstalt (Rakousko)$$4ant$$7ko2008449862"
   ]
 }
+710 1 L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ctg$$4prt$$7kn20060405003
 830 0 L $$aGeologische Spezialkarte der im Reichsrate vertretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

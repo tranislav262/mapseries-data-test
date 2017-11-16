@@ -9,7 +9,7 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["gw", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
@@ -68,13 +68,13 @@ LDR   L -----nem-a22------i-4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Německo.$$bHeer.$$bGeneralstab",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -95,7 +95,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "K.u.k. Militärgeographisches Institut",
+      "GenStdH - 10. Abt. Gr. IIb",
       "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
@@ -121,7 +121,7 @@ LDR   L -----nem-a22------i-4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
+      "[Německo] :$$bGenStdH,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
@@ -139,7 +139,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Topografická mapa 1:25 000] ; $$v{
+4901  L $$a[Befestigungskarte Tschechoslowakei 1:25 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -201,7 +201,7 @@ LDR   L -----nem-a22------i-4500
     ""
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:25 000 ; $$v{
+830 0 L $$aBefestigungskarte Tschechoslowakei 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

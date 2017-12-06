@@ -63,7 +63,7 @@ LDR   L -----nem-a22------i-4500
     "width": 1,
     "title": "Identifikátor",
     "valuesByBaseIndex": ["1", "2"]
-  } L $$a{
+  }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
@@ -167,12 +167,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$a{
-    "id": "note2",
-    "width": 20,
-    "title": "Poznámka o dalších údajích o vydání",
-    "values": ["Další údaje o vydání:"]
-  }
+500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",

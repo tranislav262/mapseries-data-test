@@ -64,7 +64,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Identifikátor",
     "valuesByBaseIndex": ["1", "2"]
   }  L $$a{
-    "base":"corporation",
+    "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [

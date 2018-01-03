@@ -192,8 +192,7 @@ LDR   L -----nem-a22------i-4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003", 
-    ""
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
 830 0 L $$aTopographische Karte der Tschechoslowakei 1:25 000 ; $$v{

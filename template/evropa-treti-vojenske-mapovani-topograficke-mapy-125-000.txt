@@ -188,8 +188,8 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["1", "1"]
   }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce1",
   "width": 100,
+  "title": "Bibliografický předchůdce1",
   "valuesByBaseIndex": [
     "",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"

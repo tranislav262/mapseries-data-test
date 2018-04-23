@@ -1,0 +1,3909 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "b8c86d7f4bbf4ba8bc2725531b11496a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 36/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -10,
+              36.000000000000114
+            ],
+            [
+              -10,
+              38
+            ],
+            [
+              -6,
+              38
+            ],
+            [
+              -6,
+              36.000000000000114
+            ],
+            [
+              -10,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "804219f94177a1d6e4b2e1740df0d925",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 36/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -6,
+              36.000000000000114
+            ],
+            [
+              -6,
+              38
+            ],
+            [
+              -2,
+              38
+            ],
+            [
+              -2,
+              36.000000000000114
+            ],
+            [
+              -6,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "536f14fb1f146b705576a367a8feec93",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 36/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              36.000000000000114
+            ],
+            [
+              -2,
+              38
+            ],
+            [
+              2.000000000000114,
+              38
+            ],
+            [
+              2.000000000000114,
+              36.000000000000114
+            ],
+            [
+              -2,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2bbd643629c6d5b934236f97c66dc863",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 38/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -10,
+              38
+            ],
+            [
+              -10,
+              40
+            ],
+            [
+              -6,
+              40
+            ],
+            [
+              -6,
+              38
+            ],
+            [
+              -10,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "39820eff014eef823556c65e6d8ff8c2",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 38/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -6,
+              38
+            ],
+            [
+              -6,
+              40
+            ],
+            [
+              -2,
+              40
+            ],
+            [
+              -2,
+              38
+            ],
+            [
+              -6,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fd5eb1055a3cb6fb95b172c0901ba1f9",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 40/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -10,
+              40
+            ],
+            [
+              -10,
+              42
+            ],
+            [
+              -6,
+              42
+            ],
+            [
+              -6,
+              40
+            ],
+            [
+              -10,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5c0dca244799d9006365e8b13cfc4963",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 42/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -10,
+              42
+            ],
+            [
+              -10,
+              44.000000000000114
+            ],
+            [
+              -6,
+              44.000000000000114
+            ],
+            [
+              -6,
+              42
+            ],
+            [
+              -10,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6897918b6f7eb27260fb20e9db384227",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 40/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -6,
+              40
+            ],
+            [
+              -6,
+              42
+            ],
+            [
+              -2,
+              42
+            ],
+            [
+              -2,
+              40
+            ],
+            [
+              -6,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "80054b5d3f38f2b9de93f6ec0b56f02a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 40/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -6,
+              42
+            ],
+            [
+              -6,
+              44.000000000000114
+            ],
+            [
+              -2,
+              44.000000000000114
+            ],
+            [
+              -2,
+              42
+            ],
+            [
+              -6,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8d4cbced55a46671f43f8fe50264c290",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 38/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              38
+            ],
+            [
+              -2,
+              40
+            ],
+            [
+              2.000000000000114,
+              40
+            ],
+            [
+              2.000000000000114,
+              38
+            ],
+            [
+              -2,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "90e092fe5ecbaca1580026e427f332dc",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 40/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              40
+            ],
+            [
+              -2,
+              42
+            ],
+            [
+              2.000000000000114,
+              42
+            ],
+            [
+              2.000000000000114,
+              40
+            ],
+            [
+              -2,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "4904a2d6f7790cc8e2019baa72514681",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 42/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              42
+            ],
+            [
+              -2,
+              44.000000000000114
+            ],
+            [
+              2.000000000000114,
+              44.000000000000114
+            ],
+            [
+              2.000000000000114,
+              42
+            ],
+            [
+              -2,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "1c811577f3ba0f611fe18c1e6ed7146f",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 44/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              44.000000000000114
+            ],
+            [
+              -2,
+              46
+            ],
+            [
+              2.000000000000114,
+              46
+            ],
+            [
+              2.000000000000114,
+              44.000000000000114
+            ],
+            [
+              -2,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "644ec58daa677bb04256938a90858773",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 46/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              46
+            ],
+            [
+              -2,
+              48
+            ],
+            [
+              2.000000000000114,
+              48
+            ],
+            [
+              2.000000000000114,
+              46
+            ],
+            [
+              -2,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e7f6cb777ee2b9a7901e0c1b2b472bd8",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 48/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -2,
+              48
+            ],
+            [
+              -2,
+              50
+            ],
+            [
+              2.000000000000114,
+              50
+            ],
+            [
+              2.000000000000114,
+              48
+            ],
+            [
+              -2,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "36e9a1e819672db63209bb2bafe04546",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              38
+            ],
+            [
+              2.000000000000114,
+              40
+            ],
+            [
+              6,
+              40
+            ],
+            [
+              6,
+              38
+            ],
+            [
+              2.000000000000114,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "dedba883b4d9aa0d9f50b73fae2e4b67",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              40
+            ],
+            [
+              2.000000000000114,
+              42
+            ],
+            [
+              6,
+              42
+            ],
+            [
+              6,
+              40
+            ],
+            [
+              2.000000000000114,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "9a5c4d7f83ef5276f2adf9dc5129a819",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              42
+            ],
+            [
+              2.000000000000114,
+              44.000000000000114
+            ],
+            [
+              6,
+              44.000000000000114
+            ],
+            [
+              6,
+              42
+            ],
+            [
+              2.000000000000114,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "3391da77ed998af354b777c1a33243fc",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              44.000000000000114
+            ],
+            [
+              2.000000000000114,
+              46
+            ],
+            [
+              6,
+              46
+            ],
+            [
+              6,
+              44.000000000000114
+            ],
+            [
+              2.000000000000114,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "90be487ffe65e225cf0f5977a4e22e52",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              46
+            ],
+            [
+              2.000000000000114,
+              48
+            ],
+            [
+              6,
+              48
+            ],
+            [
+              6,
+              46
+            ],
+            [
+              2.000000000000114,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e9dbdd2ffa2e3c509967c5d47841286a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/2",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.000000000000114,
+              48
+            ],
+            [
+              2.000000000000114,
+              50
+            ],
+            [
+              6,
+              50
+            ],
+            [
+              6,
+              48
+            ],
+            [
+              2.000000000000114,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "b45ab9c77e041e95006be189ee8f4e13",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              38
+            ],
+            [
+              6,
+              40
+            ],
+            [
+              10,
+              40
+            ],
+            [
+              10,
+              38
+            ],
+            [
+              6,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "045d22cb5638acb1682a25bfe45c76a1",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              40
+            ],
+            [
+              6,
+              42
+            ],
+            [
+              10,
+              42
+            ],
+            [
+              10,
+              40
+            ],
+            [
+              6,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "31afceb45808f76099eb8def2063e215",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              42
+            ],
+            [
+              6,
+              44.000000000000114
+            ],
+            [
+              10,
+              44.000000000000114
+            ],
+            [
+              10,
+              42
+            ],
+            [
+              6,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "13c891e4c43951cfa9cd803a8c6a0571",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              44.000000000000114
+            ],
+            [
+              6,
+              46
+            ],
+            [
+              10,
+              46
+            ],
+            [
+              10,
+              44.000000000000114
+            ],
+            [
+              6,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "dbb89a2740bcd933177a3d3a0c13fc1e",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              46
+            ],
+            [
+              6,
+              48
+            ],
+            [
+              10,
+              48
+            ],
+            [
+              10,
+              46
+            ],
+            [
+              6,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "baafae0b5a181bd16d7ec246e6371c2b",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              48
+            ],
+            [
+              6,
+              50
+            ],
+            [
+              10,
+              50
+            ],
+            [
+              10,
+              48
+            ],
+            [
+              6,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "f20ab64d59e21638a320a00132e01526",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              50
+            ],
+            [
+              6,
+              52.000000000000114
+            ],
+            [
+              10,
+              52.000000000000114
+            ],
+            [
+              10,
+              50
+            ],
+            [
+              6,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "ed4ab8152312cb949b8842eeee0a9697",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              52.000000000000114
+            ],
+            [
+              6,
+              54
+            ],
+            [
+              10,
+              54
+            ],
+            [
+              10,
+              52.000000000000114
+            ],
+            [
+              6,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "31cc78247b9c814cc0045faab214566a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/6",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6,
+              54
+            ],
+            [
+              6,
+              56
+            ],
+            [
+              10,
+              56
+            ],
+            [
+              10,
+              54
+            ],
+            [
+              6,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "405357453fa1d7e1f111b57e37c94f7d",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              40
+            ],
+            [
+              10,
+              42
+            ],
+            [
+              14,
+              42
+            ],
+            [
+              14,
+              40
+            ],
+            [
+              10,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5c2e1a5f994badff3977a008726c2d6e",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              42
+            ],
+            [
+              10,
+              44.000000000000114
+            ],
+            [
+              14,
+              44.000000000000114
+            ],
+            [
+              14,
+              42
+            ],
+            [
+              10,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5e3047d8322efd222ba901313d35a82e",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              44.000000000000114
+            ],
+            [
+              10,
+              46
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              14,
+              44.000000000000114
+            ],
+            [
+              10,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6de4125c6a1e7362b19a95341bcd34eb",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              46
+            ],
+            [
+              10,
+              48
+            ],
+            [
+              14,
+              48
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              10,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "570af14b18b69e833f53c260b670eb2b",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              48
+            ],
+            [
+              10,
+              50
+            ],
+            [
+              14,
+              50
+            ],
+            [
+              14,
+              48
+            ],
+            [
+              10,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "f57fac6c0ba836226cfefc1cc8338e92",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              50
+            ],
+            [
+              10,
+              52.000000000000114
+            ],
+            [
+              14,
+              52.000000000000114
+            ],
+            [
+              14,
+              50
+            ],
+            [
+              10,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2dc77f46ef52e0dd60648fe32f99c694",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              52.000000000000114
+            ],
+            [
+              10,
+              54
+            ],
+            [
+              14,
+              54
+            ],
+            [
+              14,
+              52.000000000000114
+            ],
+            [
+              10,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8c7d5928d1dd889c203be1adba08aca6",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              54
+            ],
+            [
+              10,
+              56
+            ],
+            [
+              14,
+              56
+            ],
+            [
+              14,
+              54
+            ],
+            [
+              10,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "b21523c6ef6f5fa94a90181ec9638171",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              38
+            ],
+            [
+              14,
+              40
+            ],
+            [
+              18,
+              40
+            ],
+            [
+              18,
+              38
+            ],
+            [
+              14,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6ccf96ebb2b92d4fb0c17e74c71896c4",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              40
+            ],
+            [
+              14,
+              42
+            ],
+            [
+              18,
+              42
+            ],
+            [
+              18,
+              40
+            ],
+            [
+              14,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "46a03778ca6ba6fff4eeecfbcfdb3474",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              42
+            ],
+            [
+              14,
+              44.000000000000114
+            ],
+            [
+              18,
+              44.000000000000114
+            ],
+            [
+              18,
+              42
+            ],
+            [
+              14,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "f2a412319f45d2bcc6d6a39229068969",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              44.000000000000114
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              18,
+              46
+            ],
+            [
+              18,
+              44.000000000000114
+            ],
+            [
+              14,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "41f4538932aff504daf2309f86644bdd",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              46
+            ],
+            [
+              14,
+              48
+            ],
+            [
+              18,
+              48
+            ],
+            [
+              18,
+              46
+            ],
+            [
+              14,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "cff559fc13b75e24d806d25c2ac300f4",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              48
+            ],
+            [
+              14,
+              50
+            ],
+            [
+              18,
+              50
+            ],
+            [
+              18,
+              48
+            ],
+            [
+              14,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8d787059c7ff59be3d8e966c07878521",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              50
+            ],
+            [
+              14,
+              52.000000000000114
+            ],
+            [
+              18,
+              52.000000000000114
+            ],
+            [
+              18,
+              50
+            ],
+            [
+              14,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "4b64d8a0e763194d062deb0bc68bdc15",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              52.000000000000114
+            ],
+            [
+              14,
+              54
+            ],
+            [
+              18,
+              54
+            ],
+            [
+              18,
+              52.000000000000114
+            ],
+            [
+              14,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "c84b3bd8334c9820a622ec129819607a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              54
+            ],
+            [
+              14,
+              56
+            ],
+            [
+              18,
+              56
+            ],
+            [
+              18,
+              54
+            ],
+            [
+              14,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "daafcc203ac68ee9384b339080187725",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 36/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              36.000000000000114
+            ],
+            [
+              18,
+              38
+            ],
+            [
+              22,
+              38
+            ],
+            [
+              22,
+              36.000000000000114
+            ],
+            [
+              18,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "9cfaa40bd4ed6a82bcaccd140a74e007",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              38
+            ],
+            [
+              18,
+              40
+            ],
+            [
+              22,
+              40
+            ],
+            [
+              22,
+              38
+            ],
+            [
+              18,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "a401c920add44b3cb97cf0f4d10efb9f",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              40
+            ],
+            [
+              18,
+              42
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              22,
+              40
+            ],
+            [
+              18,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e80c4491ce0f8d02454743dfa8433924",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              42
+            ],
+            [
+              18,
+              44.000000000000114
+            ],
+            [
+              22,
+              44.000000000000114
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              18,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "11a330b8f51c56b060f01bdcd2d2fc4d",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              44.000000000000114
+            ],
+            [
+              18,
+              46
+            ],
+            [
+              22,
+              46
+            ],
+            [
+              22,
+              44.000000000000114
+            ],
+            [
+              18,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "868f8d015954c2ffce5f44ea15861859",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              46
+            ],
+            [
+              18,
+              48
+            ],
+            [
+              22,
+              48
+            ],
+            [
+              22,
+              46
+            ],
+            [
+              18,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "4411b61d8272081c8ca0eb2711bc952d",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              48
+            ],
+            [
+              18,
+              50
+            ],
+            [
+              22,
+              50
+            ],
+            [
+              22,
+              48
+            ],
+            [
+              18,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6acc57fa1fa78d49d382e1f69a7d9a24",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              50
+            ],
+            [
+              18,
+              52.000000000000114
+            ],
+            [
+              22,
+              52.000000000000114
+            ],
+            [
+              22,
+              50
+            ],
+            [
+              18,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "c17a3c9d070701ee3f9976401d971b70",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              52.000000000000114
+            ],
+            [
+              18,
+              54
+            ],
+            [
+              22,
+              54
+            ],
+            [
+              22,
+              52.000000000000114
+            ],
+            [
+              18,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "be159a6973043cf95eab5f7a7922e044",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/18",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              18,
+              54
+            ],
+            [
+              18,
+              56
+            ],
+            [
+              22,
+              56
+            ],
+            [
+              22,
+              54
+            ],
+            [
+              18,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "c490df6e04bb2e616475d2e95b3d4f87",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 36/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              36.000000000000114
+            ],
+            [
+              22,
+              38
+            ],
+            [
+              26,
+              38
+            ],
+            [
+              26,
+              36.000000000000114
+            ],
+            [
+              22,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "7eafa0aaf6d80b8c1d3f26351aafe3dc",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              38
+            ],
+            [
+              22,
+              40
+            ],
+            [
+              26,
+              40
+            ],
+            [
+              26,
+              38
+            ],
+            [
+              22,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "54429438ef381d684e512c58538cd878",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              40
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              26,
+              42
+            ],
+            [
+              26,
+              40
+            ],
+            [
+              22,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5fa67268667b3d47a37d26d83af5fb43",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              42
+            ],
+            [
+              22,
+              44.000000000000114
+            ],
+            [
+              26,
+              44.000000000000114
+            ],
+            [
+              26,
+              42
+            ],
+            [
+              22,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "d784c92086f7be8c4cd7d6314c45c1a0",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              44.000000000000114
+            ],
+            [
+              22,
+              46
+            ],
+            [
+              26,
+              46
+            ],
+            [
+              26,
+              44.000000000000114
+            ],
+            [
+              22,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2c78ee554884919cede08019c3b1cacc",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              46
+            ],
+            [
+              22,
+              48
+            ],
+            [
+              26,
+              48
+            ],
+            [
+              26,
+              46
+            ],
+            [
+              22,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "3b7fae6dece784e85aee5e8975877ffb",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              48
+            ],
+            [
+              22,
+              50
+            ],
+            [
+              26,
+              50
+            ],
+            [
+              26,
+              48
+            ],
+            [
+              22,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "96502dfc8585cdca3327474618e0e747",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              50
+            ],
+            [
+              22,
+              52.000000000000114
+            ],
+            [
+              26,
+              52.000000000000114
+            ],
+            [
+              26,
+              50
+            ],
+            [
+              22,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "15968b23c889efc873043823362fc2b2",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              52.000000000000114
+            ],
+            [
+              22,
+              54
+            ],
+            [
+              26,
+              54
+            ],
+            [
+              26,
+              52.000000000000114
+            ],
+            [
+              22,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "0802e2690a3b0a84833f6b693bbc846b",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              54
+            ],
+            [
+              22,
+              56
+            ],
+            [
+              26,
+              56
+            ],
+            [
+              26,
+              54
+            ],
+            [
+              22,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "a040580caae162101f63f76018c8a765",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 36/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              36.000000000000114
+            ],
+            [
+              26,
+              38
+            ],
+            [
+              30,
+              38
+            ],
+            [
+              30,
+              36.000000000000114
+            ],
+            [
+              26,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8dab2289aa25848363aa2d291c545212",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 38/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              38
+            ],
+            [
+              26,
+              40
+            ],
+            [
+              30,
+              40
+            ],
+            [
+              30,
+              38
+            ],
+            [
+              26,
+              38
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "0bbffc9a2defa115bab3217d768d3580",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 40/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              40
+            ],
+            [
+              26,
+              42
+            ],
+            [
+              30,
+              42
+            ],
+            [
+              30,
+              40
+            ],
+            [
+              26,
+              40
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "38d47583d0a8ad124dce69b4d7ef2850",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 42/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              42
+            ],
+            [
+              26,
+              44.000000000000114
+            ],
+            [
+              30,
+              44.000000000000114
+            ],
+            [
+              30,
+              42
+            ],
+            [
+              26,
+              42
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "3b2e09c30dae20afb7ad055ffa4fc282",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              44.000000000000114
+            ],
+            [
+              26,
+              46
+            ],
+            [
+              30,
+              46
+            ],
+            [
+              30,
+              44.000000000000114
+            ],
+            [
+              26,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5236e3db5f50f6e1cffb0c19ffd1ef5a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              46
+            ],
+            [
+              26,
+              48
+            ],
+            [
+              30,
+              48
+            ],
+            [
+              30,
+              46
+            ],
+            [
+              26,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "ca1cad893b6b9a508147a91338bbfbfb",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              48
+            ],
+            [
+              26,
+              50
+            ],
+            [
+              30,
+              50
+            ],
+            [
+              30,
+              48
+            ],
+            [
+              26,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fbf7d4e6dce11629c755013ae7bc2c1a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              50
+            ],
+            [
+              26,
+              52.000000000000114
+            ],
+            [
+              30,
+              52.000000000000114
+            ],
+            [
+              30,
+              50
+            ],
+            [
+              26,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e443d0cc92a42e17d64f973690921e84",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              52.000000000000114
+            ],
+            [
+              26,
+              54
+            ],
+            [
+              30,
+              54
+            ],
+            [
+              30,
+              52.000000000000114
+            ],
+            [
+              26,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "b9d03d1c47b2c1859debc9ec817fd5ea",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              54
+            ],
+            [
+              26,
+              56
+            ],
+            [
+              30,
+              56
+            ],
+            [
+              30,
+              54
+            ],
+            [
+              26,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5a9215feb5993ca0e2ec25154253ef24",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              44.000000000000114
+            ],
+            [
+              30,
+              46
+            ],
+            [
+              34,
+              46
+            ],
+            [
+              34,
+              44.000000000000114
+            ],
+            [
+              30,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8da48fa67357f5844f4a65cb8021ddbb",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              46
+            ],
+            [
+              30,
+              48
+            ],
+            [
+              34,
+              48
+            ],
+            [
+              34,
+              46
+            ],
+            [
+              30,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "40717d48ca596e416b52d8434c0eb749",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              48
+            ],
+            [
+              30,
+              50
+            ],
+            [
+              34,
+              50
+            ],
+            [
+              34,
+              48
+            ],
+            [
+              30,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "1b2517a3ef90631ffddb094b97652e7d",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              50
+            ],
+            [
+              30,
+              52.000000000000114
+            ],
+            [
+              34,
+              52.000000000000114
+            ],
+            [
+              34,
+              50
+            ],
+            [
+              30,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e6b46a7c3f5ddaae6bedb1c23d3d0cc4",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              52.000000000000114
+            ],
+            [
+              30,
+              54
+            ],
+            [
+              34,
+              54
+            ],
+            [
+              34,
+              52.000000000000114
+            ],
+            [
+              30,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "a5cf7e40fbd38473d4ce79a2dd46ed47",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/30",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30,
+              54
+            ],
+            [
+              30,
+              56
+            ],
+            [
+              34,
+              56
+            ],
+            [
+              34,
+              54
+            ],
+            [
+              30,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "141518f8c125874d5459dc233f202943",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 44/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              44.000000000000114
+            ],
+            [
+              34,
+              46
+            ],
+            [
+              38,
+              46
+            ],
+            [
+              38,
+              44.000000000000114
+            ],
+            [
+              34,
+              44.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "4fb6f9fe329f6582210e4dec68905c26",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 46/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              46
+            ],
+            [
+              34,
+              48
+            ],
+            [
+              38,
+              48
+            ],
+            [
+              38,
+              46
+            ],
+            [
+              34,
+              46
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2fb53280c7f89e55d267e0ac07410a9b",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 48/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              48
+            ],
+            [
+              34,
+              50
+            ],
+            [
+              38,
+              50
+            ],
+            [
+              38,
+              48
+            ],
+            [
+              34,
+              48
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "cc5421fe7a587d1fb99e74ccb0d05ef3",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 50/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              50
+            ],
+            [
+              34,
+              52.000000000000114
+            ],
+            [
+              38,
+              52.000000000000114
+            ],
+            [
+              38,
+              50
+            ],
+            [
+              34,
+              50
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "d0ddb81cde30ef276e5de2be421dfa0a",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 52/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              52.000000000000114
+            ],
+            [
+              34,
+              54
+            ],
+            [
+              38,
+              54
+            ],
+            [
+              38,
+              52.000000000000114
+            ],
+            [
+              34,
+              52.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "21fc79a8926e3ac06c6c50a2746b35ce",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 54/34",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34,
+              54
+            ],
+            [
+              34,
+              56
+            ],
+            [
+              38,
+              56
+            ],
+            [
+              38,
+              54
+            ],
+            [
+              34,
+              54
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "708be29b830ec8fbcb248fb589c7ca7c",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 36/12",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              12.000000000000114,
+              36.000000000000114
+            ],
+            [
+              12.001207970552855,
+              38.40571724691239
+            ],
+            [
+              16.033042382746544,
+              38.403692762426545
+            ],
+            [
+              16.031834412193803,
+              35.99797551551427
+            ],
+            [
+              12.000000000000114,
+              36.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "1c0161b75f7574356c416f5821c8f97e",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 34/23,33333",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              23.333333333330017,
+              34
+            ],
+            [
+              23.329664326496925,
+              35.99378087679469
+            ],
+            [
+              26.70920802370574,
+              36.000000000000114
+            ],
+            [
+              26.71287703053872,
+              34.00621912320554
+            ],
+            [
+              23.333333333330017,
+              34
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "14ab3eff083ca9748911171357a525f6",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 46,33333/5,5",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -5.5,
+              46.333333300000106
+            ],
+            [
+              -5.497756491907865,
+              49.67041269483161
+            ],
+            [
+              -1.999999999999886,
+              49.66806116402722
+            ],
+            [
+              -2.002243508091965,
+              46.330981769195716
+            ],
+            [
+              -5.5,
+              46.333333300000106
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "7c508c1b1dcca69bad6d0af5f58c08e3",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 51,5/11",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -11,
+              51.5
+            ],
+            [
+              -11,
+              53.50851122743717
+            ],
+            [
+              -5,
+              53.50851122743717
+            ],
+            [
+              -5,
+              51.5
+            ],
+            [
+              -11,
+              51.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "0c3e3e6cf254bc5d9b77154ec4728df6",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NW 53,5/11",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -11,
+              53.5
+            ],
+            [
+              -11,
+              55.50725847233463
+            ],
+            [
+              -5,
+              55.50725847233463
+            ],
+            [
+              -5,
+              53.5
+            ],
+            [
+              -11,
+              53.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "92694870d727d16736da323ca4688e87",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 56/8",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              8,
+              56
+            ],
+            [
+              8,
+              58
+            ],
+            [
+              14,
+              58
+            ],
+            [
+              14,
+              56
+            ],
+            [
+              8,
+              56
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "c236daac1296759b20c0145f8ea84f56",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 56/14",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              14,
+              56
+            ],
+            [
+              14,
+              58
+            ],
+            [
+              20.000000000000114,
+              58
+            ],
+            [
+              20.000000000000114,
+              56
+            ],
+            [
+              14,
+              56
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "b828547227d907f27e2497b7041b5fc9",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 56/20",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.000000000000114,
+              56
+            ],
+            [
+              20.000000000000114,
+              58
+            ],
+            [
+              26,
+              58
+            ],
+            [
+              26,
+              56
+            ],
+            [
+              20.000000000000114,
+              56
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "bc339c88c8048222e9d06de6399bacd9",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 56/26",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              26,
+              56
+            ],
+            [
+              26,
+              58
+            ],
+            [
+              32,
+              58
+            ],
+            [
+              32,
+              56
+            ],
+            [
+              26,
+              56
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "043b6abb96102e2eee7ae69768d0a206",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 58/4",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4,
+              58
+            ],
+            [
+              4,
+              60.000000000000114
+            ],
+            [
+              10,
+              60.000000000000114
+            ],
+            [
+              10,
+              58
+            ],
+            [
+              4,
+              58
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "d2bc9d6c84c0fc83c4a5fd5363432bc6",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 58/10",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10,
+              58
+            ],
+            [
+              10,
+              60.000000000000114
+            ],
+            [
+              16,
+              60.000000000000114
+            ],
+            [
+              16,
+              58
+            ],
+            [
+              10,
+              58
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5478fa17ba9776b6856de178fc49c5bf",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 58/16",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              16,
+              58
+            ],
+            [
+              16,
+              60.000000000000135
+            ],
+            [
+              19.470881450521908,
+              60.000000000000135
+            ],
+            [
+              19.470881450521908,
+              60.51242648048411
+            ],
+            [
+              20.359610136199528,
+              60.51242648048411
+            ],
+            [
+              20.359610136199528,
+              60.000000000000135
+            ],
+            [
+              22,
+              60.000000000000135
+            ],
+            [
+              22,
+              58
+            ],
+            [
+              16,
+              58
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "b4493b85b75ba967613c6e3498114787",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 58/22",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              22,
+              58
+            ],
+            [
+              22,
+              60.000000000000114
+            ],
+            [
+              28.000000000000114,
+              60.000000000000114
+            ],
+            [
+              28.000000000000114,
+              58
+            ],
+            [
+              22,
+              58
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "de5955c89b6a79fb122b35cb78384e73",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 60/4",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4,
+              60.000000000000114
+            ],
+            [
+              4,
+              62.000000000000114
+            ],
+            [
+              10,
+              62.000000000000114
+            ],
+            [
+              10,
+              60.000000000000114
+            ],
+            [
+              4,
+              60.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "1db84b2607ac2156c67304ef965734de",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 62/5",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              5,
+              62.000000000000114
+            ],
+            [
+              5,
+              63.990554809570426
+            ],
+            [
+              9.982221603393498,
+              63.990554809570426
+            ],
+            [
+              9.982221603393498,
+              62.000000000000114
+            ],
+            [
+              5,
+              62.000000000000114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "59fb2dc793cf23625f8c2e922b6b0390",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 67/9",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9,
+              64
+            ],
+            [
+              9,
+              66.07148742675776
+            ],
+            [
+              15,
+              66.07148742675776
+            ],
+            [
+              15,
+              64
+            ],
+            [
+              9,
+              64
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6b3294c8fa89d95a1cc1529cd303ff4e",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 66/11",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.000000000000114,
+              66
+            ],
+            [
+              11.000000000000114,
+              68.03027343750011
+            ],
+            [
+              17.188331604003963,
+              68.03027343750011
+            ],
+            [
+              17.188331604003963,
+              66
+            ],
+            [
+              11.000000000000114,
+              66
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "094c5714b97d313e2857f90f1417e0bd",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 68/12",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              12.000000000000114,
+              68
+            ],
+            [
+              12.000000000000114,
+              70.00000000000011
+            ],
+            [
+              20.000000000000114,
+              70.00000000000011
+            ],
+            [
+              20.000000000000114,
+              68
+            ],
+            [
+              12.000000000000114,
+              68
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fd5e03c01224d8a0bff55f004118b785",
+      "type": "Feature",
+      "properties": {
+        "SHEET": "NE 69/20",
+        "TITLE": "",
+        "SCALE": "500000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.000000000000114,
+              69.00000000000011
+            ],
+            [
+              20.000000000000114,
+              71.41514502681298
+            ],
+            [
+              30.464711329207717,
+              71.41514502681298
+            ],
+            [
+              30.464711329207717,
+              69.00000000000011
+            ],
+            [
+              20.000000000000114,
+              69.00000000000011
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}

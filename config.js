@@ -93,6 +93,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Letecká mapa Evropy 1:500 000",
+      layer: "evropa-letecka-mapa-evropy-1500-000",
+      template: "evropa-letecka-mapa-evropy-1500-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

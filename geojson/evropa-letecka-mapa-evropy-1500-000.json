@@ -7,7 +7,8 @@
       "properties": {
         "SHEET": "NW 36/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +44,8 @@
       "properties": {
         "SHEET": "NW 36/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -79,7 +81,8 @@
       "properties": {
         "SHEET": "NW 36/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -115,7 +118,8 @@
       "properties": {
         "SHEET": "NW 38/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -151,7 +155,8 @@
       "properties": {
         "SHEET": "NW 38/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -187,7 +192,8 @@
       "properties": {
         "SHEET": "NW 40/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -223,7 +229,8 @@
       "properties": {
         "SHEET": "NW 42/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -259,7 +266,8 @@
       "properties": {
         "SHEET": "NW 40/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -295,7 +303,8 @@
       "properties": {
         "SHEET": "NW 40/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -331,7 +340,8 @@
       "properties": {
         "SHEET": "NW 38/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -367,7 +377,8 @@
       "properties": {
         "SHEET": "NW 40/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -403,7 +414,8 @@
       "properties": {
         "SHEET": "NW 42/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -439,7 +451,8 @@
       "properties": {
         "SHEET": "NW 44/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -475,7 +488,8 @@
       "properties": {
         "SHEET": "NW 46/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -511,7 +525,8 @@
       "properties": {
         "SHEET": "NW 48/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -547,7 +562,8 @@
       "properties": {
         "SHEET": "NE 38/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -583,7 +599,8 @@
       "properties": {
         "SHEET": "NE 40/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -619,7 +636,8 @@
       "properties": {
         "SHEET": "NE 42/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -655,7 +673,8 @@
       "properties": {
         "SHEET": "NE 44/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -691,7 +710,8 @@
       "properties": {
         "SHEET": "NE 46/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -727,7 +747,8 @@
       "properties": {
         "SHEET": "NE 48/2",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -763,7 +784,8 @@
       "properties": {
         "SHEET": "NE 38/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -799,7 +821,8 @@
       "properties": {
         "SHEET": "NE 40/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -835,7 +858,8 @@
       "properties": {
         "SHEET": "NE 42/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -871,7 +895,8 @@
       "properties": {
         "SHEET": "NE 44/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -907,7 +932,8 @@
       "properties": {
         "SHEET": "NE 46/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -943,7 +969,8 @@
       "properties": {
         "SHEET": "NE 48/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -979,7 +1006,8 @@
       "properties": {
         "SHEET": "NE 50/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1015,7 +1043,8 @@
       "properties": {
         "SHEET": "NE 52/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1051,7 +1080,8 @@
       "properties": {
         "SHEET": "NE 54/6",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1086,8 +1116,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 40/10",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Roma",
+        "SCALE": "500000",
+        "N43": "$$ae-it---"
       },
       "geometry": {
         "coordinates": [
@@ -1123,7 +1154,8 @@
       "properties": {
         "SHEET": "NE 42/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1159,7 +1191,8 @@
       "properties": {
         "SHEET": "NE 44/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1194,8 +1227,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/10",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Bolzano",
+        "SCALE": "500000",
+        "N43": "$$ae-it---$$ae-au---$$ae-gx---$$ae-sz---"
       },
       "geometry": {
         "coordinates": [
@@ -1231,7 +1265,8 @@
       "properties": {
         "SHEET": "NE 48/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1267,7 +1302,8 @@
       "properties": {
         "SHEET": "NE 50/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1303,7 +1339,8 @@
       "properties": {
         "SHEET": "NE 52/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1339,7 +1376,8 @@
       "properties": {
         "SHEET": "NE 54/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1375,7 +1413,8 @@
       "properties": {
         "SHEET": "NE 38/14",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1411,7 +1450,8 @@
       "properties": {
         "SHEET": "NE 40/14",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1447,7 +1487,8 @@
       "properties": {
         "SHEET": "NE 42/14",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1482,8 +1523,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/14",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Zagreb",
+        "SCALE": "500000",
+        "N43": "$$ae-ci---$$ae-xv---$$ae-bn---$$ae-hu---"
       },
       "geometry": {
         "coordinates": [
@@ -1518,8 +1560,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/14",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Graz",
+        "SCALE": "500000",
+        "N43": "$$ae-au---$$ae-hu---$$ae-xv---$$ae-ci---$$axo---"
       },
       "geometry": {
         "coordinates": [
@@ -1554,8 +1597,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/14",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Wien",
+        "SCALE": "500000",
+        "N43": "$$ae-au---$$ae-xo---$$ae-xr---"
       },
       "geometry": {
         "coordinates": [
@@ -1590,8 +1634,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/14",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Praha",
+        "SCALE": "500000",
+        "N43": "$$ae-xr---$$ae-pl---$$ae-gx---"
       },
       "geometry": {
         "coordinates": [
@@ -1626,8 +1671,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/14",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Szczecin",
+        "SCALE": "500000",
+        "N43": "$$ae-pl---$$ae-gx---"
       },
       "geometry": {
         "coordinates": [
@@ -1663,7 +1709,8 @@
       "properties": {
         "SHEET": "NE 54/14",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1699,7 +1746,8 @@
       "properties": {
         "SHEET": "NE 36/18",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1735,7 +1783,8 @@
       "properties": {
         "SHEET": "NE 38/18",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1771,7 +1820,8 @@
       "properties": {
         "SHEET": "NE 40/18",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1807,7 +1857,8 @@
       "properties": {
         "SHEET": "NE 42/18",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -1842,8 +1893,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/18",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Beograd",
+        "SCALE": "500000",
+        "N43": "$$ae-rb---$$ae-rm---$$ae-hu---$$ae-ci---$$ae-bn"
       },
       "geometry": {
         "coordinates": [
@@ -1878,8 +1930,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/18",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Budapest",
+        "SCALE": "500000",
+        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---$$ae-xo---"
       },
       "geometry": {
         "coordinates": [
@@ -1914,8 +1967,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/18",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Tatry",
+        "SCALE": "500000",
+        "N43": "$$ae-xo---$$ae-xr---$$ae-pl---$$ae-hu---"
       },
       "geometry": {
         "coordinates": [
@@ -1950,8 +2004,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/18",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Kraków",
+        "SCALE": "500000",
+        "N43": "$$ae-pl---$$ae-xr---"
       },
       "geometry": {
         "coordinates": [
@@ -1986,8 +2041,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/18",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Warszawa",
+        "SCALE": "500000",
+        "N43": "$$ae-pl---"
       },
       "geometry": {
         "coordinates": [
@@ -2023,7 +2079,8 @@
       "properties": {
         "SHEET": "NE 54/18",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2059,7 +2116,8 @@
       "properties": {
         "SHEET": "NE 36/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2095,7 +2153,8 @@
       "properties": {
         "SHEET": "NE 38/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2131,7 +2190,8 @@
       "properties": {
         "SHEET": "NE 40/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2166,8 +2226,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/22",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Sofia",
+        "SCALE": "500000",
+        "N43": "$$ae-bu---$$ae-rb---$$ae-rm---$$ae-xn---"
       },
       "geometry": {
         "coordinates": [
@@ -2203,7 +2264,8 @@
       "properties": {
         "SHEET": "NE 44/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2238,8 +2300,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/22",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Cluj",
+        "SCALE": "500000",
+        "N43": "$$ae-rm---$$ae-hu---$$ae-un---"
       },
       "geometry": {
         "coordinates": [
@@ -2274,8 +2337,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/22",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Lvov",
+        "SCALE": "500000",
+        "N43": "$$ae-un---$$ae-rm---$$ae-hu---$$ae-xo---$$ae-pl---"
       },
       "geometry": {
         "coordinates": [
@@ -2310,8 +2374,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/22",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Lublin",
+        "SCALE": "500000",
+        "N43": "$$ae-un----$$ae-pl----$$ae-bw---"
       },
       "geometry": {
         "coordinates": [
@@ -2347,7 +2412,8 @@
       "properties": {
         "SHEET": "NE 52/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2383,7 +2449,8 @@
       "properties": {
         "SHEET": "NE 54/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2419,7 +2486,8 @@
       "properties": {
         "SHEET": "NE 36/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2455,7 +2523,8 @@
       "properties": {
         "SHEET": "NE 38/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2491,7 +2560,8 @@
       "properties": {
         "SHEET": "NE 40/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2526,8 +2596,9 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/26",
-        "TITLE": "",
-        "SCALE": "500000"
+        "TITLE": "Stalin",
+        "SCALE": "500000",
+        "N43": "$$ae-bu---$$aa-tu---$$ae-rm---"
       },
       "geometry": {
         "coordinates": [
@@ -2563,7 +2634,8 @@
       "properties": {
         "SHEET": "NE 44/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2599,7 +2671,8 @@
       "properties": {
         "SHEET": "NE 46/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2635,7 +2708,8 @@
       "properties": {
         "SHEET": "NE 48/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2671,7 +2745,8 @@
       "properties": {
         "SHEET": "NE 50/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2707,7 +2782,8 @@
       "properties": {
         "SHEET": "NE 52/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2743,7 +2819,8 @@
       "properties": {
         "SHEET": "NE 54/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2779,7 +2856,8 @@
       "properties": {
         "SHEET": "NE 44/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2815,7 +2893,8 @@
       "properties": {
         "SHEET": "NE 46/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2851,7 +2930,8 @@
       "properties": {
         "SHEET": "NE 48/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2887,7 +2967,8 @@
       "properties": {
         "SHEET": "NE 50/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2923,7 +3004,8 @@
       "properties": {
         "SHEET": "NE 52/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2959,7 +3041,8 @@
       "properties": {
         "SHEET": "NE 54/30",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -2995,7 +3078,8 @@
       "properties": {
         "SHEET": "NE 44/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3031,7 +3115,8 @@
       "properties": {
         "SHEET": "NE 46/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3067,7 +3152,8 @@
       "properties": {
         "SHEET": "NE 48/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3103,7 +3189,8 @@
       "properties": {
         "SHEET": "NE 50/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3139,7 +3226,8 @@
       "properties": {
         "SHEET": "NE 52/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3175,7 +3263,8 @@
       "properties": {
         "SHEET": "NE 54/34",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3211,7 +3300,8 @@
       "properties": {
         "SHEET": "NE 36/12",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3247,7 +3337,8 @@
       "properties": {
         "SHEET": "NE 34/23,33333",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3283,7 +3374,8 @@
       "properties": {
         "SHEET": "NW 46,33333/5,5",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3319,7 +3411,8 @@
       "properties": {
         "SHEET": "NW 51,5/11",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3355,7 +3448,8 @@
       "properties": {
         "SHEET": "NW 53,5/11",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3391,7 +3485,8 @@
       "properties": {
         "SHEET": "NE 56/8",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3427,7 +3522,8 @@
       "properties": {
         "SHEET": "NE 56/14",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3463,7 +3559,8 @@
       "properties": {
         "SHEET": "NE 56/20",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3499,7 +3596,8 @@
       "properties": {
         "SHEET": "NE 56/26",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3535,7 +3633,8 @@
       "properties": {
         "SHEET": "NE 58/4",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3571,7 +3670,8 @@
       "properties": {
         "SHEET": "NE 58/10",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3607,7 +3707,8 @@
       "properties": {
         "SHEET": "NE 58/16",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3659,7 +3760,8 @@
       "properties": {
         "SHEET": "NE 58/22",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3695,7 +3797,8 @@
       "properties": {
         "SHEET": "NE 60/4",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3731,7 +3834,8 @@
       "properties": {
         "SHEET": "NE 62/5",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3767,7 +3871,8 @@
       "properties": {
         "SHEET": "NE 64/9",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3803,7 +3908,8 @@
       "properties": {
         "SHEET": "NE 66/11",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3839,7 +3945,8 @@
       "properties": {
         "SHEET": "NE 68/12",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [
@@ -3875,7 +3982,8 @@
       "properties": {
         "SHEET": "NE 69/20",
         "TITLE": "",
-        "SCALE": "500000"
+        "SCALE": "500000",
+        "N43": "$$ae-"
       },
       "geometry": {
         "coordinates": [

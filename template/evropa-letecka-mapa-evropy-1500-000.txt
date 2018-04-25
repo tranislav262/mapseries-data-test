@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
+072 7 L $$a656.6/.7$$xVodní a letecká doprava$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a656.7$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -153,7 +153,7 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+650 7 L $$aletecká doprava$$7ph115126$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -161,7 +161,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "valueSeparator": "\n651 7 L ",
     "value": {
-      "attr": "651"
+      "attr": "N651"
     }
   }
 655 7 L $$atopografická mapová díla$$7fd688544

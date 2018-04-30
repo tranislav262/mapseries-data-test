@@ -101,8 +101,8 @@ mapseries.config = {
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          if(stringValue.length==8) {
+            stringValue = stringValue.substr(0,5)+'°'+stringValue.substr(3)+'°';
           }
           return stringValue;
         }

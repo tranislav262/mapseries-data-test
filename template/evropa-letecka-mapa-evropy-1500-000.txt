@@ -106,6 +106,8 @@ LDR   L -----nem-a22--------4500
     "title": "Variantní název",
     "valuesByBaseIndex": [
       {"formatFunction":"addDegrees"},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"},
       {"attr":"SHEET"}
     ]
   }

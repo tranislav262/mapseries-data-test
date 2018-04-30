@@ -102,7 +102,7 @@ mapseries.config = {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
           if(stringValue.length==8) {
-            stringValue = stringValue.substr(0,5)+'°'+stringValue.substr(3)+'°';
+            stringValue = stringValue.substr(5)+'°'+stringValue.substr(3)+'°';
           }
           return stringValue;
         }

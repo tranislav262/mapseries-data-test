@@ -33,7 +33,12 @@ LDR   L -----nem-a22--------4500
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "slo", "ita", "pol", "rum", "scc", "scr", "slv", "bos", "ukr", "srp", "mac", "bul", "tup"]
+  }$$a{
+    "id":"langcode3",
+    "width":3,
+    "title":"Kód jazyka",
+    "values": ["cze", "ger", "hun", "slo", "ita", "pol", "rum", "scc", "scr", "slv", "bos", "ukr", "srp", "mac", "bul", "tup"]
   }
 043   L {
     "title": "Pole 043",

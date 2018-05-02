@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
 0341  L $$b500000{
     "title": "Zeměpisné souřadnice",
@@ -71,13 +71,13 @@ LDR   L -----nem-a22--------4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Československo.$$bMinisterstvo dopravy (1945-1960).$$cLetecký odbor",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2018990888", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -97,7 +97,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
+      "Ministerstvo dopravy - letecký odbor",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
@@ -133,6 +133,17 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Wien :$$bMilitärgeographisches Institut,",
       "Praha :$$bVojenský zeměpisný ústav,"
+    ]
+  }$$c{
+    "base":"year"
+  }
+264 1 L $$a{
+    "base":"corporation",
+    "width": 40,
+    "title": "Místo vydání a vydavatel",
+    "valuesByBaseIndex": [
+      "Praha :$$bMinisterstvo dopravy - letecký odbor,",
+      "Praha :$$bVojenský zeměpisný ústav,",
     ]
   }$$c{
     "base":"year"
@@ -175,7 +186,7 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "7101  L $$aZeměměřický úřad$$4ctg$$7mzk2015883345"
   ]
 }
 830 0 L $$aLetecká mapa Evropy 1:500 000 ;$$v{

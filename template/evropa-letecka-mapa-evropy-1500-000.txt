@@ -200,8 +200,8 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "",
-    "7101  L $$aZeměměřický úřad$$4ctg$$7mzk2015883345"
+    "7101  L $$aZeměměřický úřad$$4ctg$$7mzk2015883345",
+    ""
   ]
 }
 830 0 L $$aLetecká mapa Evropy 1:500 000 ;$$v{

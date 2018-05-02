@@ -98,7 +98,7 @@ LDR   L -----nem-a22--------4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Ministerstvo dopravy - letecký odbor",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
+      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
 2463  L $$a{

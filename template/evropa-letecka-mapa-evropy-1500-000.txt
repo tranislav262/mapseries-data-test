@@ -126,17 +126,6 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
-    "base":"corporation",
-    "width": 40,
-    "title": "Místo vydání a vydavatel",
-    "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
-      "Praha :$$bVojenský zeměpisný ústav,"
-    ]
-  }$$c{
-    "base":"year"
-  }
 264 1 L $$a{
     "base":"corporation",
     "width": 40,

@@ -566,11 +566,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NW 48/2",
-        "TITLE": "",
+        "TITLE": "Le Havre",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Le Havre",
         "N651": ""
       },
       "geometry": {
@@ -1046,11 +1046,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/6",
-        "TITLE": "",
+        "TITLE": "Strasbourg",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Strasbourg",
         "N651": ""
       },
       "geometry": {
@@ -1566,11 +1566,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 40/14",
-        "TITLE": "",
+        "TITLE": "Nápoli",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Nápoli",
         "N651": ""
       },
       "geometry": {

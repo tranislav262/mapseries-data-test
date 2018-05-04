@@ -131,7 +131,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praha :$$bMinisterstvo dopravy Letecký odbor,",
+      "Praha :$$bMinisterstvo dopravy - letecký odbor,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{

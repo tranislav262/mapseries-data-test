@@ -137,7 +137,7 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 52 x 67 cm, na listu {
+300   L $$a1 mapa :$$bbarevná ;$$c 52 x 67 cm, na listu {
   "id": "height",
   "title": "Výška",
   "width": 2
@@ -200,7 +200,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "7101  L $$aZeměměřický úřad$$4ctg$$7mzk2015883345",
+    "Zeměměřický úřad$$4ctg$$7mzk2015883345",
     ""
   ]
 }

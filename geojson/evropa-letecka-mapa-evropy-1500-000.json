@@ -2048,7 +2048,7 @@
         "SHEET": "NE 44/18",
         "TITLE": "Beograd",
         "SCALE": "500000",
-        "N43": "$$ae-rb---$$ae-rm---$$ae-hu---$$ae-ci---$$ae-bn",
+        "N43": "$$ae-rb---$$ae-rm---$$ae-hu---$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "Beograd",
         "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990"
@@ -2568,7 +2568,7 @@
         "SHEET": "NE 50/22",
         "TITLE": "Lublin",
         "SCALE": "500000",
-        "N43": "$$ae-un----$$ae-pl----$$ae-bw---",
+        "N43": "$$ae-un---$$ae-pl---$$ae-bw---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Lublin",
         "N651": "$$aLublin (Polsko : oblast)$$7ge251172"

@@ -568,10 +568,10 @@
         "SHEET": "NW 48/2",
         "TITLE": "Le Havre",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Le Havre",
-        "N651": ""
+        "N651": "$$aLe Havre (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1048,10 +1048,10 @@
         "SHEET": "NE 48/6",
         "TITLE": "Strasbourg",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---$$ae-gx---$$ae-lu---$$ae-be---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Strasbourg",
-        "N651": ""
+        "N651": "$$aŠtrasburk (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1568,10 +1568,10 @@
         "SHEET": "NE 40/14",
         "TITLE": "Nápoli",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Nápoli",
-        "N651": ""
+        "N651": "$$aNeapol (Itálie : oblast)$$7ge171006"
       },
       "geometry": {
         "coordinates": [

@@ -137,14 +137,27 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarevná ;$$c 52 x 67 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 3
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 3
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 3
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 3
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia

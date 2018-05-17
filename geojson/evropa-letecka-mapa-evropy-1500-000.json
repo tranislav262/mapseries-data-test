@@ -325,12 +325,12 @@
       "id": "80054b5d3f38f2b9de93f6ec0b56f02a",
       "type": "Feature",
       "properties": {
-        "SHEET": "NW 40/10",
-        "TITLE": "Cartagena",
+        "SHEET": "NW 42/6",
+        "TITLE": "Bilbao",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Cartagena",
+        "N245A": "Bilbao",
         "N651": ""
       },
       "geometry": {

@@ -2806,11 +2806,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/26",
-        "TITLE": "Stalin",
+        "TITLE": "Varna",
         "SCALE": "500000",
         "N43": "$$ae-bu---$$aa-tu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Stalin",
+        "N245A": "Stalin|Varna",
         "N651": "$$aVarna (Bulharsko : oblast)$$7ge723128"
       },
       "geometry": {
@@ -2846,7 +2846,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/26",
-        "TITLE": "",
+        "TITLE": "Bucurest",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -2886,7 +2886,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/26",
-        "TITLE": "",
+        "TITLE": "Chisinau",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -2926,7 +2926,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/26",
-        "TITLE": "",
+        "TITLE": "Vinnitsa",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -2966,7 +2966,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/26",
-        "TITLE": "",
+        "TITLE": "Zhitomir",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3006,7 +3006,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/26",
-        "TITLE": "",
+        "TITLE": "Minsk",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3046,7 +3046,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/26",
-        "TITLE": "",
+        "TITLE": "Polotsk",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3086,7 +3086,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/30",
-        "TITLE": "",
+        "TITLE": "Sevastopol",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3126,7 +3126,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/30",
-        "TITLE": "",
+        "TITLE": "Odessa",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3166,7 +3166,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/30",
-        "TITLE": "",
+        "TITLE": "Kirovograd",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3206,7 +3206,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/30",
-        "TITLE": "",
+        "TITLE": "Kiev",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3246,7 +3246,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/30",
-        "TITLE": "",
+        "TITLE": "Gomel",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3286,7 +3286,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/30",
-        "TITLE": "",
+        "TITLE": "Vitebsko",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3326,7 +3326,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/34",
-        "TITLE": "",
+        "TITLE": "Kerch",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3366,7 +3366,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 46/34",
-        "TITLE": "",
+        "TITLE": "Stalino",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3406,7 +3406,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/34",
-        "TITLE": "",
+        "TITLE": "Kharkov",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3446,7 +3446,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/34",
-        "TITLE": "",
+        "TITLE": "Kursk",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3486,7 +3486,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/34",
-        "TITLE": "",
+        "TITLE": "Bryansk",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3526,7 +3526,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/34",
-        "TITLE": "",
+        "TITLE": "Moscow",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3566,7 +3566,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 36/12",
-        "TITLE": "",
+        "TITLE": "Sicilia",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3606,7 +3606,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 34/23,33333",
-        "TITLE": "",
+        "TITLE": "Crete",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3646,7 +3646,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NW 46,33333/5,5",
-        "TITLE": "",
+        "TITLE": "Brest",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3686,7 +3686,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NW 51,5/11",
-        "TITLE": "",
+        "TITLE": "Ireland South",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3726,7 +3726,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NW 53,5/11",
-        "TITLE": "",
+        "TITLE": "Ireland North",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3766,7 +3766,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 56/8",
-        "TITLE": "",
+        "TITLE": "Aalborg",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3806,7 +3806,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 56/14",
-        "TITLE": "",
+        "TITLE": "Karlskrona",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3846,7 +3846,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 56/20",
-        "TITLE": "",
+        "TITLE": "Riga",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3886,7 +3886,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 56/26",
-        "TITLE": "",
+        "TITLE": "Pskov",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3926,7 +3926,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 58/4",
-        "TITLE": "",
+        "TITLE": "Stavanger",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -3966,7 +3966,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 58/10",
-        "TITLE": "",
+        "TITLE": "Oslo",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4006,7 +4006,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 58/16",
-        "TITLE": "",
+        "TITLE": "Stockholm",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4062,7 +4062,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 58/22",
-        "TITLE": "",
+        "TITLE": "Tallinn",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4102,7 +4102,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 60/4",
-        "TITLE": "",
+        "TITLE": "Bergen",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4142,7 +4142,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 62/5",
-        "TITLE": "",
+        "TITLE": "Trondhjem",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4182,7 +4182,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 64/9",
-        "TITLE": "",
+        "TITLE": "Namsos",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4222,7 +4222,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 66/11",
-        "TITLE": "",
+        "TITLE": "Bodo",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4262,7 +4262,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 68/12",
-        "TITLE": "",
+        "TITLE": "Narvik",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
@@ -4302,7 +4302,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 69/20",
-        "TITLE": "",
+        "TITLE": "Nordkap",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",

@@ -2170,7 +2170,7 @@
         "SCALE": "500000",
         "N43": "$$ae-pl---$$ae-xr---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Kraków",
+        "N245A": "Kraków|Krakow",
         "N651": "$$aKrakov (Polsko : oblast)$$7ge116258"
       },
       "geometry": {
@@ -2246,11 +2246,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/18",
-        "TITLE": "",
+        "TITLE": "Danzig",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Danzig",
         "N651": ""
       },
       "geometry": {
@@ -2286,11 +2286,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 36/22",
-        "TITLE": "",
+        "TITLE": "Athinai (Athens)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Athinai (Athens)",
         "N651": ""
       },
       "geometry": {
@@ -2326,11 +2326,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 38/22",
-        "TITLE": "",
+        "TITLE": "Volos",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Volos",
         "N651": ""
       },
       "geometry": {
@@ -2366,11 +2366,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 40/22",
-        "TITLE": "",
+        "TITLE": "Thessalonike",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Thessalonike",
         "N651": ""
       },
       "geometry": {
@@ -2446,11 +2446,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/22",
-        "TITLE": "",
+        "TITLE": "Brasov",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Brasov",
         "N651": ""
       },
       "geometry": {
@@ -2530,7 +2530,7 @@
         "SCALE": "500000",
         "N43": "$$ae-un---$$ae-rm---$$ae-hu---$$ae-xo---$$ae-pl---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Lvov",
+        "N245A": "Lvov|Lwow",
         "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443"
       },
       "geometry": {
@@ -2606,11 +2606,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/22",
-        "TITLE": "",
+        "TITLE": "Bialystok",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bialystok",
         "N651": ""
       },
       "geometry": {
@@ -2646,11 +2646,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/22",
-        "TITLE": "",
+        "TITLE": "Kaunas (Kovno)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kaunas (Kovno)",
         "N651": ""
       },
       "geometry": {
@@ -2686,11 +2686,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 36/26",
-        "TITLE": "",
+        "TITLE": "Rodi (Rhodes)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Rodi (Rhodes)",
         "N651": ""
       },
       "geometry": {
@@ -2726,11 +2726,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 38/26",
-        "TITLE": "",
+        "TITLE": "Izmir",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Izmir|Smyrna",
         "N651": ""
       },
       "geometry": {
@@ -2766,11 +2766,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 40/26",
-        "TITLE": "",
+        "TITLE": "Istanbul",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Istanbul",
         "N651": ""
       },
       "geometry": {
@@ -2850,7 +2850,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bucurest",
         "N651": ""
       },
       "geometry": {
@@ -2890,7 +2890,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Chisinau",
         "N651": ""
       },
       "geometry": {
@@ -2930,7 +2930,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Vinnitsa",
         "N651": ""
       },
       "geometry": {
@@ -2970,7 +2970,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Zhitomir",
         "N651": ""
       },
       "geometry": {
@@ -3010,7 +3010,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Minsk",
         "N651": ""
       },
       "geometry": {
@@ -3050,7 +3050,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Polotsk",
         "N651": ""
       },
       "geometry": {
@@ -3090,7 +3090,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Sevastopol",
         "N651": ""
       },
       "geometry": {
@@ -3130,7 +3130,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Odessa",
         "N651": ""
       },
       "geometry": {
@@ -3170,7 +3170,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kirovograd",
         "N651": ""
       },
       "geometry": {
@@ -3210,7 +3210,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kiev",
         "N651": ""
       },
       "geometry": {
@@ -3250,7 +3250,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Gomel",
         "N651": ""
       },
       "geometry": {
@@ -3286,11 +3286,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/30",
-        "TITLE": "Vitebsko",
+        "TITLE": "Vitebsk",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Vitebsk",
         "N651": ""
       },
       "geometry": {
@@ -3330,7 +3330,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kerch",
         "N651": ""
       },
       "geometry": {
@@ -3370,7 +3370,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Stalino",
         "N651": ""
       },
       "geometry": {
@@ -3410,7 +3410,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kharkov",
         "N651": ""
       },
       "geometry": {
@@ -3450,7 +3450,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kursk",
         "N651": ""
       },
       "geometry": {
@@ -3490,7 +3490,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bryansk",
         "N651": ""
       },
       "geometry": {
@@ -3530,7 +3530,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Moscow",
         "N651": ""
       },
       "geometry": {
@@ -3570,7 +3570,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Sicilia",
         "N651": ""
       },
       "geometry": {
@@ -3610,7 +3610,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Crete",
         "N651": ""
       },
       "geometry": {
@@ -3650,7 +3650,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Brest",
         "N651": ""
       },
       "geometry": {
@@ -3690,7 +3690,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Ireland South",
         "N651": ""
       },
       "geometry": {
@@ -3730,7 +3730,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Ireland North",
         "N651": ""
       },
       "geometry": {
@@ -3770,7 +3770,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Aalborg",
         "N651": ""
       },
       "geometry": {
@@ -3810,7 +3810,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Karlskrona",
         "N651": ""
       },
       "geometry": {
@@ -3850,7 +3850,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Riga",
         "N651": ""
       },
       "geometry": {
@@ -3890,7 +3890,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Pskov",
         "N651": ""
       },
       "geometry": {
@@ -3930,7 +3930,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Stavanger",
         "N651": ""
       },
       "geometry": {
@@ -3970,7 +3970,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Oslo",
         "N651": ""
       },
       "geometry": {
@@ -4010,7 +4010,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Stockholm",
         "N651": ""
       },
       "geometry": {
@@ -4066,7 +4066,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tallinn",
         "N651": ""
       },
       "geometry": {
@@ -4106,7 +4106,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bergen",
         "N651": ""
       },
       "geometry": {
@@ -4146,7 +4146,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Trondhjem",
         "N651": ""
       },
       "geometry": {
@@ -4186,7 +4186,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Namsos",
         "N651": ""
       },
       "geometry": {
@@ -4226,7 +4226,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bodo",
         "N651": ""
       },
       "geometry": {
@@ -4266,7 +4266,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Narvik",
         "N651": ""
       },
       "geometry": {
@@ -4306,7 +4306,7 @@
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Nordkap",
         "N651": ""
       },
       "geometry": {

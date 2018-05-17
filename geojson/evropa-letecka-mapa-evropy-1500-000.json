@@ -1246,11 +1246,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/10",
-        "TITLE": "",
+        "TITLE": "Firenze",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Firenze",
         "N651": ""
       },
       "geometry": {
@@ -1286,11 +1286,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 44/10",
-        "TITLE": "",
+        "TITLE": "Venezia",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Venezia",
         "N651": ""
       },
       "geometry": {
@@ -1366,11 +1366,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 48/10",
-        "TITLE": "",
+        "TITLE": "Munchen",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Munchen",
         "N651": ""
       },
       "geometry": {
@@ -1406,11 +1406,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 50/10",
-        "TITLE": "",
+        "TITLE": "Leipzig",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Leipzig",
         "N651": ""
       },
       "geometry": {
@@ -1446,11 +1446,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 52/10",
-        "TITLE": "",
+        "TITLE": "Berlin",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Berlin",
         "N651": ""
       },
       "geometry": {
@@ -1486,11 +1486,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/10",
-        "TITLE": "",
+        "TITLE": "Kiel",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kiel",
         "N651": ""
       },
       "geometry": {
@@ -1526,11 +1526,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 38/14",
-        "TITLE": "",
+        "TITLE": "Messina",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Messina",
         "N651": ""
       },
       "geometry": {
@@ -1606,11 +1606,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/14",
-        "TITLE": "",
+        "TITLE": "Chieti",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Chieti",
         "N651": ""
       },
       "geometry": {
@@ -1650,7 +1650,7 @@
         "SCALE": "500000",
         "N43": "$$ae-ci---$$ae-xv---$$ae-bn---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Zagreb",
+        "N245A": "Zagreb|Fiume",
         "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
       "geometry": {
@@ -1810,7 +1810,7 @@
         "SCALE": "500000",
         "N43": "$$ae-pl---$$ae-gx---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Szczecin",
+        "N245A": "Szczecin|Stettin",
         "N651": "$$aŠtětín (Polsko : oblast)$$7ge134526"
       },
       "geometry": {
@@ -1846,11 +1846,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 54/14",
-        "TITLE": "",
+        "TITLE": "Kolberg",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kolberg",
         "N651": ""
       },
       "geometry": {
@@ -1886,11 +1886,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 36/18",
-        "TITLE": "",
+        "TITLE": "Zakynthos (Zante)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Zakynthos (Zante)",
         "N651": ""
       },
       "geometry": {
@@ -1926,11 +1926,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 38/18",
-        "TITLE": "",
+        "TITLE": "Kerkyra (Corfu)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kerkyra (Corfu)",
         "N651": ""
       },
       "geometry": {
@@ -1966,11 +1966,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 40/18",
-        "TITLE": "",
+        "TITLE": "Tirana",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tirana",
         "N651": ""
       },
       "geometry": {
@@ -2006,11 +2006,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "NE 42/18",
-        "TITLE": "",
+        "TITLE": "Shkodra (Scutari)",
         "SCALE": "500000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Shkodra (Scutari)",
         "N651": ""
       },
       "geometry": {

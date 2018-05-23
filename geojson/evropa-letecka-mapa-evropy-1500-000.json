@@ -8,10 +8,10 @@
         "SHEET": "NW 36/10",
         "TITLE": "Cadix",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-po---$$ae-sp---",
+        "N80": "$$a913(469)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Cadix",
-        "N651": ""
+        "N651": "$$aCádiz (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1248,10 +1248,10 @@
         "SHEET": "NE 42/10",
         "TITLE": "Firenze",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Firenze",
-        "N651": ""
+        "N651": "$$aFlorencie (Itálie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1288,10 +1288,10 @@
         "SHEET": "NE 44/10",
         "TITLE": "Venezia",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Venezia",
-        "N651": ""
+        "N651": "$$aBenátky (Itálie : oblast)$$7ge182468"
       },
       "geometry": {
         "coordinates": [
@@ -1368,10 +1368,10 @@
         "SHEET": "NE 48/10",
         "TITLE": "Munchen",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---$$ae-au---$$ae-xr---",
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.3)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Munchen",
-        "N651": ""
+        "N651": "$$aMnichov (Německo : oblast)$$7ge273426"
       },
       "geometry": {
         "coordinates": [
@@ -1608,10 +1608,10 @@
         "SHEET": "NE 42/14",
         "TITLE": "Chieti",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---$$ae-ci---$$ae-bn---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Chieti",
-        "N651": ""
+        "N651": "$$aChieti (Itálie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2448,10 +2448,10 @@
         "SHEET": "NE 44/22",
         "TITLE": "Brasov",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-rm---$$ae-rb---$$ae-bu---",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Brasov",
-        "N651": ""
+        "N651": "$$aBrašov (Rumunsko : oblast)$$7ge385110"
       },
       "geometry": {
         "coordinates": [

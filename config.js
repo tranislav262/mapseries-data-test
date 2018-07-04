@@ -107,20 +107,6 @@ mapseries.config = {
           return stringValue;
         }
       }
-    },
-    {
-      title: "Evropa: Heereskarte 1:300 000",
-      layer: "evropa-heereskarte-1300-000",
-      template: "evropa-heereskarte-1300-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
     }
   ]
 }

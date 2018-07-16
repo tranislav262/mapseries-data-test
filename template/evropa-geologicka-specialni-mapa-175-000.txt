@@ -9,12 +9,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "hu", "au","xr"]
+    "valuesByBaseIndex": ["au", "hu", "au","xr","xr"]
   }-|||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "ger", "ger", "cze"]
+    "valuesByBaseIndex": ["ger", "ger", "ger", "cze", "cze"]
   }-d
 0341  L $$b75000{
     "title": "Zeměpisné souřadnice",

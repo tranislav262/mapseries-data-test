@@ -65,7 +65,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width": 70,
@@ -74,13 +74,14 @@ LDR   L -----nem-a22------i-4500
       "K.K. Geologische Reichsanstalt (Rakousko)",
       "Magyar Királyi Földtani Intézet",
       "Geologische Bundesanstalt (Rakousko)",
-      "Státní geologický ústav Republiky československé"
+      "Státní geologický ústav Republiky československé",
+      "Státní geologický ústav"
     ]
   }$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko2008449862", "ko2004218579", "kn20080416001", "ko2005264332"]
+    "valuesByBaseIndex": ["ko2008449862", "ko2004218579", "kn20080416001", "ko2005264332", "ko20010094257"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -106,7 +107,8 @@ LDR   L -----nem-a22------i-4500
       "K.k. geologische Reichsanstalt",
       "Königliche geologische Reichsanstalt",
       "[K.k. geologische Reichsanstalt] ; Geologische Bundesanstalt",
-      "[K.k. geologische Reichsanstalt] ; Státní geologický ústav Republiky československé"
+      "[K.k. geologische Reichsanstalt] ; Státní geologický ústav Republiky československé",
+      "Státní geologický ústav"
     ]
   }
 2463  L $$a{
@@ -144,7 +146,8 @@ LDR   L -----nem-a22------i-4500
       "[Wien] :$$bK.k. geologische Reichsanstalt,",
       "[Budapest] :$$bKönigliche geologische Reichsanstalt,",
       "[Wien] :$$bGeologische Bundesanstalt,",
-      "Praha :$$bStátní geologický ústav Republiky československé,"
+      "Praha :$$bStátní geologický ústav Republiky československé,",
+      "Praha :$$bStátní geologický ústav,"
     ]
   }$$c{
     "base":"year"

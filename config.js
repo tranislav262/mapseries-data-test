@@ -163,6 +163,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Svět: Karta mira 1:2 500 000",
+      layer: "svet-karta-mira-12-500-000",
+      template: "svet-karta-mira-12-500-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

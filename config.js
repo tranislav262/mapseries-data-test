@@ -177,6 +177,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Karte von Frankreich 1:25 000",
+      layer: "evropa-karte-von-frankreich-125-000",
+      template: "evropa-karte-von-frankreich-125-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

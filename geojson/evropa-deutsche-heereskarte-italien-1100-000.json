@@ -90,10 +90,10 @@
         "Shape_Area": "0.16666666645",
         "SCALE": "100000",
         "SHEET": "1",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Brenner",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Brenner",
         "N651": ""
       },
       "geometry": {
@@ -295,10 +295,10 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "102",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Sanremo",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "San Remo",
         "N651": ""
       },
       "geometry": {
@@ -4723,10 +4723,10 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "1A",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Glockenkarkopf ",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Vetta d'Italia",
         "N651": ""
       },
       "geometry": {
@@ -4764,10 +4764,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "2",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Mompiccio",
+        "N43": "$$ae-it---$$ae-sz---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Mompiccio",
         "N651": ""
       },
       "geometry": {
@@ -8511,10 +8511,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "3",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Reschenský průsmyk",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Reschen Scheideck",
         "N651": ""
       },
       "geometry": {
@@ -8962,10 +8962,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "4",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Merano",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Meran",
         "N651": ""
       },
       "geometry": {
@@ -9126,10 +9126,10 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "41",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Gran Paradiso",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Gran Paradiso",
         "N651": ""
       },
       "geometry": {
@@ -9495,10 +9495,10 @@
         "Shape_Area": "0.166666667349",
         "SCALE": "100000",
         "SHEET": "4A",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Brixen",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Brixen",
         "N651": ""
       },
       "geometry": {
@@ -9536,11 +9536,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "4B",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Monguelfo ",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Monguelfo ",
+        "N651": "$$aMonguelfo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9577,10 +9577,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "4C",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Knieberg ",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Col Quaternà",
         "N651": ""
       },
       "geometry": {
@@ -9946,11 +9946,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "55",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Susa",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Susa",
+        "N651": "$$aSusa (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10602,10 +10602,10 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "67",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Pinerolo",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Pinerolo",
         "N651": ""
       },
       "geometry": {
@@ -10725,10 +10725,10 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "7",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Piz Bernina",
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "Piz Bernina",
         "N651": ""
       },
       "geometry": {
@@ -11266,10 +11266,10 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "8",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Bormio",
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "Bormio",
         "N651": ""
       },
       "geometry": {
@@ -11840,10 +11840,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "90",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Demonte",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Demonte",
         "N651": ""
       },
       "geometry": {
@@ -11881,10 +11881,10 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "91",
-        "TITLE": "",
-        "N43": "$$ae-it---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
+        "TITLE": "Boves",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Boves",
         "N651": ""
       },
       "geometry": {

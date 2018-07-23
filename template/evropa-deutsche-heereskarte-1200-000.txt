@@ -184,8 +184,9 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Německo.$$bHeer.$$bGeneralstab$$4ctg$$7mzk2017971934",
-    ""
+    "",
+    "Německo.$$bHeer.$$bGeneralstab$$4ctg$$7mzk2017971934"
+    
   ]
 }
 830 0 L $$aDeutsche Heereskarte 1:200 000 ;$$v{

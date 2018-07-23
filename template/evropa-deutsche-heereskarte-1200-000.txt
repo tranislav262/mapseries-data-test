@@ -94,7 +94,7 @@ LDR   L -----nem-a22--------4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Herausgegeben vom OKH/Gen StdH",
+      "Herausgegeben vom OKH/Gen St d H",
       "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
@@ -128,7 +128,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Německo] :$$bGenStdH,",
+      "[Berlín?] :$$bHerausgegeben vom OKH/Gen St d H,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{

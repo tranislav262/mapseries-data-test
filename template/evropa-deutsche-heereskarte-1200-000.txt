@@ -78,7 +78,7 @@ LDR   L -----nem-a22--------4500
 24510 L $$a{
     "title": "Název listu",
     "value": {
-      "attr": "N245a"
+      "attr": "N245A"
     }
   }.$$p{
     "id":"sheet",

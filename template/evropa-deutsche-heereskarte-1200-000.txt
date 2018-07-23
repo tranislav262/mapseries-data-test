@@ -76,6 +76,7 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název listu",
+    "width": 50,
     "value": {
       "attr": "N245A"
     }
@@ -89,7 +90,7 @@ LDR   L -----nem-a22--------4500
     ]
   } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Herausgegeben vom OKH/Gen StdH"

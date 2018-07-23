@@ -1734,7 +1734,7 @@
         "N43": "$$ae-pl---$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
         "N245A": "Schweidnitz",
-        "N651": "Svídnice (Polsko : oblast)ge343761"
+        "N651": "$$aSvídnice (Polsko : oblast)$$7ge343761"
       },
       "geometry": {
         "type": "Polygon",
@@ -1775,7 +1775,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Breslau",
-        "N651": "Vratislav (Polsko : oblast)ge191392"
+        "N651": "$$aVratislav (Polsko : oblast)$$7ge191392"
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,7 +1816,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Oppeln",
-        "N651": "Opolsko (Polsko : oblast)"
+        "N651": "$$aOpolsko (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

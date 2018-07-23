@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw"]
+    "valuesByBaseIndex": ["gw", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger"]
+    "valuesByBaseIndex": ["ger", "cze"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -61,18 +61,19 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1"]
+    "valuesByBaseIndex": ["1", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Německo.$$bHeer.$$bGeneralstab"]
+      "Německo.$$bHeer.$$bGeneralstab",
+      "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -93,7 +94,8 @@ LDR   L -----nem-a22--------4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Herausgegeben vom OKH/Gen StdH"
+      "Herausgegeben vom OKH/Gen StdH",
+      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
 2463  L $$a{
@@ -126,7 +128,8 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Německo] :$$bGen StdH,"
+      "[Německo] :$$bGenStdH,",
+      "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"

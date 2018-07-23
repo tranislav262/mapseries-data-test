@@ -92,7 +92,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Herausgegeben vom OKH/Gen StdH",
+      "Herausgegeben vom OKH/Gen StdH"
     ]
   }
 2463  L $$a{

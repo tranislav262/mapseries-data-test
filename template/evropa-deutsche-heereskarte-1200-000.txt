@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw", "xr"]
+    "valuesByBaseIndex": ["gw", "gw"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["ger", "ger"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -68,12 +68,12 @@ LDR   L -----nem-a22--------4500
     "title":"Vydavatelská korporace",
     "values": [
       "Německo.$$bHeer.$$bGeneralstab",
-      "Vojenský zeměpisný ústav"]
+      "Německo.$$bOberkommando der Luftwaffe"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2009524704"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -95,7 +95,7 @@ LDR   L -----nem-a22--------4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Herausgegeben vom OKH/Gen St d H",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "OKL, LW. Fü. St. (7. Abt.)"
     ]
   }
 2463  L $$a{
@@ -125,11 +125,11 @@ LDR   L -----nem-a22--------4500
   }
 264 1  L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 80,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Berlín?] :$$bHerausgegeben vom OKH/Gen St d H,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "[Berlin?] :$$bHerausgegeben vom OKH/Gen St d H,",
+      "[Berlin?] :$$bOKL, LW. Fü. St. (7. Abt.),"
     ]
   }$$c{
     "base":"year"
@@ -174,12 +174,18 @@ LDR   L -----nem-a22--------4500
   }
 655 7 L $$atopografická mapová díla$$7fd688544
 655 7 L $$avojenské mapy$$7fd133817
-{
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", "1"]
+  }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce",
+  "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Německo.$$bHeer.$$bGeneralstab$$4ctg$$7mzk2017971934",
+    ""
   ]
 }
 830 0 L $$aDeutsche Heereskarte 1:200 000 ;$$v{

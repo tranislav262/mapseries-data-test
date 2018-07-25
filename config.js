@@ -247,6 +247,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Normální mezinárodní letecká mapa 1:200 000",
+      layer: "evropa-normalni-mezinarodni-letecka-mapa-1200-000",
+      template: "evropa-normalni-mezinarodni-letecka-mapa-1200-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

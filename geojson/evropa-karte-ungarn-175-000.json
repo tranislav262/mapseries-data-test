@@ -339,7 +339,7 @@
         "TITLE": "Tisovec",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "Tiszolc",
+        "N245A": "Tiszolc|Revúca",
         "N651": "$$aTisovec (Slovensko : oblast)"
       },
       "geometry": {
@@ -380,7 +380,7 @@
         "TITLE": "Rožňava",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "Rozsnyo",
+        "N245A": "Rozsnyó",
         "N651": "$$aRožňava (Slovensko : oblast)$$7ge134460"
       },
       "geometry": {
@@ -910,11 +910,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4665",
-        "TITLE": "",
+        "TITLE": "Putnok a Szendrő",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Putnok és Szendrő",
+        "N651": "$$aPutnok (Maďarsko : oblast)$$7ge893147|$$aSzendrő (Maďarsko : oblast)$$7ge893144"
       },
       "geometry": {
         "type": "Polygon",
@@ -951,11 +951,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4666",
-        "TITLE": "",
+        "TITLE": "Abaújszántó",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Abaújszántó",
+        "N651": "$$aAbaújszántó (Maďarsko : oblast"
       },
       "geometry": {
         "type": "Polygon",
@@ -992,11 +992,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "4667",
-        "TITLE": "",
+        "TITLE": "Sátoraljaújhely",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sátoraljaújhely",
+        "N651": "$$aSátoraljaújhely (Maďarsko : oblast)$$7ge587273"
       },
       "geometry": {
         "type": "Polygon",
@@ -1033,11 +1033,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4668",
-        "TITLE": "",
+        "TITLE": "Mándok",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Mándok",
+        "N651": "$$aMándok (Maďarsko : oblast)$$7ge893423"
       },
       "geometry": {
         "type": "Polygon",
@@ -1074,11 +1074,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4669",
-        "TITLE": "",
+        "TITLE": "Mukačevo",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Munkácz",
+        "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149"
       },
       "geometry": {
         "type": "Polygon",
@@ -1115,11 +1115,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4670",
-        "TITLE": "",
+        "TITLE": "Bilky",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bilke",
+        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
       "geometry": {
         "type": "Polygon",
@@ -1156,11 +1156,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "4671",
-        "TITLE": "",
+        "TITLE": "Berezovo",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Berezna",
+        "N651": "$$aBerezovo (Ukrajina : oblast)$$7ge893447"
       },
       "geometry": {
         "type": "Polygon",
@@ -1197,11 +1197,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4672",
-        "TITLE": "",
+        "TITLE": "Lopuchiv",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Brustury",
+        "N651": "$$aLopuchiv (Ukrajina : oblast)$$7ge893470"
       },
       "geometry": {
         "type": "Polygon",
@@ -1238,11 +1238,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4673",
-        "TITLE": "",
+        "TITLE": "Jasinja",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kőrösmező",
+        "N651": "$$aJasinja (Ukrajina : oblast)$$7ge735813"
       },
       "geometry": {
         "type": "Polygon",
@@ -1812,11 +1812,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "4771",
-        "TITLE": "",
+        "TITLE": "Ťačiv",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Técso",
+        "N651": "$$aTjačìv (Ukrajina : oblast)$$7ge612722"
       },
       "geometry": {
         "type": "Polygon",
@@ -2058,11 +2058,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "4860",
-        "TITLE": "",
+        "TITLE": "Komárno",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Komárom",
+        "N651": "$$aKomárno (Slovensko : oblast)$$7ge831948"
       },
       "geometry": {
         "type": "Polygon",
@@ -2550,11 +2550,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "4872",
-        "TITLE": "",
+        "TITLE": "Velký Bočkov",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nagybocskó",
+        "N651": "$$aVelký Bočkov (Ukrajina : oblast)$$7ge909723|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176"
       },
       "geometry": {
         "type": "Polygon",
@@ -4969,11 +4969,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5364",
-        "TITLE": "",
+        "TITLE": "Szentes a Kiskunfélegyháza",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Szentes és Kiskunfélegyháza",
+        "N651": "$$aSzentes (Maďarsko : oblast)|$$aKiskunfélegyháza (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

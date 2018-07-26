@@ -9,8 +9,8 @@
         "SCALE": "75000",
         "SHEET": "4368",
         "TITLE": "Papín",
-        "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Papín",
         "N651": "$$aPapín (Slovensko : oblast)$$7ge905442"
       },
@@ -50,8 +50,8 @@
         "SCALE": "75000",
         "SHEET": "4369",
         "TITLE": "Ruské",
-        "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Ruské",
         "N651": "$$aRuské (Slovensko : zaniklá obec : oblast)$$7ge905447"
       },
@@ -91,8 +91,8 @@
         "SCALE": "75000",
         "SHEET": "4370",
         "TITLE": "Turka",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-pl---$$ae-un---",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Turka",
         "N651": "$$aTurka (Ukrajina : oblast)$$7ge805260"
       },
@@ -132,8 +132,8 @@
         "SCALE": "75000",
         "SHEET": "4466",
         "TITLE": "Gelnica",
-        "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Gelnica",
         "N651": "$$aGelnica (Slovensko : oblast)$$7ge809962"
       },
@@ -173,8 +173,8 @@
         "SCALE": "75000",
         "SHEET": "4468",
         "TITLE": "Humenné",
-        "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(439)$$2MRF(437.6)|$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Humenné",
         "N651": "$$aHumenné (Slovensko : oblast)$$7ge406272"
       },
@@ -214,8 +214,8 @@
         "SCALE": "75000",
         "SHEET": "4469",
         "TITLE": "Velký Berezný",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---$$ae-un---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Nagyberezna",
         "N651": "$$aVelký Berezný (Ukrajina)$$7ge889036"
       },
@@ -255,8 +255,8 @@
         "SCALE": "75000",
         "SHEET": "4470",
         "TITLE": "Nyžni Vorota",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Alsóverecke",
         "N651": "$$aNyžni Vorota (Ukrajina)$$7ge889130"
       },
@@ -296,8 +296,8 @@
         "SCALE": "75000",
         "SHEET": "4471",
         "TITLE": "Tuchlja",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Tuchla",
         "N651": "$$aTuchlja (Ukrajina)$$7ge889133"
       },
@@ -337,8 +337,8 @@
         "SCALE": "75000",
         "SHEET": "4564",
         "TITLE": "Tisovec",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Tiszolc|Revúca",
         "N651": "$$aTisovec (Slovensko : oblast)"
       },
@@ -378,8 +378,8 @@
         "SCALE": "75000",
         "SHEET": "4565",
         "TITLE": "Rožňava",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Rozsnyó",
         "N651": "$$aRožňava (Slovensko : oblast)$$7ge134460"
       },
@@ -419,8 +419,8 @@
         "SCALE": "75000",
         "SHEET": "4566",
         "TITLE": "Abaújvár a Tornaszentjakab",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Abaújvár és T. Szt. Jakab",
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
@@ -460,8 +460,8 @@
         "SCALE": "75000",
         "SHEET": "4567",
         "TITLE": "Trebišov",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Trebišov",
         "N651": "$$aTrebišov (Slovensko : oblast)$$7ge844050"
       },
@@ -501,8 +501,8 @@
         "SCALE": "75000",
         "SHEET": "4568",
         "TITLE": "Pavlovce",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---$$ae-un---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Pavlovce",
         "N651": "$$aPavlovce nad Uhom (Slovensko : oblast)"
       },
@@ -542,8 +542,8 @@
         "SCALE": "75000",
         "SHEET": "4569",
         "TITLE": "Seredné ",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---$$ae-un---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Szerednye",
         "N651": "$$aSeredné (Ukrajina : oblast)$$7ge889276"
       },
@@ -583,8 +583,8 @@
         "SCALE": "75000",
         "SHEET": "4570",
         "TITLE": "Svaljava",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Szolyva",
         "N651": "$$aSvaljava (Ukrajina : oblast)$$7ge828877"
       },
@@ -624,8 +624,8 @@
         "SCALE": "75000",
         "SHEET": "4571",
         "TITLE": "Mižhirja",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Ökörmező",
         "N651": "$$aMižhirja (Ukrajina : oblast)"
       },
@@ -665,8 +665,8 @@
         "SCALE": "75000",
         "SHEET": "4572",
         "TITLE": "Porohy",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Porohy",
         "N651": "$$aPorohy (Ukrajina : oblast)$$7ge889282"
       },
@@ -706,8 +706,8 @@
         "SCALE": "75000",
         "SHEET": "4659",
         "TITLE": "Trnava",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Trnava",
         "N651": "$$aTrnava (Slovensko : oblast)$$7ge518483"
       },
@@ -747,8 +747,8 @@
         "SCALE": "75000",
         "SHEET": "4660",
         "TITLE": "Nitra",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Nitra",
         "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
@@ -788,8 +788,8 @@
         "SCALE": "75000",
         "SHEET": "4661",
         "TITLE": "Nová Baňa",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Nová Baňa (Königsberg)",
         "N651": "$$aNová Baňa (Slovensko : oblast)$$7ge893129"
       },
@@ -829,8 +829,8 @@
         "SCALE": "75000",
         "SHEET": "4663",
         "TITLE": "Málinec",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Málinec",
         "N651": "$$aMálinec (Slovensko : oblast)"
       },
@@ -870,8 +870,8 @@
         "SCALE": "75000",
         "SHEET": "4664",
         "TITLE": "Rimavská Sobota a Susa",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---|$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Rimaszombat és Susa",
         "N651": "$$aRimavská Sobota (Slovensko : oblast)$$7xx0127667"
       },
@@ -911,8 +911,8 @@
         "SCALE": "75000",
         "SHEET": "4665",
         "TITLE": "Putnok a Szendrő",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---|$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Putnok és Szendrő",
         "N651": "$$aPutnok (Maďarsko : oblast)$$7ge893147|$$aSzendrő (Maďarsko : oblast)$$7ge893144"
       },
@@ -952,8 +952,8 @@
         "SCALE": "75000",
         "SHEET": "4666",
         "TITLE": "Abaújszántó",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Abaújszántó",
         "N651": "$$aAbaújszántó (Maďarsko : oblast"
       },
@@ -993,8 +993,8 @@
         "SCALE": "75000",
         "SHEET": "4667",
         "TITLE": "Sátoraljaújhely",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Sátoraljaújhely",
         "N651": "$$aSátoraljaújhely (Maďarsko : oblast)$$7ge587273"
       },
@@ -1034,8 +1034,8 @@
         "SCALE": "75000",
         "SHEET": "4668",
         "TITLE": "Mándok",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-xo---$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Mándok",
         "N651": "$$aMándok (Maďarsko : oblast)$$7ge893423"
       },
@@ -1075,8 +1075,8 @@
         "SCALE": "75000",
         "SHEET": "4669",
         "TITLE": "Mukačevo",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Munkácz",
         "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149"
       },
@@ -1116,8 +1116,8 @@
         "SCALE": "75000",
         "SHEET": "4670",
         "TITLE": "Bilky",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Bilke",
         "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
@@ -1157,8 +1157,8 @@
         "SCALE": "75000",
         "SHEET": "4671",
         "TITLE": "Berezovo",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Berezna",
         "N651": "$$aBerezovo (Ukrajina : oblast)$$7ge893447"
       },
@@ -1198,8 +1198,8 @@
         "SCALE": "75000",
         "SHEET": "4672",
         "TITLE": "Lopuchiv",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Brustury",
         "N651": "$$aLopuchiv (Ukrajina : oblast)$$7ge893470"
       },
@@ -1239,8 +1239,8 @@
         "SCALE": "75000",
         "SHEET": "4673",
         "TITLE": "Jasinja",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kőrösmező",
         "N651": "$$aJasinja (Ukrajina : oblast)$$7ge735813"
       },
@@ -1525,11 +1525,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "4764",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ózd a Kisterenye",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Ózd és Kisterenye",
+        "N651": "$$aÓzd (Maďarsko : oblast)|$$aKisterenye (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1566,11 +1566,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4765",
-        "TITLE": "",
+        "TITLE": "Miskolc",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Miskolk",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146"
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,11 +1607,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4766",
-        "TITLE": "",
+        "TITLE": "Szikszó",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Szikszó",
+        "N651": "$$aSzikszó (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1648,11 +1648,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "4767",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tokaj",
+        "N651": "$$aTokaj (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1689,11 +1689,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4768",
-        "TITLE": "",
+        "TITLE": "Kisvárda",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kisvárda",
+        "N651": "$$aKisvárda (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1730,11 +1730,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4769",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Berehove",
+        "N43": "$$ae-hu---$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Beregszász",
+        "N651": "$$aBerehove (Ukrajina : oblast)$$7ge900159"
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,11 +1771,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4770",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kispalád",
+        "N43": "$$ae-hu---$$ae-un---",
+        "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kispalád",
+        "N651": "$$aKispalád (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1813,8 +1813,8 @@
         "SCALE": "75000",
         "SHEET": "4771",
         "TITLE": "Ťačiv",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-un---$$ae-rm---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Técso",
         "N651": "$$aTjačìv (Ukrajina : oblast)$$7ge612722"
       },
@@ -1853,11 +1853,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4772",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kobylecká Polana",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Kapola Polyána",
+        "N651": "$$aKobylecká Polana (Ukrajina : oblast)$$7ge888781"
       },
       "geometry": {
         "type": "Polygon",
@@ -1894,11 +1894,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4773",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bohdan",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Bogdan",
+        "N651": "$$aBohdan (Ukrajina : oblast)$$7ge888784"
       },
       "geometry": {
         "type": "Polygon",
@@ -1935,11 +1935,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "4857",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Eisenstadt",
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Eisenstadt",
+        "N651": "$$aEisenstadt (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1976,11 +1976,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "4858",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Magyaróvár",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
         "type": "Polygon",
@@ -2017,11 +2017,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "4859",
-        "TITLE": "",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Dunajská Streda",
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Dunaszerdahely",
+        "N651": "$$aDunajská Streda (Slovensko : oblast)$$7xx0117432"
       },
       "geometry": {
         "type": "Polygon",

@@ -2796,11 +2796,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4961",
-        "TITLE": "",
+        "TITLE": "Felsőgalla a Dorog",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Felsőgalla és Dorog",
+        "N651": "$$aFelsőgalla (Maďarsko : oblast)|$$aDorog (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2837,11 +2837,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "4962",
-        "TITLE": "",
+        "TITLE": "Budapest a Szentendre",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Budapest és Szentendre",
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
       "geometry": {
         "type": "Polygon",

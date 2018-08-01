@@ -2185,7 +2185,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Pásztó és Gyöngyös",
-        "N651": ""
+        "N651": "$$aPásztó (Maďarsko : oblast)|$$aGyöngyös (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2226,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Gyöngyös",
-        "N651": ""
+        "N651": "$$aGyöngyös (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2267,7 +2267,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Eger és Mezőkövesd",
-        "N651": ""
+        "N651": "$$aEger (Maďarsko : oblast)|$$aMezőkövesd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2308,7 +2308,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Polgár",
-        "N651": ""
+        "N651": "$$aPolgár (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2349,7 +2349,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nyíregyháza",
-        "N651": ""
+        "N651": "$$aNyíregyháza (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3087,7 +3087,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Érmihályfalva",
-        "N651": ""
+        "N651": "$$aValea lui Mihai (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4846,11 +4846,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5361",
-        "TITLE": "",
+        "TITLE": "Nagydorog a Gyönk",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a(Maďarsko : oblast)"
+        "N245A": "Nagydorog és Gyönk",
+        "N651": "$$aGyönk (Maďarsko : oblast)|$$aNagydorog (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4887,11 +4887,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5362",
-        "TITLE": "",
+        "TITLE": "Kalocsa",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a(Maďarsko : oblast)"
+        "N245A": "Kalocsa",
+        "N651": "$$aKalocsa (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4928,11 +4928,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5363",
-        "TITLE": "",
+        "TITLE": "Soltvadkert",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a(Maďarsko : oblast)"
+        "N245A": "Soltvadkert",
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5010,11 +5010,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5365",
-        "TITLE": "",
+        "TITLE": "Orosháza",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Orosháza",
+        "N651": "$$aOrosháza (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5051,11 +5051,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5366",
-        "TITLE": "",
+        "TITLE": "Békéscsaba",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Békéscsaba",
+        "N651": "$$aBékéscsaba (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5092,11 +5092,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5367",
-        "TITLE": "",
+        "TITLE": "Sarkad",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Sarkad",
+        "N651": "$$aSarkad (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5133,11 +5133,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5457",
-        "TITLE": "",
+        "TITLE": "Letenye",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Letenye",
+        "N651": "$$aLetenye (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5297,11 +5297,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5461",
-        "TITLE": "",
+        "TITLE": "Szekszárd",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Szekszárd",
+        "N651": "$$aSzekszárd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5338,11 +5338,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5462",
-        "TITLE": "",
+        "TITLE": "Hajós",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hajós",
+        "N651": "$$aHajós (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5379,11 +5379,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5463",
-        "TITLE": "",
+        "TITLE": "Kiskunhalas",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Kiskunhalas",
+        "N651": "$$aKiskunhalas (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5420,11 +5420,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5464",
-        "TITLE": "",
+        "TITLE": "Segedín a Hódmezővásárhely",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Szeged és Hódmezővásárhely",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aHódmezővásárhely (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5461,11 +5461,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5465",
-        "TITLE": "",
+        "TITLE": "Földeák a Mezőhegyes",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Földeák és Mezőhegyes",
+        "N651": "$$aFöldeák (Maďarsko : oblast)|$$aMezőhegyes (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5502,11 +5502,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5466",
-        "TITLE": "",
+        "TITLE": "Battonya a Mezőkovácsháza",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Battonya és Mezőkovácsháza",
+        "N651": "$$aBattonya (Maďarsko : oblast)|$$aMezőkovácsháza (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5543,11 +5543,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5558",
-        "TITLE": "",
+        "TITLE": "Berzence",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Berzence",
+        "N651": "$$aBerzence (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5584,11 +5584,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5559",
-        "TITLE": "",
+        "TITLE": "Szigetvár a Nagyatád",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Szigetvár és Nagyatád",
+        "N651": "$$aSzigetvár (Maďarsko : oblast)|$$aNagyatád (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5625,11 +5625,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5560",
-        "TITLE": "",
+        "TITLE": "Pécs",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Pécs",
+        "N651": "$$aPécs (Maďarsko : oblast)$$7ge856379"
       },
       "geometry": {
         "type": "Polygon",
@@ -5666,11 +5666,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5561",
-        "TITLE": "",
+        "TITLE": "Bátaszék a Pécsvárad",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Bátaszék és Pécsvárad",
+        "N651": "$$aBátaszék (Maďarsko : oblast)|$$aPécsvárad (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5707,11 +5707,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5562",
-        "TITLE": "",
+        "TITLE": "Baja",
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Baja",
+        "N651": "$$aBaja (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5748,11 +5748,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5563",
-        "TITLE": "",
+        "TITLE": "Subotica a Mélykút",
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Szabadka és Mélykút",
+        "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392|$$aMélykút (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5789,11 +5789,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5564",
-        "TITLE": "",
+        "TITLE": "Segedín a Szőreg",
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Szeged és Szőreg",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405"
       },
       "geometry": {
         "type": "Polygon",
@@ -5830,11 +5830,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5565",
-        "TITLE": "",
+        "TITLE": "Makó",
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Makó",
+        "N651": "$$aMakó (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5871,11 +5871,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5566",
-        "TITLE": "",
+        "TITLE": "Arad a Perjámos",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Arad és Perjámos",
+        "N651": "$$aArad (Rumunsko oblast)|$$aPerjámos (Rumunsko oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5912,11 +5912,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5658",
-        "TITLE": "",
+        "TITLE": "Bjelovar a Orovac",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Belovár és Orovac",
+        "N651": "$$aBjelovar (Chorvatsko : oblast)|$$aOrovac (Chorvatsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5953,11 +5953,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5659",
-        "TITLE": "",
+        "TITLE": "Barcs",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Barcs",
+        "N651": "$$aBarcs (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5994,11 +5994,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5660",
-        "TITLE": "",
+        "TITLE": "Siklós a Sellye",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Siklós és Sellye",
+        "N651": "$$aSiklós (Maďarsko : oblast)|$$aSellye (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6035,11 +6035,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5661",
-        "TITLE": "",
+        "TITLE": "Moháč a Villány",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mohács és Villány",
+        "N651": "$$aMoháč (Maďarsko : oblast)|$$aVillány (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6076,11 +6076,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5662",
-        "TITLE": "",
+        "TITLE": "Hercegszántó",
         "N43": "$$ae-hu---$$ae-rm---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hercegszántó",
+        "N651": "$$aHercegszántó (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6117,11 +6117,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5761",
-        "TITLE": "",
+        "TITLE": "Osijek, Darda a Valpovo",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Osijek, Darda és Valpovo",
+        "N651": "$$aOsijek (Chorvatsko : oblast)|$$aDarda (Chorvatsko : oblast)|$$aValpovo (Chorvatsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

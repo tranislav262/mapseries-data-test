@@ -3780,11 +3780,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5159",
-        "TITLE": "",
+        "TITLE": "Devecser a Városlőd",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Devecser és Városlőd",
+        "N651": "$$aDevecser (Maďarsko : oblast)|$$aVároslőd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3821,11 +3821,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5160",
-        "TITLE": "",
+        "TITLE": "Veszprém",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Veszprém",
+        "N651": "$$aVeszprém (Maďarsko : oblast)$$7ge590129"
       },
       "geometry": {
         "type": "Polygon",
@@ -3862,11 +3862,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5161",
-        "TITLE": "",
+        "TITLE": "Székesfehérvár",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Székesfehérvár",
+        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3903,11 +3903,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5162",
-        "TITLE": "",
+        "TITLE": "Kunszentmiklós",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kunszentmiklós",
+        "N651": "$$aKunszentmiklós (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3944,11 +3944,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5163",
-        "TITLE": "",
+        "TITLE": "Cegléd",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Cegléd",
+        "N651": "$$aCegléd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3985,11 +3985,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5164",
-        "TITLE": "",
+        "TITLE": "Szolnok",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Szolnok",
+        "N651": "$$aSzolnok (Maďarsko : oblast)$$7ge459428"
       },
       "geometry": {
         "type": "Polygon",
@@ -4026,11 +4026,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5165",
-        "TITLE": "",
+        "TITLE": "Kisújszállás a Mezotúr",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kisújszállás és Mezőtúr",
+        "N651": "$$aKisújszállás (Maďarsko : oblast)|$$aMezőtúr (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4067,11 +4067,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5166",
-        "TITLE": "",
+        "TITLE": "Biharnagybajom a Szeghalom",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nagybajom és Szeghalom",
+        "N651": "$$aNagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4272,11 +4272,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5258",
-        "TITLE": "",
+        "TITLE": "Sümeg a Zalaegerszeg",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sümeg és Zalaegerszeg",
+        "N651": "$$aSümeg (Maďarsko : oblast)|$$aZalaegerszeg (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4313,11 +4313,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5259",
-        "TITLE": "",
+        "TITLE": "Tapolca",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tapolca",
+        "N651": "$$aTapolca (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4354,11 +4354,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5260",
-        "TITLE": "",
+        "TITLE": "Siófok",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Siófok",
+        "N651": "$$aSiófok (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4395,11 +4395,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5261",
-        "TITLE": "",
+        "TITLE": "Sárbogárd",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sárbogárd",
+        "N651": "$$aSárbogárd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4436,11 +4436,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5262",
-        "TITLE": "",
+        "TITLE": "Dunaföldvár a Szabadszállás",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Dunaföldvár és Szabadszállás",
+        "N651": "$$aDunaföldvár (Maďarsko : oblast)|$$aSzabadszállás (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4477,11 +4477,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5263",
-        "TITLE": "",
+        "TITLE": "Kecskemét",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kecskemét",
+        "N651": "$$aKecskemét (Maďarsko : oblast)$$7ge856394"
       },
       "geometry": {
         "type": "Polygon",
@@ -4518,11 +4518,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5264",
-        "TITLE": "",
+        "TITLE": "Kunszentmárton",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kunszentmárton",
+        "N651": "$$aKunszentmárton (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4559,11 +4559,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5265",
-        "TITLE": "",
+        "TITLE": "Szarvas",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Szarvas",
+        "N651": "$$aSzarvas (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4600,11 +4600,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5266",
-        "TITLE": "",
+        "TITLE": "Békés",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Békés",
+        "N651": "$$aBékés (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4641,11 +4641,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5267",
-        "TITLE": "",
+        "TITLE": "Salonta a Okány",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nagyszalonta és Okány",
+        "N651": "$$aOkány (Maďarsko : oblast)|$$aSalonta (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4682,11 +4682,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5357",
-        "TITLE": "",
+        "TITLE": "Lenti",
         "N43": "$$ae-hu---$$ae-ci---$$ae-xv---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Lenti",
+        "N651": "$$aLenti (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4723,11 +4723,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5358",
-        "TITLE": "",
+        "TITLE": "Zalakomár a Zalaszentmihály",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kiskomárom és Zalaszentmihály",
+        "N651": "$$aZalaszentmihály (Maďarsko : oblast)|$$aZalakomár (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4764,11 +4764,11 @@
         "Shape_Area": "0.125000000346",
         "SCALE": "75000",
         "SHEET": "5359",
-        "TITLE": "",
+        "TITLE": "Marcali",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Marcali",
+        "N651": "$$aMarcali (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4805,11 +4805,11 @@
         "Shape_Area": "0.125000000122",
         "SCALE": "75000",
         "SHEET": "5360",
-        "TITLE": "",
+        "TITLE": "Tamási",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tamási",
+        "N651": "$$aTamási (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4850,7 +4850,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a(Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4891,7 +4891,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a(Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4932,7 +4932,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a(Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5014,7 +5014,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5055,7 +5055,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5096,7 +5096,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5137,7 +5137,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5174,11 +5174,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5458",
-        "TITLE": "",
+        "TITLE": "Nagykanizsa",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nagykanizsa",
+        "N651": "$$aNagykanizsa (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5215,11 +5215,11 @@
         "Shape_Area": "0.124999999897",
         "SCALE": "75000",
         "SHEET": "5459",
-        "TITLE": "",
+        "TITLE": "Kaposvár",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kaposvár",
+        "N651": "$$aKaposvár (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5256,11 +5256,11 @@
         "Shape_Area": "0.124999999672",
         "SCALE": "75000",
         "SHEET": "5460",
-        "TITLE": "",
+        "TITLE": "Dombóvár",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Dombóvár",
+        "N651": "$$aDombóvár (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5301,7 +5301,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5342,7 +5342,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5383,7 +5383,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5424,7 +5424,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5465,7 +5465,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5506,7 +5506,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5547,7 +5547,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5588,7 +5588,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5629,7 +5629,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5670,7 +5670,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5711,7 +5711,7 @@
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5752,7 +5752,7 @@
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5793,7 +5793,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5834,7 +5834,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5875,7 +5875,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5916,7 +5916,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5957,7 +5957,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5998,7 +5998,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6039,7 +6039,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6080,7 +6080,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6121,7 +6121,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",

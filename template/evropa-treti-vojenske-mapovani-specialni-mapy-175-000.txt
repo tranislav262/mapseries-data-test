@@ -106,7 +106,7 @@ LDR   L -----nem-a22------i-4500
     ]
   } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "K.u.k. Militärgeographisches Institut",
@@ -149,7 +149,7 @@ LDR   L -----nem-a22------i-4500
   }
 264 1 L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Wien] :$$bK.u.k. Militärgeographisches Institut,",

@@ -277,7 +277,7 @@ LDR   L -----nem-a22------i-4500
     "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
     "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116",
     "",
-    ""
+    "Československý vojenský zeměpisný ústav$$4ant$$7kn20030604013"
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:75 000 ;$$v{

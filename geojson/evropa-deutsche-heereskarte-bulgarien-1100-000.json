@@ -12,7 +12,7 @@
         "N43": "$$ae-bu---$$ae-rb---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nowo Selo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -53,7 +53,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Maratin",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -90,11 +90,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "III 8",
-        "TITLE": "",
+        "TITLE": "Silistra",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Silistra",
-        "N651": ""
+        "N651": "$$aSilistra (Bulharsko : oblast)$$7ge666942"
       },
       "geometry": {
         "type": "Polygon",
@@ -131,11 +131,11 @@
         "Shape_Area": "0.37500000059",
         "SCALE": "100000",
         "SHEET": "III 9",
-        "TITLE": "",
+        "TITLE": "Kranovo",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Kranowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -172,11 +172,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 2",
-        "TITLE": "",
+        "TITLE": "Vidin",
         "N43": "$$ae-bu---$$ae-rb---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Widin",
-        "N651": ""
+        "N651": "$$aVidin (Bulharsko : oblast)$$7ge749570"
       },
       "geometry": {
         "type": "Polygon",
@@ -213,11 +213,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 3",
-        "TITLE": "",
+        "TITLE": "Lom ",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Lom",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -258,7 +258,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Orechowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -295,11 +295,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 5",
-        "TITLE": "",
+        "TITLE": "Nikopol",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nikopol",
-        "N651": ""
+        "N651": "$$aNikopol (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -336,11 +336,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 6",
-        "TITLE": "",
+        "TITLE": "Ruse",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Russe",
-        "N651": ""
+        "N651": "$$aRuse (Bulharsko : oblast)$$7ge681740"
       },
       "geometry": {
         "type": "Polygon",
@@ -377,11 +377,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 7",
-        "TITLE": "",
+        "TITLE": "Razgrad",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Rasgrad",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -418,11 +418,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 8",
-        "TITLE": "",
+        "TITLE": "Isperich",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Isperich",
-        "N651": ""
+        "N651": "$$aIsperich (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -463,7 +463,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Dobritsch",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -504,7 +504,7 @@
         "N43": "$$ae-bu---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Smoljanowzi",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -545,7 +545,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Wraza",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -586,7 +586,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Lukowit",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -627,7 +627,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Plewen",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -668,7 +668,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tarnowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -709,7 +709,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tärgowischte",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -750,7 +750,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Schumen",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -791,7 +791,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Warna",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-bu---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Radomir",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -873,7 +873,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Sofia",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -914,7 +914,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Slatiza",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Karlowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1037,7 +1037,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Sliwen",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1078,7 +1078,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Karnobat",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1119,7 +1119,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Pomorie",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1160,7 +1160,7 @@
         "N43": "$$ae-bu---$$ae-xn---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Küstendil",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1201,7 +1201,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Samakow",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1242,7 +1242,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Pasardshik",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1283,7 +1283,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Plowdiw",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1365,7 +1365,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Jambol",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1406,7 +1406,7 @@
         "N43": "$$ae-bu---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Burgas",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1447,7 +1447,7 @@
         "N43": "$$ae-bu---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Ssosopol",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1488,7 +1488,7 @@
         "N43": "$$ae-bu---$$ae-xn---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Logodatsch",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1529,7 +1529,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Raslog",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1570,7 +1570,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Batah",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,7 +1611,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tschepelar",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1652,7 +1652,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Chaskowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1693,7 +1693,7 @@
         "N43": "$$ae-bu---$$ae-gr---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Svilengrad",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1734,7 +1734,7 @@
         "N43": "$$ae-bu---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Malko Tarnowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1775,7 +1775,7 @@
         "N43": "$$ae-bu---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Resowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,7 +1816,7 @@
         "N43": "$$ae-bu---$$ae-gr---$$ae-xn---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Kljutsch",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1898,7 +1898,7 @@
         "N43": "$$ae-bu---$$ae-gr---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Libjachowo",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1939,7 +1939,7 @@
         "N43": "$$ae-bu---$$ae-gr---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Slatograd",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1980,7 +1980,7 @@
         "N43": "$$ae-bu---$$ae-gr---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Krumowgrad",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2021,7 @@
         "N43": "$$ae-bu---$$ae-gr---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Mandriza",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2062,7 +2062,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Schabla-Kavarna",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",

@@ -254,7 +254,7 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IV 4",
-        "TITLE": "",
+        "TITLE": "Orjachowo",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Orechowo",
@@ -381,7 +381,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Rasgrad",
-        "N651": "$$a"
+        "N651": "$$aRazgrad (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -459,11 +459,11 @@
         "Shape_Area": "0.37500000059",
         "SCALE": "100000",
         "SHEET": "IV 9",
-        "TITLE": "",
+        "TITLE": "Dobrič",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Dobritsch",
-        "N651": "$$a"
+        "N651": "$$aDobrič (Bulharsko : oblast)$$7ge134132"
       },
       "geometry": {
         "type": "Polygon",
@@ -500,11 +500,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 2",
-        "TITLE": "",
+        "TITLE": "Smoljanovci",
         "N43": "$$ae-bu---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Smoljanowzi",
-        "N651": "$$a"
+        "N651": "$$aSmoljanovci (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -541,11 +541,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 3",
-        "TITLE": "",
+        "TITLE": "Vraca",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Wraza",
-        "N651": "$$a"
+        "N651": "$$aVraca (Bulharsko : oblast)$$7ge372137"
       },
       "geometry": {
         "type": "Polygon",
@@ -582,11 +582,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 4",
-        "TITLE": "",
+        "TITLE": "Lukovit",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Lukowit",
-        "N651": "$$a"
+        "N651": "$$aLukovit (Bulharsko : oblast)$$7ge657095"
       },
       "geometry": {
         "type": "Polygon",
@@ -623,11 +623,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 5",
-        "TITLE": "",
+        "TITLE": "Pleven",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Plewen",
-        "N651": "$$a"
+        "N651": "$$aPleven (Bulharsko : oblast)$$7ge856643"
       },
       "geometry": {
         "type": "Polygon",
@@ -664,11 +664,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 6",
-        "TITLE": "",
+        "TITLE": "Veliko Tarnovo",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tarnowo",
-        "N651": "$$a"
+        "N651": "$$aVeliko Tarnovo (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -705,11 +705,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 7",
-        "TITLE": "",
+        "TITLE": "Tărgovište",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tärgowischte",
-        "N651": "$$a"
+        "N651": "$$aTărgovište (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -746,11 +746,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "V 8",
-        "TITLE": "",
+        "TITLE": "Šumen",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Schumen",
-        "N651": "$$a"
+        "N651": "$$aŠumen (Bulharsko : oblast)$$7ge746648"
       },
       "geometry": {
         "type": "Polygon",
@@ -787,11 +787,11 @@
         "Shape_Area": "0.37500000059",
         "SCALE": "100000",
         "SHEET": "V 9",
-        "TITLE": "",
+        "TITLE": "Varna",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Warna",
-        "N651": "$$a"
+        "N651": "$$aVarna (Bulharsko : oblast)$$7ge723128"
       },
       "geometry": {
         "type": "Polygon",
@@ -828,11 +828,11 @@
         "Shape_Area": "0.374999999465",
         "SCALE": "100000",
         "SHEET": "VI 2",
-        "TITLE": "",
+        "TITLE": "Radomir",
         "N43": "$$ae-bu---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Radomir",
-        "N651": "$$a"
+        "N651": "$$aRadomir (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -869,11 +869,11 @@
         "Shape_Area": "0.374999999465",
         "SCALE": "100000",
         "SHEET": "VI 3",
-        "TITLE": "",
+        "TITLE": "Sofie",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Sofia",
-        "N651": "$$a"
+        "N651": "$$aSofie (Bulharsko : oblast)$$7ge749573"
       },
       "geometry": {
         "type": "Polygon",
@@ -910,11 +910,11 @@
         "Shape_Area": "0.374999999465",
         "SCALE": "100000",
         "SHEET": "VI 4",
-        "TITLE": "",
+        "TITLE": "Zlatitsa",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Slatiza",
-        "N651": "$$a"
+        "N651": "$$aZlatitsa (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -951,11 +951,11 @@
         "Shape_Area": "0.374999999465",
         "SCALE": "100000",
         "SHEET": "VI 5",
-        "TITLE": "",
+        "TITLE": "Karlovo",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Karlowo",
-        "N651": "$$a"
+        "N651": "$$aKarlovo (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

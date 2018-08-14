@@ -12757,12 +12757,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J49",
-        "TITLE": "",
+        "TITLE": "Nancy",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Nancy",
+        "N651": "$$aNancy (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12839,12 +12839,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J51",
-        "TITLE": "",
+        "TITLE": "Aachen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.119)$$2MRF",
+        "N245A": "Aachen",
+        "N651": "$$aCáchy (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13249,12 +13249,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K50",
-        "TITLE": "",
+        "TITLE": "Trier",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.123)$$2MRF",
+        "N245A": "Trier",
+        "N651": "$$aTrier (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13905,12 +13905,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L56",
-        "TITLE": "",
+        "TITLE": "Hadersleben",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Hadersleben",
+        "N651": "$$aHaderslev (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14850,8 +14850,8 @@
         "SHEET": "N51",
         "TITLE": "Chemnitz",
         "SCALE": "300000",
-        "N43": "$$ae-gx---",
-        "N80": "$$a913(430.246)$$2MRF",
+        "N43": "$$ae-gx---$$ae-xr---",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.3)$$2MRF",
         "N245A": "Chemnitz",
         "N651": "$$aChemnitz (Německo : oblast)$$7xx0115148"
       },
@@ -15463,12 +15463,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O49",
-        "TITLE": "",
+        "TITLE": "Budweis",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-jc$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Budweis",
+        "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -16367,8 +16367,8 @@
         "SHEET": "P50",
         "TITLE": "Brünn",
         "SCALE": "300000",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.322)$$2MRF",
+        "N43": "$$ae-xr---$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Brünn",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
@@ -17144,12 +17144,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q48",
-        "TITLE": "",
+        "TITLE": "Budapest",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Budapest",
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
       "geometry": {
         "type": "Polygon",
@@ -17964,12 +17964,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R49",
-        "TITLE": "",
+        "TITLE": "Kaschau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kaschau",
+        "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
         "type": "Polygon",
@@ -18005,12 +18005,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R50",
-        "TITLE": "",
+        "TITLE": "Leutschau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Leutschau",
+        "N651": "$$aLevoča (Slovensko : oblast)$$7xx0092932"
       },
       "geometry": {
         "type": "Polygon",
@@ -19030,12 +19030,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S49",
-        "TITLE": "",
+        "TITLE": "Munkács",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-xo---$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(477)$$2MRF|$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Munkács",
+        "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149"
       },
       "geometry": {
         "type": "Polygon",
@@ -19071,12 +19071,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S50",
-        "TITLE": "",
+        "TITLE": "Lemberg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Lemberg (Lwow)",
+        "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443"
       },
       "geometry": {
         "type": "Polygon",

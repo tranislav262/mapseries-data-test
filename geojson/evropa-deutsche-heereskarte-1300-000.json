@@ -2024,12 +2024,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "c 46",
-        "TITLE": "",
+        "TITLE": "Petrowskoje",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Petrowskoje",
+        "N651": "$$aSvetlograd (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2106,12 +2106,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "c 48",
-        "TITLE": "",
+        "TITLE": "Kotelnikowo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Kotelnikowo",
+        "N651": "$$aKotelnikovo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2147,12 +2147,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "c 49",
-        "TITLE": "",
+        "TITLE": "Nishne Tschirskaja",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Nishne Tschirskaja",
+        "N651": "$$aNizhniy Chir (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3090,12 +3090,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "d 49",
-        "TITLE": "",
+        "TITLE": "Stalingrad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470.45)$$2MRF",
+        "N245A": "Stalingrad",
+        "N651": "$$aVolgograd (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12675,12 +12675,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J47",
-        "TITLE": "",
+        "TITLE": "Genf",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-fr---",
+        "N80": "$$a913(494.42)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Genf",
+        "N651": "$$aŽeneva (Švýcarsko : oblast)$$7ge663896"
       },
       "geometry": {
         "type": "Polygon",
@@ -13372,12 +13372,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K53",
-        "TITLE": "",
+        "TITLE": "Osnabrück",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---$$ae-ne---",
+        "N80": "$$a913(430.117)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Osnabrück",
+        "N651": "$$aOsnabrück (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13618,12 +13618,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L49",
-        "TITLE": "",
+        "TITLE": "Stuttgart",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.127)$$2MRF",
+        "N245A": "Stuttgart",
+        "N651": "$$aStuttgart (Německo : oblast)$$7ge458646"
       },
       "geometry": {
         "type": "Polygon",
@@ -13700,12 +13700,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L51",
-        "TITLE": "",
+        "TITLE": "Frankfurt am Main",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.121)$$2MRF",
+        "N245A": "Frankfurt a/M.",
+        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14233,12 +14233,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M50",
-        "TITLE": "",
+        "TITLE": "Nürnberg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N245A": "Nürnberg",
+        "N651": "$$aNorimberk (Německo : oblast)$$7ge206801"
       },
       "geometry": {
         "type": "Polygon",
@@ -15467,8 +15467,8 @@
         "SCALE": "300000",
         "N43": "$$ae-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Budweis",
-        "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
+        "N245A": "Budweis|Wien West",
+        "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833|$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
       "geometry": {
         "type": "Polygon",
@@ -15545,12 +15545,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O51",
-        "TITLE": "",
+        "TITLE": "Prag",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-pg$$ae-gx---$$ae-pl---",
+        "N80": "$$913(437.311)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Prag",
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
         "type": "Polygon",
@@ -15631,7 +15631,7 @@
         "SCALE": "300000",
         "N43": "$$ae-gx---$$ae-pl---",
         "N80": "$$a913(430.245)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Frankfurt a. O.",
+        "N245A": "Frankfurt a. O.|Frankfurt a/O.|Frankfurt/O",
         "N651": "$$aFrankfurt nad Odrou (Německo : oblast)"
       },
       "geometry": {
@@ -16283,12 +16283,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P48",
-        "TITLE": "",
+        "TITLE": "Komorn",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Komorn",
+        "N651": "$$aKomárno (Slovensko : oblast)$$7ge831948"
       },
       "geometry": {
         "type": "Polygon",
@@ -16324,12 +16324,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P49",
-        "TITLE": "",
+        "TITLE": "Wien Ost",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-xr---$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(436.1)$$2MRF|$$a913(437.3)$$2MRF|$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Wien-Ost|Wien Ost",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
       "geometry": {
         "type": "Polygon",
@@ -16406,12 +16406,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P51",
-        "TITLE": "",
+        "TITLE": "Oppeln",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-xr---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "Oppeln",
+        "N651": "$$aOpole (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16447,12 +16447,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P52",
-        "TITLE": "",
+        "TITLE": "Breslau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Breslau",
+        "N651": "$$aVratislav (Polsko : oblast)$$7ge191392"
       },
       "geometry": {
         "type": "Polygon",
@@ -16529,12 +16529,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P54",
-        "TITLE": "",
+        "TITLE": "Bromberg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Bromberg",
+        "N651": "$$aBydhošť (Polsko : oblast)$$7ge116655"
       },
       "geometry": {
         "type": "Polygon",
@@ -17226,12 +17226,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q50",
-        "TITLE": "",
+        "TITLE": "Sillein",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xo---$$ae-pl---$$ae-xr---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "Sillein",
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
         "type": "Polygon",
@@ -17308,12 +17308,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q52",
-        "TITLE": "",
+        "TITLE": "Litzmannstadt",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Litzmannstadt",
+        "N651": "$$aLodž (Polsko : oblast)$$7ge292514"
       },
       "geometry": {
         "type": "Polygon",
@@ -17431,12 +17431,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q55",
-        "TITLE": "",
+        "TITLE": "Danzig",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470.26)$$2MRF",
+        "N245A": "Danzig",
+        "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456"
       },
       "geometry": {
         "type": "Polygon",
@@ -17800,12 +17800,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R45",
-        "TITLE": "",
+        "TITLE": "Belgrad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-yu---$$ae-rm---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Belgrad",
+        "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990"
       },
       "geometry": {
         "type": "Polygon",
@@ -17882,12 +17882,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R47",
-        "TITLE": "",
+        "TITLE": "Arad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-hu---",
+        "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Arad",
+        "N651": "$$aArad (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17923,12 +17923,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R48",
-        "TITLE": "",
+        "TITLE": "Debrecen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Debrecen",
+        "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510"
       },
       "geometry": {
         "type": "Polygon",
@@ -17966,8 +17966,8 @@
         "SHEET": "R49",
         "TITLE": "Kaschau",
         "SCALE": "300000",
-        "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N43": "$$ae-xo---$$ae-hu---$$ae-un---$$ae-rb---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Kaschau",
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
@@ -18046,12 +18046,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R51",
-        "TITLE": "",
+        "TITLE": "Kielce",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Kielce",
+        "N651": "$$aKielce (Polsko : oblast)$$7ge134268"
       },
       "geometry": {
         "type": "Polygon",
@@ -18087,12 +18087,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R52",
-        "TITLE": "",
+        "TITLE": "Radom",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Radom",
+        "N651": "$$aRadom (Polsko : oblast)$$7ge129497"
       },
       "geometry": {
         "type": "Polygon",
@@ -18128,12 +18128,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R53",
-        "TITLE": "",
+        "TITLE": "Warschau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Warschau",
+        "N651": "$$aVaršava (Polsko : oblast)$$7ge217232"
       },
       "geometry": {
         "type": "Polygon",
@@ -18169,12 +18169,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R54",
-        "TITLE": "",
+        "TITLE": "Allenstein",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Allenstein",
+        "N651": "$$aOlsztyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18210,12 +18210,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R55",
-        "TITLE": "",
+        "TITLE": "Königsberg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-pl---",
+        "N80": "$$a913(470.26)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Königsberg",
+        "N651": "$$aKaliningrad (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18292,12 +18292,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R57",
-        "TITLE": "",
+        "TITLE": "Libau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-li---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "Libau (Liepāja)|Libau",
+        "N651": "$$aLiepāja (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18333,12 +18333,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R58",
-        "TITLE": "",
+        "TITLE": "Windau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-er---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.2)$$2MRF",
+        "N245A": "Windau (Ventspils)|Windau",
+        "N651": "$$aVentspils (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18989,12 +18989,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S48",
-        "TITLE": "",
+        "TITLE": "Sathmar",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-hu---$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Sathmar",
+        "N651": "$$aSatu-Mare (Rumunsko : oblast)$$7ge270578"
       },
       "geometry": {
         "type": "Polygon",
@@ -19034,7 +19034,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---$$ae-xo---$$ae-hu---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF|$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "Munkács",
+        "N245A": "Munkács|Munkacs",
         "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149"
       },
       "geometry": {
@@ -19075,7 +19075,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---$$ae-xo---$$ae-pl---",
         "N80": "$$a913(477)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Lemberg (Lwow)",
+        "N245A": "Lemberg (Lwow)|Lemberg",
         "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443"
       },
       "geometry": {
@@ -19112,12 +19112,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S51",
-        "TITLE": "",
+        "TITLE": "Tomaszow",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-un---",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Tomaszow",
+        "N651": "$$aTomaszów Lubelski\n(Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19153,12 +19153,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S52",
-        "TITLE": "",
+        "TITLE": "Lublin",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-un---$$ae-bw---",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Lublin",
+        "N651": "$$aLublin (Polsko : oblast)$$7ge251172"
       },
       "geometry": {
         "type": "Polygon",
@@ -19194,12 +19194,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S53",
-        "TITLE": "",
+        "TITLE": "Brest Litowsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---$$ae-pl---",
+        "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Brest Litowsk",
+        "N651": "$$aBrest (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19276,12 +19276,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S55",
-        "TITLE": "",
+        "TITLE": "Ebenrode",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-li---$$ae-pl---",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Ebenrode",
+        "N651": "$$aNestěrov (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19358,12 +19358,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S57",
-        "TITLE": "",
+        "TITLE": "Riga",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-li---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "Riga",
+        "N651": "$$aRiga (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19399,12 +19399,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S58",
-        "TITLE": "",
+        "TITLE": "Dünamünde",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---",
+        "N80": "$$a913(474.3)$$2MRF",
+        "N245A": "Dünamünde|Dünamünde (Daugavgrīva)",
+        "N651": "$$aDaugavgrīva (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20230,7 +20230,7 @@
         "TITLE": "Marosvásárhely",
         "SCALE": "300000",
         "N43": "$$ae-rm---",
-        "N80": "$$a913(498)$$MRF",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Marosvásárhely",
         "N651": "$$aTârgu Mureş (Rumunsko : oblast)"
       },
@@ -20268,12 +20268,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T48",
-        "TITLE": "",
+        "TITLE": "Kimpolung",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kimpolung",
+        "N651": "$$aCâmpulung Moldovenesc\n(Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20309,12 +20309,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T49",
-        "TITLE": "",
+        "TITLE": "Tschernowitz",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Tschernowitz",
+        "N651": "$$aČernìvcì (Ukrajina : oblast)$$7ge828845"
       },
       "geometry": {
         "type": "Polygon",
@@ -20517,7 +20517,7 @@
         "TITLE": "Slonim",
         "SCALE": "300000",
         "N43": "$$ae-bw---$$ae-li---",
-        "N80": "$$a913(476)$$MRF|$$a913(474.5)$$MRF",
+        "N80": "$$a913(476)$$2MRF|$$a913(474.5)$$MRF",
         "N245A": "Slonim",
         "N651": "$$aSlonim (Bělorusko : oblast)"
       },
@@ -20678,12 +20678,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T58",
-        "TITLE": "",
+        "TITLE": "Walk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---$$ae-lv---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(474.3)$$2MRF",
+        "N245A": "Walk (Valga)|Walk",
+        "N651": "$$aValga (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22605,12 +22605,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 47",
-        "TITLE": "",
+        "TITLE": "Bendery",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-mv---$$ae-un---",
+        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Bendery",
+        "N651": "$$aTighina (Moldavsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22687,12 +22687,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 49",
-        "TITLE": "",
+        "TITLE": "Brazlaw",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Brazlaw",
+        "N651": "$$aBraclav (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24245,12 +24245,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V59",
-        "TITLE": "",
+        "TITLE": "Luga",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Luga",
+        "N651": "$$aLuga (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24286,12 +24286,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V60",
-        "TITLE": "",
+        "TITLE": "Leningrad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Leningrad",
+        "N651": "$$aPetrohrad (Rusko : oblast)$$7ge130402"
       },
       "geometry": {
         "type": "Polygon",
@@ -24942,12 +24942,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W49",
-        "TITLE": "",
+        "TITLE": "Kirowograd",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Kirowograd",
+        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25024,12 +25024,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W51",
-        "TITLE": "",
+        "TITLE": "Kijew",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Kijew",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658"
       },
       "geometry": {
         "type": "Polygon",
@@ -25352,12 +25352,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W59",
-        "TITLE": "",
+        "TITLE": "Nowgorod",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Nowgorod",
+        "N651": "$$aNovgorod (Rusko : oblast)$$7ge590304"
       },
       "geometry": {
         "type": "Polygon",
@@ -25393,12 +25393,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W60",
-        "TITLE": "",
+        "TITLE": "Schlüsselburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Schlüsselburg",
+        "N651": "$$aŠlisselburg (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25926,12 +25926,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X46",
-        "TITLE": "",
+        "TITLE": "Jewpatorija",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Jewpatorija",
+        "N651": "$$aJevpatorija (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26172,12 +26172,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X52",
-        "TITLE": "",
+        "TITLE": "Konotop",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.52)$$2MRF",
+        "N245A": "Konotop",
+        "N651": "$$aKonotop (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26254,12 +26254,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X54",
-        "TITLE": "",
+        "TITLE": "Rosslawl",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-bw---",
+        "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Rosslawl",
+        "N651": "$$aRoslavl (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27115,12 +27115,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y49",
-        "TITLE": "",
+        "TITLE": "Dnjepropetrowsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Dnjepropetrowsk",
+        "N651": "$$aDněpropetrovsk (Ukrajina : oblast)$$7ge629838"
       },
       "geometry": {
         "type": "Polygon",
@@ -27156,12 +27156,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y50",
-        "TITLE": "",
+        "TITLE": "Charkow",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Charkow",
+        "N651": "$$aCharkov (Ukrajina : oblast)$$7ge560253"
       },
       "geometry": {
         "type": "Polygon",
@@ -27320,12 +27320,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y54",
-        "TITLE": "",
+        "TITLE": "Brjansk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Brjansk",
+        "N651": "$$aBrjansk (Rusko : oblast)$$7ge128621"
       },
       "geometry": {
         "type": "Polygon",
@@ -28058,12 +28058,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Z46",
-        "TITLE": "",
+        "TITLE": "Kertsch",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Kertsch",
+        "N651": "$$aKerč (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",

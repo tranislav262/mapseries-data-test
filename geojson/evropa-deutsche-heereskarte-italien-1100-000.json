@@ -172,11 +172,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "100",
-        "TITLE": "",
+        "TITLE": "Forli",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Forli",
+        "N651": "$$aForlì (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -213,11 +213,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "101",
-        "TITLE": "",
+        "TITLE": "Rimini",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rimini",
+        "N651": "$$aRimini (Itálie : oblast)$$7xx0127673"
       },
       "geometry": {
         "type": "Polygon",
@@ -336,11 +336,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "103",
-        "TITLE": "",
+        "TITLE": "Imperia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Imperia",
+        "N651": "$$aImperia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -377,11 +377,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "104",
-        "TITLE": "",
+        "TITLE": "Pisa",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Pisa",
+        "N651": "$$aPisa (Itálie : oblast)$$7ge418589"
       },
       "geometry": {
         "type": "Polygon",
@@ -418,11 +418,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "105",
-        "TITLE": "",
+        "TITLE": "Lucca",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Lucca",
+        "N651": "$$aLucca (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -459,11 +459,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "106",
-        "TITLE": "",
+        "TITLE": "Florencie",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Firenze",
+        "N651": "$$aFlorencie (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -500,11 +500,11 @@
         "Shape_Area": "0.16666666645",
         "SCALE": "100000",
         "SHEET": "107",
-        "TITLE": "",
+        "TITLE": "Monte Falterona",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "M. Falterona",
+        "N651": "$$aMonte Falterona (Itálie : hora)|$$aBibbiena (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -541,11 +541,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "108",
-        "TITLE": "",
+        "TITLE": "Mercato Saraceno",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mercato Saraceno|Marcato Saraceno",
+        "N651": "$$aMercato Saraceno (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -582,11 +582,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "109",
-        "TITLE": "",
+        "TITLE": "Pesaro",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Pesaro",
+        "N651": "$$aPesaro (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -623,11 +623,11 @@
         "Shape_Area": "0.16666666645",
         "SCALE": "100000",
         "SHEET": "11",
-        "TITLE": "",
+        "TITLE": "Marmolada",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Monte Marmolada|M. Marmolada",
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)|$$aMarmolada (Itálie : hora)"
       },
       "geometry": {
         "type": "Polygon",
@@ -664,11 +664,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "110",
-        "TITLE": "",
+        "TITLE": "Senigallia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Senigallia",
+        "N651": "$$aSenigallia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -705,11 +705,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "111",
-        "TITLE": "",
+        "TITLE": "Livorno",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Livorno",
+        "N651": "$$aLivorno (Itálie : oblast)$$7ge418590"
       },
       "geometry": {
         "type": "Polygon",
@@ -746,11 +746,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "112",
-        "TITLE": "",
+        "TITLE": "Volterra",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Volterra",
+        "N651": "$$aVolterra (Itálie : oblast)$$7ge761985"
       },
       "geometry": {
         "type": "Polygon",
@@ -787,11 +787,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "113",
-        "TITLE": "",
+        "TITLE": "San Casciano in Val di Pesa",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "San Casciano in Val di Pesa|S. Casciano",
+        "N651": "$$aSan Casciano in Val di Pesa (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -828,11 +828,11 @@
         "Shape_Area": "0.166666667349",
         "SCALE": "100000",
         "SHEET": "114",
-        "TITLE": "",
+        "TITLE": "Arezzo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Arezzo",
+        "N651": "$$aArezzo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -869,11 +869,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "115",
-        "TITLE": "",
+        "TITLE": "Città di Castello",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Città di Castello|Citta di Castello",
+        "N651": "$$aCittà di Castello (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -910,11 +910,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "116",
-        "TITLE": "",
+        "TITLE": "Gubbio",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Gubbio",
+        "N651": "$$aGubbio (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -951,11 +951,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "117",
-        "TITLE": "",
+        "TITLE": "Iesi",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Iesi",
+        "N651": "$$aIesi (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -992,11 +992,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "118",
-        "TITLE": "",
+        "TITLE": "Ancona",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ancona",
+        "N651": "$$aAncona (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1033,11 +1033,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "119",
-        "TITLE": "",
+        "TITLE": "Massa Marittima",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Massa Marittima",
+        "N651": "$$aMassa Marittima (Itálie : oblast)$$7ge761796"
       },
       "geometry": {
         "type": "Polygon",
@@ -1074,11 +1074,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "12",
-        "TITLE": "",
+        "TITLE": "Cortina d’Ampezzo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cortina d’Ampezzo",
+        "N651": "$$aCortina d’Ampezzo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1115,11 +1115,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "120",
-        "TITLE": "",
+        "TITLE": "Siena",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Siena",
+        "N651": "$$aSiena (Itálie : oblast)$$7ge340415"
       },
       "geometry": {
         "type": "Polygon",
@@ -1156,11 +1156,11 @@
         "Shape_Area": "0.16666666645",
         "SCALE": "100000",
         "SHEET": "121",
-        "TITLE": "",
+        "TITLE": "Montepulciano",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Montepulciano",
+        "N651": "$$aMontepulciano (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1197,11 +1197,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "122",
-        "TITLE": "",
+        "TITLE": "Perugia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Perugia",
+        "N651": "$$aPerugia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1238,11 +1238,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "123",
-        "TITLE": "",
+        "TITLE": "Gualdo Tadino",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Gualdo Tadino",
+        "N651": "$$aGualdo Tadino (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1279,11 +1279,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "124",
-        "TITLE": "",
+        "TITLE": "Macerata",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Macerata",
+        "N651": "$$aMacerata (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1320,11 +1320,11 @@
         "Shape_Area": "0.16666666615",
         "SCALE": "100000",
         "SHEET": "125",
-        "TITLE": "",
+        "TITLE": "Fermo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Fermo",
+        "N651": "$$aFermo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1361,11 +1361,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "126",
-        "TITLE": "",
+        "TITLE": "Elba",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Elba",
+        "N651": "$$aElba (Itálie : ostrov)$$7ge192262"
       },
       "geometry": {
         "type": "Polygon",
@@ -1402,11 +1402,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "127",
-        "TITLE": "",
+        "TITLE": "Piombino",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Piombino",
+        "N651": "$$aPiombino (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1443,11 +1443,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "128",
-        "TITLE": "",
+        "TITLE": "Grosseto",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Grosseto",
+        "N651": "$$aGrosseto (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1484,11 +1484,11 @@
         "Shape_Area": "0.166666667349",
         "SCALE": "100000",
         "SHEET": "129",
-        "TITLE": "",
+        "TITLE": "Santa Fiora",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Santa Fiora",
+        "N651": "$$aSanta Fiora (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1566,11 +1566,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "130",
-        "TITLE": "",
+        "TITLE": "Orvieto",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Orvieto",
+        "N651": "$$aOrvieto (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,11 +1607,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "131",
-        "TITLE": "",
+        "TITLE": "Foligno",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Foligno",
+        "N651": "$$aFoligno (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1648,11 +1648,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "132",
-        "TITLE": "",
+        "TITLE": "Norcia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Norcia",
+        "N651": "$$aNorcia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1689,11 +1689,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "133",
-        "TITLE": "",
+        "TITLE": "Ascoli Piceno",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ascoli Piceno|Ascoli-Piceno",
+        "N651": "$$aAscoli Piceno (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1730,11 +1730,11 @@
         "Shape_Area": "0.16666666705",
         "SCALE": "100000",
         "SHEET": "134",
-        "TITLE": "",
+        "TITLE": "Giulianova",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Guilianova|Giulianova",
+        "N651": "$$aGiulianova (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,11 +1771,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "135",
-        "TITLE": "",
+        "TITLE": "Orbetello",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Orbetello",
+        "N651": "$$aOrbetello (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1812,11 +1812,11 @@
         "Shape_Area": "0.1666666669",
         "SCALE": "100000",
         "SHEET": "136",
-        "TITLE": "",
+        "TITLE": "Tuscania",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Tuscania",
+        "N651": "$$aTuscania (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1853,11 +1853,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "137",
-        "TITLE": "",
+        "TITLE": "Viterbo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Viterbo",
+        "N651": "$$aViterbo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1894,11 +1894,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "138",
-        "TITLE": "",
+        "TITLE": "Terni",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Terni",
+        "N651": "$$aTerni (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1935,11 +1935,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "139",
-        "TITLE": "",
+        "TITLE": "L'Aquila",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "L'Aquila|Aquila",
+        "N651": "$$aL'Aquila (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2017,11 +2017,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "140",
-        "TITLE": "",
+        "TITLE": "Teramo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Teramo",
+        "N651": "$$aTeramo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2058,11 +2058,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "141",
-        "TITLE": "",
+        "TITLE": "Ghieti",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ghieti",
+        "N651": "$$aGhieti (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2099,11 +2099,11 @@
         "Shape_Area": "0.1666666669",
         "SCALE": "100000",
         "SHEET": "142",
-        "TITLE": "",
+        "TITLE": "Civitavecchia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Civitavecchia",
+        "N651": "$$aCivitavecchia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2140,11 +2140,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "143",
-        "TITLE": "",
+        "TITLE": "Bracciano",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Bracciano",
+        "N651": "$$aBracciano (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2181,11 +2181,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "144",
-        "TITLE": "",
+        "TITLE": "Palombara Sabina",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Palombara Sabina|Palombara",
+        "N651": "$$aPalombara Sabina (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2222,11 +2222,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "145",
-        "TITLE": "",
+        "TITLE": "Avezzano",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Avezzano",
+        "N651": "$$aAvezzano (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2263,11 +2263,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "146",
-        "TITLE": "",
+        "TITLE": "Sulmona",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Sulmona",
+        "N651": "$$aSulmona (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2304,11 +2304,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "147",
-        "TITLE": "",
+        "TITLE": "Lanciano",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Lanciano",
+        "N651": "$$aLanciano (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2345,11 +2345,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "148",
-        "TITLE": "",
+        "TITLE": "Vasto",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Istonio",
+        "N651": "$$aVasto (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2386,11 +2386,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "149",
-        "TITLE": "",
+        "TITLE": "Cerveteri",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cerveteri",
+        "N651": "$$aCerveteri (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2509,11 +2509,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "150",
-        "TITLE": "",
+        "TITLE": "Řím",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Roma|Rom",
+        "N651": "$$aŘím (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2550,11 +2550,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "151",
-        "TITLE": "",
+        "TITLE": "Alatri",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Alatri",
+        "N651": "$$aAlatri (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2591,11 +2591,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "152",
-        "TITLE": "",
+        "TITLE": "Sora",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Sora",
+        "N651": "$$aSora (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2632,11 +2632,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "153",
-        "TITLE": "",
+        "TITLE": "Agnone",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Agnone",
+        "N651": "$$aAgnone (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2673,11 +2673,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "154",
-        "TITLE": "",
+        "TITLE": "Larino",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Larino",
+        "N651": "$$aLarino (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10196,7 +10196,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Splügen",
-        "N651": "$$a"
+        "N651": "$$aSplügen (Švýcarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10233,11 +10233,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "60",
-        "TITLE": "",
+        "TITLE": "Piacenza",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Piacenza",
+        "N651": "$$aPiacenza (Itálie : oblast)$$7ge130414"
       },
       "geometry": {
         "type": "Polygon",
@@ -10274,11 +10274,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "61",
-        "TITLE": "",
+        "TITLE": "Cremona",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cremona",
+        "N651": "$$aCremona (Itálie : oblast)$$7ge134125"
       },
       "geometry": {
         "type": "Polygon",
@@ -10315,11 +10315,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "62",
-        "TITLE": "",
+        "TITLE": "Mantova",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mantua",
+        "N651": "$$aMantova (Itálie : oblast)$$7ge671384"
       },
       "geometry": {
         "type": "Polygon",
@@ -10356,11 +10356,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "63",
-        "TITLE": "",
+        "TITLE": "Legnago",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Legnago",
+        "N651": "$$aLegnago (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10397,11 +10397,11 @@
         "Shape_Area": "0.1666666669",
         "SCALE": "100000",
         "SHEET": "64",
-        "TITLE": "",
+        "TITLE": "Rovigo",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rovigo",
+        "N651": "$$aRovigo (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10438,11 +10438,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "65",
-        "TITLE": "",
+        "TITLE": "Adria ",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Adria ",
+        "N651": "$$aAdria (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10729,7 +10729,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Piz Bernina",
-        "N651": "$$a"
+        "N651": "$$aPiz Bernina (Itálie : hora)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10766,11 +10766,11 @@
         "Shape_Area": "0.1666666663",
         "SCALE": "100000",
         "SHEET": "70",
-        "TITLE": "",
+        "TITLE": "Alessandria",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Alessandria",
+        "N651": "$$aAlessandria (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10807,11 +10807,11 @@
         "Shape_Area": "0.1666666669",
         "SCALE": "100000",
         "SHEET": "71",
-        "TITLE": "",
+        "TITLE": "Voghera",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Voghera",
+        "N651": "$$aVoghera (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10848,11 +10848,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "72",
-        "TITLE": "",
+        "TITLE": "Fiorenzuola d'Arda",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Fiorenzuola d'Arda",
+        "N651": "$$aFiorenzuola d'Arda (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10889,11 +10889,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "73",
-        "TITLE": "",
+        "TITLE": "Parma",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Parma",
+        "N651": "$$aParma (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10930,11 +10930,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "74",
-        "TITLE": "",
+        "TITLE": "Reggio Emilia",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Reggio Emilia",
+        "N651": "Reggio Emilia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10971,11 +10971,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "75",
-        "TITLE": "",
+        "TITLE": "Mirandola",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mirandola",
+        "N651": "$$aMirandola (Itálie : oblast)$$7ge671695"
       },
       "geometry": {
         "type": "Polygon",
@@ -11012,11 +11012,11 @@
         "Shape_Area": "0.1666666669",
         "SCALE": "100000",
         "SHEET": "76",
-        "TITLE": "",
+        "TITLE": "Ferrara",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ferrara",
+        "N651": "$$aFerrara (Itálie : oblast)$$7ge671370"
       },
       "geometry": {
         "type": "Polygon",
@@ -11053,11 +11053,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "77",
-        "TITLE": "",
+        "TITLE": "Comacchio",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Comacchio",
+        "N651": "$$aComacchio (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11139,7 +11139,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "I. Arbe",
-        "N651": "$$a"
+        "N651": "$$aRab (Chorvatsko : ostrov)$$ge139166"
       },
       "geometry": {
         "type": "Polygon",
@@ -11516,7 +11516,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Castelnovo ne' Monti",
-        "N651": "$$a"
+        "N651": "$$aCastelnovo ne' Monti (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

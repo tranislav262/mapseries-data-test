@@ -12716,12 +12716,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J48",
-        "TITLE": "",
+        "TITLE": "Dijon",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Dijon",
+        "N651": "$$aDijon (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13659,12 +13659,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L50",
-        "TITLE": "",
+        "TITLE": "Darmstadt",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.123)$$2MRF",
+        "N245A": "Darmstadt",
+        "N651": "Darmstadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14110,12 +14110,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M47",
-        "TITLE": "",
+        "TITLE": "Trient",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "Trient",
+        "N651": "$$aTrident (Itálie : oblast)$$7ge856350"
       },
       "geometry": {
         "type": "Polygon",
@@ -14356,12 +14356,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M53",
-        "TITLE": "",
+        "TITLE": "Magdeburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.248)$$2MRF",
+        "N245A": "Magdeburg",
+        "N651": "$$aMagdeburg (Německo : oblast)$$7ge232870"
       },
       "geometry": {
         "type": "Polygon",
@@ -14684,12 +14684,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N47",
-        "TITLE": "",
+        "TITLE": "Klagenfurt",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---$$ae-xv---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Klagenfurt",
+        "N651": "$$aKlagenfurt (Rakousko : oblast)$$7ge273424"
       },
       "geometry": {
         "type": "Polygon",
@@ -14889,12 +14889,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N52",
-        "TITLE": "",
+        "TITLE": "Dresden",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---$$ae-xr---",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "Dresden",
+        "N651": "$$aDrážďany (Německo : oblast)$$7ge129087"
       },
       "geometry": {
         "type": "Polygon",
@@ -14971,12 +14971,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N54",
-        "TITLE": "",
+        "TITLE": "Neustrelitz",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---$$ae-pl---",
+        "N80": "$$a913(430.249)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Neustrelitz",
+        "N651": "$$aNeustrelitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15422,12 +15422,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O48",
-        "TITLE": "",
+        "TITLE": "Graz",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(436.4)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Graz",
+        "N651": "$$aŠtýrský Hradec (Rakousko : oblast)$$7"
       },
       "geometry": {
         "type": "Polygon",
@@ -15668,12 +15668,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O54",
-        "TITLE": "",
+        "TITLE": "Stettin",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-gx---",
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Stettin",
+        "N651": "$$aŠtětín (Polsko : oblast)$$7ge134526"
       },
       "geometry": {
         "type": "Polygon",
@@ -15709,12 +15709,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O55",
-        "TITLE": "",
+        "TITLE": "Kolberg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Kolberg",
+        "N651": "$$aKołobrzeg (Polsko : oblast)$$7ge570347"
       },
       "geometry": {
         "type": "Polygon",
@@ -16570,12 +16570,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P55",
-        "TITLE": "",
+        "TITLE": "Stolp",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Stolp",
+        "N651": "$$Słupsk (Polsko : oblast)$$7ge816713"
       },
       "geometry": {
         "type": "Polygon",
@@ -17312,7 +17312,7 @@
         "SCALE": "300000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Litzmannstadt",
+        "N245A": "Litzmannstadt|Łódź",
         "N651": "$$aLodž (Polsko : oblast)$$7ge292514"
       },
       "geometry": {
@@ -17349,12 +17349,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q53",
-        "TITLE": "",
+        "TITLE": "Płock",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Płock",
+        "N651": "$$aPłock (Polsko : oblast)$$7ge856398"
       },
       "geometry": {
         "type": "Polygon",
@@ -17390,12 +17390,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q54",
-        "TITLE": "",
+        "TITLE": "Marienwerder",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Marienwerder",
+        "N651": "$$aKwidzyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

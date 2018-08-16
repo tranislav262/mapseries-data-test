@@ -165,7 +165,8 @@ LDR   L -----nem-a22--------4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
-  }4901  L $$aDeutsche Heereskarte 1:100 000 ; $$v{
+  }
+4901  L $$aDeutsche Heereskarte 1:100 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

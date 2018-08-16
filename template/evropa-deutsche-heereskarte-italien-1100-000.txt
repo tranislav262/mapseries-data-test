@@ -33,7 +33,7 @@ LDR   L -----nem-a22--------4500
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun", "pol", "slo"]
+    "values": ["ita", "cze", "ger", "hun", "pol", "slo"]
   }
 043   L {
     "title": "Pole 043",
@@ -86,8 +86,7 @@ LDR   L -----nem-a22--------4500
     "width": 10,
     "values": [
       {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
+      ]
   } /$$c{
     "base":"corporation",
     "width": 80,
@@ -96,15 +95,6 @@ LDR   L -----nem-a22--------4500
       "Herausgegeben vom OKH/Gen St d H",
       "OKL, LW. Fü. St. (7. Abt.)"
     ]
-  }
-2463  L $$a{
-    "base":"sheet",
-    "title": "Variantní název",
-    "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"}
-    ]
-  }
 24630 L $$a{
     "base": "sheet",
     "title": "Název části"

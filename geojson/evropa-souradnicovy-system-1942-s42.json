@@ -7593,11 +7593,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-93-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Velké Meziříčí",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245A": "Vel. Meziříčí",
+        "N651": "$$aVelké Meziříčí (Česko : oblast)$$7ge131264"
       },
       "geometry": {
         "type": "Polygon",
@@ -7634,11 +7634,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-93-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Tišnov",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Tišnov",
+        "N651": "$$aTišnov (Česko : oblast)$$7ge131086"
       },
       "geometry": {
         "type": "Polygon",
@@ -7675,11 +7675,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-94-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Boskovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Boskovice",
+        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
       },
       "geometry": {
         "type": "Polygon",
@@ -8209,10 +8209,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-102-A",
         "TITLE": "Soběslav",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Soběslav",
-        "N651": ""
+        "N651": "$$aSoběslav (Česko : oblast)$$7ge153167"
       },
       "geometry": {
         "type": "Polygon",
@@ -8250,10 +8250,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-102-B",
         "TITLE": "Kardašova Řečice",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
         "N245A": "Kardašova Řečice",
-        "N651": ""
+        "N651": "$$aKardašova Řečice (Česko : oblast)$$7ge129530"
       },
       "geometry": {
         "type": "Polygon",
@@ -8290,11 +8290,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-103-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kamenice nad Lipou",
+        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Kamenice n. Lipou",
+        "N651": "$$aKamenice nad Lipou (Česko : oblast)$$7ge218497"
       },
       "geometry": {
         "type": "Polygon",
@@ -8331,11 +8331,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-103-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Třešť",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
+        "N245A": "Třešť",
+        "N651": "$$aTřešť (Česko : oblast)$$7ge348174"
       },
       "geometry": {
         "type": "Polygon",
@@ -8413,11 +8413,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-104-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Třebíč",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245A": "Třebíč",
+        "N651": "$$Třebíč (Česko : oblast)$$7ge131186"
       },
       "geometry": {
         "type": "Polygon",
@@ -8495,11 +8495,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-105-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rosice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Rosice",
+        "N651": "$$aRosice (Brno-venkov, Česko : oblast)$$7ge130663"
       },
       "geometry": {
         "type": "Polygon",
@@ -8536,11 +8536,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-106-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brno",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Brno",
+        "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
         "type": "Polygon",
@@ -8988,10 +8988,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-101-D",
         "TITLE": "Hluboká nad Vltavou",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Hluboká n. Vlt.",
-        "N651": ""
+        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
       },
       "geometry": {
         "type": "Polygon",
@@ -9029,10 +9029,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-102-C",
         "TITLE": "Lišov",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Lišov",
-        "N651": ""
+        "N651": "$$aLišov (Česko : oblast)$$7ge736508"
       },
       "geometry": {
         "type": "Polygon",
@@ -9070,10 +9070,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-102-D",
         "TITLE": "Třeboň",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Třeboň",
-        "N651": ""
+        "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
         "type": "Polygon",
@@ -9110,11 +9110,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-33-103-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Jindřichův Hradec",
+        "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Jindř. Hradec",
+        "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
       "geometry": {
         "type": "Polygon",
@@ -9151,11 +9151,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-33-103-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Dačice",
+        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Dačice",
+        "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
         "type": "Polygon",
@@ -9192,11 +9192,11 @@
         "Shape_Area": "0.0416666665617",
         "SCALE": "50000",
         "SHEET": "M-33-104-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Jemnice",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
+        "N245A": "Jemnice",
+        "N651": "$$aJemnice (Třebíč, Česko : oblast)$$7ge129445"
       },
       "geometry": {
         "type": "Polygon",
@@ -9274,11 +9274,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-33-105-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Hrotovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Hrotovice",
+        "N651": "$$aHrotovice (Česko : oblast)$$7ge250329"
       },
       "geometry": {
         "type": "Polygon",
@@ -9315,11 +9315,11 @@
         "Shape_Area": "0.0416666665617",
         "SCALE": "50000",
         "SHEET": "M-33-105-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ivančice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Ivančice",
+        "N651": "$$Ivančice (Česko : oblast)$$7ge129402"
       },
       "geometry": {
         "type": "Polygon",
@@ -9971,11 +9971,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-116-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Vratěnín",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Vratěnín",
+        "N651": "$$aVratěnín (Česko : oblast)|$$aDrosendorf (Rakousko : oblast)$$7ge888759"
       },
       "geometry": {
         "type": "Polygon",
@@ -10135,11 +10135,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-118-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Hustopeče",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Hustopeče",
+        "N651": "$$Hustopeče (Česko : oblast)$$7ge271280"
       },
       "geometry": {
         "type": "Polygon",
@@ -10832,11 +10832,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-119-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Senica",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF",
+        "N245A": "Senica",
+        "N651": "$$aSenica (Slovensko : oblast)$$7ge132361"
       },
       "geometry": {
         "type": "Polygon",
@@ -12513,11 +12513,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-86-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bystřice",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Bystřice",
+        "N651": "$$aBystřice (Frýdek-Místek, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12554,11 +12554,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-86-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Jablunkov",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Jablunkov",
+        "N651": "$$aJablunkov (Česko : oblast)$$7ge129411"
       },
       "geometry": {
         "type": "Polygon",
@@ -12636,11 +12636,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-87-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Oravská Polhora",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Oravská Polhora",
+        "N651": "$$aOravská Polhora (Slovensko : oblast)$$7ge516122"
       },
       "geometry": {
         "type": "Polygon",
@@ -12759,11 +12759,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-85-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Velké Karlovice",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.3)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Velké Karlovice",
+        "N651": "$$aVelké Karlovice (Česko : oblast)$$7ge131261"
       },
       "geometry": {
         "type": "Polygon",
@@ -12800,11 +12800,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-86-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Turzovka",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF",
+        "N245A": "Turzovka",
+        "N651": "$$aTurzovka (Slovensko : oblast)$$7xx0134091"
       },
       "geometry": {
         "type": "Polygon",
@@ -12841,11 +12841,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-86-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Čadca",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Čadca",
+        "N651": "$$aČadca (Slovensko : oblast)$$7xx0117220"
       },
       "geometry": {
         "type": "Polygon",
@@ -12882,11 +12882,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-87-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nová Bystrica",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Nová Bystrica",
+        "N651": "$$aNová Bystrica (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12923,11 +12923,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-87-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Námestovo",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Námestovo",
+        "N651": "$$aNámestovo (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12964,11 +12964,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-88-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Trstená",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Trstená",
+        "N651": "$$aTrstená (Slovensko : oblast)$$7ge981056"
       },
       "geometry": {
         "type": "Polygon",
@@ -13006,8 +13006,8 @@
         "SCALE": "50000",
         "SHEET": "M-34-88-D",
         "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -13087,11 +13087,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-89-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Spišská Stará Ves",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Spišská St. Ves",
+        "N651": "$$aSpišská Stará Ves (Slovensko : oblast)$$7ge981213"
       },
       "geometry": {
         "type": "Polygon",
@@ -13129,8 +13129,8 @@
         "SCALE": "50000",
         "SHEET": "M-34-90-C",
         "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -13169,11 +13169,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-90-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Malý Lipník",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Malý Lipník",
+        "N651": "$$aMalý Lipník (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13210,11 +13210,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-91-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kurov",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Kurov",
+        "N651": "$$aKurov (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13292,11 +13292,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-92-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Čertižné",
+        "N43": "$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Čertižné",
+        "N651": "$$aČertižné (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13374,11 +13374,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-97-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Hovězí",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Hovězí",
+        "N651": "$$aHovězí (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13415,11 +13415,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-97-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Mariková",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
+        "N245A": "Mariková",
+        "N651": "$$aDolná Mariková (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13456,11 +13456,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-98-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Žilina",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Žilina",
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
         "type": "Polygon",
@@ -13497,11 +13497,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-98-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kysucké Nové Mesto",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Kys. N. Mesto",
+        "N651": "$$aKysucké Nové Mesto (Slovensko : oblast)$$7ge699985"
       },
       "geometry": {
         "type": "Polygon",
@@ -13538,11 +13538,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-99-A",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Terchová",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Terchová",
+        "N651": "$$aTerchová (Slovensko : oblast)$$7ge456996"
       },
       "geometry": {
         "type": "Polygon",
@@ -13579,11 +13579,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-99-B",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Dolný Kubín",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Dolný Kubín",
+        "N651": "$$aDolný Kubín (Slovensko : oblast)$$7ge129057"
       },
       "geometry": {
         "type": "Polygon",
@@ -14071,11 +14071,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-34-97-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Valašské Klobouky",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
+        "N245A": "Val. Klobouky",
+        "N651": "$$aValašské Klobouky (Česko : oblast)$$7ge118076"
       },
       "geometry": {
         "type": "Polygon",
@@ -14112,11 +14112,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-34-97-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Považská Bystrica",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Považská Bystrica",
+        "N651": "$$aPovažská Bystrica (Slovensko : oblast)$$7ge525389"
       },
       "geometry": {
         "type": "Polygon",
@@ -14153,11 +14153,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-34-98-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rajec",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Rajec",
+        "N651": "$$aRajec (Slovensko : oblast)$$7ge981255"
       },
       "geometry": {
         "type": "Polygon",
@@ -14194,11 +14194,11 @@
         "Shape_Area": "0.0416666665617",
         "SCALE": "50000",
         "SHEET": "M-34-98-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Martin",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Martin",
+        "N651": "$$aMartin (Slovensko : oblast)$$7ge129972"
       },
       "geometry": {
         "type": "Polygon",
@@ -14235,11 +14235,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-34-99-C",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Turany",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Turany",
+        "N651": "$$aTurany (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14276,11 +14276,11 @@
         "Shape_Area": "0.041666666395",
         "SCALE": "50000",
         "SHEET": "M-34-99-D",
-        "TITLE": "",
-        "N43": "$$ae-xr---",
-        "N80": "$$a913(437.3)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ružomberok",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Ružomberok",
+        "N651": "$$aRužomberok (Slovensko : oblast)$$7ge551257"
       },
       "geometry": {
         "type": "Polygon",

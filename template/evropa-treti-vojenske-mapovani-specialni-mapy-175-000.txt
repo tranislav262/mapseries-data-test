@@ -9,12 +9,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr"]
+    "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr"]
   }-|||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "ger", "ger", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "ger", "ger", "cze", "cze"]
   }-d
 0341  L $$b75000{
     "title": "Zeměpisné souřadnice",
@@ -80,13 +80,14 @@ LDR   L -----nem-a22------i-4500
       "Zeměměřický úřad",
       "Německo. $$bReichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien",
       "Rakousko. $$bKartographisches Institut",
-      "Státní zeměměřický a kartografický ústav"
+      "Státní zeměměřický a kartografický ústav",
+      "Československý vojenský zeměpisný ústav"
     ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630", "uk2011138116", "mzk20181002757"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630", "uk2011138116", "mzk20181002757", "kn20030604013"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -117,7 +118,8 @@ LDR   L -----nem-a22------i-4500
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
       "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien",
       "[Militärgeographisches Institut] ; Kartographisches Institut",
-      "[Militärgeographisches Institut] ; Státní zeměměřický a kartografický ústav v Praze"
+      "[Militärgeographisches Institut] ; Státní zeměměřický a kartografický ústav v Praze",
+      "Vojenský zeměpisný ústav"
     ]
   }
 2463  L $$a{
@@ -160,7 +162,8 @@ LDR   L -----nem-a22------i-4500
       "Praha :$$bZeměměřický úřad,",
       "Wien :$$bHauptvermessungsabteilung XIV,",
       "Wien :$$bKartographisches Institut,",
-      "V Praze :$$bStátní zeměměřický a kartografický ústav,"
+      "V Praze :$$bStátní zeměměřický a kartografický ústav,",
+      "V Praze :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
@@ -256,6 +259,7 @@ LDR   L -----nem-a22------i-4500
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
@@ -277,7 +281,8 @@ LDR   L -----nem-a22------i-4500
     "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
     "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116",
     "",
-    "Československý vojenský zeměpisný ústav$$4ant$$7kn20030604013"
+    "Československý vojenský zeměpisný ústav$$4ant$$7kn20030604013",
+    ""
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:75 000 ;$$v{

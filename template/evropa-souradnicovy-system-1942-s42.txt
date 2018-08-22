@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -28,12 +28,12 @@ LDR   L -----nem-a22--------4500
     "id":"langcode",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun", "pol"]
   }$$a{
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun", "pol"]
   }
 043   L {
     "title": "Pole 043",
@@ -67,13 +67,13 @@ LDR   L -----nem-a22--------4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Československo. Armáda. Generální štáb",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["ko2005275364", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -88,12 +88,12 @@ LDR   L -----nem-a22--------4500
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
     ]
-  }$$h[kartografický dokument] /$$c{
+} /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 160,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
+      "Generální štáb Československé armády",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
@@ -114,7 +114,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:50 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -122,27 +122,40 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+264   L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
+      "[Praha] :$$bGenerální štáb Československé armády,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 3
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 3
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 3
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 3
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+4901  L $$a[Die Franzisco-Josephinische Landesaufnahme 1:50 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -175,7 +188,7 @@ LDR   L -----nem-a22--------4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+830 0 L $$aTřetí vojenské mapování 1:50 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

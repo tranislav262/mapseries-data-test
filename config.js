@@ -193,7 +193,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1942 (S42)",
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:50 000",
       layer: "evropa-souradnicovy-system-1942-s42",
       template: "evropa-souradnicovy-system-1942-s42.txt",
       formatFunctions: {
@@ -252,6 +252,20 @@ mapseries.config = {
       title: "Evropa: Normální mezinárodní letecká mapa 1:200 000",
       layer: "evropa-normalni-mezinarodni-letecka-mapa-1200-000",
       template: "evropa-normalni-mezinarodni-letecka-mapa-1200-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
+      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorát)",
+      layer: "evropa-deutsche-heereskarte-150-000-protektorat",
+      template: "evropa-deutsche-heereskarte-150-000-protektorat.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';

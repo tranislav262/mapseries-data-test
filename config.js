@@ -261,6 +261,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorát)",
+      layer: "evropa-deutsche-heereskarte-150-000-protektorat",
+      template: "evropa-deutsche-heereskarte-150-000-protektorat.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

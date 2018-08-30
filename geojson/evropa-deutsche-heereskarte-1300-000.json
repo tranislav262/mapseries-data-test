@@ -12798,12 +12798,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J50",
-        "TITLE": "",
+        "TITLE": "Metz",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---$$ae-gx---$$ae-be---$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430.123)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
+        "N245A": "Metz",
+        "N651": "$$aMety (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12841,9 +12841,9 @@
         "SHEET": "J51",
         "TITLE": "Aachen",
         "SCALE": "300000",
-        "N43": "$$ae-gx---",
-        "N80": "$$a913(430.119)$$2MRF",
-        "N245A": "Aachen",
+        "N43": "$$ae-be---$$ae-gx---$$ae-ne---",
+        "N80": "$$a913(493)$$2MRF|$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Aachen|Brüssel",
         "N651": "$$aCáchy (Německo : oblast)"
       },
       "geometry": {
@@ -12880,12 +12880,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J52",
-        "TITLE": "",
+        "TITLE": "Antwerpen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ne---$$ae-be---$$ae-gx---",
+        "N80": "$$a913(492)$$2MRF|$$a913(493)$$2MRF|$$a913(430.119)$$2MRF",
+        "N245A": "Antwerpen",
+        "N651": "$$aAntverpy (Belgie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12962,12 +12962,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J54",
-        "TITLE": "",
+        "TITLE": "Leeuwarden ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ne---",
+        "N80": "$$a913(492)$$2MRF",
+        "N245A": "Leeuwarden ",
+        "N651": "$$aLeeuwarden (Nizozemsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13003,12 +13003,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J59",
-        "TITLE": "",
+        "TITLE": "Stavanger",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Stavanger",
+        "N651": "$$aStavanger (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13044,12 +13044,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J60",
-        "TITLE": "",
+        "TITLE": "Haugesund",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Haugesund",
+        "N651": "$$aHaugesund (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13085,12 +13085,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "J61",
-        "TITLE": "",
+        "TITLE": "Bergen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Bergen",
+        "N651": "$$aBergen (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13126,12 +13126,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K47",
-        "TITLE": "",
+        "TITLE": "Bern",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-fr---$$ae-it---",
+        "N80": "$$a913(494.24)$$MRF|$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "Bern",
+        "N651": "$$aBern (Švýcarsko : oblast)$$7ge663866"
       },
       "geometry": {
         "type": "Polygon",
@@ -13413,12 +13413,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K54",
-        "TITLE": "",
+        "TITLE": "Oldenburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---$$ae-ne---",
+        "N80": "$$a913(430.117)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Oldenburg",
+        "N651": "$$aOldenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13454,12 +13454,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K59",
-        "TITLE": "",
+        "TITLE": "Kristiansand",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Christiansand",
+        "N651": "$$aKristiansand (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13495,12 +13495,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "K60",
-        "TITLE": "",
+        "TITLE": "Bykle",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Bykle",
+        "N651": "$$aBykle (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13536,12 +13536,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L47",
-        "TITLE": "",
+        "TITLE": "Chur",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(494.26)$$2MRF|$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Chur",
+        "N651": "$$aChur (Švýcarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13866,8 +13866,8 @@
         "SHEET": "L55",
         "TITLE": "Kiel",
         "SCALE": "300000",
-        "N43": "$$ae-gx---",
-        "N80": "$$a913(430.111)$$2MRF",
+        "N43": "$$ae-gx---$$ae-dk---",
+        "N80": "$$a913(430.111)$$2MRF|$$a913(489)$$2MRF",
         "N245A": "Kiel",
         "N651": "$$aKiel (Německo : oblast)"
       },
@@ -13946,12 +13946,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L57",
-        "TITLE": "",
+        "TITLE": "Aarhus",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Aarhus",
+        "N651": "$$aAarhus (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13987,12 +13987,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L58",
-        "TITLE": "",
+        "TITLE": "Aalborg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Aalborg",
+        "N651": "$$aAalborg (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14028,12 +14028,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L59",
-        "TITLE": "",
+        "TITLE": "Arendal",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Arendal",
+        "N651": "$$aArendal (Norsko : oblast)$$7ge477850"
       },
       "geometry": {
         "type": "Polygon",
@@ -14069,12 +14069,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "L60",
-        "TITLE": "",
+        "TITLE": "Larvik",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Laurvik",
+        "N651": "$$aLarvik (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14400,7 +14400,7 @@
         "TITLE": "Schwerin",
         "SCALE": "300000",
         "N43": "$$ae-gx---",
-        "N80": "$$a913(430.249)$$MRF",
+        "N80": "$$a913(430.249)$$2MRF",
         "N245A": "Schwerin",
         "N651": "$$aSchwerin (Meklenbursko-Přední Pomořansko, Německo : oblast)$$7ge130756"
       },
@@ -14479,12 +14479,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M56",
-        "TITLE": "",
+        "TITLE": "Roskilde",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Roskilde",
+        "N651": "$$aRoskilde (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14520,12 +14520,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M57",
-        "TITLE": "",
+        "TITLE": "Grenaa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Grenaa",
+        "N651": "$$aGrenaa (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14561,12 +14561,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M58",
-        "TITLE": "",
+        "TITLE": "Göteborg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-dk---",
+        "N80": "$$a913(485)$$MRF|$$a913(489)$$2MRF",
+        "N245A": "Göteborg",
+        "N651": "$$aGöteborg (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14602,12 +14602,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M59",
-        "TITLE": "",
+        "TITLE": "Uddevalla",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-no---",
+        "N80": "$$a913(485)$$MRF|$$a913(481)$$MRF",
+        "N245A": "Uddevalla",
+        "N651": "$$Uddevalla (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14643,12 +14643,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "M60",
-        "TITLE": "",
+        "TITLE": "Oslo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Oslo",
+        "N651": "$$aOslo (Norsko : oblast)$$7ge807955"
       },
       "geometry": {
         "type": "Polygon",
@@ -15012,12 +15012,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N55",
-        "TITLE": "",
+        "TITLE": "Stralsund",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.131)$$2MRF",
+        "N245A": "Stralsund",
+        "N651": "$$aStralsund (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15053,12 +15053,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N56",
-        "TITLE": "",
+        "TITLE": "Kopenhagen",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---$$ae-sw---",
+        "N80": "$$a913(489)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Kopenhagen",
+        "N651": "$$aKodaň (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15094,12 +15094,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N57",
-        "TITLE": "",
+        "TITLE": "Halmstad",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-dk---",
+        "N80": "$$a913(485)$$MRF|$$a913(489)$$2MRF",
+        "N245A": "Halmstad",
+        "N651": "$$aHalmstad (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15135,12 +15135,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N58",
-        "TITLE": "",
+        "TITLE": "Jönköping",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Jönköping",
+        "N651": "$$aJönköping (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15176,12 +15176,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N59",
-        "TITLE": "",
+        "TITLE": "Mariestad",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Mariestad",
+        "N651": "$$aMariestad (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15217,12 +15217,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "N60",
-        "TITLE": "",
+        "TITLE": "Karlstad",
         "SCALE": "300000",
-        "N43": "$$ae",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Karlstad",
+        "N651": "$$aKarlstad (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15340,12 +15340,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O46",
-        "TITLE": "",
+        "TITLE": "Agram",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Agram",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
       "geometry": {
         "type": "Polygon",
@@ -15873,12 +15873,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O59",
-        "TITLE": "",
+        "TITLE": "Norrköping",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Norrköping",
+        "N651": "$$aNorrköping (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15914,12 +15914,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O60",
-        "TITLE": "",
+        "TITLE": "Örebro",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Örebro",
+        "N651": "$$aÖrebro (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16693,12 +16693,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P59",
-        "TITLE": "",
+        "TITLE": "Nyköping",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Nyköping",
+        "N651": "$$aNyköping (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16734,12 +16734,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P60",
-        "TITLE": "",
+        "TITLE": "Stockholm",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Stockholm",
+        "N651": "$$aStockholm (Švédko : oblast)$$7ge379296"
       },
       "geometry": {
         "type": "Polygon",
@@ -16775,12 +16775,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P61",
-        "TITLE": "",
+        "TITLE": "Gävle",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Gefle",
+        "N651": "$$Gävle (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

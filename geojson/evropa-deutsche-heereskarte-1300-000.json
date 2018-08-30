@@ -6976,12 +6976,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G47",
-        "TITLE": "",
+        "TITLE": "Châteauroux",
         "SCALE": "300000",
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Châteauroux",
+        "N651": "$$aChâteauroux (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7017,12 +7017,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G48",
-        "TITLE": "",
+        "TITLE": "Orléans",
         "SCALE": "300000",
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Orléans",
+        "N651": "$$aOrléans (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7058,12 +7058,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G49",
-        "TITLE": "",
+        "TITLE": "Paris West",
         "SCALE": "300000",
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Paris West",
+        "N651": "$$aPaříž (Francie : oblast)|$$7ge130381"
       },
       "geometry": {
         "type": "Polygon",
@@ -7099,12 +7099,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G50",
-        "TITLE": "",
+        "TITLE": "Rouen",
         "SCALE": "300000",
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rouen",
+        "N651": "$$aRouen (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7140,12 +7140,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G51",
-        "TITLE": "",
+        "TITLE": "Calais",
         "SCALE": "300000",
-        "N43": "$$ae-fr---",
-        "N80": "$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---$$ae-uk-en",
+        "N80": "$$a913(44)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Calais",
+        "N651": "$$aCalais (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7181,12 +7181,12 @@
         "Shape_Leng": "5.999999996",
         "Shape_Area": "1.999999998",
         "SHEET": "G52",
-        "TITLE": "",
+        "TITLE": "Dover",
         "SCALE": "300000",
-        "N43": "$$ae-fr---$$ae-uk---",
-        "N80": "$$a913(410)$$2MRF|$$a913(44)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-uk-en$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF|$$a913(410)$$2MRF",
+        "N245A": "Dover",
+        "N651": "$$aDover (Anglie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8247,12 +8247,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H47",
-        "TITLE": "",
+        "TITLE": "Moulins",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Moulins",
+        "N651": "$$aMoulins (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8288,12 +8288,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H48",
-        "TITLE": "",
+        "TITLE": "Bourges",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bourges",
+        "N651": "$$aBourges (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8329,12 +8329,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H49",
-        "TITLE": "",
+        "TITLE": "Paris Ost",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Paris Ost",
+        "N651": "$$aPaříž (Francie : oblast)|$$7ge130381"
       },
       "geometry": {
         "type": "Polygon",
@@ -8370,12 +8370,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H50",
-        "TITLE": "",
+        "TITLE": "Laon",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Laon",
+        "N651": "$$aLaon (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8411,12 +8411,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H51",
-        "TITLE": "",
+        "TITLE": "Lille",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fr---$$ae-be---",
+        "N80": "$$a913(44)$$2MRF|$$a913(493)$$2MRF",
+        "N245A": "Lille",
+        "N651": "$$aLille (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8452,12 +8452,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "H52",
-        "TITLE": "",
+        "TITLE": "Gent",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-be---$$ae-fr---$$ae-ne---",
+        "N80": "$$a913(493)$$2MRF|$$a913(44)$$2MRF|$$a913(492)$$2MRF",
+        "N245A": "Gent",
+        "N651": "$$aGent (Belgie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

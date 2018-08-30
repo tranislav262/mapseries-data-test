@@ -15138,7 +15138,7 @@
         "TITLE": "Jönköping",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Jönköping",
         "N651": "$$aJönköping (Švédsko : oblast)"
       },
@@ -15179,7 +15179,7 @@
         "TITLE": "Mariestad",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Mariestad",
         "N651": "$$aMariestad (Švédsko : oblast)"
       },
@@ -15876,7 +15876,7 @@
         "TITLE": "Norrköping",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Norrköping",
         "N651": "$$aNorrköping (Švédsko : oblast)"
       },
@@ -15917,7 +15917,7 @@
         "TITLE": "Örebro",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Örebro",
         "N651": "$$aÖrebro (Švédsko : oblast)"
       },
@@ -15955,12 +15955,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O68",
-        "TITLE": "",
+        "TITLE": "Bodö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Bodö",
+        "N651": "$$aBodø (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15996,12 +15996,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O69",
-        "TITLE": "",
+        "TITLE": "Svolvär",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Svolvär",
+        "N651": "$$aSvolvær (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16611,12 +16611,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P57",
-        "TITLE": "",
+        "TITLE": "Öland",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Öland",
+        "N651": "$$aÖland (Švédsko : ostrov)$$7ge601920"
       },
       "geometry": {
         "type": "Polygon",
@@ -16652,12 +16652,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P58",
-        "TITLE": "",
+        "TITLE": "Västervik",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Västervik",
+        "N651": "$$aVästervik (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17472,12 +17472,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q58",
-        "TITLE": "",
+        "TITLE": "Gotland",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Gotland",
+        "N651": "$$aGotland (Švédsko : ostrov)$$7ge759936"
       },
       "geometry": {
         "type": "Polygon",
@@ -17513,12 +17513,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q61",
-        "TITLE": "",
+        "TITLE": "Mariehamn",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Mariehamn",
+        "N651": "$$aMariehamn (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17554,12 +17554,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q68",
-        "TITLE": "",
+        "TITLE": "Kiruna",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Kiruna",
+        "N651": "$$aKiruna (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17595,12 +17595,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q69",
-        "TITLE": "",
+        "TITLE": "Bardu",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Bardu",
+        "N651": "$$aBardu (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17636,12 +17636,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q70",
-        "TITLE": "",
+        "TITLE": "Tromsö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-sw---",
+        "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Tromsö",
+        "N651": "$$aTromsø (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17677,7 +17677,7 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q71",
-        "TITLE": "",
+        "TITLE": "Vandö",
         "SCALE": "300000",
         "N43": "",
         "N80": "",
@@ -19235,12 +19235,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S54",
-        "TITLE": "",
+        "TITLE": "Lyck",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---$$ae-li---$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF|$$a913(474.5)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Lyck",
+        "N651": "$$aEłk (Polsko : oblast)$$7ge750122"
       },
       "geometry": {
         "type": "Polygon",
@@ -19317,12 +19317,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S56",
-        "TITLE": "",
+        "TITLE": "Schaulen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-li---$$ae-ru---",
+        "N80": "$$a913(474.5)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Schaulen",
+        "N651": "$$aŠiauliai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",

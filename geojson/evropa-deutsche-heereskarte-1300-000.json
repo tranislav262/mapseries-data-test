@@ -16242,12 +16242,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P47",
-        "TITLE": "",
+        "TITLE": "Fünfkirchen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-au---$$ae-xv---$$ae-ci---",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Fünfkirchen",
+        "N651": "$$aPécs (Maďarsko : oblast)$$7ge856379"
       },
       "geometry": {
         "type": "Polygon",
@@ -17103,12 +17103,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q47",
-        "TITLE": "",
+        "TITLE": "Szegedin",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Szegedin",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405"
       },
       "geometry": {
         "type": "Polygon",
@@ -18948,12 +18948,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S47",
-        "TITLE": "",
+        "TITLE": "Klausenburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Klausenburg",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442"
       },
       "geometry": {
         "type": "Polygon",
@@ -18993,7 +18993,7 @@
         "SCALE": "300000",
         "N43": "$$ae-rm---$$ae-hu---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Sathmar",
+        "N245A": "Sathmar|Szatmar",
         "N651": "$$aSatu-Mare (Rumunsko : oblast)$$7ge270578"
       },
       "geometry": {
@@ -19116,7 +19116,7 @@
         "SCALE": "300000",
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Tomaszow",
+        "N245A": "Tomaszow|Zamość",
         "N651": "$$aTomaszów Lubelski\n(Polsko : oblast)"
       },
       "geometry": {
@@ -19239,7 +19239,7 @@
         "SCALE": "300000",
         "N43": "$$ae-pl---$$ae-li---$$ae-bw---",
         "N80": "$$a913(476)$$2MRF|$$a913(474.5)$$2MRF|$$a913(476)$$2MRF",
-        "N245A": "Lyck",
+        "N245A": "Lyck|Lyck (Grodno)",
         "N651": "$$aEłk (Polsko : oblast)$$7ge750122"
       },
       "geometry": {
@@ -20145,12 +20145,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T45",
-        "TITLE": "",
+        "TITLE": "Bukarest",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-bu---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Bukarest",
+        "N651": "$$aBukurešť (Rumunsko : oblast)$$7ge856669"
       },
       "geometry": {
         "type": "Polygon",
@@ -20186,12 +20186,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T46",
-        "TITLE": "",
+        "TITLE": "Kronstadt",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Kronstadt",
+        "N651": "$$aBrašov (Rumunsko : oblast)$$7ge385110"
       },
       "geometry": {
         "type": "Polygon",
@@ -20227,12 +20227,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T47",
-        "TITLE": "Marosvásárhely",
+        "TITLE": "Schässburg ",
         "SCALE": "300000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Marosvásárhely",
-        "N651": "$$aTârgu Mureş (Rumunsko : oblast)"
+        "N245A": "Marosvásárhely|Schässburg|Schäßburg",
+        "N651": "$$aSighişoara (Rumunsko : oblast)|$$aTârgu Mureş (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21457,12 +21457,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U46",
-        "TITLE": "",
+        "TITLE": "Gala",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-mv---$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Gala|Galaz",
+        "N651": "$$aGalați (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21498,12 +21498,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U47",
-        "TITLE": "",
+        "TITLE": "Roman ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Roman ",
+        "N651": "$$aRoman (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21539,12 +21539,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U48",
-        "TITLE": "",
+        "TITLE": "Jassi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-mv---",
+        "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Jassi",
+        "N651": "$$aJasy (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22523,12 +22523,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 45",
-        "TITLE": "",
+        "TITLE": "Constanta",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Constanta",
+        "N651": "$$aConstanța (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22564,12 +22564,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 46",
-        "TITLE": "",
+        "TITLE": "Ismail",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Ismail",
+        "N651": "$$aIzmajil (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",

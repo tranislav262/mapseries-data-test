@@ -15258,12 +15258,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O44",
-        "TITLE": "",
+        "TITLE": "Šibenik",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Šibenik",
+        "N651": "$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
       },
       "geometry": {
         "type": "Polygon",
@@ -15299,12 +15299,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O45",
-        "TITLE": "",
+        "TITLE": "Zadar",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ci---$$ae-bn---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(439.55)$$2MRF",
+        "N245A": "Zadar|Zara",
+        "N651": "$$aZadar (Chorvatsko : oblast)$$7xx0160293"
       },
       "geometry": {
         "type": "Polygon",
@@ -15342,8 +15342,8 @@
         "SHEET": "O46",
         "TITLE": "Agram",
         "SCALE": "300000",
-        "N43": "$$ae-ci---",
-        "N80": "$$a913(497.5)$$2MRF",
+        "N43": "$$ae-ci---$$ae-bn---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(439.55)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Agram",
         "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
@@ -15750,12 +15750,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O56",
-        "TITLE": "",
+        "TITLE": "Bornholm",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
+        "N245A": "Bornholm",
+        "N651": "$$aBornholm (Dánsko : ostrov)$$7ge128790"
       },
       "geometry": {
         "type": "Polygon",
@@ -15791,12 +15791,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O57",
-        "TITLE": "",
+        "TITLE": "Karlskrona",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Karlskrona",
+        "N651": "$$aKarlskrona (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15832,12 +15832,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O58",
-        "TITLE": "",
+        "TITLE": "Vetlanda",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Hvetlanda",
+        "N651": "$$aVetlanda (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16037,12 +16037,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "O70",
-        "TITLE": "",
+        "TITLE": "Andenes",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Andenes",
+        "N651": "$$aAndenes (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16078,12 +16078,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P43",
-        "TITLE": "",
+        "TITLE": "Dubrovnik",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ci---$$ae-bn---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
+        "N245A": "Dubrovnik|Ragusa",
+        "N651": "$$aDubrovník (Chorvatsko : oblast)$$7ge258347"
       },
       "geometry": {
         "type": "Polygon",
@@ -16119,12 +16119,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P44",
-        "TITLE": "",
+        "TITLE": "Mostar",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Mostar",
+        "N651": "$$aMostar (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16160,12 +16160,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P45",
-        "TITLE": "",
+        "TITLE": "Banja Luka",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Banja Luka",
+        "N651": "$$aBanja Luka (Bosna a Hercegovina : oblast)$$7ge856370"
       },
       "geometry": {
         "type": "Polygon",
@@ -16201,12 +16201,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P46",
-        "TITLE": "",
+        "TITLE": "Bjelovar",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ci---$$ae-xv---$$ae-hu---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Bjelovar",
+        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770"
       },
       "geometry": {
         "type": "Polygon",
@@ -16614,7 +16614,7 @@
         "TITLE": "Öland",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Öland",
         "N651": "$$aÖland (Švédsko : ostrov)$$7ge601920"
       },
@@ -16655,7 +16655,7 @@
         "TITLE": "Västervik",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Västervik",
         "N651": "$$aVästervik (Švédsko : oblast)"
       },
@@ -16696,7 +16696,7 @@
         "TITLE": "Nyköping",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Nyköping",
         "N651": "$$aNyköping (Švédsko : oblast)"
       },
@@ -16737,7 +16737,7 @@
         "TITLE": "Stockholm",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Stockholm",
         "N651": "$$aStockholm (Švédko : oblast)$$7ge379296"
       },
@@ -16778,9 +16778,9 @@
         "TITLE": "Gävle",
         "SCALE": "300000",
         "N43": "$$ae-sw---",
-        "N80": "$$a913(481)$$2MRF",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Gefle",
-        "N651": "$$Gävle (Švédsko : oblast)"
+        "N651": "$$aGävle (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16816,12 +16816,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P68",
-        "TITLE": "",
+        "TITLE": "Alkavare",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-no---",
+        "N80": "$$a913(485)$$2MRF|$$a913(481)$$2MRF",
+        "N245A": "Alkavare",
+        "N651": "$$aAlkavare (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16857,12 +16857,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P69",
-        "TITLE": "",
+        "TITLE": "Narvik",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-no---",
+        "N80": "$$a913(485)$$2MRF|$$a913(481)$$2MRF",
+        "N245A": "Narvik",
+        "N651": "$$aNarvik (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16898,12 +16898,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "P70",
-        "TITLE": "",
+        "TITLE": "Sørreisa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Sörreisa|Sørreisa",
+        "N651": "$$aSørreisa (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22523,12 +22523,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 45",
-        "TITLE": "Constanta",
-        "SCALE": "300000",
-        "N43": "$$ae-rm---",
-        "N80": "$$a913(498)$$2MRF",
-        "N245A": "Constanta",
-        "N651": "$$aConstanța (Rumunsko : oblast)"
+        "TITLE": "",
+        "SCALE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -22564,12 +22564,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 46",
-        "TITLE": "Ismail",
-        "SCALE": "300000",
-        "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
-        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
-        "N245A": "Ismail",
-        "N651": "$$aIzmajil (Ukrajina : oblast)"
+        "TITLE": "",
+        "SCALE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -22605,12 +22605,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 47",
-        "TITLE": "Bendery",
-        "SCALE": "300000",
-        "N43": "$$ae-mv---$$ae-un---",
-        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Bendery",
-        "N651": "$$aTighina (Moldavsko : oblast)"
+        "TITLE": "",
+        "SCALE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -22647,7 +22647,7 @@
         "Shape_Area": "2",
         "SHEET": "V 48",
         "TITLE": "",
-        "SCALE": "300000",
+        "SCALE": "",
         "N43": "",
         "N80": "",
         "N245A": "",
@@ -22687,12 +22687,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V 49",
-        "TITLE": "Brazlaw",
-        "SCALE": "300000",
-        "N43": "$$ae-un---$$ae-mv---",
-        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
-        "N245A": "Brazlaw",
-        "N651": "$$aBraclav (Ukrajina : oblast)"
+        "TITLE": "",
+        "SCALE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -23671,12 +23671,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V45",
-        "TITLE": "",
+        "TITLE": "Constanta",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Constanta",
+        "N651": "$$aConstanța (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23712,12 +23712,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V46",
-        "TITLE": "",
+        "TITLE": "Ismail",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Ismail",
+        "N651": "$$aIzmajil (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23753,12 +23753,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V47",
-        "TITLE": "",
+        "TITLE": "Bendery",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-mv---$$ae-un---",
+        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Bendery",
+        "N651": "$$aTighina (Moldavsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23794,12 +23794,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V48",
-        "TITLE": "",
+        "TITLE": "Kischinau ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-mv---$$ae-un---",
+        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kischinew|Kiszyniew|Kischinau",
+        "N651": "$$aKišiněv (Moldavsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23835,12 +23835,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V49",
-        "TITLE": "",
+        "TITLE": "Brazlaw",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Brazlaw|Bracław",
+        "N651": "$$aBraclav (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23876,12 +23876,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V50",
-        "TITLE": "",
+        "TITLE": "Berdytschiw",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Berditschew|Berdyczew",
+        "N651": "$$aBerdyčiv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23917,12 +23917,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V51",
-        "TITLE": "",
+        "TITLE": "Shitomir",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Shitomir|Shitomir (Zytomir)",
+        "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901"
       },
       "geometry": {
         "type": "Polygon",
@@ -23958,12 +23958,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V52",
-        "TITLE": "",
+        "TITLE": "Owrutsch",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Owrutsch",
+        "N651": "$$aOvruč (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",

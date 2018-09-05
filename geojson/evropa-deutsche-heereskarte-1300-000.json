@@ -16939,12 +16939,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q43",
-        "TITLE": "",
+        "TITLE": "Shkodra",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-aa---$$ae-mo---$$ae-kv---$$ae-rb---$$ae-ci---$$ae-bn---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.115)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
+        "N245A": "Shkoder|Shkodra|Shkodër",
+        "N651": "$$aShkodër (Albánie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16980,12 +16980,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q44",
-        "TITLE": "",
+        "TITLE": "Sarajevo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bn---$$ae-mo---$$ae-rb---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Sarajevo",
+        "N651": "$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376"
       },
       "geometry": {
         "type": "Polygon",
@@ -17021,12 +17021,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q45",
-        "TITLE": "",
+        "TITLE": "Sremska Mitrovica",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rb---$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Sremska Mitrovica",
+        "N651": "$$aSremska Mitrovica (Srbsko : oblast)$$7ge856389"
       },
       "geometry": {
         "type": "Polygon",
@@ -17062,12 +17062,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q46",
-        "TITLE": "",
+        "TITLE": "Petrovaradin",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rb---$$ae-bn---$$ae-ci---$$ae-hu---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Petrovaradin",
+        "N651": "$$aPetrovaradin (Srbsko : oblast)|$$aNovi Sad (Srbsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17681,7 +17681,7 @@
         "SCALE": "300000",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Vandö",
         "N651": ""
       },
       "geometry": {
@@ -17718,12 +17718,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R43",
-        "TITLE": "",
+        "TITLE": "Prischtina",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-kv---$$ae-rb---$$ae-aa---$$ae-mo---$$ae-xn---",
+        "N80": "$$a913(497.115)$$2MRF|$$a913(497.11)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.7)$$2MRF",
+        "N245A": "Priština|Prischtina",
+        "N651": "$$aPriština (Kosovo : oblast)$$7ge856412"
       },
       "geometry": {
         "type": "Polygon",
@@ -17759,12 +17759,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R44",
-        "TITLE": "",
+        "TITLE": "Nisch",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$e-rb---$$ae-kv---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.115)$$2MRF",
+        "N245A": "Nisch|Niš",
+        "N651": "$$aNiš (Srbsko : oblast)$$7ge586329"
       },
       "geometry": {
         "type": "Polygon",
@@ -17841,12 +17841,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R46",
-        "TITLE": "",
+        "TITLE": "Temeschburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-rb---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Temeschburg|Temeschwar",
+        "N651": "$$aTemešvár (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

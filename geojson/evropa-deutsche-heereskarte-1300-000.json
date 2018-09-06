@@ -17677,12 +17677,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Q71",
-        "TITLE": "Vandö",
+        "TITLE": "Vanna ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "Vandö",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Vandö|Vanna",
+        "N651": "$$aVanna  (Norsko : ostrov)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18215,7 +18215,7 @@
         "N43": "$$ae-ru---$$ae-pl---",
         "N80": "$$a913(470.26)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Königsberg",
-        "N651": "$$aKaliningrad (Rusko : oblast)"
+        "N651": "$$aKaliningrad (Rusko : oblast)$$7ge161928"
       },
       "geometry": {
         "type": "Polygon",
@@ -18374,12 +18374,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R61",
-        "TITLE": "",
+        "TITLE": "Turku",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Turku",
+        "N651": "$$aTurku (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18415,12 +18415,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R62",
-        "TITLE": "",
+        "TITLE": "Björneborg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Björneborg",
+        "N651": "$$aPori (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18456,12 +18456,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R63",
-        "TITLE": "",
+        "TITLE": "Kaskö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kaskö",
+        "N651": "$$aKaskinen (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18497,12 +18497,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R64",
-        "TITLE": "",
+        "TITLE": "Vaasa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-sw---",
+        "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Vaasa|Wasa",
+        "N651": "$$aVaasa (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18538,12 +18538,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R66",
-        "TITLE": "",
+        "TITLE": "Luleå",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Luleå|Luleä",
+        "N651": "$$aLuleå (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18579,12 +18579,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R67",
-        "TITLE": "",
+        "TITLE": "Murjek",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Murjek",
+        "N651": "$$aMurjek (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18620,12 +18620,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R68",
-        "TITLE": "",
+        "TITLE": "Malmberget",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
+        "N245A": "Malmberget",
+        "N651": "$$aMalmberget (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

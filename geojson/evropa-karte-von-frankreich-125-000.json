@@ -12185,11 +12185,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIII-11 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Audun-le-Roman",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Audun-le-Roman",
+        "N651": "$$aAudun-le-Roman (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12226,11 +12226,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXIII-11 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Audun-le-Roman",
+        "N43": "$$ae-fr---$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(435.9)$$2MRF",
+        "N245A": "Audun-le-Roman",
+        "N651": "$$aAudun-le-Roman (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12267,11 +12267,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIV-11 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Thionville",
+        "N43": "$$ae-fr---$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(435.9)$$2MRF",
+        "N245A": "Thionville",
+        "N651": "$$aThionville (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12308,11 +12308,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXIV-11 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Thionville",
+        "N43": "$$ae-fr---$$ae-lu---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Thionville",
+        "N651": "$$aThionville (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12349,11 +12349,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXV-11 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Waldwisse",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Waldwisse",
+        "N651": "$$aWaldwisse (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13374,11 +13374,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIII-11 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Audun-le-Roman",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Audun-le-Roman",
+        "N651": "$$aAudun-le-Roman (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13456,11 +13456,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-11 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Thionville",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Thionville",
+        "N651": "$$aThionville (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13497,11 +13497,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-11 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Thionville",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Thionville",
+        "N651": "$$aThionville (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13538,11 +13538,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-11 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Waldwisse",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Waldwisse",
+        "N651": "$$aWaldwisse (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14563,11 +14563,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIII-12 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Briey",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Briey",
+        "N651": "$$aBriey (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14604,11 +14604,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIII-12 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Briey",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Briey",
+        "N651": "$$aBriey (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14645,11 +14645,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-12 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Uckange",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Uckange",
+        "N651": "$$aUckange (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14686,11 +14686,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-12 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Uckange",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Uckange",
+        "N651": "$$aUckange (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14727,11 +14727,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-12 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Boulay",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Boulay",
+        "N651": "$$aBoulay (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -14768,11 +14768,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXV-12 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Boulay",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Boulay",
+        "N651": "$$aBoulay (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15793,11 +15793,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIII-12 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Briey",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Briey",
+        "N651": "$$aBriey (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15834,11 +15834,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIII-12 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Briey",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Briey",
+        "N651": "$$aBriey (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15875,11 +15875,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-12 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Uckange",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Uckange",
+        "N651": "$$aUckange (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15916,11 +15916,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-12 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Uckange",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Uckange",
+        "N651": "$$aUckange (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15957,11 +15957,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-12 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Boulay",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Boulay",
+        "N651": "$$aBoulay (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15998,11 +15998,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXV-12 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Boulay",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Boulay",
+        "N651": "$$aBoulay (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16039,11 +16039,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVI-12 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Forbach",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Forbach",
+        "N651": "$$aForbach (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16080,11 +16080,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVI-12 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Forbach",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Forbach",
+        "N651": "$$aForbach (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16121,11 +16121,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVII-12 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Walschbronn",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Walschbronn",
+        "N651": "$$aWalschbronn (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16162,11 +16162,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVII-12 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Walschbronn",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Walschbronn",
+        "N651": "$$aWalschbronn (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17269,11 +17269,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIV-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Metz",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Metz",
+        "N651": "$$aMety (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17310,11 +17310,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXIV-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Metz",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Metz",
+        "N651": "$$aMety (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17351,11 +17351,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXV-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "St. Avold",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "St. Avold",
+        "N651": "$$aSaint-Avold (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17392,11 +17392,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXV-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "St. Avold",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "St. Avold",
+        "N651": "$$aSaint-Avold (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17433,11 +17433,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXVI-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sarreguemines",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Sarreguemines",
+        "N651": "$$aSarreguemines (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17474,11 +17474,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXVI-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sarreguemines",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Sarreguemines",
+        "N651": "$$aSarreguemines (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17515,11 +17515,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXVII-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bitche",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Bitche",
+        "N651": "$$aBitche (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17556,11 +17556,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXVII-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bitche",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Bitche",
+        "N651": "$$aBitche (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17597,11 +17597,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXVIII-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ludwigswinkel",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Camp de Ludwigswinkel",
+        "N651": "$$aLudwigswinkel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17638,11 +17638,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXVIII-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ludwigswinkel",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Camp de Ludwigswinkel",
+        "N651": "$$aLudwigswinkel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17679,11 +17679,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIX-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Wissembourg",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Wissembourg",
+        "N651": "$$aWissembourg (Francie : oblast)$$7ge452987"
       },
       "geometry": {
         "type": "Polygon",
@@ -18786,11 +18786,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Metz",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Metz",
+        "N651": "$$aMety (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18827,11 +18827,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Metz",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Metz",
+        "N651": "$$aMety (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18868,11 +18868,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "St. Avold",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "St. Avold",
+        "N651": "$$aSaint-Avold (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18909,11 +18909,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXV-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "St. Avold",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "St. Avold",
+        "N651": "$$aSaint-Avold (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18950,11 +18950,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVI-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sarreguemines",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Sarreguemines",
+        "N651": "$$aSarreguemines (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18991,11 +18991,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVI-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sarreguemines",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Sarreguemines",
+        "N651": "$$aSarreguemines (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19032,11 +19032,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVII-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bitche",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bitche",
+        "N651": "$$aBitche (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19073,11 +19073,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVII-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bitche",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bitche",
+        "N651": "$$aBitche (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19114,11 +19114,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVIII-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Lembach",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Lembach",
+        "N651": "$$aLembach (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19155,11 +19155,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVIII-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Lembach",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Lembach",
+        "N651": "$$aLembach (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19196,11 +19196,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIX-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Wissembourg",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Wissembourg",
+        "N651": "$$aWissembourg (Francie : oblast)$$7ge452987"
       },
       "geometry": {
         "type": "Polygon",
@@ -19237,11 +19237,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIX-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Wissembourg",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Wissembourg",
+        "N651": "$$aWissembourg (Francie : oblast)$$7ge452987"
       },
       "geometry": {
         "type": "Polygon",
@@ -20672,11 +20672,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVIII-14 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Haguenau",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Haguenau",
+        "N651": "$$aHaguenau (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20713,11 +20713,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVIII-14 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Haguenau",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Haguenau",
+        "N651": "$$aHaguenau (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20754,11 +20754,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIX-14 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Seltz",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Seltz",
+        "N651": "$$aSeltz (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20795,11 +20795,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIX-14 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Seltz",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Seltz",
+        "N651": "$$aSeltz (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22230,11 +22230,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVIII-14 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Haguenau",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Haguenau",
+        "N651": "$$aHaguenau (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22271,11 +22271,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVIII-14 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Haguenau",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Haguenau",
+        "N651": "$$aHaguenau (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22312,11 +22312,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIX-14 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Seltz",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Seltz",
+        "N651": "$$aSeltz (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22353,11 +22353,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIX-14 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Seltz",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Seltz",
+        "N651": "$$aSeltz (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

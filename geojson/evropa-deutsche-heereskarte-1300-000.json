@@ -18661,12 +18661,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R69",
-        "TITLE": "",
+        "TITLE": "Nedre Soppero",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-fi---",
+        "N80": "$$a913(485)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Ned. Soppero|Nedre Soppero",
+        "N651": "$$aNedre Soppero (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18702,12 +18702,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R70",
-        "TITLE": "",
+        "TITLE": "Nordreisen",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-sw---$$ae-fi---",
+        "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Nordreisen",
+        "N651": "$$aNordreisa (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

@@ -163,7 +163,7 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
-4901  L $$a[Deutsche Heereskarte 1:300 000] ; $$v{
+4901  L $$aDeutsche Heereskarte 1:300 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

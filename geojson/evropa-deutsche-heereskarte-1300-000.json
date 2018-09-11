@@ -17188,7 +17188,7 @@
         "TITLE": "Neusohl",
         "SCALE": "300000",
         "N43": "$$ae-xo---$$ae-hu---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Neusohl",
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
@@ -21252,12 +21252,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U41",
-        "TITLE": "",
+        "TITLE": "Tekirdağ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
+        "N245A": "Tekirdağ",
+        "N651": "$$aTekirdağ (Turecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21293,12 +21293,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U42",
-        "TITLE": "",
+        "TITLE": "Edirne",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---$$ae-bu---$$ae-gr---",
+        "N80": "$$a913(560)$$2MRF|$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
+        "N245A": "Edirne",
+        "N651": "$$aEdirne (Turecko : oblast)$$7ge746652"
       },
       "geometry": {
         "type": "Polygon",
@@ -23589,12 +23589,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V41",
-        "TITLE": "",
+        "TITLE": "Bursa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
+        "N245A": "Bursa",
+        "N651": "$$aBursa (Turecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23630,12 +23630,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V42",
-        "TITLE": "",
+        "TITLE": "Istanbul",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
+        "N245A": "Istanbul",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578"
       },
       "geometry": {
         "type": "Polygon",
@@ -24778,12 +24778,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W41",
-        "TITLE": "",
+        "TITLE": "Adapazarı",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
+        "N245A": "Adapazarı",
+        "N651": "$$aAdapazarı (Turecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24819,12 +24819,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W42",
-        "TITLE": "",
+        "TITLE": "Zonguldak",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
+        "N245A": "Zonguldak",
+        "N651": "$$aZonguldak (Turecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

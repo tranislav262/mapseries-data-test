@@ -18743,12 +18743,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "R71",
-        "TITLE": "",
+        "TITLE": "Alteidet",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Alteidet",
+        "N651": "$$aAlteidet (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18784,12 +18784,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S43",
-        "TITLE": "",
+        "TITLE": "Sofia",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$ae-xn---$$ae-rb---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Sofia",
+        "N651": "$$aSofie (Bulharsko : oblast)$$7ge749573"
       },
       "geometry": {
         "type": "Polygon",
@@ -18825,12 +18825,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S44",
-        "TITLE": "",
+        "TITLE": "Widin",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$ae-rm---$$ae-rb---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Widin",
+        "N651": "$$aVidin (Bulharsko : oblast)$$7ge749570"
       },
       "geometry": {
         "type": "Polygon",
@@ -18866,12 +18866,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S45",
-        "TITLE": "",
+        "TITLE": "Craiova ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---$$ae-rb---$$ae-bu---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Craiova ",
+        "N651": "$$aKrajova (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18907,12 +18907,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S46",
-        "TITLE": "",
+        "TITLE": "Hermannstadt",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Hermannstadt|Sibiu|Hermannstadt (Sibiu)",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458"
       },
       "geometry": {
         "type": "Polygon",
@@ -19440,12 +19440,12 @@
         "Shape_Leng": "10",
         "Shape_Area": "4",
         "SHEET": "S59",
-        "TITLE": "",
+        "TITLE": "Hapsal",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---",
+        "N80": "$$a913(474.2)$$2MRF",
+        "N245A": "Hapsal|Hapsal (Haapsalu)",
+        "N651": "$$aHaapsalu (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19489,12 +19489,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S60",
-        "TITLE": "",
+        "TITLE": "Hanko",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-er---",
+        "N80": "$$a913(480)$$2MRF|$$a913(474.2)$$2MRF",
+        "N245A": "Hanko (Hangö)|Hangö",
+        "N651": "$$aHanko (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19530,12 +19530,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S61",
-        "TITLE": "",
+        "TITLE": "Salo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Tammisaari (Ekenäs)|Salo",
+        "N651": "$$aSalo (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19571,12 +19571,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S62",
-        "TITLE": "",
+        "TITLE": "Tampere",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Tampere|Tammerfors",
+        "N651": "$$aTampere (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19612,12 +19612,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S63",
-        "TITLE": "",
+        "TITLE": "Lapua",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Lapua|Lappo",
+        "N651": "$$aLapua (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19653,12 +19653,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S64",
-        "TITLE": "",
+        "TITLE": "Jakobstad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Jakobstad|Pietarsaari",
+        "N651": "$$aJakobstad (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19694,12 +19694,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S65",
-        "TITLE": "",
+        "TITLE": "Pykäjoki",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Pykäjoki",
+        "N651": "$$aPyhäjoki (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19735,12 +19735,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S66",
-        "TITLE": "",
+        "TITLE": "Haparanda",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sw---$$ae-fi---",
+        "N80": "$$a913(485)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Haparanda",
+        "N651": "$$aHaparanda (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19776,12 +19776,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S67",
-        "TITLE": "",
+        "TITLE": "Karunki",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-sw---",
+        "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Karunki|Karungi",
+        "N651": "$$aKarunki (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19817,12 +19817,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S68",
-        "TITLE": "",
+        "TITLE": "Kolari",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-sw---",
+        "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
+        "N245A": "Kolari",
+        "N651": "$$aKolari (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19858,12 +19858,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S69",
-        "TITLE": "",
+        "TITLE": "Enontekiö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-sw---$$ae-no---",
+        "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF|$$a913(481)$$2MRF",
+        "N245A": "Enontekiö",
+        "N651": "$$aEnontekiö (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19899,12 +19899,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S70",
-        "TITLE": "",
+        "TITLE": "Alten",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Alten",
+        "N651": "$$aAlten (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19940,12 +19940,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "S71",
-        "TITLE": "",
+        "TITLE": "Hammerfest",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Hammerfest",
+        "N651": "$$aHammerfest (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19981,12 +19981,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T41",
-        "TITLE": "",
+        "TITLE": "Kavala",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gr---$$aa-tu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "Kavala|Kavalla|Kavála",
+        "N651": "$$aKavála (Řecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20022,12 +20022,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T42",
-        "TITLE": "",
+        "TITLE": "Xanthi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-gr---$$aa-tu---$$ae-bu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Xanthi",
+        "N651": "$$aXanthé (Řecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20063,12 +20063,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T43",
-        "TITLE": "",
+        "TITLE": "Plowdiw",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---",
+        "N80": "$$a913(497.2)$$2MRF",
+        "N245A": "Plowdiw",
+        "N651": "$$aPlovdiv (Bulharsko : oblast)$$7ge723127"
       },
       "geometry": {
         "type": "Polygon",
@@ -20104,12 +20104,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T44",
-        "TITLE": "",
+        "TITLE": "Russe",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$ae-rm---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Russe",
+        "N651": "$$aRuse (Bulharsko : oblast)$$7ge681740"
       },
       "geometry": {
         "type": "Polygon",
@@ -20350,12 +20350,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T50",
-        "TITLE": "",
+        "TITLE": "Tarnopol",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Tarnopol",
+        "N651": "$$aTarnopol (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20391,12 +20391,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T51",
-        "TITLE": "",
+        "TITLE": "Luzk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Luzk|Łuck",
+        "N651": "$$aLuck (Ukrajina : oblast)$$7ge251175"
       },
       "geometry": {
         "type": "Polygon",
@@ -20432,12 +20432,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T52",
-        "TITLE": "",
+        "TITLE": "Kowel",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Kowel",
+        "N651": "$$aKovel’ (Ukrajina : oblast)$$7ge251173"
       },
       "geometry": {
         "type": "Polygon",
@@ -20473,12 +20473,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T53",
-        "TITLE": "",
+        "TITLE": "Pinsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Pińsk|Pinsk",
+        "N651": "$$aPinsk (Bělorusko : oblast)$$7ge579940"
       },
       "geometry": {
         "type": "Polygon",
@@ -20555,12 +20555,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T55",
-        "TITLE": "",
+        "TITLE": "Wilna ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-li---$$ae-bw---",
+        "N80": "$$a913(474.5)$$MRF|$$a913(476)$$2MRF",
+        "N245A": "Wilna",
+        "N651": "$$aVilnius (Litva : oblast)$$7ge565125"
       },
       "geometry": {
         "type": "Polygon",
@@ -20596,12 +20596,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T56",
-        "TITLE": "",
+        "TITLE": "Wilkomir",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-li---$$ae-bw---$$ae-lv---",
+        "N80": "$$a913(474.5)$$MRF|$$a913(476)$$2MRF|$$a913(474.3)$$2MRF",
+        "N245A": "Wilkomir|Wilkomir (Ukmergė)|Wiłkomierz",
+        "N651": "$$aUkmergė (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20637,12 +20637,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T57",
-        "TITLE": "",
+        "TITLE": "Jakobstadt",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-li---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$MRF",
+        "N245A": "Jakobstadt|Jakobstadt (Jekabpils)",
+        "N651": "$$aJekabpils (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",

@@ -20719,12 +20719,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T59",
-        "TITLE": "",
+        "TITLE": "Pernau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---$$ae-lv---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(474.3)$$2MRF",
+        "N245A": "Pernau|Pärnu",
+        "N651": "$$aPärnu (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20760,12 +20760,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T60",
-        "TITLE": "",
+        "TITLE": "Reval",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---$$ae-fi---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Reval|Tallinn",
+        "N651": "$$aTallinn (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20801,12 +20801,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "T61",
-        "TITLE": "",
+        "TITLE": "Helsingfors",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Helsinki|Helsingfors",
+        "N651": "$$aHelsinky (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21334,12 +21334,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U43",
-        "TITLE": "",
+        "TITLE": "Burgas",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$aa-tu---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
+        "N245A": "Burgas",
+        "N651": "$$aBurgas (Bulharsko : oblast)$$7ge128859"
       },
       "geometry": {
         "type": "Polygon",
@@ -21375,12 +21375,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U44",
-        "TITLE": "",
+        "TITLE": "Warna",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$ae-rm---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Warna",
+        "N651": "$$aVarna (Bulharsko : oblast)$$7ge723128"
       },
       "geometry": {
         "type": "Polygon",
@@ -21416,12 +21416,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U45",
-        "TITLE": "",
+        "TITLE": "Silistra",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bu---$$ae-rm---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Silistra",
+        "N651": "$$aSilistra (Bulharsko : oblast)$$7ge666942"
       },
       "geometry": {
         "type": "Polygon",
@@ -23999,12 +23999,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V53",
-        "TITLE": "",
+        "TITLE": "Mosyr",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Mosyr",
+        "N651": "$$aMosyr (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24040,12 +24040,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V54",
-        "TITLE": "",
+        "TITLE": "Bobruisk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Bobruisk",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24081,12 +24081,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V55",
-        "TITLE": "",
+        "TITLE": "Baryssau",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Borißow|Borissow|Borissoff|Baryssau",
+        "N651": "$$aBarysaŭ (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24122,12 +24122,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V56",
-        "TITLE": "",
+        "TITLE": "Witebsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---$$ae-ru---",
+        "N80": "$$a913(476)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Witebsk",
+        "N651": "$$aVitebsk (Bělorusko : oblast)$$7ge424527"
       },
       "geometry": {
         "type": "Polygon",
@@ -24163,12 +24163,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V57",
-        "TITLE": "",
+        "TITLE": "Newel",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-bw---",
+        "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Newel",
+        "N651": "$$aNěvel (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24204,12 +24204,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V58",
-        "TITLE": "",
+        "TITLE": "Ostroff",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Ostroff|Ostrow|Oßtrow",
+        "N651": "$$aOstrov (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

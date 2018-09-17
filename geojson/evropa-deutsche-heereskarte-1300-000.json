@@ -20273,7 +20273,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Kimpolung",
-        "N651": "$$aCâmpulung Moldovenesc\n(Rumunsko : oblast)"
+        "N651": "$$aCâmpulung Moldovenesc (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24290,7 +24290,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Leningrad",
+        "N245A": "Leningrad|St. Petersburg",
         "N651": "$$aPetrohrad (Rusko : oblast)$$7ge130402"
       },
       "geometry": {
@@ -24860,12 +24860,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W47",
-        "TITLE": "",
+        "TITLE": "Odessa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Odessa",
+        "N651": "$$aOděsa (Ukrajina : oblast)$$7ge491047"
       },
       "geometry": {
         "type": "Polygon",
@@ -24901,12 +24901,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W48",
-        "TITLE": "",
+        "TITLE": "Wosnessensk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Wosnessensk|Wosnjeßensk",
+        "N651": "$$aVoznesensk (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24946,7 +24946,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Kirowograd",
+        "N245A": "Kirowograd|Jelißawjetgrad",
         "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
       },
       "geometry": {
@@ -24983,12 +24983,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W50",
-        "TITLE": "",
+        "TITLE": "Tscherkassy",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Tscherkassy",
+        "N651": "$$aČerkassy (Ukrajina : oblast)$$7ge272064"
       },
       "geometry": {
         "type": "Polygon",
@@ -25065,12 +25065,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W52",
-        "TITLE": "",
+        "TITLE": "Tschernigow",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Tschernigow|Tschernigoff",
+        "N651": "$$aČernigov (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25106,12 +25106,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W53",
-        "TITLE": "",
+        "TITLE": "Gomel",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---$$ae-ru---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(470)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Gomel",
+        "N651": "$$aHomel’ (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25147,12 +25147,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W54",
-        "TITLE": "",
+        "TITLE": "Mogilew",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---$$ae-ru---",
+        "N80": "$$a913(476)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Mohilew|Mogilew",
+        "N651": "$$aMogilëv (Bělorusko : oblast)$$7ge582329"
       },
       "geometry": {
         "type": "Polygon",
@@ -25188,12 +25188,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W55",
-        "TITLE": "",
+        "TITLE": "Smolensk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-bw---",
+        "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Smolensk|Ssmolensk",
+        "N651": "$$aSmolensk (Rusko : oblast)$$7ge130866"
       },
       "geometry": {
         "type": "Polygon",
@@ -25229,12 +25229,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W56",
-        "TITLE": "",
+        "TITLE": "Welisch",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-bw---",
+        "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Welish|Welisch",
+        "N651": "$$aVelizh (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25270,12 +25270,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W57",
-        "TITLE": "",
+        "TITLE": "Toropez",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Toropjetz|Toropez",
+        "N651": "$$aToropec (Rusko : oblast)$$7ge554708"
       },
       "geometry": {
         "type": "Polygon",

@@ -182,7 +182,11 @@ LDR   L -----nem-a22--------4500
   }
 500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
-651 7 L {
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,

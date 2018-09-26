@@ -9,14 +9,14 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["gw", "gw"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["ger", "ger"]
   }-d
-0341  L $$b200000{
+0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -28,12 +28,12 @@ LDR   L -----nem-a22--------4500
     "id":"langcode",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["ger", "fre", "hun"]
   }$$a{
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["fre", "ita", "spa", "ger"]
   }
 043   L {
     "title": "Pole 043",
@@ -61,19 +61,20 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["1", "1", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
-      "Vojenský zeměpisný ústav"]
+      "Německo.$$bHeer.$$bGeneralstab",
+      "Německo.$$bOberkommando der Luftwaffe",
+      "Německo.$$bReichsamt für Landesaufnahme"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2009524704", "ko2015890165"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -88,13 +89,14 @@ LDR   L -----nem-a22--------4500
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
     ]
-  }$$h[kartografický dokument] /$$c{
+} /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "[Generalstab des Heeres]",
+      "[Generalstab der Luftwaffe]",
+      "[Reichsamt für Landesaufnahme]" 
     ]
   }
 2463  L $$a{
@@ -114,7 +116,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:25 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -122,27 +124,41 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+264 1  L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 80,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "[Berlin?] :$$b[Generalstab des Heeres],",
+      "[Berlin?] :$$b[Generalstab der Luftwaffe],",
+      "[Berlin?] :$$b[Reichsamt für Landesaufnahme],"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 3
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 3
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 3
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 3
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+4901  L $$aFrankreich 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -153,8 +169,19 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
+500   L $$a{
+    "id": "note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+  }
+500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
-651 7 L {
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,
@@ -175,7 +202,7 @@ LDR   L -----nem-a22--------4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+830 0 L $$aFrankreich 1:25 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

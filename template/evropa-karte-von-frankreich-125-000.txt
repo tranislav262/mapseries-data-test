@@ -16,8 +16,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "ger"]
   }-d
-0341  L $$aa
-L $$b25000{
+0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -205,6 +204,19 @@ L $$b25000{
     "",
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
+}
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce1",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Francie.$$bArmée.$$bService géographique$$4ant$$7ko2010571495"
+    ]
 }
 830 0 L $$aFrankreich 1:25 000 ;$$v{
     "base":"sheet",

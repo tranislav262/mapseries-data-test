@@ -196,15 +196,6 @@ LDR   L -----nem-a22------i-4500
   }
 655 7 L $$atopografická mapová díla$$7fd688544
 655 7 L $$avojenské mapy$$7fd133817
-{
-  "base":"corporation",
-  "title": "Bibliografický předchůdce",
-  "width": 100,
-  "valuesByBaseIndex": [
-    "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
-  ]
-}
 710{
     "base":"corporation",
     "width": 1,

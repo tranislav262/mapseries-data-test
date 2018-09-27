@@ -16,7 +16,8 @@ LDR   L -----nem-a22------i-4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "ger"]
   }-d
-0341  L $$b25000{
+0341  L $$aa
+L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,

@@ -1,5 +1,5 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
+LDR   L -----nem-a22------i-4500
 007   L aj|ca|||
 008   L  ||||s{
     "id": "year",
@@ -158,6 +158,9 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$aFrankreich 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

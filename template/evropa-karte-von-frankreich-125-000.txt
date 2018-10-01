@@ -206,7 +206,7 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Francie.$$bArmée.$$bService géographique$$4ant$$7ko2010571495"
+    "Francie.$$bArmée.$$bService géographique$$7ko2010571495$$4ant"
     ]
 }
 830 0 L $$aFrankreich 1:25 000 ;$$v{

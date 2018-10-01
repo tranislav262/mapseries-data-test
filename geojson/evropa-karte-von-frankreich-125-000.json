@@ -17187,11 +17187,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIII-13 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ars-sur-Moselle",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Ars-sur-Moselle",
+        "N651": "$$aArs-sur-Moselle (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17228,11 +17228,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXIII-13 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ars-sur-Moselle",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Ars-sur-Moselle",
+        "N651": "$$aArs-sur-Moselle (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18704,11 +18704,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIII-13 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ars-sur-Moselle",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Ars-sur-Moselle",
+        "N651": "$$aArs-sur-Moselle (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18745,11 +18745,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIII-13 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ars-sur-Moselle",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Ars-sur-Moselle",
+        "N651": "$$aArs-sur-Moselle (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20344,11 +20344,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-14 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nomeny",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Nomeny",
+        "N651": "$$aNomeny (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20385,11 +20385,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-14 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nomeny",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Nomeny",
+        "N651": "$$aNomeny (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20426,11 +20426,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-14 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Château-Salins",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Chateau-Salins|Château-Salins",
+        "N651": "$$aChâteau-Salins\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20467,11 +20467,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXV-14 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Château-Salins",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Chateau-Salins|Château-Salins",
+        "N651": "$$aChâteau-Salins\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20590,11 +20590,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVII-14 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bouxviller",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bouxviller",
+        "N651": "$$aBouxviller\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20631,11 +20631,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVII-14 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bouxviller",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bouxviller",
+        "N651": "$$aBouxviller\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21902,11 +21902,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIV-14 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nomeny",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Nomeny",
+        "N651": "$$aNomeny (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21943,11 +21943,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXIV-14 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nomeny",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Nomeny",
+        "N651": "$$aNomeny (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21984,11 +21984,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXV-14 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Château-Salins",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Chateau-Salins|Château-Salins",
+        "N651": "$$aChâteau-Salins\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22025,11 +22025,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXV-14 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Château-Salins",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Chateau-Salins|Château-Salins",
+        "N651": "$$aChâteau-Salins\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22148,11 +22148,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVII-14 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bouxviller",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bouxviller",
+        "N651": "$$aBouxviller\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22189,11 +22189,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVII-14 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bouxviller",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Bouxviller",
+        "N651": "$$aBouxviller\n (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23788,11 +23788,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXVIII-15 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brumath",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Brumath",
+        "N651": "$$aBrumath (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23829,11 +23829,11 @@
         "Shape_Area": "0.0162000000821",
         "SCALE": "25000",
         "SHEET": "XXXVIII-15 3-4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brumath",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Brumath",
+        "N651": "$$aBrumath (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23870,11 +23870,11 @@
         "Shape_Area": "0.016200000163",
         "SCALE": "25000",
         "SHEET": "XXXIX-15 1-2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Drusenheim",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Drusenheim",
+        "N651": "$$aDrusenheim (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25305,11 +25305,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXVIII-15 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brumath",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
+        "N245A": "Brumath",
+        "N651": "$$aBrumath (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25346,11 +25346,11 @@
         "Shape_Area": "0.0161999999202",
         "SCALE": "25000",
         "SHEET": "XXXVIII-15 7-8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brumath",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Brumath",
+        "N651": "$$aBrumath (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25387,11 +25387,11 @@
         "Shape_Area": "0.0162000000011",
         "SCALE": "25000",
         "SHEET": "XXXIX-15 5-6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Drusenheim",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Drusenheim",
+        "N651": "$$aDrusenheim (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

@@ -1648,11 +1648,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3251",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bautzen",
+        "N43": "$$ae-gx---$$ae-pl---$$ae-xr---",
+        "N80": "$$a913(430)$$2MRF$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
+        "N245A": "Bautzen",
+        "N651": "$$aBudyšín (Německo : oblast)$$7ge807051"
       },
       "geometry": {
         "type": "Polygon",
@@ -1689,11 +1689,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3351",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Reichenberg",
+        "N43": "$$ae-xr---$$ae-gx---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Reichenberg",
+        "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
         "type": "Polygon",
@@ -3780,11 +3780,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3849",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Leutschau",
+        "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Leutschau|Lőcse",
+        "N651": "$$aLevoča (Slovensko : oblast)$$7xx0092932"
       },
       "geometry": {
         "type": "Polygon",
@@ -3821,11 +3821,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3949",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kaschau",
+        "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Kassa (Kaschau)|Kassa|Kaschau|Košice",
+        "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
         "type": "Polygon",
@@ -4231,11 +4231,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "2648",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Schaffhausen",
+        "N43": "$$ae-sz---$$ae-gx---",
+        "N80": "$$a913(494.34)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Schaffhausen",
+        "N651": "$$aSchaffhausen (Švýcarsko : oblast)$$7ge663889"
       },
       "geometry": {
         "type": "Polygon",
@@ -4272,11 +4272,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2748",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Konstanz",
+        "N43": "$$ae-gx---$$ae-au---$$ae-sz---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|$$a913(494.34)$$2MRF",
+        "N245A": "Konstanz",
+        "N651": "$$aKostnice (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4313,11 +4313,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2848",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ulm",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Ulm",
+        "N651": "$$aUlm (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4354,11 +4354,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "2948",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "München",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "München",
+        "N651": "$$aMnichov (Německo : oblast)$$7ge273426"
       },
       "geometry": {
         "type": "Polygon",
@@ -4395,11 +4395,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3048",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kufstein",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Kufstein",
+        "N651": "$$aKufstein (Rakousko : oblast)$$7ge560468"
       },
       "geometry": {
         "type": "Polygon",
@@ -4436,11 +4436,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "3148",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Salzburg",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Salzburg",
+        "N651": "$$aSalcburk (Rakousko : oblast)$$7ge158425"
       },
       "geometry": {
         "type": "Polygon",
@@ -4560,8 +4560,8 @@
         "SCALE": "200000",
         "SHEET": "3448",
         "TITLE": "Wien",
-        "N43": "$$ae-au---",
-        "N80": "$$a913(436)$$2MRF",
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(436)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Wien",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
@@ -5174,11 +5174,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2647",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Zürich",
+        "N43": "$$ae-sz---",
+        "N80": "$$a913(494.34)$$2MRF",
+        "N245A": "Zürich",
+        "N651": "$$aCurych (Švýcarsko : oblast)$$7ge128980"
       },
       "geometry": {
         "type": "Polygon",
@@ -7757,11 +7757,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4245",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Turin",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Turin",
+        "N651": "$$aTurín (Itálie : oblast)$$7\tge572776"
       },
       "geometry": {
         "type": "Polygon",
@@ -8003,11 +8003,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2544",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nizza",
+        "N43": "$$ae-fr---$$ae-it---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "Nizza",
+        "N651": "$$aNice (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

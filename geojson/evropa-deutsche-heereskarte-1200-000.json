@@ -8,11 +8,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3153",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Berlin",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Berlin",
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750"
       },
       "geometry": {
         "type": "Polygon",
@@ -49,11 +49,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3253",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Stettin",
+        "N43": "$$ae-pl---$$ae-gx---",
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Stettin",
+        "N651": "$$aŠtětín (Polsko : oblast)$$7ge134526"
       },
       "geometry": {
         "type": "Polygon",
@@ -90,11 +90,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3353",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Landsberg",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Landsberg",
+        "N651": "$$aGorzów Wielkopolski (Polsko : oblast)$$7ge116884"
       },
       "geometry": {
         "type": "Polygon",
@@ -131,11 +131,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3453",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Schneidemühl",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Schneidemühl|Piła",
+        "N651": "$$aPiła (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -869,11 +869,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3452",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Glogau",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Glogau",
+        "N651": "$$aGłogów (Polsko : oblast)$$7ge117372"
       },
       "geometry": {
         "type": "Polygon",
@@ -910,11 +910,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "3552",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Posen",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Posen",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209"
       },
       "geometry": {
         "type": "Polygon",
@@ -951,11 +951,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3652",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kalisz",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Kalisz",
+        "N651": "$$aKalisz (Polsko : oblast)$$7ge367358"
       },
       "geometry": {
         "type": "Polygon",

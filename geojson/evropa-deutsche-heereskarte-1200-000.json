@@ -2345,11 +2345,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "2650",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Mainz",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Mainz",
+        "N651": "$$aMohuč (Německo : oblast)$$7ge130058"
       },
       "geometry": {
         "type": "Polygon",
@@ -2386,11 +2386,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2750",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Aschaffenburg",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Aschaffenburg",
+        "N651": "$$aAschaffenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2427,11 +2427,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2850",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Würzburg",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Würzburg",
+        "N651": "$$aWürzburg (Německo : oblast)$$7ge413405"
       },
       "geometry": {
         "type": "Polygon",
@@ -2837,11 +2837,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3850",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Krakau",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Krakau|Kraków",
+        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258"
       },
       "geometry": {
         "type": "Polygon",
@@ -2878,11 +2878,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "3950",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Tarnów",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Tarnów|Tarnau|Tarnow",
+        "N651": "$$aTarnów (Polsko : oblast)$$7ge214600"
       },
       "geometry": {
         "type": "Polygon",
@@ -2919,11 +2919,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4050",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Przemyśl",
+        "N43": "$$ae-pl---$$ae-un---",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Przemyśl",
+        "N651": "$$aPrzemyśl (Polsko : oblast)$$7ge130543"
       },
       "geometry": {
         "type": "Polygon",
@@ -2960,11 +2960,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4150",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sambor",
+        "N43": "$$ae-un---$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Sambor",
+        "N651": "$$aSambir (Ukrajina : oblast)$$7ge828834"
       },
       "geometry": {
         "type": "Polygon",
@@ -3001,11 +3001,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4250",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Lemberg",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Lemberg",
+        "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443"
       },
       "geometry": {
         "type": "Polygon",
@@ -3042,11 +3042,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4350",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brody",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Brody",
+        "N651": "$$aBrody (Ukrajina : oblast)$$7ge828841"
       },
       "geometry": {
         "type": "Polygon",
@@ -3083,11 +3083,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4450",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrog",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Ostróg|Ostrog",
+        "N651": "$$aOstroh (Ukrajina : oblast)$$7ge828847"
       },
       "geometry": {
         "type": "Polygon",
@@ -3124,11 +3124,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4550",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Starokonstantynów",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Starokonstantynów",
+        "N651": "$$aStarokonstjantynìv (Ukrajina : oblast)$$7ge856682"
       },
       "geometry": {
         "type": "Polygon",
@@ -3165,11 +3165,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4650",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Żytomir",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Żytomir",
+        "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901"
       },
       "geometry": {
         "type": "Polygon",
@@ -3206,11 +3206,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4750",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Skwira",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Skwira",
+        "N651": "$$aSkvyra (Ukrajina : olbast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3247,11 +3247,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4850",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kijew",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Kijew",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658"
       },
       "geometry": {
         "type": "Polygon",
@@ -3288,11 +3288,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2649",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Karlsruhe",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Karlsruhe",
+        "N651": "$$aKarlsruhe (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3329,11 +3329,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2749",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Stuttgart",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Stuttgart",
+        "N651": "$$aStuttgart (Německo : oblast)$$7ge458646"
       },
       "geometry": {
         "type": "Polygon",
@@ -3370,11 +3370,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2849",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ansbach",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Ansbach",
+        "N651": "$$aAnsbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3862,11 +3862,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4049",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ungvár",
+        "N43": "$$ae-un---$$ae-xo---$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Ungvár|Užgorod",
+        "N651": "$$aUžhorod (Ukrajina : oblast)$$7ge784174"
       },
       "geometry": {
         "type": "Polygon",
@@ -5215,11 +5215,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2747",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Chur",
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---$$ae-lh---",
+        "N80": "$$a913(494.34)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF|$$a913(494.9)$$2MRF",
+        "N245A": "Chur",
+        "N651": "$$aChur (Švýcarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5256,11 +5256,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2847",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Glurns",
+        "N43": "$$ae-it---$$ae-au---$$ae-gx---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Glurns",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344"
       },
       "geometry": {
         "type": "Polygon",
@@ -5297,11 +5297,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2947",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Innsbruck",
+        "N43": "$$ae-au---$$ae-it---$$ae-gx---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Innsbruck",
+        "N651": "$$aInnsbruck (Rakousko : oblast)$$7ge494545"
       },
       "geometry": {
         "type": "Polygon",
@@ -5338,11 +5338,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3047",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bruneck",
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Bruneck",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346"
       },
       "geometry": {
         "type": "Polygon",
@@ -5379,11 +5379,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3147",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bad Hofgastein",
+        "N43": "$$ae-au---$$ae-it---$$ae-gx---$$ae-xv---",
+        "N80": "$$a913(436.8)$$2MRF|$$a913(450)$$2MRF|$$a913(430)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Bad Hofgastein",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358"
       },
       "geometry": {
         "type": "Polygon",
@@ -5420,11 +5420,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3247",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Klagenfurt",
+        "N43": "$$ae-au---$$ae-xv---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Klagenfurt",
+        "N651": "$$aKlagenfurt (Rakousko : oblast)$$7ge273424"
       },
       "geometry": {
         "type": "Polygon",
@@ -5461,11 +5461,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3347",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Graz",
+        "N43": "$$ae-au---$$ae-xv---",
+        "N80": "$$a913(436.4)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Graz",
+        "N651": "$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581"
       },
       "geometry": {
         "type": "Polygon",
@@ -5502,11 +5502,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3447",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Steinamanger",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "Steinamanger",
+        "N651": "$$aSzombathely (Maďarsko : oblast)$$7ge856366"
       },
       "geometry": {
         "type": "Polygon",
@@ -7060,11 +7060,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "2545",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Turin",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
+        "N245A": "Turin",
+        "N651": "$$aTurín (Itálie : oblast)$$7ge572776"
       },
       "geometry": {
         "type": "Polygon",
@@ -7757,11 +7757,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4245",
-        "TITLE": "Turin",
-        "N43": "$$ae-it---$$ae-fr---",
-        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
-        "N245A": "Turin",
-        "N651": "$$aTurín (Itálie : oblast)$$7\tge572776"
+        "TITLE": "",
+        "N43": "$$ae-",
+        "N80": "",
+        "N245A": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",

@@ -248,13 +248,14 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
+    "valuesByBaseIndex": ["", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
     "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
@@ -270,7 +271,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["", "", "", "2", "2", "2", "1", "", "1", ""]
+    "valuesByBaseIndex": ["", "", "", "2", "2", "2", "1", "", "1", "", "1"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
@@ -285,7 +286,8 @@ LDR   L -----nem-a22------i-4500
     "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116",
     "",
     "Československý vojenský zeměpisný ústav$$4ant$$7kn20030604013",
-    ""
+    "",
+    "Československý vojenský zeměpisný ústav$$4ant$$7kn20030604013"
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:75 000 ;$$v{

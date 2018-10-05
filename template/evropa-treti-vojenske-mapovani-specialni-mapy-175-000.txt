@@ -9,12 +9,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr"]
+    "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr", "gw"]
   }-|||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "ger", "ger", "cze", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "ger", "ger", "cze", "cze", "ger"]
   }-d
 0341  L $$b75000{
     "title": "Zeměpisné souřadnice",
@@ -66,7 +66,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "1", "1", "2", "2"]
+    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "1", "1", "2", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width": 70,
@@ -81,13 +81,14 @@ LDR   L -----nem-a22------i-4500
       "Německo. $$bReichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV in Wien",
       "Rakousko. $$bKartographisches Institut",
       "Státní zeměměřický a kartografický ústav",
-      "Československý vojenský zeměpisný ústav"
+      "Československý vojenský zeměpisný ústav",
+      "Německo.$$bReichsamt für Landesaufnahme"
     ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630", "uk2011138116", "mzk20181002757", "kn20030604013"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "mzk2015884630", "uk2011138116", "mzk20181002757", "kn20030604013", "ko2015890165"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -119,7 +120,8 @@ LDR   L -----nem-a22------i-4500
       "[Militärgeographisches Institut ; Kartographisches Institut] ; Hauptvermessungsabteilung XIV in Wien",
       "[Militärgeographisches Institut] ; Kartographisches Institut",
       "[Militärgeographisches Institut] ; Státní zeměměřický a kartografický ústav v Praze",
-      "Vojenský zeměpisný ústav"
+      "Vojenský zeměpisný ústav",
+      "[Reichsamt für Landesaufnahme]"
     ]
   }
 2463  L $$a{
@@ -163,7 +165,8 @@ LDR   L -----nem-a22------i-4500
       "Wien :$$bHauptvermessungsabteilung XIV,",
       "Wien :$$bKartographisches Institut,",
       "V Praze :$$bStátní zeměměřický a kartografický ústav,",
-      "V Praze :$$bVojenský zeměpisný ústav,"
+      "V Praze :$$bVojenský zeměpisný ústav,",
+      "[Berlin?] : $$bReichsamt für Landesaufnahme,"
     ]
   }$$c{
     "base":"year"

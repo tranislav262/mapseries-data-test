@@ -5,12 +5,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "3951/West",
-        "TITLE": "",
+        "TITLE": "Podersam",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Podersam",
+        "N651": "Podbořany"
       },
       "geometry": {
         "type": "Polygon",
@@ -83,11 +83,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4151/West",
-        "TITLE": "",
+        "TITLE": "Pilsen",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Pilsen",
         "N651": ""
       },
       "geometry": {
@@ -239,11 +239,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4051/Ost",
-        "TITLE": "",
+        "TITLE": "Radnitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Radnitz",
         "N651": ""
       },
       "geometry": {
@@ -317,11 +317,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4251/Ost",
-        "TITLE": "",
+        "TITLE": "Horaschdowitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Horaschdowitz",
         "N651": ""
       },
       "geometry": {
@@ -551,11 +551,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4252/West",
-        "TITLE": "",
+        "TITLE": "Strakonitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Strakonitz",
         "N651": ""
       },
       "geometry": {
@@ -707,12 +707,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4052/Ost",
-        "TITLE": "",
+        "TITLE": "Doberschisch",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Doberschisch",
+        "N651": "Dobříš"
       },
       "geometry": {
         "type": "Polygon",
@@ -785,11 +785,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4252/Ost",
-        "TITLE": "",
+        "TITLE": "Pisek",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Pisek",
         "N651": ""
       },
       "geometry": {
@@ -863,11 +863,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "3853/West",
-        "TITLE": "",
+        "TITLE": "Melnik",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Melnik",
         "N651": ""
       },
       "geometry": {
@@ -1023,7 +1023,7 @@
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Mühlhausen",
+        "N245A": "Mühlhausen|Beching",
         "N651": ""
       },
       "geometry": {
@@ -1136,11 +1136,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "3853/Ost",
-        "TITLE": "",
+        "TITLE": "Neu Benatek",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Neu-Benatek|Neu Benatek",
         "N651": ""
       },
       "geometry": {
@@ -1214,11 +1214,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4053/Ost",
-        "TITLE": "",
+        "TITLE": "Beneschau",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Beneschau",
         "N651": ""
       },
       "geometry": {
@@ -1292,11 +1292,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4253/Ost",
-        "TITLE": "",
+        "TITLE": "Tabor",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tabor",
         "N651": ""
       },
       "geometry": {
@@ -1487,11 +1487,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4054/West",
-        "TITLE": "",
+        "TITLE": "Schwarzkosteletz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Schwarzkosteletz",
         "N651": ""
       },
       "geometry": {
@@ -1565,11 +1565,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4254/West",
-        "TITLE": "",
+        "TITLE": "Patzau",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Patzau",
         "N651": ""
       },
       "geometry": {
@@ -1721,11 +1721,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4054/Ost",
-        "TITLE": "",
+        "TITLE": "Kuttenberg",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kuttenberg",
         "N651": ""
       },
       "geometry": {
@@ -1799,7 +1799,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4254/Ost",
-        "TITLE": "",
+        "TITLE": "Pilgrams",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
@@ -1916,7 +1916,7 @@
       "type": "Feature",
       "properties": {
         "SHEET": "3955/West",
-        "TITLE": "Neu-Bidschow",
+        "TITLE": "Neu Bidschow",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
@@ -1955,11 +1955,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4055/West",
-        "TITLE": "",
+        "TITLE": "Tschaslau",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tschaslau",
         "N651": ""
       },
       "geometry": {
@@ -1998,7 +1998,7 @@
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Dtsch. - Brod|Deutschbrod|Deutsch Brod",
+        "N245A": "Dtsch.-Brod|Deutschbrod|Deutsch Brod",
         "N651": ""
       },
       "geometry": {
@@ -2033,11 +2033,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4255/West",
-        "TITLE": "",
+        "TITLE": "Iglau West",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Iglau-West|Iglau West",
         "N651": ""
       },
       "geometry": {
@@ -2189,11 +2189,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4055/Ost",
-        "TITLE": "",
+        "TITLE": "Chrudim",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Chrudim",
         "N651": ""
       },
       "geometry": {
@@ -2267,11 +2267,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4255/Ost",
-        "TITLE": "",
+        "TITLE": "Iglau Ost",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Iglau-Ost|Iglau Ost",
         "N651": ""
       },
       "geometry": {
@@ -2310,7 +2310,7 @@
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Mähr. - Budwitz|Mährisch Budwitz",
+        "N245A": "Mähr.-Budwitz|Mährisch Budwitz",
         "N651": ""
       },
       "geometry": {
@@ -2423,11 +2423,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4056/West",
-        "TITLE": "",
+        "TITLE": "Hlinsko",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Hlinsko",
         "N651": ""
       },
       "geometry": {
@@ -2462,11 +2462,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4156/West",
-        "TITLE": "Stadt-Saar",
+        "TITLE": "Stadt Saar",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Stadt-Saar",
+        "N245A": "Stadt-Saar|Stadt Saar|Saar",
         "N651": "Žďár nad Sázovou"
       },
       "geometry": {
@@ -2501,11 +2501,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4256/West",
-        "TITLE": "",
+        "TITLE": "Groß Meseritsch",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Groß Meseritsch|Gross Meseritsch|Gr.-Meseritsch",
         "N651": ""
       },
       "geometry": {
@@ -2696,11 +2696,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4056/Ost",
-        "TITLE": "",
+        "TITLE": "Hohenmauth",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Hohenmauth",
         "N651": ""
       },
       "geometry": {
@@ -2774,11 +2774,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4256/Ost",
-        "TITLE": "",
+        "TITLE": "Heinrichs",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Heinrichs",
         "N651": ""
       },
       "geometry": {
@@ -2817,7 +2817,7 @@
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "Mähr. - Kromau|Mährisch Kromau",
+        "N245A": "Mähr.-Kromau|Mährisch Kromau",
         "N651": ""
       },
       "geometry": {
@@ -2930,11 +2930,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4257/West",
-        "TITLE": "",
+        "TITLE": "Tischnowitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tischnowitz",
         "N651": ""
       },
       "geometry": {
@@ -2969,12 +2969,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4357/West",
-        "TITLE": "",
+        "TITLE": "Eibenschütz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Eibenschütz",
+        "N651": "Ivančice"
       },
       "geometry": {
         "type": "Polygon",
@@ -3125,11 +3125,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4257/Ost",
-        "TITLE": "",
+        "TITLE": "Boskowitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Boskowitz",
         "N651": ""
       },
       "geometry": {
@@ -3164,11 +3164,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4357/Ost",
-        "TITLE": "",
+        "TITLE": "Brünn",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Brünn",
         "N651": ""
       },
       "geometry": {
@@ -3320,11 +3320,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4358/West",
-        "TITLE": "",
+        "TITLE": "Austerlitz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Austerlitz",
         "N651": ""
       },
       "geometry": {
@@ -3398,11 +3398,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4158/Ost",
-        "TITLE": "",
+        "TITLE": "Olmütz",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Olmütz",
         "N651": ""
       },
       "geometry": {
@@ -3476,11 +3476,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4358/Ost",
-        "TITLE": "",
+        "TITLE": "Gaya",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Gaya",
         "N651": ""
       },
       "geometry": {
@@ -3593,11 +3593,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4259/West",
-        "TITLE": "",
+        "TITLE": "Prerau",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Prerau",
         "N651": ""
       },
       "geometry": {
@@ -3671,11 +3671,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4459/West",
-        "TITLE": "",
+        "TITLE": "Wesseli an der March",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Wesseli an der March|Wesseli a. d. March",
         "N651": ""
       },
       "geometry": {
@@ -3749,11 +3749,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4259/Ost",
-        "TITLE": "",
+        "TITLE": "Bistritz am Hostein",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bistritz am Hostein",
         "N651": ""
       },
       "geometry": {
@@ -3827,11 +3827,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4459/Ost",
-        "TITLE": "",
+        "TITLE": "Neustadt an der Waag",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Nové Mesto n. Váhom|Neustadt an der Waag",
         "N651": ""
       },
       "geometry": {
@@ -3866,11 +3866,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4160/West",
-        "TITLE": "",
+        "TITLE": "Neu Titschein",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Neu Titschein",
         "N651": ""
       },
       "geometry": {
@@ -4022,11 +4022,11 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4260/Ost",
-        "TITLE": "",
+        "TITLE": "Neu Traubendorf",
         "SCALE": "50000",
         "N43": "$$ae-",
         "N80": "",
-        "N245A": "",
+        "N245A": "Neu Traubendorf|Neu-Traubendorf",
         "N651": ""
       },
       "geometry": {

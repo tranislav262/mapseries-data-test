@@ -7,10 +7,10 @@
         "SHEET": "3951/West",
         "TITLE": "Podersam",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Podersam",
-        "N651": "Podbořany"
+        "N651": "$$aPodbořany(Česko : oblast)$$7ge200664"
       },
       "geometry": {
         "type": "Polygon",
@@ -85,10 +85,10 @@
         "SHEET": "4151/West",
         "TITLE": "Pilsen",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Pilsen",
-        "N651": ""
+        "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
         "type": "Polygon",

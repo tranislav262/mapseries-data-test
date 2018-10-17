@@ -303,6 +303,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Základní mapa ČSR 1:25 000",
+      layer: "evropa-zakladni-mapa-csr-125-000",
+      template: "evropa-zakladni-mapa-csr-125-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

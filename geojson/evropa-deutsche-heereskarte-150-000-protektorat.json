@@ -4139,12 +4139,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4161/Ost",
-        "TITLE": "",
+        "TITLE": "Teschen",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Teschen",
+        "N651": "$$aČeský Těšín (Česko : oblast)$$7ge131717"
       },
       "geometry": {
         "type": "Polygon",

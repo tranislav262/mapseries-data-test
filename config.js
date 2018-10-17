@@ -263,7 +263,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorát)",
+      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorat)",
       layer: "evropa-deutsche-heereskarte-150-000-protektorat",
       template: "evropa-deutsche-heereskarte-150-000-protektorat.txt",
       formatFunctions: {

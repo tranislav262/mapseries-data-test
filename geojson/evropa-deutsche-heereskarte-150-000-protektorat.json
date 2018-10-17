@@ -4139,12 +4139,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4161/West",
-        "TITLE": "",
+        "TITLE": "Friedeck",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Friedeck|Friedeck (Frýdek)|Friedek",
+        "N651": "$$aFrýdek-Místek (Česko : oblast)$$7ge134178"
       },
       "geometry": {
         "type": "Polygon",
@@ -4169,6 +4169,45 @@
             [
               18.583333333333428,
               49.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SHEET": "4261/West",
+        "TITLE": "Vysoká nad Kysucou",
+        "SCALE": "50000",
+        "N43": "$$ae-xo",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Vysoká nad Kysucou|Vysoká n. Kys.",
+        "N651": "$$aVysoká nad Kysucou (Slovensko : oblast)$$7ge746323"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.583333333333428,
+              49.25
+            ],
+            [
+              18.333333333333258,
+              49.25
+            ],
+            [
+              18.333333333333258,
+              49.5
+            ],
+            [
+              18.583333333333428,
+              49.5
+            ],
+            [
+              18.583333333333428,
+              49.25
             ]
           ]
         ]

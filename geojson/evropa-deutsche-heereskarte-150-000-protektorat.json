@@ -3397,6 +3397,45 @@
     {
       "type": "Feature",
       "properties": {
+        "SHEET": "4558/West",
+        "TITLE": "Landshut in Mähren",
+        "SCALE": "50000",
+        "N43": "$$ae-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Landshut in Mähren",
+        "N651": "$$aLanžhot (Česko : oblast)$$7ge347832"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17.333333333333314,
+              48.5
+            ],
+            [
+              17.08333333333337,
+              48.5
+            ],
+            [
+              17.08333333333337,
+              48.75
+            ],
+            [
+              17.333333333333314,
+              48.75
+            ],
+            [
+              17.333333333333314,
+              48.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SHEET": "4158/Ost",
         "TITLE": "Olmütz",
         "SCALE": "50000",
@@ -3545,45 +3584,6 @@
             [
               17.333333333333314,
               48.75
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SHEET": "4558/West",
-        "TITLE": "Landshut in Mähren",
-        "SCALE": "50000",
-        "N43": "$$ae-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Landshut in Mähren",
-        "N651": "$$aLanžhot (Česko : oblast)$$7ge347832"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              17.333333333333314,
-              48.5
-            ],
-            [
-              17.08333333333337,
-              48.5
-            ],
-            [
-              17.08333333333337,
-              48.75
-            ],
-            [
-              17.333333333333314,
-              48.75
-            ],
-            [
-              17.333333333333314,
-              48.5
             ]
           ]
         ]

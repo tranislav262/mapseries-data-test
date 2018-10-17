@@ -44,12 +44,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4051/West",
-        "TITLE": "",
+        "TITLE": "Kralowitz",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245A": "Kralowitz",
+        "N651": "$$aKralovice (Plzeň-sever, Česko : oblast)$$7ge205764"
       },
       "geometry": {
         "type": "Polygon",
@@ -3554,12 +3554,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4159/West",
-        "TITLE": "",
+        "TITLE": "Groß Wisternitz",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245A": "Gr.-Wisternitz|Gross Wisternitz|Groß Wisternitz",
+        "N651": "$$aVelká Bystřice (Česko : oblast)$$7ge602280"
       },
       "geometry": {
         "type": "Polygon",
@@ -3710,12 +3710,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4159/Ost",
-        "TITLE": "",
+        "TITLE": "Mährisch Weißkirchen",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245A": "Mähr.-Weisskirchen|Mährisch Weißkirchen",
+        "N651": "$$aHranice (Přerov, Česko : oblast)$$7ge134230"
       },
       "geometry": {
         "type": "Polygon",
@@ -3983,12 +3983,12 @@
       "type": "Feature",
       "properties": {
         "SHEET": "4160/Ost",
-        "TITLE": "",
+        "TITLE": "Frankstadt unter dem Radhoscht",
         "SCALE": "50000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245A": "Frankstadt u.d. Radhoscht|Frankstadt unter dem Radhoscht",
+        "N651": "$$aRožnov pod Radhoštěm (Česko : oblast)$$7ge163304"
       },
       "geometry": {
         "type": "Polygon",

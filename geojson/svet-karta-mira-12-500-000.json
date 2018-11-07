@@ -1463,11 +1463,11 @@
         "Shape_Area": "288",
         "SCALE": "2500000",
         "SHEET": "217",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrov Makuori",
+        "N43": "$$au-at---",
+        "N80": "$$a913(94)$$2MRF",
+        "N245A": "Ostrov Makuori",
+        "N651": "$$aMacquarie (Austrálie)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1508,11 +1508,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "183",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrova Čatem",
+        "N43": "$$au-nz---",
+        "N80": "$$a913(931)$$2MRF",
+        "N245A": "Ostrova Čatem",
+        "N651": "$$aChathamské ostrovy (Nový Zéland)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2196,10 +2196,10 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "199",
-        "TITLE": "",
+        "TITLE": "Južno-Avstralijskaja kotlovina, Zapadnaja Časť",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Južno-Avstralijskaja kotlovina, Zapadnaja Časť",
         "N651": ""
       },
       "geometry": {
@@ -2237,11 +2237,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "200",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Južno-Avstralijskaja kotlovina, Vostočnaja Časť",
+        "N43": "$$au-at-sa",
+        "N80": "$$a913(942.3)$$2MRF",
+        "N245A": "Južno-Avstralijskaja kotlovina, Vostočnaja Časť",
+        "N651": "$$aJižní Austrálie$$7ge394351"
       },
       "geometry": {
         "type": "Polygon",
@@ -2282,11 +2282,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "201",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Meľburn",
+        "N43": "$$au-at-vi",
+        "N80": "$$a913(945)$$2MRF",
+        "N245A": "Meľburn",
+        "N651": "$$aMelbourne (Victoria : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2327,11 +2327,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "202",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Vellington",
+        "N43": "$$au-nz---",
+        "N80": "$$a913(931)$$2MRF",
+        "N245A": "Vellington",
+        "N651": "$$aWellington (Nový Zéland : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2368,11 +2368,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "163",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrova Kermadek",
+        "N43": "$$au-nz---",
+        "N80": "$$a913(931)$$2MRF",
+        "N245A": "Ostrova Kermadek",
+        "N651": "$$aKermadekovy ostrovy"
       },
       "geometry": {
         "type": "Polygon",
@@ -2409,11 +2409,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "164",
-        "TITLE": "",
+        "TITLE": "Ostrov Rapa",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ostrov Rapa",
+        "N651": "$$aRapa Iti"
       },
       "geometry": {
         "type": "Polygon",
@@ -3024,11 +3024,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "179",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Pert",
+        "N43": "$$au-at-we",
+        "N80": "$$a913(941)$$2MRF",
+        "N245A": "Pert",
+        "N651": "$$aPerth (Západní Austrálie)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3065,11 +3065,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "180",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Adelaida",
+        "N43": "$$au-at-sa",
+        "N80": "$$a913(942.3)$$2MRF",
+        "N245A": "Adelaida",
+        "N651": "$$aAdelaide (Jižní Austrálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3106,11 +3106,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "181",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sidnej ",
+        "N43": "$$au-at-ne",
+        "N80": "$$a913(944)$$2MRF",
+        "N245A": "Sidnej ",
+        "N651": "$$aSydney (Nový Jižní Wales : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3147,11 +3147,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "182",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Uangarei",
+        "N43": "$$au-nz---",
+        "N80": "$$a913(931)$$2MRF",
+        "N245A": "Uangarei",
+        "N651": "$$aWhangarei (Nový Zéland : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5443,11 +5443,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "118",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Singapur",
+        "N43": "$$aa-si---",
+        "N80": "$$a913(592.3)$$2MRF",
+        "N245A": "Singapur",
+        "N651": "$$aSingapur$$ge130813"
       },
       "geometry": {
         "type": "Polygon",
@@ -5484,11 +5484,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "119",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brunej",
+        "N43": "$$aa-bx---",
+        "N80": "$$a913(592.6)$$2MRF",
+        "N245A": "Brunej",
+        "N651": "$$aBrunej$$7ge128837"
       },
       "geometry": {
         "type": "Polygon",

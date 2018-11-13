@@ -83,7 +83,8 @@ LDR   L -----nem-a22--------4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"}
+      {"attr":"SHEET"},
+      {"attr":"SHEET", "formatFunction":"addDegrees"}
       ]
   } /$$c{
     "base":"corporation",
@@ -92,6 +93,14 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Českoje upravlenije geodezii i kartografii",
       "Vojenský zeměpisný ústav"
+    ]
+  }
+2463  L $$a{
+    "base":"sheet",
+    "title": "Variantní název",
+    "valuesByBaseIndex": [
+      {"formatFunction":"addDegrees"},
+      {"attr":"SHEET"}
     ]
   }
 24630 L $$a{

@@ -163,7 +163,11 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
-651 7 L {
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,
@@ -173,7 +177,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 4 L $$aobecně zeměpisné mapy$$7
+655 4 L $$aobecně zeměpisné mapy
 830 0 L $$aKarta mira 1:2 500 000;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

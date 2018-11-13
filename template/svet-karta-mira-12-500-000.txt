@@ -83,7 +83,7 @@ LDR   L -----nem-a22--------4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"},
+      {"attr":"SHEET"}
       ]
   } /$$c{
     "base":"corporation",

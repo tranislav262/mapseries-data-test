@@ -91,7 +91,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Českoje upravlenije geodezii i kartografii",
+      "Češskoje upravlenije geodezii i kartografii",
       "Central'noje upravlenije geodezii i kartografii"
     ]
   }
@@ -117,7 +117,7 @@ LDR   L -----nem-a22--------4500
     "enabled": false,
     "width": 70,
     "value": {
-      "formatFunction":"ms:marc21_255_bbox_czech"
+      "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
 264 1  L $$a{
@@ -125,7 +125,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praga :$$bČeskoje upravlenije geodezii i kartografii,",
+      "Praga :$$bČešskoje upravlenije geodezii i kartografii,",
       "Praga :$$bCentral'noje upravlenije geodezii i kartografii,"
     ]
   }$$c{
@@ -153,6 +153,9 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$aKarta mira 1:2 500 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

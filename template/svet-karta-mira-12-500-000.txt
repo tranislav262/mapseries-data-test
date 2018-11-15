@@ -153,7 +153,7 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
-4901  L $$aKarta mira 1:2 500 000; $$v{
+4901  L $$aKarta mira 1:2 500 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -186,7 +186,7 @@ LDR   L -----nem-a22--------4500
     }
   }
 655 4 L $$aobecně zeměpisné mapy
-830 0 L $$aKarta mira 1:2 500 000;$$v{
+830 0 L $$aKarta mira 1:2 500 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

@@ -9,7 +9,7 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "ru"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
@@ -65,12 +65,12 @@ LDR   L -----nem-a22--------4500
     "title":"Vydavatelská korporace",
     "values": [
       "Český úřad geodetický a kartografický",
-      "Vojenský zeměpisný ústav"]
+      "Ústřední správa geodézie a kartografie"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko2004231816", "ko2005263855"]
+    "valuesByBaseIndex": ["ko2004231816", "kn20050506060"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -92,7 +92,7 @@ LDR   L -----nem-a22--------4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Českoje upravlenije geodezii i kartografii",
-      "Vojenský zeměpisný ústav"
+      "Central'noje upravlenije geodezii i kartografii"
     ]
   }
 2463  L $$a{
@@ -126,7 +126,7 @@ LDR   L -----nem-a22--------4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Praga :$$bČeskoje upravlenije geodezii i kartografii,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praga :$$bCentral'noje upravlenije geodezii i kartografii,"
     ]
   }$$c{
     "base":"year"
@@ -153,7 +153,7 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
-4901  L $$aKarta mira 1:2 500 000; $$v{
+4901  L $$aKarta mira 1:2 500 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -186,7 +186,7 @@ LDR   L -----nem-a22--------4500
     }
   }
 655 4 L $$aobecně zeměpisné mapy
-830 0 L $$aKarta mira 1:2 500 000;$$v{
+830 0 L $$aKarta mira 1:2 500 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

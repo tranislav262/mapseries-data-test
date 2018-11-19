@@ -5197,11 +5197,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Akkra",
+        "N43": "$$af-gh---",
+        "N80": "$$a913(667)$$2MRF",
+        "N245A": "Akkra",
+        "N651": "$$aAccra (Ghana : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5238,11 +5238,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Lagos",
+        "N43": "$$af-nr---",
+        "N80": "$$a913(669)$$2MRF",
+        "N245A": "Lagos",
+        "N651": "$$aLagos (Nigérie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6017,11 +6017,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "92",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Dakar",
+        "N43": "$$af-sg---",
+        "N80": "$$a913(663.2)$$2MRF",
+        "N245A": "Dakar",
+        "N651": "$$aDakar (Senegal : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9031,11 +9031,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rejk'javik",
+        "N43": "$$ae-ic---",
+        "N80": "$$a913(491.1)$$2MRF",
+        "N245A": "Rejk'javik",
+        "N651": "$$aReykjavík (Island : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9076,11 +9076,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "13",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Murmansk",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Murmansk",
+        "N651": "$$aMurmansk (Rusko : oblast)ge384608"
       },
       "geometry": {
         "type": "Polygon",
@@ -9121,11 +9121,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "14",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Archangel'sk",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Archangel'sk",
+        "N651": "$$aArchangel’sk (Rusko : oblast)$$7ge134026"
       },
       "geometry": {
         "type": "Polygon",
@@ -9170,11 +9170,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "15",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Noril'sk",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Noril'sk",
+        "N651": "$$aNoril’sk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9215,11 +9215,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "16",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Verchojansk",
+        "N43": "$$ae-urs--",
+        "N80": "$$a913(571.56)$$2MRF",
+        "N245A": "Verchojansk",
+        "N651": "$$aVerchojansk (Rusko : oblast)$$7ge149433"
       },
       "geometry": {
         "type": "Polygon",
@@ -9264,11 +9264,11 @@
         "Shape_Area": "432",
         "SCALE": "2500000",
         "SHEET": "17",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Anadyr'",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Anadyr'",
+        "N651": "$$aAnadyr (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9309,11 +9309,11 @@
         "Shape_Area": "720",
         "SCALE": "2500000",
         "SHEET": "2",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrov Banks",
+        "N43": "$$an-cn---",
+        "N80": "$$a913(71)$$2MRF",
+        "N245A": "Ostrov Banks",
+        "N651": "$$aBanksův ostrov (Kanada : ostrov)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9354,10 +9354,10 @@
         "Shape_Area": "720",
         "SCALE": "2500000",
         "SHEET": "3",
-        "TITLE": "",
+        "TITLE": "Tule",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tule",
         "N651": ""
       },
       "geometry": {
@@ -9403,11 +9403,11 @@
         "Shape_Area": "720",
         "SCALE": "2500000",
         "SHEET": "4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Upernavik",
+        "N43": "$$an-gl---",
+        "N80": "$$a913(988)$$2MRF",
+        "N245A": "Upernavik",
+        "N651": "$$aUpernavik (Grónsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9448,11 +9448,11 @@
         "Shape_Area": "720",
         "SCALE": "2500000",
         "SHEET": "5",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Špicbergen",
+        "N43": "$$alnsb---",
+        "N80": "$$a913(984)$$2MRF",
+        "N245A": "Špicbergen",
+        "N651": "$$aŠpicberky (Norsko)$$7ge134627"
       },
       "geometry": {
         "type": "Polygon",
@@ -9587,11 +9587,11 @@
         "Shape_Area": "2160",
         "SCALE": "2500000",
         "SHEET": "1",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Severnyj poljus",
+        "N43": "$$ar------",
+        "N80": "$$a913(160.27-17)$$2MRF",
+        "N245A": "Severnyj poljus",
+        "N651": "$$aseverní pól$$7ge138749"
       },
       "geometry": {
         "type": "Polygon",

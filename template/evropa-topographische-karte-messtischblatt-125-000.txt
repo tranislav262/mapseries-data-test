@@ -16,7 +16,7 @@ LDR   L -----nem-a22--------4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -40,7 +40,7 @@ LDR   L -----nem-a22--------4500
     "enabled": false,
     "width": 40,
     "value": {
-      "attr": "43"
+      "attr": "N43"
     }
   }
 072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
@@ -52,7 +52,7 @@ LDR   L -----nem-a22--------4500
     "multipleValues": true,
     "valueSeparator": "\n080   L ",
     "value": {
-      "attr": "80"
+      "attr": "N80"
     }
   }
 080   L $$a(084.3)528.42 $$2MRF
@@ -78,7 +78,7 @@ LDR   L -----nem-a22--------4500
 24510 L $$a{
     "title": "Název listu",
     "value": {
-      "attr": "245a"
+      "attr": "N245A"
     }
   }.$$p{
     "id":"sheet",
@@ -114,7 +114,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:25 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -161,7 +161,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "valueSeparator": "\n651 7 L ",
     "value": {
-      "attr": "651"
+      "attr": "N651"
     }
   }
 655 7 L $$atopografická mapová díla$$7fd688544

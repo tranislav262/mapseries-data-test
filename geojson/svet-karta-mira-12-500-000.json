@@ -7673,11 +7673,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "52",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Madrid",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
+        "N245A": "Madrid",
+        "N651": "$$aMadrid (Španělsko : oblast)$$7ge292970"
       },
       "geometry": {
         "type": "Polygon",
@@ -7718,11 +7718,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "53",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rim",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "Rim",
+        "N651": "$$aŘím (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7763,11 +7763,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "54",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sofija",
+        "N43": "$$ae-bu---",
+        "N80": "$$a913(497.2)$$2MRF",
+        "N245A": "Sofija",
+        "N651": "$$aSofie (Bulharsko : oblast)$$7ge749573"
       },
       "geometry": {
         "type": "Polygon",
@@ -7804,11 +7804,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "55",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Tbilisi",
+        "N43": "$$aa-gs---",
+        "N80": "$$a913(479.22)$$2MRF",
+        "N245A": "Tbilisi",
+        "N651": "$$aTbilisi (Gruzie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8471,11 +8471,11 @@
         "Shape_Area": "288",
         "SCALE": "2500000",
         "SHEET": "35",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "London",
+        "N43": "$$ae-uk-en",
+        "N80": "$$a913(410.1)$$2MRF",
+        "N245A": "London",
+        "N651": "$$aLondýn (Anglie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8520,11 +8520,11 @@
         "Shape_Area": "288",
         "SCALE": "2500000",
         "SHEET": "36",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Varšava",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Varšava",
+        "N651": "$$aVaršava (Polsko : oblast)$$7ge217232"
       },
       "geometry": {
         "type": "Polygon",
@@ -8565,11 +8565,11 @@
         "Shape_Area": "288",
         "SCALE": "2500000",
         "SHEET": "37",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Moskva",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Moskva",
+        "N651": "$$aMoskva (Rusko : oblast)$$7ge130102"
       },
       "geometry": {
         "type": "Polygon",

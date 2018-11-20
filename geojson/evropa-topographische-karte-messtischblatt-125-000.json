@@ -6,11 +6,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0192",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Nimmersatt",
+        "N43": "$$ae-li---",
+        "N245A": "Nimmersatt",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aNemirseta (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,11 +45,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0193",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Deutsch Crottingen",
+        "N43": "$$ae-li---",
+        "N245A": "Deutsch Crottingen|Dtsch. Crottingen",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKretingalė (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -84,11 +84,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0194",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Jakobsdorf",
+        "N43": "$$ae-li---",
+        "N245A": "Jakobsdorf|Jakubowo",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aJokūbavas (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -123,11 +123,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0292",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Memel",
+        "N43": "$$ae-li---",
+        "N245A": "Memel",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKlajpeda (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -162,11 +162,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0293",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Plicken",
+        "N43": "$$ae-li---",
+        "N245A": "Plicken",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aPlikiai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -201,11 +201,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0294",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Laugallen",
+        "N43": "$$ae-li---",
+        "N245A": "Laugallen",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aLaugaliai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -240,11 +240,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0392",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Schmelz",
+        "N43": "$$ae-li---",
+        "N245A": "Schmelz",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKlajpeda (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -279,11 +279,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0393",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Götzhöfen",
+        "N43": "$$ae-li---",
+        "N245A": "Götzhöfen",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKlajpeda (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -318,11 +318,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0394",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Dawillen",
+        "N43": "$$ae-li---",
+        "N245A": "Dawillen",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aDovilai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -357,11 +357,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0492",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Schwarzort",
+        "N43": "$$ae-li---",
+        "N245A": "Schwarzort",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aJuodkrantė (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -396,11 +396,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0493",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Prökuls",
+        "N43": "$$ae-li---",
+        "N245A": "Prökuls",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aPriekulė (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -435,11 +435,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0494",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Wilkieten",
+        "N43": "$$ae-li---",
+        "N245A": "Wilkieten",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aVilkyčiai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -474,11 +474,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0495",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Grünheide bei Wilkieten",
+        "N43": "$$ae-li---",
+        "N245A": "Grünheide bei Wilkieten|Grünheide b. Wilkieten",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aGrynaičiai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -513,11 +513,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0519",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Lintrup",
+        "N43": "$$ae-dk---",
+        "N245A": "Lintrup",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aLintrup (Dánsko: oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -552,11 +552,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0520",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Schottburg",
+        "N43": "$$ae-dk---",
+        "N245A": "Schottburg",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aSkodborg (Dánsko: oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -591,11 +591,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0521",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Skudstrup",
+        "N43": "$$ae-dk---",
+        "N245A": "Skudstrup",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aSkudstrup (Dánsko: oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -630,11 +630,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0592",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Perwelk",
+        "N43": "$$ae-li---",
+        "N245A": "Perwelk",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aPervalka (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -669,11 +669,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0593",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Kinten",
+        "N43": "$$ae-li---",
+        "N245A": "Kinten",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKintai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -708,11 +708,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0594",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Kukoreiten",
+        "N43": "$$ae-li---",
+        "N245A": "Kukoreiten",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aKukorai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -747,11 +747,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0595",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Berzischken",
+        "N43": "$$ae-li---",
+        "N245A": "Berzischken",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aBeržiškiai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -786,11 +786,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0619",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Hügum",
+        "N43": "$$ae-dk---",
+        "N245A": "Hügum",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aSønder Hygum (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -825,11 +825,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0620",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Rödding",
+        "N43": "$$ae-dk---",
+        "N245A": "Rödding",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aRødding (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -864,11 +864,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0621",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Jels",
+        "N43": "$$ae-dk---",
+        "N245A": "Jels",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aJels (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -903,11 +903,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0622",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Christiansfeld",
+        "N43": "$$ae-dk---",
+        "N245A": "Christiansfeld",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aChristiansfeld (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -942,11 +942,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0623",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Aller",
+        "N43": "$$ae-dk---",
+        "N245A": "Aller",
+        "N80": "$$a913(489)$$2MRF",
+        "N651": "$$aAller (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -981,11 +981,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0692",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Nidden",
+        "N43": "$$ae-li---",
+        "N245A": "Nidden",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aNida (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1020,11 +1020,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0693",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Minge",
+        "N43": "$$ae-li---",
+        "N245A": "Minge",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aMinija (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1059,11 +1059,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0694",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Heydekrug",
+        "N43": "$$ae-li---",
+        "N245A": "Heydekrug",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aŠilutė (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1098,11 +1098,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0695",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Gaidellen",
+        "N43": "$$ae-li---",
+        "N245A": "Gaidellen",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aGaidellai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1137,11 +1137,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0696",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Wersmeningken",
+        "N43": "$$ae-li---",
+        "N245A": "Wersmeningken",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aVersmininkai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1176,11 +1176,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "0697",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Ackmonischken",
+        "N43": "$$ae-li---",
+        "N245A": "Ackmonischken",
+        "N80": "$$a913(474.5)$$2MRF",
+        "N651": "$$aAkmeniškiai (Litva : oblast)"
       },
       "geometry": {
         "type": "Polygon",

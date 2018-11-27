@@ -48,7 +48,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a656.6/.7$$xVodní a letecká doprava$$2Konspekt$$97
+072 7 L $$a656.6/.7$$xVodní a letecká doprava$$2Konspekt$$94
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
 080   L $$a656.7$$2MRF
 080   L {

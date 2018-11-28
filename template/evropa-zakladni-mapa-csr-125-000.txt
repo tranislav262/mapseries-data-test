@@ -43,7 +43,7 @@ LDR   L -----nem-a22--------4500
       "attr": "43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
+072 7 L $$a623$$xVojenská technika$$2Konspekt$$919
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
 080   L $$a623.64$$2MRF
 080   L {

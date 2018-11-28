@@ -24327,12 +24327,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V61",
-        "TITLE": "",
+        "TITLE": "Wiborg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-fi---",
+        "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Wiborg",
+        "N651": "$$aVyborg (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24368,12 +24368,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V62",
-        "TITLE": "",
+        "TITLE": "Kexholm",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kexholm",
+        "N651": "$$aPriozersk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24409,12 +24409,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V63",
-        "TITLE": "",
+        "TITLE": "Joensuu",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Joensuu",
+        "N651": "$$aJoensuu (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24450,12 +24450,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V64",
-        "TITLE": "",
+        "TITLE": "Nurmes",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Nurmes",
+        "N651": "$$aNurmes (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24491,12 +24491,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V65",
-        "TITLE": "",
+        "TITLE": "Hyrynsalmi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Hyrynsalmi",
+        "N651": "$$aHyrynsalmi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24532,12 +24532,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V66",
-        "TITLE": "",
+        "TITLE": "Kuusamo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Kuusamo",
+        "N651": "$$aKuusamo (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24573,12 +24573,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V67",
-        "TITLE": "",
+        "TITLE": "Salla",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Salla",
+        "N651": "$$aSalla (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24614,12 +24614,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V68",
-        "TITLE": "",
+        "TITLE": "Kotala",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Kotala",
+        "N651": "$$aKotala (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24655,12 +24655,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V69",
-        "TITLE": "",
+        "TITLE": "Virtaniemi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Virtaniemi",
+        "N651": "$$aVirtaniemi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24696,12 +24696,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V70",
-        "TITLE": "",
+        "TITLE": "Neiden",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(481)$$2MRF|$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Neiden",
+        "N651": "$$aNeiden (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24737,12 +24737,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "V71",
-        "TITLE": "",
+        "TITLE": "Vadsö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Vadsö|Vadsø",
+        "N651": "$$aVadsø (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25434,12 +25434,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W61",
-        "TITLE": "",
+        "TITLE": "Ladoga See",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470.22)$$2MRF",
+        "N245A": "Ladoga-See|Ladoga See",
+        "N651": "$$aLadožské jezero (Rusko : oblast)$$7ge993855"
       },
       "geometry": {
         "type": "Polygon",
@@ -25475,12 +25475,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W62",
-        "TITLE": "",
+        "TITLE": "Sortavala",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-fi---",
+        "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Sortawala|Sortavala",
+        "N651": "$$aSortavala (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25516,12 +25516,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W63",
-        "TITLE": "",
+        "TITLE": "Värtsila",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-ru---",
+        "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Värtsila|Värtsilä",
+        "N651": "$$aVärtsilä (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25557,12 +25557,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W64",
-        "TITLE": "",
+        "TITLE": "Lendery",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-fi---",
+        "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Lendery",
+        "N651": "$$aLendery (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25598,11 +25598,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W65",
-        "TITLE": "",
+        "TITLE": "Kimasosero",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
+        "N43": "$$ae-ru---$$ae-fi---",
+        "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Kimasosero",
         "N651": ""
       },
       "geometry": {
@@ -25639,11 +25639,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W66",
-        "TITLE": "",
+        "TITLE": "Uchta",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Uchta",
         "N651": ""
       },
       "geometry": {
@@ -25680,11 +25680,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W67",
-        "TITLE": "",
+        "TITLE": "Rugosero",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Rugosero",
         "N651": ""
       },
       "geometry": {
@@ -25721,11 +25721,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W68",
-        "TITLE": "",
+        "TITLE": "Kowdor",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kowdor",
         "N651": ""
       },
       "geometry": {
@@ -25762,11 +25762,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W69",
-        "TITLE": "",
+        "TITLE": "Restikent",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Restikent",
         "N651": ""
       },
       "geometry": {
@@ -25803,11 +25803,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W70",
-        "TITLE": "",
+        "TITLE": "Petsamo",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Petsamo",
         "N651": ""
       },
       "geometry": {

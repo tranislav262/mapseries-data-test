@@ -21703,12 +21703,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U52",
-        "TITLE": "",
+        "TITLE": "Dombrowiza",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Dombrowiza",
+        "N651": "$$aDubrovycja (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21744,12 +21744,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U53",
-        "TITLE": "",
+        "TITLE": "Dawidgrodek",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Dawidgrodek",
+        "N651": "$$aDavyd-Haradok (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21785,12 +21785,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U54",
-        "TITLE": "",
+        "TITLE": "Minsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Minsk|Mińsk",
+        "N651": "$$aMinsk (Bělorusko : oblast)$$7ge492465"
       },
       "geometry": {
         "type": "Polygon",
@@ -21826,12 +21826,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U55",
-        "TITLE": "",
+        "TITLE": "Wilejka",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Wileika|Wilejka",
+        "N651": "$$aVilejka (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21867,12 +21867,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U56",
-        "TITLE": "",
+        "TITLE": "Dünaburg",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-bw---$$ae-li---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(476)$$2MRF|$$a913(474.5)$$2MRF",
+        "N245A": "Dünaburg|Dwinsk|Dwinsk (Dünaburg)",
+        "N651": "$$aDaugavpils (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21908,12 +21908,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U57",
-        "TITLE": "",
+        "TITLE": "Rositten",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-lv---$$ae-ru---$$ae-bw---",
+        "N80": "$$a913(474.3)$$2MRF|$$a913(470)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Rositten|Rjeżyca|Rositten (Rzeżyca)",
+        "N651": "$$aRēzekne (Lotyšsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21951,9 +21951,9 @@
         "SHEET": "U58",
         "TITLE": "Pleskau",
         "SCALE": "300000",
-        "N43": "$$ae-ru---",
-        "N80": "$$a913(470)$$2MRF",
-        "N245A": "Pleskau (Pskow)",
+        "N43": "$$ae-ru---$$ae-lv---$$ae-er---",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.3)$$2MRF|$$a913(474.2)$$2MRF",
+        "N245A": "Pleskau|Pleskau (Pskow)",
         "N651": "$$aPskov (Rusko : oblast)$$7ge327454"
       },
       "geometry": {
@@ -21990,12 +21990,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U59",
-        "TITLE": "",
+        "TITLE": "Dorpat",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---$$ae-ru---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Dorpat",
+        "N651": "$$aTartu (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22031,12 +22031,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U60",
-        "TITLE": "",
+        "TITLE": "Narwa",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-er---$$ae-ru---",
+        "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Narwa",
+        "N651": "$$aNarva (Estonsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22072,12 +22072,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U61",
-        "TITLE": "",
+        "TITLE": "Kotka",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kotka|Fredrikshamn",
+        "N651": "$$aKotka (Finsko : oblast)|$$aHamina (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22113,12 +22113,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U62",
-        "TITLE": "",
+        "TITLE": "Mikkeli",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Mikkeli",
+        "N651": "$$aMikkeli (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22154,12 +22154,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U63",
-        "TITLE": "",
+        "TITLE": "Kuopio",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kuopio",
+        "N651": "$$aKuopio (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22195,12 +22195,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U64",
-        "TITLE": "",
+        "TITLE": "Iisalmi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Iisalmi",
+        "N651": "$$aIisalmi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22236,12 +22236,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U65",
-        "TITLE": "",
+        "TITLE": "Kajaani",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kajaani",
+        "N651": "$$aKajaani (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22277,12 +22277,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U66",
-        "TITLE": "",
+        "TITLE": "Pudasjärvi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Pudasjärvi",
+        "N651": "$$aPudasjärvi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22318,12 +22318,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U67",
-        "TITLE": "",
+        "TITLE": "Kemijärvi",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Kemijärvi",
+        "N651": "$$aKemijärvi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22359,12 +22359,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U68",
-        "TITLE": "",
+        "TITLE": "Sodankylä",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Sodankylä",
+        "N651": "$$aSodankylä (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22400,12 +22400,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U69",
-        "TITLE": "",
+        "TITLE": "Inari",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---",
+        "N80": "$$a913(480)$$2MRF",
+        "N245A": "Inari",
+        "N651": "$$aInari (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22441,12 +22441,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U70",
-        "TITLE": "",
+        "TITLE": "Utsjoki",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-fi---$$ae-no---",
+        "N80": "$$a913(480)$$2MRF|$$a913(481)$$2MRF",
+        "N245A": "Utsjoki",
+        "N651": "$$Utsjoki (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22482,12 +22482,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "U71",
-        "TITLE": "",
+        "TITLE": "Lebesby",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---$$ae-fi---",
+        "N80": "$$a913(481)$$2MRF|$$a913(480)$$2MRF",
+        "N245A": "Lebesby",
+        "N651": "$$aLebesby (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

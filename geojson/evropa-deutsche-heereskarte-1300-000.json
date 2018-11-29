@@ -25844,12 +25844,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "W71",
-        "TITLE": "",
+        "TITLE": "Vardö",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
+        "N245A": "Vardö",
+        "N651": "$$aVardø (Norsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25889,7 +25889,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Simferopol",
+        "N245A": "Simferopol|Ssimferopol",
         "N651": "$$aSimferopol (Ukrajina : oblast)"
       },
       "geometry": {
@@ -25967,11 +25967,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X47",
-        "TITLE": "Cherrsson",
+        "TITLE": "Chersson",
         "SCALE": "300000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
-        "N245A": "Cherrsson",
+        "N245A": "Cherrsson|Chersson",
         "N651": "$$aCherson (Ukrajina : oblast)"
       },
       "geometry": {
@@ -26012,7 +26012,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
-        "N245A": "Kriwoj Rog|Krivoj Rog",
+        "N245A": "Kriwoj Rog|Krivoj Rog|Kriwoi Rog",
         "N651": "$$aKrivoj Rog (Ukrajina : oblast)"
       },
       "geometry": {
@@ -26545,7 +26545,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Lodejnoje Pole",
+        "N245A": "Lodejnoje Pole|Lodeinoje Pole",
         "N651": "$$aLodejnoje Pole (Rusko : oblast)"
       },
       "geometry": {
@@ -26951,12 +26951,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y45",
-        "TITLE": "",
+        "TITLE": "Ssudak",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Ssudak",
+        "N651": "$$aSudak (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26992,12 +26992,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y46",
-        "TITLE": "",
+        "TITLE": "Feodossija",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Feodossija",
+        "N651": "$$aFeodosija (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27033,12 +27033,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y47",
-        "TITLE": "",
+        "TITLE": "Melitopol",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Melitopol",
+        "N651": "$$aMelitopol (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27074,12 +27074,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y48",
-        "TITLE": "",
+        "TITLE": "Saporoshje",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Saporoshje",
+        "N651": "$$aZáporoží (Ukrajina : oblast)$$7ge536518"
       },
       "geometry": {
         "type": "Polygon",
@@ -27119,7 +27119,7 @@
         "SCALE": "300000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Dnjepropetrowsk",
+        "N245A": "Dnjepropetrowsk|Dnepropetrowsk",
         "N651": "$$aDněpropetrovsk (Ukrajina : oblast)$$7ge629838"
       },
       "geometry": {
@@ -27197,12 +27197,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y51",
-        "TITLE": "",
+        "TITLE": "Ssumy",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Ssumy",
+        "N651": "$$aSumy (Ukrajina : oblast)$$7ge317374"
       },
       "geometry": {
         "type": "Polygon",
@@ -27238,12 +27238,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y52",
-        "TITLE": "",
+        "TITLE": "Kursk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-un---",
+        "N80": "$$a913(470)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Kursk",
+        "N651": "$$aKursk (Rusko : oblast)$$7ge129715"
       },
       "geometry": {
         "type": "Polygon",
@@ -27279,12 +27279,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "Y53",
-        "TITLE": "",
+        "TITLE": "Orel",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
-        "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N80": "$$a913(47)$$2MRF",
+        "N245A": "Orel",
+        "N651": "$$aOrel (Rusko : oblast)$$7ge407855"
       },
       "geometry": {
         "type": "Polygon",

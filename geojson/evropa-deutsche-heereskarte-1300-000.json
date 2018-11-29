@@ -25602,8 +25602,8 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---$$ae-fi---",
         "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
-        "N245A": "Kimasosero",
-        "N651": ""
+        "N245A": "Kimasosero|Kimasozero",
+        "N651": "$$aKimasozero (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25644,7 +25644,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Uchta",
-        "N651": ""
+        "N651": "$$aKalevala (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25685,7 +25685,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rugosero",
-        "N651": ""
+        "N651": "$$aRukajärvi (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25726,7 +25726,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Kowdor",
-        "N651": ""
+        "N651": "$$aKovdor (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25767,7 +25767,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Restikent",
-        "N651": ""
+        "N651": "$$aRestikent (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25805,10 +25805,10 @@
         "SHEET": "W70",
         "TITLE": "Petsamo",
         "SCALE": "300000",
-        "N43": "$$ae-ru---",
-        "N80": "$$a913(470)$$2MRF",
+        "N43": "$$ae-ru---$$ae-no---",
+        "N80": "$$a913(470)$$2MRF|$$a913(481)$$2MRF",
         "N245A": "Petsamo",
-        "N651": ""
+        "N651": "$$aPečenga (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25885,12 +25885,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X45",
-        "TITLE": "",
+        "TITLE": "Simferopol",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Simferopol",
+        "N651": "$$aSimferopol (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25967,12 +25967,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X47",
-        "TITLE": "",
+        "TITLE": "Cherrsson",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Cherrsson",
+        "N651": "$$aCherson (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26008,12 +26008,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X48",
-        "TITLE": "",
+        "TITLE": "Kriwoj Rog",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Kriwoj Rog|Krivoj Rog",
+        "N651": "$$aKrivoj Rog (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26049,12 +26049,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X49",
-        "TITLE": "",
+        "TITLE": "Alexandrija",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Alexandrija",
+        "N651": "$$aOleksandrija (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26090,12 +26090,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X50",
-        "TITLE": "",
+        "TITLE": "Krementschug",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Krementschug",
+        "N651": "$$aKremenčuk (Ukrajina : oblast)$$7ge988352"
       },
       "geometry": {
         "type": "Polygon",
@@ -26131,12 +26131,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X51",
-        "TITLE": "",
+        "TITLE": "Romny",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477.75)$$2MRF",
+        "N245A": "Romny",
+        "N651": "$$aRomny (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26174,8 +26174,8 @@
         "SHEET": "X52",
         "TITLE": "Konotop",
         "SCALE": "300000",
-        "N43": "$$ae-un---",
-        "N80": "$$a913(477.52)$$2MRF",
+        "N43": "$$ae-un---$$ae-ru---",
+        "N80": "$$a913(477.52)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Konotop",
         "N651": "$$aKonotop (Ukrajina : oblast)"
       },
@@ -26213,12 +26213,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X53",
-        "TITLE": "",
+        "TITLE": "Starodub",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$ae-un---",
+        "N80": "$$a913(470)$$2MRF|$$a913(477.75)$$2MRF",
+        "N245A": "Starodub",
+        "N651": "$$aStarodub (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26295,12 +26295,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X55",
-        "TITLE": "",
+        "TITLE": "Dorogobush",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Dorogobush",
+        "N651": "$$aDorogobuž (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26336,12 +26336,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X56",
-        "TITLE": "",
+        "TITLE": "Wjasma",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Wjasma",
+        "N651": "$$aVjazma (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26377,12 +26377,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X57",
-        "TITLE": "",
+        "TITLE": "Rshew",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rshew",
+        "N651": "$$aRžev (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26418,12 +26418,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X58",
-        "TITLE": "",
+        "TITLE": "Ostaschkoff",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ostaschkoff",
+        "N651": "$$aOstaškov (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26459,12 +26459,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X59",
-        "TITLE": "",
+        "TITLE": "Borowitschi",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Borowitschi",
+        "N651": "$$aBoroviči (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26500,12 +26500,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X60",
-        "TITLE": "",
+        "TITLE": "Tichwin",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tichwin",
+        "N651": "$$aTichvin (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26541,12 +26541,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X61",
-        "TITLE": "",
+        "TITLE": "Lodejnoje Pole",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Lodejnoje Pole",
+        "N651": "$$aLodejnoje Pole (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26582,12 +26582,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X62",
-        "TITLE": "",
+        "TITLE": "Krassnaja Prjasha",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Krassnaja Prjasha",
+        "N651": "$$aPrjaža (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26623,12 +26623,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X63",
-        "TITLE": "",
+        "TITLE": "Kondopoga",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kondopoga",
+        "N651": "$$aKondopoga (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26664,12 +26664,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X64",
-        "TITLE": "",
+        "TITLE": "Padany",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Padany",
+        "N651": "$$aPadany (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26705,12 +26705,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X65",
-        "TITLE": "",
+        "TITLE": "Tunguda",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tunguda",
+        "N651": "$$aTunguda (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26746,12 +26746,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X66",
-        "TITLE": "",
+        "TITLE": "Engosero",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Engosero",
+        "N651": "$$aEngozero (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26787,12 +26787,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X67",
-        "TITLE": "",
+        "TITLE": "Louchi",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Louchi",
+        "N651": "$$aLouchi (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26828,12 +26828,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X68",
-        "TITLE": "",
+        "TITLE": "Kandalakscha",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kandalakscha",
+        "N651": "$$aKandalakša (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26869,12 +26869,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X69",
-        "TITLE": "",
+        "TITLE": "Murmansk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Murmansk",
+        "N651": "$$aMurmansk (Rusko : oblast)$$7ge384608"
       },
       "geometry": {
         "type": "Polygon",
@@ -26910,12 +26910,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "X70",
-        "TITLE": "",
+        "TITLE": "Poljarnyj",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Poljarnyj",
+        "N651": "$$aPoljarny (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

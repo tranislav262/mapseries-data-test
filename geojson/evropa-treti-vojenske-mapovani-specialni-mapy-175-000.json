@@ -41982,15 +41982,15 @@
       "properties": {
         "SHEET": "3060",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Słupca",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Słupca",
+        "N651": "$$aSłupca (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XVIII",
+        "ZONE_COL": "Zone E Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42026,15 +42026,15 @@
       "properties": {
         "SHEET": "3160",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Konin",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Konin",
+        "N651": "$$aKonin (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XVIII",
+        "ZONE_COL": "Zone D Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42070,15 +42070,15 @@
       "properties": {
         "SHEET": "3260",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Kalisz",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Kalisz",
+        "N651": "$$aKalisz (Polsko : oblast)$$7ge367358",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XVIII",
+        "ZONE_COL": "Zone C Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42114,15 +42114,15 @@
       "properties": {
         "SHEET": "3360",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Opatówek",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Opatówek",
+        "N651": "$$aOpatówek (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XVIII",
+        "ZONE_COL": "Zone B Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42202,15 +42202,15 @@
       "properties": {
         "SHEET": "3061",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Sompolno",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Sompolno",
+        "N651": "$$aSompolno (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XIX",
+        "ZONE_COL": "Zone E Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42246,15 +42246,15 @@
       "properties": {
         "SHEET": "3161",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Koło",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Koło",
+        "N651": "$$aKoło (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XIX",
+        "ZONE_COL": "Zone D Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42290,15 +42290,15 @@
       "properties": {
         "SHEET": "3261",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Uniejów",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Uniejów",
+        "N651": "$$aUniejów (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XIX",
+        "ZONE_COL": "Zone C Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42334,15 +42334,15 @@
       "properties": {
         "SHEET": "3461",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Sieradz",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Sieradz",
+        "N651": "$$aSieradz (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XIX",
+        "ZONE_COL": "Zone B Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42422,15 +42422,15 @@
       "properties": {
         "SHEET": "3062",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Kłodawa",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Kłodawa",
+        "N651": "$$aKłodawa (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XX",
+        "ZONE_COL": "Zone E Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42466,15 +42466,15 @@
       "properties": {
         "SHEET": "3162",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Łęczyca",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Łęczyca",
+        "N651": "$$aŁęczyca (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XX",
+        "ZONE_COL": "Zone D Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42510,15 +42510,15 @@
       "properties": {
         "SHEET": "3262",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Ozorków",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Ozorków",
+        "N651": "$$aOzorków (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XX",
+        "ZONE_COL": "Zone C Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42554,15 +42554,15 @@
       "properties": {
         "SHEET": "3362",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Łask",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Łask",
+        "N651": "$$aŁask (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XX",
+        "ZONE_COL": "Zone B Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42642,15 +42642,15 @@
       "properties": {
         "SHEET": "3063",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Gostynin",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Gostynin",
+        "N651": "$$aGostynin (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XXI",
+        "ZONE_COL": "Zone E Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42686,15 +42686,15 @@
       "properties": {
         "SHEET": "3163",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Kutno",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Kutno",
+        "N651": "$$aKutno (Polsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XXI",
+        "ZONE_COL": "Zone D Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42730,15 +42730,15 @@
       "properties": {
         "SHEET": "3263",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Lodž",
         "SCALE": "75000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Lodz|Łódź",
+        "N651": "$$aLodž (Polsko : oblast)$$7ge292514",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XXI",
+        "ZONE_COL": "Zone C Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42781,8 +42781,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XXI",
+        "ZONE_COL": "Zone B Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42869,8 +42869,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XXII",
+        "ZONE_COL": "Zone E Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42913,8 +42913,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XXII",
+        "ZONE_COL": "Zone D Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -42957,8 +42957,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XXII",
+        "ZONE_COL": "Zone C Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43001,8 +43001,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XXII",
+        "ZONE_COL": "Zone B Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43089,8 +43089,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XXIII",
+        "ZONE_COL": "Zone E Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43133,8 +43133,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XXIII",
+        "ZONE_COL": "Zone D Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43177,8 +43177,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XXIII",
+        "ZONE_COL": "Zone C Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43221,8 +43221,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XXIII",
+        "ZONE_COL": "Zone B Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43309,8 +43309,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "E",
+        "ZONE_KOL": "Zone E Kol. XXIV",
+        "ZONE_COL": "Zone E Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43353,8 +43353,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "D",
+        "ZONE_KOL": "Zone D Kol. XXIV",
+        "ZONE_COL": "Zone D Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43397,8 +43397,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "C",
+        "ZONE_KOL": "Zone C Kol. XXIV",
+        "ZONE_COL": "Zone C Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43441,8 +43441,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "B",
+        "ZONE_KOL": "Zone B Kol. XXIV",
+        "ZONE_COL": "Zone B Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43705,8 +43705,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "H",
+        "ZONE_KOL": "Zone H Kol. XXVI",
+        "ZONE_COL": "Zone H Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43749,8 +43749,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "G",
+        "ZONE_KOL": "Zone G Kol. XXVI",
+        "ZONE_COL": "Zone G Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -43793,8 +43793,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "F",
+        "ZONE_KOL": "Zone F Kol. XXVI",
+        "ZONE_COL": "Zone F Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44013,8 +44013,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "I",
+        "ZONE_KOL": "Zone I Kol. XXVII",
+        "ZONE_COL": "Zone I Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44057,8 +44057,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "H",
+        "ZONE_KOL": "Zone H Kol. XXVII",
+        "ZONE_COL": "Zone H Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44101,8 +44101,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "G",
+        "ZONE_KOL": "Zone G Kol. XXVII",
+        "ZONE_COL": "Zone G Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44145,8 +44145,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "F",
+        "ZONE_KOL": "Zone F Kol. XXVII",
+        "ZONE_COL": "Zone F Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44365,8 +44365,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "I",
+        "ZONE_KOL": "Zone I Kol. XXVIII",
+        "ZONE_COL": "Zone I Col. XXVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44409,8 +44409,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "H",
+        "ZONE_KOL": "Zone H Kol. XXVIII",
+        "ZONE_COL": "Zone H Col. XXVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44453,8 +44453,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "G",
+        "ZONE_KOL": "Zone G Kol. XXVIII",
+        "ZONE_COL": "Zone G Col. XXVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -44497,8 +44497,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "F",
+        "ZONE_KOL": "Zone F Kol. XXVIII",
+        "ZONE_COL": "Zone F Col. XXVIII",
         "ZONE_CSR": ""
       },
       "geometry": {

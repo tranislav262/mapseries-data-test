@@ -31246,15 +31246,15 @@
       "properties": {
         "SHEET": "5851",
         "KOLONNE": "IX",
-        "TITLE": "",
+        "TITLE": "Novigrad a Motovun",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Cittanuova und Montona",
+        "N651": "$$aNovigrad (Chorvatsko : oblast)|$$aMotovun (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. IX",
+        "ZONE_COL": "Zone 24 Col. IX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31290,15 +31290,15 @@
       "properties": {
         "SHEET": "5852",
         "KOLONNE": "X",
-        "TITLE": "",
+        "TITLE": "Buzet a Volosko",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Pinguente und Volosca",
+        "N651": "$$aBuzet (Chorvatsko : oblast)|$$aVolosko (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. X",
+        "ZONE_COL": "Zone 24 Col. X",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31334,15 +31334,15 @@
       "properties": {
         "SHEET": "5853",
         "KOLONNE": "XI",
-        "TITLE": "",
+        "TITLE": "Rijeka a Delnice",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Fiume und Delnice",
+        "N651": "$$aRijeka (Chorvatsko : oblast)|$$aDelnice (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XI",
+        "ZONE_COL": "Zone 24 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31378,15 +31378,15 @@
       "properties": {
         "SHEET": "5854",
         "KOLONNE": "XII",
-        "TITLE": "",
+        "TITLE": "Stari Trg ob Kolpi a Ogulin",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Altenmarkt und Ogulin",
+        "N651": "$$aOgulin (Chorvatsko : oblast)|$$aStari Trg ob Kolpi (Slovinsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XII",
+        "ZONE_COL": "Zone 24 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31422,15 +31422,15 @@
       "properties": {
         "SHEET": "5855",
         "KOLONNE": "XIII",
-        "TITLE": "",
+        "TITLE": "Karlovac a Vojnić",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
+        "N245A": "Karlstadt und Vojnić|Karlovac und Vojnić",
+        "N651": "$$aKarlovac (Chorvatsko : oblast)$$7ge565416|$$aVojnić (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XIII",
+        "ZONE_COL": "Zone 24 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31466,15 +31466,15 @@
       "properties": {
         "SHEET": "5856",
         "KOLONNE": "XIV",
-        "TITLE": "",
+        "TITLE": "Petrinja a Topusko",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Petrinja und Topusko",
+        "N651": "$$aPetrinja (Chorvatsko : oblast)|$$aTopusko (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XIV",
+        "ZONE_COL": "Zone 24 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31510,15 +31510,15 @@
       "properties": {
         "SHEET": "5857",
         "KOLONNE": "XV",
-        "TITLE": "",
+        "TITLE": "Sisak a Sunja",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Sisek und Sunja",
+        "N651": "$$aSisak (Chorvatsko : oblast)|$$aSunja (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XV",
+        "ZONE_COL": "Zone 24 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31554,15 +31554,15 @@
       "properties": {
         "SHEET": "5858",
         "KOLONNE": "XVI",
-        "TITLE": "",
+        "TITLE": "Pakrac a Jasenovac",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-bn---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
+        "N245A": "Pakrac und Jasenovac an der Save",
+        "N651": "$$aPakrac (Chorvatsko : oblast)|$$aJasenovac (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XVI",
+        "ZONE_COL": "Zone 24 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31598,15 +31598,15 @@
       "properties": {
         "SHEET": "5859",
         "KOLONNE": "XVII",
-        "TITLE": "",
+        "TITLE": "Požega a Nova Gradiška",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Požega und Neu-Gradiška",
+        "N651": "$$aPožega (Chorvatsko : oblast)|$$aNova Gradiška (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XVII",
+        "ZONE_COL": "Zone 24 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31642,15 +31642,15 @@
       "properties": {
         "SHEET": "5860",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Našice a Kutjevo",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Našice und Kutjevo",
+        "N651": "$$aNašice (Chorvatsko : oblast)|$$aKutjevo (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XVIII",
+        "ZONE_COL": "Zone 24 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31686,15 +31686,15 @@
       "properties": {
         "SHEET": "5861",
         "KOLONNE": "XIX",
-        "TITLE": "",
+        "TITLE": "Đakovo a Vinkovci",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
+        "N245A": "Djakovo und Vinkovci",
+        "N651": "$$aĐakovo (Chorvatsko : oblast)|$$aVinkovci (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XIX",
+        "ZONE_COL": "Zone 24 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31730,15 +31730,15 @@
       "properties": {
         "SHEET": "5862",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Vukovar",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-ci---$$ae-rb---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Vukovar",
+        "N651": "$$aVukovar (Chorvatsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XX",
+        "ZONE_COL": "Zone 24 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31774,15 +31774,15 @@
       "properties": {
         "SHEET": "5863",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Bačka Palanka a Kulpin",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Német-Palánka und Kulpin",
+        "N651": "$$aBačka Palanka (Srbsko : oblast)|$$aKulpin (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XXI",
+        "ZONE_COL": "Zone 24 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31818,15 +31818,15 @@
       "properties": {
         "SHEET": "5864",
         "KOLONNE": "XXII",
-        "TITLE": "",
+        "TITLE": "Novi Sad a Petrovaradín",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---",
+        "N80": "$$a913(497.11)$$2MRF",
+        "N245A": "Neusatz und Peterwardein",
+        "N651": "$$aNovi Sad (Srbsko : oblast)|$$aPetrovaradin (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XXII",
+        "ZONE_COL": "Zone 24 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31862,15 +31862,15 @@
       "properties": {
         "SHEET": "5865",
         "KOLONNE": "XXIII",
-        "TITLE": "",
+        "TITLE": "Zrenjanin",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Grosz-Becskerek",
+        "N651": "$$aZrenjanin (Srbsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XXIII",
+        "ZONE_COL": "Zone 24 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -31906,15 +31906,15 @@
       "properties": {
         "SHEET": "5866",
         "KOLONNE": "XXIV",
-        "TITLE": "",
+        "TITLE": "Deta",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
+        "N245A": "Detta",
+        "N651": "$$aDeta (Rumunsko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "24",
+        "ZONE_KOL": "Zone 24 Kol. XXIV",
+        "ZONE_COL": "Zone 24 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32661,8 +32661,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. IX",
+        "ZONE_COL": "Zone 25 Col. IX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32705,8 +32705,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. X",
+        "ZONE_COL": "Zone 25 Col. X",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32749,8 +32749,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XI",
+        "ZONE_COL": "Zone 25 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32793,8 +32793,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XII",
+        "ZONE_COL": "Zone 25 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32837,8 +32837,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XIII",
+        "ZONE_COL": "Zone 25 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32881,8 +32881,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XIV",
+        "ZONE_COL": "Zone 25 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32925,8 +32925,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XV",
+        "ZONE_COL": "Zone 25 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -32969,8 +32969,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XVI",
+        "ZONE_COL": "Zone 25 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33013,8 +33013,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XVII",
+        "ZONE_COL": "Zone 25 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33057,8 +33057,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XVIII",
+        "ZONE_COL": "Zone 25 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33101,8 +33101,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XIX",
+        "ZONE_COL": "Zone 25 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33145,8 +33145,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XX",
+        "ZONE_COL": "Zone 25 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33189,8 +33189,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XXI",
+        "ZONE_COL": "Zone 25 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33233,8 +33233,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XXII",
+        "ZONE_COL": "Zone 25 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33277,8 +33277,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XXIII",
+        "ZONE_COL": "Zone 25 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33321,8 +33321,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "25",
+        "ZONE_KOL": "Zone 25 Kol. XXIV",
+        "ZONE_COL": "Zone 25 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {

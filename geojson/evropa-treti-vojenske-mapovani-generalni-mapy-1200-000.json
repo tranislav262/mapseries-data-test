@@ -167,10 +167,10 @@
         "TITLE": "Scutari",
         "SCALE": "200000",
         "SHEET": "3742",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-aa---$$ae-mo---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Scutari",
-        "N651": "$$a",
+        "N651": "$$aShkodër (Albánie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -287,10 +287,10 @@
         "TITLE": "Valona",
         "SCALE": "200000",
         "SHEET": "3740",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-aa---",
+        "N80": "$$a913(496.5)$$2MRF",
         "N245A": "Valona",
-        "N651": "$$a",
+        "N651": "$$aVlora (Albánie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -367,10 +367,10 @@
         "TITLE": "Plevlje",
         "SCALE": "200000",
         "SHEET": "3743",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-mo---$$ae-aa---$$ae-rb---$$ae-bn---",
+        "N80": "$$a913(497.16)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Plevlje",
-        "N651": "$$a",
+        "N651": "$$aPljevlja (Černá Hora : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -487,10 +487,10 @@
         "TITLE": "Zvornik",
         "SCALE": "200000",
         "SHEET": "3744",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bn---",
+        "N80": "$$a913(497.6)$$2MRF",
         "N245A": "Zvornik",
-        "N651": "$$a",
+        "N651": "$$aZvornik (Bosna a Hercegovina : oblast)$$7ge255903",
         "POZNAMKA": ""
       },
       "geometry": {

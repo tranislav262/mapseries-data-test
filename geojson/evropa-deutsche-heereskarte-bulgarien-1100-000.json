@@ -12,7 +12,7 @@
         "N43": "$$ae-bu---$$ae-rb---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nowo Selo",
-        "N651": "$$a"
+        "N651": "$$aNovo Selo (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,7 +135,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Kranowo",
-        "N651": "$$a"
+        "N651": "$$aKranovo (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -217,7 +217,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Lom",
-        "N651": "$$a"
+        "N651": "$$aLom (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -258,7 +258,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Orechowo",
-        "N651": "$$a"
+        "N651": "$$aOrjachovo (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1484,11 +1484,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "VIII 2",
-        "TITLE": "",
+        "TITLE": "Logodaž",
         "N43": "$$ae-bu---$$ae-xn---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Logodatsch",
-        "N651": "$$a"
+        "N651": "$$aLogodaž (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1812,11 +1812,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IX 2",
-        "TITLE": "",
+        "TITLE": "Ključ",
         "N43": "$$ae-bu---$$ae-gr---$$ae-xn---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Kljutsch",
-        "N651": "$$a"
+        "N651": "$$aKljuč (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1894,11 +1894,11 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "IX 4",
-        "TITLE": "",
+        "TITLE": "Ilinden",
         "N43": "$$ae-bu---$$ae-gr---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Libjachowo",
-        "N651": "$$a"
+        "N651": "$$aIlinden (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2058,11 +2058,11 @@
         "Shape_Area": "0.487500000115",
         "SCALE": "100000",
         "SHEET": "IV 10",
-        "TITLE": "",
+        "TITLE": "Shabla a Kavarna",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Schabla-Kavarna",
-        "N651": "$$a"
+        "N651": "$$aShabla (Bulharsko : oblast)|$$aKavarna(Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

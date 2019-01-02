@@ -193,7 +193,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$atopografická mapová díla$$7fd688544
+655 7 L $$atopografické mapy$$7fd809173
 655 7 L $$avojenské mapy$$7fd133817
 830 0 L $$aBulgarien 1:100 000 ;$$v{
     "base":"sheet",

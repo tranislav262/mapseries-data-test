@@ -209,7 +209,7 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "Německo.$$bHeer.$$bGeneralstab",
+    "Německo.$$bHeer.$$bGeneralstab$$4ant$$4ctg$$7mzk2017971934"",
     ""
   ]
 }

@@ -7,12 +7,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 45",
-        "TITLE": "",
+        "TITLE": "Maikop",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Maikop",
+        "N651": "$$aMajkop (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -48,12 +48,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 46",
-        "TITLE": "",
+        "TITLE": "Krassnodar",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Krassnodar",
+        "N651": "$$aKrasnodar (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -89,12 +89,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 47",
-        "TITLE": "",
+        "TITLE": "Pawlowskaja",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Pawlowskaja",
+        "N651": "$$aPavlovskaya (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130,12 +130,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 48",
-        "TITLE": "",
+        "TITLE": "Rostow",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
+        "N245A": "Rostow",
+        "N651": "$$aRostov na Donu (Rusko : oblast)$$7ge134457"
       },
       "geometry": {
         "type": "Polygon",
@@ -171,12 +171,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 49",
-        "TITLE": "",
+        "TITLE": "Woroschilowgrad",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Woroschilowgrad (Lugansk)",
+        "N651": "$$aLugansk (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -212,12 +212,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 50",
-        "TITLE": "",
+        "TITLE": "Starobelsk",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-un---$$ae-ru---",
+        "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
+        "N245A": "Starobelsk",
+        "N651": "$$aStarobilsk (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -253,12 +253,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 51",
-        "TITLE": "",
+        "TITLE": "Ostrogoshsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ostrogoshsk",
+        "N651": "$$aOstrogožsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -294,12 +294,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 52",
-        "TITLE": "",
+        "TITLE": "Woronesh",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Woronesh",
+        "N651": "$$aVoroněž (Rusko : oblast)$$7ge565426"
       },
       "geometry": {
         "type": "Polygon",
@@ -335,12 +335,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 53",
-        "TITLE": "",
+        "TITLE": "Jelez",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Jelez",
+        "N651": "$$aJelec (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -376,12 +376,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 54",
-        "TITLE": "",
+        "TITLE": "Rjashsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rjashsk",
+        "N651": "$$aRjažsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -417,12 +417,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 55",
-        "TITLE": "",
+        "TITLE": "Rjasan",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rjasan",
+        "N651": "$$aRjazaň (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -458,12 +458,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 56",
-        "TITLE": "",
+        "TITLE": "Orechowo Sujewo",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Orechowo Sujewo",
+        "N651": "$$aOrechovo-Zujevo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -499,12 +499,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 57",
-        "TITLE": "",
+        "TITLE": "Alexandroff",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Alexandroff",
+        "N651": "$$aAlexandrov (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -540,12 +540,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 58",
-        "TITLE": "",
+        "TITLE": "Jarosslawl",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Jarosslawl",
+        "N651": "$$aJaroslavl (Rusko : oblast)$$7ge257392"
       },
       "geometry": {
         "type": "Polygon",
@@ -581,12 +581,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 59",
-        "TITLE": "",
+        "TITLE": "Rybinsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rybinsk",
+        "N651": "$$Rybinsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -622,12 +622,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 60",
-        "TITLE": "",
+        "TITLE": "Wologda",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Wologda",
+        "N651": "$$aVologda (Rusko : oblast)$$7ge565128"
       },
       "geometry": {
         "type": "Polygon",
@@ -663,11 +663,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 61",
-        "TITLE": "",
+        "TITLE": "Konoscha",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Konoscha",
         "N651": ""
       },
       "geometry": {
@@ -704,11 +704,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 62",
-        "TITLE": "",
+        "TITLE": "Kargopol",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kargopol",
         "N651": ""
       },
       "geometry": {
@@ -745,11 +745,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 63",
-        "TITLE": "",
+        "TITLE": "Plessezk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Plessezk",
         "N651": ""
       },
       "geometry": {
@@ -786,12 +786,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 64",
-        "TITLE": "",
+        "TITLE": "Oboserskaja",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Oboserskaja",
+        "N651": "$$aObozerskij (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -827,12 +827,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 65",
-        "TITLE": "",
+        "TITLE": "Molotowsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Molotowsk",
+        "N651": "$$aSeverodvinsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -868,11 +868,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 67",
-        "TITLE": "",
+        "TITLE": "Tschapoma",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Tschapoma",
         "N651": ""
       },
       "geometry": {
@@ -909,11 +909,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 68",
-        "TITLE": "",
+        "TITLE": "Lymbessijt",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Lymbessijt",
         "N651": ""
       },
       "geometry": {
@@ -950,11 +950,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 69",
-        "TITLE": "",
+        "TITLE": "Waranka",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Waranka",
         "N651": ""
       },
       "geometry": {
@@ -15427,7 +15427,7 @@
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436.4)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Graz",
-        "N651": "$$aŠtýrský Hradec (Rakousko : oblast)$$7"
+        "N651": "$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581"
       },
       "geometry": {
         "type": "Polygon",

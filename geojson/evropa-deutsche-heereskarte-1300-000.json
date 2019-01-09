@@ -499,11 +499,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "a 57",
-        "TITLE": "Alexandroff",
+        "TITLE": "Alexandrow",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Alexandroff",
+        "N245A": "Alexandroff|Alexandrow",
         "N651": "$$aAlexandrov (Rusko : oblast)"
       },
       "geometry": {
@@ -544,7 +544,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Jarosslawl",
+        "N245A": "Jarosslawl|Jaroßlawl",
         "N651": "$$aJaroslavl (Rusko : oblast)$$7ge257392"
       },
       "geometry": {
@@ -668,7 +668,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Konoscha",
-        "N651": ""
+        "N651": "$$aKonoša (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -709,7 +709,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Kargopol",
-        "N651": ""
+        "N651": "$$aKargopol’ (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -749,8 +749,8 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Plessezk",
-        "N651": ""
+        "N245A": "Plessezk|Plesseck",
+        "N651": "$$aPleseck (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -872,7 +872,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Tschapoma",
+        "N245A": "Tschapoma|Tschapomash",
         "N651": ""
       },
       "geometry": {
@@ -913,7 +913,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Lymbessijt",
+        "N245A": "Lymbessijt|Lymbessija",
         "N651": ""
       },
       "geometry": {
@@ -954,7 +954,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Waranka",
+        "N245A": "Waranka|Werenka",
         "N651": ""
       },
       "geometry": {
@@ -991,12 +991,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 45",
-        "TITLE": "",
+        "TITLE": "Armawir",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Armawir",
+        "N651": "$$aArmavir (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1032,12 +1032,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 46",
-        "TITLE": "",
+        "TITLE": "Woroschilowsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Woroschilowsk",
+        "N651": "$$aStavropol’ (Rusko : oblast)$$7ge160201"
       },
       "geometry": {
         "type": "Polygon",
@@ -1073,11 +1073,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 47",
-        "TITLE": "",
+        "TITLE": "Ssalsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Ssalsk",
         "N651": ""
       },
       "geometry": {
@@ -1114,11 +1114,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 48",
-        "TITLE": "",
+        "TITLE": "Konstantinowskoje|Konstantinowskaja",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Konstantinowskoje|Konstantinowskaja",
         "N651": ""
       },
       "geometry": {
@@ -1155,11 +1155,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 49",
-        "TITLE": "",
+        "TITLE": "Millerowo",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Millerowo",
         "N651": ""
       },
       "geometry": {
@@ -1196,11 +1196,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 50",
-        "TITLE": "",
+        "TITLE": "Bogutschar",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Bogutschar",
         "N651": ""
       },
       "geometry": {
@@ -1237,11 +1237,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 51",
-        "TITLE": "",
+        "TITLE": "Buturlinowka",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Buturlinowka",
         "N651": ""
       },
       "geometry": {
@@ -1278,11 +1278,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 52",
-        "TITLE": "",
+        "TITLE": "Borissoglebsk ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Borissoglebsk ",
         "N651": ""
       },
       "geometry": {
@@ -1319,11 +1319,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 53",
-        "TITLE": "",
+        "TITLE": "Tambow",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Tambow",
         "N651": ""
       },
       "geometry": {
@@ -1360,11 +1360,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 54",
-        "TITLE": "",
+        "TITLE": "Morshansk|Morschansk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Morshansk|Morschansk",
         "N651": ""
       },
       "geometry": {
@@ -1401,11 +1401,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 55",
-        "TITLE": "",
+        "TITLE": "Kassimoff",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kassimoff",
         "N651": ""
       },
       "geometry": {
@@ -1442,11 +1442,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 56",
-        "TITLE": "",
+        "TITLE": "Murom",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Murom",
         "N651": ""
       },
       "geometry": {
@@ -1483,11 +1483,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 57",
-        "TITLE": "",
+        "TITLE": "Wladimir",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Wladimir",
         "N651": ""
       },
       "geometry": {
@@ -1524,11 +1524,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 58",
-        "TITLE": "",
+        "TITLE": "Kostroma",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kostroma",
         "N651": ""
       },
       "geometry": {
@@ -1565,11 +1565,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 59",
-        "TITLE": "",
+        "TITLE": "Buj",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Buj",
         "N651": ""
       },
       "geometry": {
@@ -1606,11 +1606,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 60",
-        "TITLE": "",
+        "TITLE": "Ssoligalitsch",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Ssoligalitsch",
         "N651": ""
       },
       "geometry": {
@@ -1647,11 +1647,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 61",
-        "TITLE": "",
+        "TITLE": "Werchowashje",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Werchowashje",
         "N651": ""
       },
       "geometry": {
@@ -1688,11 +1688,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 62",
-        "TITLE": "",
+        "TITLE": "Welsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Welsk",
         "N651": ""
       },
       "geometry": {
@@ -1729,11 +1729,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 63",
-        "TITLE": "",
+        "TITLE": "Ponisowje",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Ponisowje",
         "N651": ""
       },
       "geometry": {
@@ -1770,11 +1770,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 64",
-        "TITLE": "",
+        "TITLE": "Jemezk ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Jemezk ",
         "N651": ""
       },
       "geometry": {
@@ -1811,11 +1811,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 65",
-        "TITLE": "",
+        "TITLE": "Archangelsk ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Archangelsk ",
         "N651": ""
       },
       "geometry": {
@@ -1852,11 +1852,11 @@
         "Shape_Leng": "10",
         "Shape_Area": "4",
         "SHEET": "b 66",
-        "TITLE": "",
+        "TITLE": "Kepina ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kepina ",
         "N651": ""
       },
       "geometry": {
@@ -1901,11 +1901,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 67",
-        "TITLE": "",
+        "TITLE": "Danilowo ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Danilowo ",
         "N651": ""
       },
       "geometry": {
@@ -1942,11 +1942,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 68",
-        "TITLE": "",
+        "TITLE": "Lumbowka ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Lumbowka ",
         "N651": ""
       },
       "geometry": {
@@ -1983,12 +1983,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "c 45",
-        "TITLE": "",
+        "TITLE": "Pjatigorsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Pjatigorsk",
+        "N651": "$$aPjatigorsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15548,7 +15548,7 @@
         "TITLE": "Prag",
         "SCALE": "300000",
         "N43": "$$ae-xr-pg$$ae-gx---$$ae-pl---",
-        "N80": "$$913(437.311)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.311)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Prag",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },

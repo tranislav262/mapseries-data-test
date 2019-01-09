@@ -1078,7 +1078,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Ssalsk",
-        "N651": ""
+        "N651": "$$aSalsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1114,12 +1114,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 48",
-        "TITLE": "Konstantinowskoje|Konstantinowskaja",
+        "TITLE": "Konstantinowskoje",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Konstantinowskoje|Konstantinowskaja",
-        "N651": ""
+        "N651": "$$aKonstantinovsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16575,7 +16575,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Stolp",
-        "N651": "$$Słupsk (Polsko : oblast)$$7ge816713"
+        "N651": "$$aSłupsk (Polsko : oblast)$$7ge816713"
       },
       "geometry": {
         "type": "Polygon",

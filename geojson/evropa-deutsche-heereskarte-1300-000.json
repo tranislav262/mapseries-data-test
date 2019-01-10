@@ -1360,12 +1360,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "b 54",
-        "TITLE": "Morshansk|Morschansk",
+        "TITLE": "Morschansk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Morshansk|Morschansk",
-        "N651": ""
+        "N651": "$$aMoršansk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1775,7 +1775,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Jemezk ",
-        "N651": ""
+        "N651": "$$aJemeck (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,7 +1816,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Archangelsk ",
-        "N651": ""
+        "N651": "$$aArchangel’sk (Rusko : oblast)$$7ge134026"
       },
       "geometry": {
         "type": "Polygon",
@@ -1857,7 +1857,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Kepina ",
-        "N651": ""
+        "N651": "$$aKepina (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1906,7 +1906,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Danilowo ",
-        "N651": ""
+        "N651": "$$aDanilovo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1947,7 +1947,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Lumbowka ",
-        "N651": ""
+        "N651": "$$aLumbovka (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4959,12 +4959,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "f 47",
-        "TITLE": "",
+        "TITLE": "Krassnyj Jar",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
+        "N245A": "Krassnyj Jar",
+        "N651": "$$aKrasny Jar (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5328,12 +5328,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "f 56",
-        "TITLE": "",
+        "TITLE": "Kasan",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kasan",
+        "N651": "$$aKazaň (Rusko : oblast)$$7ge273621"
       },
       "geometry": {
         "type": "Polygon",
@@ -13295,7 +13295,7 @@
         "N43": "$$ae-gx---$$ae-fr---",
         "N80": "$$a913(430.119)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Köln",
-        "N651": "$$aKolín nad Rýnem (Německo : oblast)"
+        "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983"
       },
       "geometry": {
         "type": "Polygon",

@@ -1693,7 +1693,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Welsk",
-        "N651": ""
+        "N651": "$$aVelsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19199,7 +19199,7 @@
         "N43": "$$ae-bw---$$ae-pl---",
         "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Brest Litowsk",
-        "N651": "$$aBrest (Bělorusko : oblast)"
+        "N651": "$$aBrest (Bělorusko : oblast)$$7ge214861"
       },
       "geometry": {
         "type": "Polygon",

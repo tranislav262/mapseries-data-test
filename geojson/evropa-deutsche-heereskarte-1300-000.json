@@ -1652,7 +1652,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Werchowashje",
-        "N651": ""
+        "N651": "$$aVerchovaž'je (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12844,7 +12844,7 @@
         "N43": "$$ae-be---$$ae-gx---$$ae-ne---",
         "N80": "$$a913(493)$$2MRF|$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Aachen|Brüssel",
-        "N651": "$$aCáchy (Německo : oblast)"
+        "N651": "$$aCáchy (Německo : oblast)$$7ge259169"
       },
       "geometry": {
         "type": "Polygon",

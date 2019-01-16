@@ -75,7 +75,7 @@ LDR   L -----nem-a22--------4500
       "Německo.$$bHeer.$$bGeneralstab",
       "Německo.$$bOberkommando der Luftwaffe",
       "Německo.$$bReichsamt für Landesaufnahme",
-      "Prusko.$$bLandesaufnahme. Kartographische Abteilung"]
+      "Prusko.$$bLandesaufnahme.$$bKartographische Abteilung"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

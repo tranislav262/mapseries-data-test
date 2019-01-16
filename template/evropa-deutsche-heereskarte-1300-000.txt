@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw", "gw", "gw"]
+    "valuesByBaseIndex": ["gw", "gw", "gw", "gw"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "ger", "ger"]
+    "valuesByBaseIndex": ["ger", "ger", "ger", "ger"]
   }-d
 0341  L $$b300000{
     "title": "Zeměpisné souřadnice",
@@ -66,7 +66,7 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "1", "1"]
+    "valuesByBaseIndex": ["1", "1", "1", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
@@ -74,12 +74,13 @@ LDR   L -----nem-a22--------4500
     "values": [
       "Německo.$$bHeer.$$bGeneralstab",
       "Německo.$$bOberkommando der Luftwaffe",
-      "Německo.$$bReichsamt für Landesaufnahme"]
+      "Německo.$$bReichsamt für Landesaufnahme",
+      "Prusko.$$bLandesaufnahme. Kartographische Abteilung"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2009524704", "ko2015890165"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2009524704", "ko2015890165", "ko2016928918"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -101,7 +102,8 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Herausgegeben vom OKH / Gen St d H",
       "Generalstab der Luftwaffe",
-      "Herausgegeben vom Reichsamt für Landesaufnahme" 
+      "Herausgegeben vom Reichsamt für Landesaufnahme",
+      "Herausgegeben von der Kartogr. Abteilung der Preußisch. Landesaufnahme" 
     ]
   }
 2463  L $$a{
@@ -136,7 +138,8 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "[Berlin?] :$$bHerausgegeben vom OKH / Gen St d H,",
       "[Berlin?] :$$bGeneralstab der Luftwaffe,",
-      "Berlin :$$bHerausgegeben vom Reichsamt für Landesaufnahme,"
+      "Berlin :$$bHerausgegeben vom Reichsamt für Landesaufnahme,",
+      "[Berlin] :$$bHerausgegeben von der Kartogr. Abteilung der Preußisch. Landesaufnahme,"
     ]
   }$$c{
     "base":"year"

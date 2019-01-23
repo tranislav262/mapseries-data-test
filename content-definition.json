@@ -103,6 +103,9 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:511ee39b-d838-496a-b128-89128689c4ed/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:511ee39b-d838-496a-b128-89128689c4ed/thumb",
+  "description": {
+   "cs": "Po rozpadu Rakousko-Uherska v roce 1918 byl Militär-Geographisches \nInstitutu přejmenován na Kartographisches Institut a jeho působnost se \nomezila na území Rakouské republiky. Nová vydání listů speciální mapy \ntak plynule navázala na starší předchůdce."
+  }
  }
 ]

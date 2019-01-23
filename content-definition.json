@@ -62,7 +62,10 @@
   "grid": "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
   "sheets": "490v",
   "groupby": "field.substring(0,6)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:9dea17ff-08f6-4e81-a50a-fb5a93601d88/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:9dea17ff-08f6-4e81-a50a-fb5a93601d88/thumb",
+  "description": {
+   "cs": "Vojenský zeměpisný ústav převzal po svém ustanovení v roce 1919 i \npodklady map topografických sekcí pokrývajících území nově vzniklého \nČeskoslovenska, které vznikly ve vídeňském Militär-Geographisches \nInstitutu jako jeden z výsledků třetího vojenského mapování. VZÚ \ntopografické sekce reambuloval a ve 20. a 30. letech je pak vydával jako \nTopografickou mapu ČSR v měřítku 1:25 000."
+  }
  },
  {
   "field": "490a",

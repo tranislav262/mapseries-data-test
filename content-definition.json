@@ -67,7 +67,10 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "description": {
+   "cs": "Vydávání listů generální mapy pokračovalo i po rozbití Československa a \nustanovení Protektorátu Čechy a Morava, kdy po Vojenském zeměpisném \nústavu převzaly využívané podklady rakouské Generalkarte protektorátní \núřady. V letech 1939 až 1942 generální mapu vydával Zeměpisný ústav \nspadající pod protektorátní Ministerstvo vnitra a od roku 1942 jej pak \naž do konce války nahradil Zeměměřičský úřad Čechy a Morava. Území \nprotektorátu pokrývalo 15 listů generální mapy. Původně české názvosloví \nna aktualizovaných listech VZÚ bylo v dalších vydáních nahrazeno \nněmčinou."
+  }
  },
  {
   "field": "490a",

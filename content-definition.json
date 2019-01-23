@@ -5,7 +5,10 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "description": {
+   "cs": "Speciální mapa Rakouska-Uherska v měřítku 1:75 000 vznikla na základě \ntřetího vojenského mapování prováděného v letech 1869 až 1885. Listy \nbyly odvozeny z topografických sekcí 1:25 000, kdy spojením čtyř dílčích \nlistů vznikl jeden mapový list v měřítku 1:75 000. V letech 1873 až 1889 \nvypracoval Militär-Geographisches Institut ve Vídni celkem 752 mapových \nlistů pokrývajících rakousko-uherské území. V období první světové války \nje pak průběžně doplňovaly listy navazujících oblastí ve směru \npostupující fronty, přičemž byly do rakouského kladu upravovány dostupné \nmístní mapy. Po zániku monarchie převzaly mapové podklady nástupnické \nstáty včetně Československa, které tyto mapy aktualizovaly a dále \nvyužívaly."
+  }
  },
  {
   "field": "490a",

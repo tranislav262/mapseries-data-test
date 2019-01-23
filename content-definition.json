@@ -75,7 +75,10 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "description": {
+   "cs": "Po zániku Československa v roce 1939 pokračovaly s vydáváním speciálních \nmap založených na třetím vojenském mapování protektorátní úřady, které \npřevzaly podklady od Vojenského zeměpisného ústavu. Nejprve listy \nvydával Zeměpisný ústav spadající pod protektorátní Ministerstvo vnitra \na od roku 1942 až do konce války pak ZÚ nahradil Zeměměřičský úřad Čechy \na Morava. Do protektorátních speciálních map byla barevně dotištěna \nhranice protektorátu a německé názvy obcí. Mapové listy vycházející od \nroku 1943 pak obsahovaly už i německy psanou legendu."
+  }
  },
  {
   "field": "490a",

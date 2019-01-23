@@ -48,7 +48,10 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "description": {
+   "cs": "Speciální mapa Československé republiky navázala na listy \nrakousko-uherské Spezialkarte, které po zániku monarchie převzaly \nčeskoslovenské úřady. Celkem bylo z Vídně převzato 189 listů speciální \nmapy pokrývajících území ČSR. Reambulované speciální mapy vydával \nnejprve Zeměpisný ústav Ministerstva národní obrany, z něhož roku 1919 \nvznikl Vojenský zeměpisný ústav. Součástí edice jsou i mapové listy \nzachycující oblasti Rakouska a Maďarska, které VZÚ vydával ve 20. a 30. \nletech. Po znovuobnovení Československa v roce 1945 došlo také k obnově \nústavu, který znovu přikročil k vydávání reambulovaných speciálních map, \njež byly součástí státního mapového díla až do roku 1956."
+  }
  },
  {
   "field": "490a",

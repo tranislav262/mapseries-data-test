@@ -16,7 +16,10 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:87f4421a-59e4-414a-a00c-b49908c33e7c/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:87f4421a-59e4-414a-a00c-b49908c33e7c/thumb",
+  "description": {
+   "cs": "Generální mapa Československé republiky vznikla na základě třetího \nvojenského mapování prováděného v letech 1869 až 1885. Listy byly \nodvozeny ze speciálních map 1:75 000, kdy spojením osmi sousedících \nmapových listů vznikl jeden list mapy generální. Po aktualizaci a \nnahrazení německého a maďarského názvosloví českým a slovenským, byly \nreambulované mapy vydávány nejprve Zeměpisným ústavem v rámci \nMinisterstva národní obrany a od roku 1919 pak tyto mapy vydával nově \nzaložený Vojenský zeměpisný ústav. Generální mapa pokrývající celé území \nČeskoslovenska pak vycházela v aktualizovaných vydáních až do počátku \npadesátých let."
+  }
  },
  {
   "field": "490a",

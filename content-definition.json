@@ -38,7 +38,10 @@
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "description": {
+   "cs": "Po zániku monarchie v roce 1918 převzaly československé úřady podklady Übersichts-Karte von Mittel-Europa vytvořené na základě třetího vojenského mapování. Listy Přehledné mapy střední Evropy v měřítku 1:750 000 vydával v roce 1919 Zeměpisný ústav spadající pod Ministerstvo národní obrany, od roku 1919 pak Vojenský zeměpisný ústav. Přehledná mapa byla součástí státního mapového díla i po druhé světové válce a využívána byla až do roku 1956. "
+  }
  },
  {
   "field": "490a",

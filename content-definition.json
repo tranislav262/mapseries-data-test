@@ -27,7 +27,10 @@
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:246a20ca-950e-4e61-a5ca-452b02a18c8a/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:246a20ca-950e-4e61-a5ca-452b02a18c8a/thumb",
+  "description": {
+   "cs": "Přehledná mapa střední Evropy v měřítku 1:750 000 byla vytvořena na základě topografických sekcí třetího vojenského mapování. Militär-Geographisches Institut zahájil práce na tomto mapovém díle v roce 1881 a listy přehledné mapy vydával až do rozpadu Rakousko-Uherska v roce 1918. Mapové listy zhotovené v pětibarevném provedení byly značeny velkými písmeny a arabskými čísly a jednotlivá mapová pole mají rozměry 33x39 cm. Übersichts-Karte von Mittel-Europa obsahuje 45 standardních a 9 provizorních listů pokrývajících širší oblast centrální Evropy včetně Balkánu, Pobaltí, severní Itálie a východní Francie. \n"
+  }
  },
  {
   "field": "490a",

@@ -75,7 +75,7 @@
  },
  {
   "field": "490a",
-  "name": "[Generální mapa Protektorátu Čechy a Morava 1:200 000] ;",
+  "name": "[Generální mapa Protektorátu Čechy a Morava 1:200&nbsp;000] ;",
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",

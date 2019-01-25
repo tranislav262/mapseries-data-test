@@ -49,7 +49,10 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:db0efcc4-fdb4-47bb-a68c-d64163c95931/thumb"
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:db0efcc4-fdb4-47bb-a68c-d64163c95931/thumb",
+  "description": {
+   "cs": "Vojenský zeměpisný ústav prováděl revizi pomístních názvů v topografických mapách převzatých z Militär-Geographisches Institutu společně s Názvoslovnou komisí ustanovenou v roce 1930 při Národní radě badatelské. Po přípravě názvů a hranic základních orografických celků byly výsledky v průběhu druhé poloviny třicátých let vytištěny na podkladě listů Generální mapy Československé republiky. Hranice a názvy orografických celků jsou na listech Generální úpatnicové mapy ČSR vytištěny červenou barvou."
+  }
  },
  {
   "field": "490a",

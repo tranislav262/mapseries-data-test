@@ -23,7 +23,7 @@
  },
  {
   "field": "490a",
-  "name": "[Übersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur]",
+  "name": "[Übersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur] ;",
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
@@ -34,7 +34,7 @@
  },
  {
   "field": "490a",
-  "name": "[Přehledná mapa střední Evropy v měřítku 1:750 000 - československá vydání]",
+  "name": "[Přehledná mapa střední Evropy v měřítku 1:750 000 - československá vydání] ;",
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
@@ -45,7 +45,7 @@
  },
  {
   "field": "490a",
-  "name": "[Generální úpatnicová mapa Československé republiky 1:200 000]",
+  "name": "[Generální úpatnicová mapa Československé republiky 1:200 000] ;",
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",

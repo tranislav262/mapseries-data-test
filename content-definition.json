@@ -5,7 +5,7 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a18b7175-2ba6-4ffc-a478-15682acd73e9/248,131,14643,10842/,200/0/default.jpg",
   "description": {
    "cs": "Speciální mapa Rakouska-Uherska v měřítku 1:75 000 vznikla na základě \ntřetího vojenského mapování prováděného v letech 1869 až 1885. Listy \nbyly odvozeny z topografických sekcí 1:25 000, kdy spojením čtyř dílčích \nlistů vznikl jeden mapový list v měřítku 1:75 000. V letech 1873 až 1889 \nvypracoval Militär-Geographisches Institut ve Vídni celkem 752 mapových \nlistů pokrývajících rakousko-uherské území. V období první světové války \nje pak průběžně doplňovaly listy navazujících oblastí ve směru \npostupující fronty, přičemž byly do rakouského kladu upravovány dostupné \nmístní mapy. Po zániku monarchie převzaly mapové podklady nástupnické \nstáty včetně Československa, které tyto mapy aktualizovaly a dále \nvyužívaly."
   }
@@ -16,7 +16,7 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:87f4421a-59e4-414a-a00c-b49908c33e7c/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:2a621a3e-0161-404a-a837-8915a631f956/176,215,10065,15020/,200/0/default.jpg",
   "description": {
    "cs": "Generální mapa Československé republiky vznikla na základě třetího \nvojenského mapování prováděného v letech 1869 až 1885. Listy byly \nodvozeny ze speciálních map 1:75 000, kdy spojením osmi sousedících \nmapových listů vznikl jeden list mapy generální. Po aktualizaci a \nnahrazení německého a maďarského názvosloví českým a slovenským, byly \nreambulované mapy vydávány nejprve Zeměpisným ústavem v rámci \nMinisterstva národní obrany a od roku 1919 pak tyto mapy vydával nově \nzaložený Vojenský zeměpisný ústav. Generální mapa pokrývající celé území \nČeskoslovenska pak vycházela v aktualizovaných vydáních až do počátku \npadesátých let."
   }
@@ -27,7 +27,7 @@
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:246a20ca-950e-4e61-a5ca-452b02a18c8a/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:03930de0-2ea4-44c4-8e6f-6a677b2f903b/216,169,11626,9830/,200/0/default.jpg",
   "description": {
    "cs": "Přehledná mapa střední Evropy v měřítku 1:750 000 byla vytvořena na základě topografických sekcí třetího vojenského mapování. Militär-Geographisches Institut zahájil práce na tomto mapovém díle v roce 1881 a listy přehledné mapy vydával až do rozpadu Rakousko-Uherska v roce 1918. Mapové listy zhotovené v pětibarevném provedení byly značeny velkými písmeny a arabskými čísly a jednotlivá mapová pole mají rozměry 33x39 cm. Übersichts-Karte von Mittel-Europa obsahuje 45 standardních a 9 provizorních listů pokrývajících širší oblast centrální Evropy včetně Balkánu, Pobaltí, severní Itálie a východní Francie. \n"
   }
@@ -38,7 +38,7 @@
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:c4e87f1f-7730-48ee-a9e8-bfa7142d84c5/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:958bb453-4fb0-4615-96af-de2bb57daf1c/177,153,11393,9946/,200/0/default.jpg",
   "description": {
    "cs": "Po zániku monarchie v roce 1918 převzaly československé úřady podklady Übersichts-Karte von Mittel-Europa vytvořené na základě třetího vojenského mapování. Listy Přehledné mapy střední Evropy v měřítku 1:750 000 vydával v roce 1919 Zeměpisný ústav spadající pod Ministerstvo národní obrany, od roku 1919 pak Vojenský zeměpisný ústav. Přehledná mapa byla součástí státního mapového díla i po druhé světové válce a využívána byla až do roku 1956. "
   }
@@ -49,7 +49,7 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:db0efcc4-fdb4-47bb-a68c-d64163c95931/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:502e8d46-8f99-4b39-b629-5fa5d08117e3/233,215,10053,14963/,200/0/default.jpg",
   "description": {
    "cs": "Vojenský zeměpisný ústav prováděl revizi pomístních názvů v topografických mapách převzatých z Militär-Geographisches Institutu společně s Názvoslovnou komisí ustanovenou v roce 1930 při Národní radě badatelské. Po přípravě názvů a hranic základních orografických celků byly výsledky v průběhu druhé poloviny třicátých let vytištěny na podkladě listů Generální mapy Československé republiky. Hranice a názvy orografických celků jsou na listech Generální úpatnicové mapy ČSR vytištěny červenou barvou."
   }
@@ -60,7 +60,7 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:159c3670-7a74-4ff8-b1c1-0292e637eb08/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:39fb29c7-a827-48bb-802d-04b3ea2e6aaf/210,212,14652,11090/,200/0/default.jpg",
   "description": {
    "cs": "Speciální mapa Československé republiky navázala na listy \nrakousko-uherské Spezialkarte, které po zániku monarchie převzaly \nčeskoslovenské úřady. Celkem bylo z Vídně převzato 189 listů speciální \nmapy pokrývajících území ČSR. Reambulované speciální mapy vydával \nnejprve Zeměpisný ústav Ministerstva národní obrany, z něhož roku 1919 \nvznikl Vojenský zeměpisný ústav. Součástí edice jsou i mapové listy \nzachycující oblasti Rakouska a Maďarska, které VZÚ vydával ve 20. a 30. \nletech. Po znovuobnovení Československa v roce 1945 došlo také k obnově \nústavu, který znovu přikročil k vydávání reambulovaných speciálních map, \njež byly součástí státního mapového díla až do roku 1956."
   }
@@ -71,7 +71,7 @@
   "grid": "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
   "sheets": "490v",
   "groupby": "field.substring(0,6)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:9dea17ff-08f6-4e81-a50a-fb5a93601d88/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:8691a29a-ed4c-4c56-aa9f-9853809aa5f5/197,248,18711,14855/,200/0/default.jpg",
   "description": {
    "cs": "Vojenský zeměpisný ústav převzal po svém ustanovení v roce 1919 i \npodklady map topografických sekcí pokrývajících území nově vzniklého \nČeskoslovenska, které vznikly ve vídeňském Militär-Geographisches \nInstitutu jako jeden z výsledků třetího vojenského mapování. VZÚ \ntopografické sekce reambuloval a ve 20. a 30. letech je pak vydával jako \nTopografickou mapu ČSR v měřítku 1:25 000."
   }
@@ -82,7 +82,7 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:ccac87ef-96be-4ef4-8803-d5c08303091d/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:91b34c31-6100-440c-9881-169e799e808f/266,177,10391,15454/,200/0/default.jpg",
   "description": {
    "cs": "Vydávání listů generální mapy pokračovalo i po rozbití Československa a \nustanovení Protektorátu Čechy a Morava, kdy po Vojenském zeměpisném \nústavu převzaly využívané podklady rakouské Generalkarte protektorátní \núřady. V letech 1939 až 1942 generální mapu vydával Zeměpisný ústav \nspadající pod protektorátní Ministerstvo vnitra a od roku 1942 jej pak \naž do konce války nahradil Zeměměřičský úřad Čechy a Morava. Území \nprotektorátu pokrývalo 15 listů generální mapy. Původně české názvosloví \nna aktualizovaných listech VZÚ bylo v dalších vydáních nahrazeno \nněmčinou."
   }
@@ -93,7 +93,7 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:cfd6c7d8-2ae6-4ebf-957e-2d5e30bb1450/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:409f24b0-cac4-44f8-8fc9-2b2bb9c27dce/181,188,15907,11306/,200/0/default.jpg",
   "description": {
    "cs": "Po zániku Československa v roce 1939 pokračovaly s vydáváním speciálních \nmap založených na třetím vojenském mapování protektorátní úřady, které \npřevzaly podklady od Vojenského zeměpisného ústavu. Nejprve listy \nvydával Zeměpisný ústav spadající pod protektorátní Ministerstvo vnitra \na od roku 1942 až do konce války pak ZÚ nahradil Zeměměřičský úřad Čechy \na Morava. Do protektorátních speciálních map byla barevně dotištěna \nhranice protektorátu a německé názvy obcí. Mapové listy vycházející od \nroku 1943 pak obsahovaly už i německy psanou legendu."
   }
@@ -104,7 +104,7 @@
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:956b0d1b-aade-4888-a64d-61d4620dfc9b/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:90d8022f-6204-4533-8ac2-eeb2fc95ad92/276,185,10734,15387/,200/0/default.jpg",
   "description": {
    "cs": "Po obsazení Rakouska nacistickým Německem došlo v roce 1938 k vytvoření \nXIV oddělení  spadajícího pod Říšský úřad pro zemské vyměřování \n(Reichsamt für Landesaufnahme) sídlící ve Vídni. Ten pak až do konce \nválky vydával generální mapy v měřítku 1:200 000, založené na listech, \nkteré vydával  bývalý rakouský Kartographisches Institut."
   }
@@ -115,7 +115,7 @@
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/api/v5.0/item/uuid:511ee39b-d838-496a-b128-89128689c4ed/thumb",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:83bbeab1-8356-43bf-b35a-daae317bb86d/233,239,14434,10971/,200/0/default.jpg",
   "description": {
    "cs": "Po rozpadu Rakousko-Uherska v roce 1918 byl Militär-Geographisches \nInstitutu přejmenován na Kartographisches Institut a jeho působnost se \nomezila na území Rakouské republiky. Nová vydání listů speciální mapy \ntak plynule navázala na starší předchůdce."
   }

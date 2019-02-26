@@ -119,5 +119,16 @@
   "description": {
    "cs": "Po rozpadu Rakousko-Uherska v roce 1918 byl Militär-Geographisches \nInstitutu přejmenován na Kartographisches Institut a jeho působnost se \nomezila na území Rakouské republiky. Nová vydání listů speciální mapy \ntak plynule navázala na starší předchůdce."
   }
+ },
+ {
+  "field": "490a",
+  "name": "[General-Karte von Mittel-Europa im Masse 1:200 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:6b0e83f0-725d-4f8d-9ebd-3752bf548bc9/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null
+  }
  }
 ]

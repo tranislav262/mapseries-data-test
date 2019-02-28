@@ -128,7 +128,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:6b0e83f0-725d-4f8d-9ebd-3752bf548bc9/276,185,10734,15387/,200/0/default.jpg",
   "description": {
-   "cs": null
+   "cs": "Generální mapa Rakousko-Uherska v měřítku 1:200 000 vycházela z topografických sekcí vytvořených na základě třetího vojenského mapování z let 1869 až 1885. Jednotlivé listy Generalkarte pokrývající oblast střední Evropy a Balkánu vznikly spojením osmi sousedních listů speciální mapy. Toto mapové dílo vydával vídeňský Militär-Geographisches Institut od roku 1887. Po roce 1918 vycházely při vydávání vlastních generálních map z podkladů rakouské Generalkarte i nástupnické státy monarchie včetně Československa."
   }
  }
 ]

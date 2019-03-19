@@ -155,7 +155,7 @@ LDR   L -----nem-a22--------4500
   "id": "mapWidth",
   "title": "Šířka",
   "width": 3
-} cm, na listu { 40x50
+} cm, na listu { 
   "id": "height",
   "title": "Výška",
   "width": 3

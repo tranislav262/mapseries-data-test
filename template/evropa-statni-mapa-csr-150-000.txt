@@ -34,7 +34,6 @@ LDR   L -----nem-a22--------4500
     "width":3,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun", "pol"]
-  }
   }$$a{
     "id":"langcode3",
     "width":3,
@@ -166,6 +165,24 @@ LDR   L -----nem-a22--------4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
+  }
+500   L $$a{
+    "id":"note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
+  }
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání:"]
   }
 650 7 L $$atopografické mapování$$7ph126690$$2czenas
 651 7 L {

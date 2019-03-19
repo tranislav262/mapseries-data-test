@@ -123,7 +123,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:200 000$$bKonformní obecné kuželové zobrazení (Křovákovo){
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,

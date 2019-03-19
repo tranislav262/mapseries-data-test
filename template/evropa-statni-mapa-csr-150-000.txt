@@ -147,15 +147,7 @@ LDR   L -----nem-a22--------4500
     "width":20,
     "title":"Další fyzické údaje",
     "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
-  } ;$$c {
-  "id": "mapHeight",
-  "title": "Výška",
-  "width": 3
-} x {
-  "id": "mapWidth",
-  "title": "Šířka",
-  "width": 3
-} cm, na listu { 
+  } ;$$c 40 x 50 cm, na listu {
   "id": "height",
   "title": "Výška",
   "width": 3

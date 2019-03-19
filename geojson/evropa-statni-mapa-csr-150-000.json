@@ -4218,11 +4218,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "475-1100",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bohumín",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Bohumín",
+        "N651": "$$aBohumín (Česko : oblast)$$7ge212772"
       },
       "geometry": {
         "type": "Polygon",
@@ -4920,11 +4920,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "475-1120",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostrava",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Ostrava",
+        "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
         "type": "Polygon",
@@ -5622,11 +5622,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "475-1140",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Frýdlant nad Ostravicí",
+        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Frýdlant nad Ostravicí|Frýdlant n. Ostravicí",
+        "N651": "$$aFrýdlant nad Ostravicí (Česko : oblast)$$7ge242353"
       },
       "geometry": {
         "type": "Polygon",
@@ -6090,11 +6090,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "625-1160",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Tišnov",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Tišnov",
+        "N651": "$$aTišnov (Česko : oblast)$$7ge131086"
       },
       "geometry": {
         "type": "Polygon",
@@ -6207,11 +6207,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "550-1160",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kroměříž",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
+        "N245A": "Kroměříž",
+        "N651": "$$aKroměříž (Česko : oblast)$$7ge129683"
       },
       "geometry": {
         "type": "Polygon",
@@ -6246,11 +6246,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "525-1160",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bystřice pod Hostýnem",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
+        "N245A": "Bystřice p. Host.|Bystřice pod Hostýnem",
+        "N651": "$$aBystřice pod Hostýnem (Česko : oblast)$$7ge128871"
       },
       "geometry": {
         "type": "Polygon",
@@ -6285,11 +6285,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "500-1160",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Vsetín",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-mo",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.326)$$2MRF",
+        "N245A": "Vsetín",
+        "N651": "$$aVsetín (Česko : oblast)$$7ge131348"
       },
       "geometry": {
         "type": "Polygon",

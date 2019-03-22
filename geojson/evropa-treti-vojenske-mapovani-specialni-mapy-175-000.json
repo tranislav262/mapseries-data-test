@@ -6,15 +6,15 @@
       "properties": {
         "SHEET": "7162",
         "KOLONNE": "XX",
-        "TITLE": "",
+        "TITLE": "Záliv Spič",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-mo---",
+        "N80": "$$a913(497.16)$$2MRF",
+        "N245A": "Spizza",
+        "N651": "$$aSpič (Černá Hora : záliv)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XX",
+        "ZONE_COL": "Zone 37 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -50,15 +50,15 @@
       "properties": {
         "SHEET": "7163",
         "KOLONNE": "XXI",
-        "TITLE": "",
+        "TITLE": "Skadar",
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Scutari (Škodra)",
+        "N651": "$$aShkodër (Albánie : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XXI",
+        "ZONE_COL": "Zone 37 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -98,11 +98,11 @@
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
+        "N245A": "Ibalja",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XXII",
+        "ZONE_COL": "Zone 37 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -142,11 +142,11 @@
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
+        "N245A": "Kriva Palanka (Egri Palanka)",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XXVII",
+        "ZONE_COL": "Zone 37 Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -186,11 +186,11 @@
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
+        "N245A": "Džumaja",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVIII",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XXVIII",
+        "ZONE_COL": "Zone 37 Col. XXVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -230,11 +230,11 @@
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
+        "N245A": "Mus Alla",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIX",
-        "ZONE_COL": "37",
+        "ZONE_KOL": "Zone 37 Kol. XXIX",
+        "ZONE_COL": "Zone 37 Col. XXIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -8502,7 +8502,7 @@
         "SCALE": "75000",
         "N43": "$$ae-",
         "N80": "$$a913(4",
-        "N245A": "",
+        "N245A": "Kuźmin",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "$$$$$$xxXV",
@@ -32918,12 +32918,12 @@
       "properties": {
         "SHEET": "5957",
         "KOLONNE": "XV",
-        "TITLE": "",
+        "TITLE": "Bosanska Kostajnica a Bosanski Novi",
         "SCALE": "75000",
-        "N43": "$$ae-ci---$$ae-bn---",
-        "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Kostajnica und Novi",
-        "N651": "$$a",
+        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)|$$aBosanski Novi (Bosna a Hercegovina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XV",
         "ZONE_COL": "Zone 25 Col. XV",
@@ -32962,12 +32962,12 @@
       "properties": {
         "SHEET": "5958",
         "KOLONNE": "XVI",
-        "TITLE": "",
+        "TITLE": "Gradiška a Orahova",
         "SCALE": "75000",
-        "N43": "$$ae-ci---$$ae-bn---",
-        "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Alt-Gradiska und Orahova",
+        "N651": "$$aGradiška (Bosna a Hercegovina : oblast)|$$aOrahova (Bosna a Hercegovina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XVI",
         "ZONE_COL": "Zone 25 Col. XVI",
@@ -33006,12 +33006,12 @@
       "properties": {
         "SHEET": "5959",
         "KOLONNE": "XVII",
-        "TITLE": "",
+        "TITLE": "Srbac a Oriovac",
         "SCALE": "75000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Svinjar und Oriovac",
+        "N651": "$$aOriovac (Chorvatsko : oblast)|$$aSrbac (Bosna a Hercegovina : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XVII",
         "ZONE_COL": "Zone 25 Col. XVII",
@@ -33050,12 +33050,12 @@
       "properties": {
         "SHEET": "5960",
         "KOLONNE": "XVIII",
-        "TITLE": "",
+        "TITLE": "Slavonski Brod ",
         "SCALE": "75000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "",
-        "N651": "$$a",
+        "N245A": "Brod",
+        "N651": "$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XVIII",
         "ZONE_COL": "Zone 25 Col. XVIII",
@@ -33098,7 +33098,7 @@
         "SCALE": "75000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Gradište und Bos. Šamac",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XIX",
@@ -33142,7 +33142,7 @@
         "SCALE": "75000",
         "N43": "$$ae-rb---$$ae-ci---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
+        "N245A": "Šarengrad und Batrovci",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XX",
@@ -33186,7 +33186,7 @@
         "SCALE": "75000",
         "N43": "$$ae-rb---$$ae-ci---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
+        "N245A": "Ilok und Ruma",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XXI",
@@ -33230,7 +33230,7 @@
         "SCALE": "75000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
+        "N245A": "Karlowitz und Titel|Karlowitz u. Titel",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XXII",
@@ -33274,7 +33274,7 @@
         "SCALE": "75000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
+        "N245A": "Antalfalva",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XXIII",
@@ -33318,7 +33318,7 @@
         "SCALE": "75000",
         "N43": "$$ae-rb---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
+        "N245A": "Werschetz und Alibunar",
         "N651": "$$a",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 25 Kol. XXIV",
@@ -33497,8 +33497,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "IX",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. IX",
+        "ZONE_COL": "Zone 26 Col. IX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33541,8 +33541,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. X",
+        "ZONE_COL": "Zone 26 Col. X",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33585,8 +33585,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XI",
+        "ZONE_COL": "Zone 26 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33629,8 +33629,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XII",
+        "ZONE_COL": "Zone 26 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33673,8 +33673,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XIII",
+        "ZONE_COL": "Zone 26 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33717,8 +33717,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XIV",
+        "ZONE_COL": "Zone 26 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33761,8 +33761,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XV",
+        "ZONE_COL": "Zone 26 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33805,8 +33805,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XVI",
+        "ZONE_COL": "Zone 26 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33849,8 +33849,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XVII",
+        "ZONE_COL": "Zone 26 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33893,8 +33893,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XVIII",
+        "ZONE_COL": "Zone 26 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33937,8 +33937,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XIX",
+        "ZONE_COL": "Zone 26 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -33981,8 +33981,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XX",
+        "ZONE_COL": "Zone 26 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34025,8 +34025,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XXI",
+        "ZONE_COL": "Zone 26 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34069,8 +34069,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XXII",
+        "ZONE_COL": "Zone 26 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34113,8 +34113,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XXIII",
+        "ZONE_COL": "Zone 26 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34157,8 +34157,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "26",
+        "ZONE_KOL": "Zone 26 Kol. XXIV",
+        "ZONE_COL": "Zone 26 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {

@@ -992,11 +992,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "3752",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Łódź",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Łódź",
+        "N651": "$$aLodž (Polsko : oblast)$$7ge292514"
       },
       "geometry": {
         "type": "Polygon",
@@ -1033,11 +1033,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3852",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Modlin ",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Modlin |Modlin (Nowogeorgiewsk)",
+        "N651": "$$aNowy Dwór Mazowiecki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1074,11 +1074,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "3952",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Warschau",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Warschau",
+        "N651": "$$aVaršava (Polsko : oblast)$$7ge217232"
       },
       "geometry": {
         "type": "Polygon",
@@ -1115,11 +1115,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4052",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Siedlec",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Siedlec",
+        "N651": "$$aSiedlce (Polsko : oblast)$$7ge191386"
       },
       "geometry": {
         "type": "Polygon",
@@ -1156,11 +1156,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4152",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Brest Litowsk",
+        "N43": "$$ae-bw---$$ae-pl---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Brest Litowsk",
+        "N651": "$$aBrest (Bělorusko : oblast)$$7ge214861"
       },
       "geometry": {
         "type": "Polygon",
@@ -1197,11 +1197,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4252",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Wołkowisk",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Wołkowisk",
+        "N651": "$$aVaŭkavysk (Bělorusko : oblast)$$7ge1028544"
       },
       "geometry": {
         "type": "Polygon",
@@ -1238,11 +1238,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4352",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Drogiczyn",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Drogiczyn",
+        "N651": "$$aDrogičin (Bělorusko : oblast)$$7ge563958"
       },
       "geometry": {
         "type": "Polygon",
@@ -1279,11 +1279,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4452",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Pińsk",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Pińsk",
+        "N651": "$$aPinsk (Bělorusko : oblast)$$7ge579940"
       },
       "geometry": {
         "type": "Polygon",
@@ -1320,11 +1320,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4552",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Turow",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Turow",
+        "N651": "$$aTurov (Bělorusko : oblast)$$7ge118174"
       },
       "geometry": {
         "type": "Polygon",
@@ -1361,11 +1361,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4652",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Petrikowo",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Petrikowo",
+        "N651": "$$aPetrykaŭ (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1402,11 +1402,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4752",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Mozyr",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Mozyr",
+        "N651": "$$aMazyr (Bělorusko : oblast)$$7ge577267"
       },
       "geometry": {
         "type": "Polygon",
@@ -1443,11 +1443,11 @@
         "Shape_Area": "1.00000000097",
         "SCALE": "200000",
         "SHEET": "4852",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Reczyca",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Reczyca",
+        "N651": "$$aRečyca (Bělorusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1484,11 +1484,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2751",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Cassel",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Cassel",
+        "N651": "$$aKassel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1525,11 +1525,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "2851",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Meiningen",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Meiningen",
+        "N651": "$$aMeiningen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",

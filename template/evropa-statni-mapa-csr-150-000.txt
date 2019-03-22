@@ -16,7 +16,7 @@ LDR   L -----nem-a22--------4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b50000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -122,7 +122,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000$$bKonformní obecné kuželové zobrazení (Křovákovo){
+255   L $$aMěřítko 1:50 000$$bKonformní obecné kuželové zobrazení (Křovákovo){
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,

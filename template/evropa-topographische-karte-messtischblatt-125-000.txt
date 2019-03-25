@@ -137,7 +137,7 @@ LDR   L -----nem-a22--------4500
     "base":"note",
     "width":20,
     "title":"Další fyzické údaje",
-    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"], pauzovací papír
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
@@ -169,9 +169,25 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
+500   L $$a{
+    "id":"note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
+  }
 500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
-651 7 L {
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,

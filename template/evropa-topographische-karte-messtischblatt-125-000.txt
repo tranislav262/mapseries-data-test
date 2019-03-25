@@ -193,7 +193,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Prusko.$$bLandesaufnahme$$7ko2016928913$$4ant"
+    "Prusko.$$bLandesaufnahme$$7ko2016928913$$4ant",
     "Prusko.$$bLandesaufnahme$$7ko2016928913$$4ant"
     ]
 }

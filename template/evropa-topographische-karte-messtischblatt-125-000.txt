@@ -213,6 +213,20 @@ LDR   L -----nem-a22--------4500
     "Prusko.$$bLandesaufnahme$$7ko2016928913$$4ant"
     ]
 }
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", "1"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Francie.$$bArmée$$bService géographique$$7ko2010571495$$4ant",
+    "Francie.$$bArmée$$bService géographique$$7ko2010571495$$4ant"
+    ]
+}
 830 0 L $$aFrankreich 1:25 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

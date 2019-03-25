@@ -137,8 +137,8 @@ LDR   L -----nem-a22--------4500
     "base":"note",
     "width":20,
     "title":"Další fyzické údaje",
-    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"], pauzovací papír
-  } ;$$c {
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  }, pauzovací papír ;$$c {
   "id": "mapHeight",
   "title": "Výška",
   "width": 3

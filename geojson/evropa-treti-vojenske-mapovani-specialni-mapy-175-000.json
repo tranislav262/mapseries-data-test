@@ -453,8 +453,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XVIII",
+        "ZONE_COL": "Zone 1 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -497,8 +497,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XIX",
+        "ZONE_COL": "Zone 1 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -541,8 +541,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XX",
+        "ZONE_COL": "Zone 1 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -585,8 +585,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXI",
+        "ZONE_COL": "Zone 1 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -629,8 +629,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXII",
+        "ZONE_COL": "Zone 1 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -673,8 +673,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXIII",
+        "ZONE_COL": "Zone 1 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -717,8 +717,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXIV",
+        "ZONE_COL": "Zone 1 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1062,15 +1062,15 @@
       "properties": {
         "SHEET": "3574",
         "KOLONNE": "XXXII",
-        "TITLE": "",
+        "TITLE": "Mielnica",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
-        "N245A": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Mielnica",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXII",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXXII",
+        "ZONE_COL": "Zone 1 Col. XXXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1108,13 +1108,13 @@
         "KOLONNE": "XXXIII",
         "TITLE": "",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXIII",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXXIII",
+        "ZONE_COL": "Zone 1 Col. XXXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1152,13 +1152,13 @@
         "KOLONNE": "XXXIV",
         "TITLE": "",
         "SCALE": "75000",
-        "N43": "$$ae-",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXIV",
-        "ZONE_COL": "1",
+        "ZONE_KOL": "Zone 1 Kol. XXXIV",
+        "ZONE_COL": "Zone 1 Col. XXXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1201,8 +1201,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXV",
-        "ZONE_COL": "2",
+        "ZONE_KOL": "Zone 2 Kol. XXXV",
+        "ZONE_COL": "Zone 2 Col. XXXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1421,8 +1421,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "2",
+        "ZONE_KOL": "Zone 2 Kol. XVIII",
+        "ZONE_COL": "Zone 2 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -1465,8 +1465,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "2",
+        "ZONE_KOL": "Zone 2 Kol. XIX",
+        "ZONE_COL": "Zone 2 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2125,8 +2125,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXIV",
-        "ZONE_COL": "2",
+        "ZONE_KOL": "Zone 2 Kol. XXXIV",
+        "ZONE_COL": "Zone 2 Col. XXXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2169,8 +2169,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXV",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XXXV",
+        "ZONE_COL": "Zone 3 Col. XXXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2565,8 +2565,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XVIII",
+        "ZONE_COL": "Zone 3 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2609,8 +2609,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XIX",
+        "ZONE_COL": "Zone 3 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2653,8 +2653,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XX",
+        "ZONE_COL": "Zone 3 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2697,8 +2697,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XXI",
+        "ZONE_COL": "Zone 3 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2741,8 +2741,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XXII",
+        "ZONE_COL": "Zone 3 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -2785,8 +2785,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "3",
+        "ZONE_KOL": "Zone 3 Kol. XXIII",
+        "ZONE_COL": "Zone 3 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -3313,8 +3313,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXV",
-        "ZONE_COL": "4",
+        "ZONE_KOL": "Zone 4 Kol. XXXV",
+        "ZONE_COL": "Zone 4 Col. XXXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -4633,8 +4633,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXV",
-        "ZONE_COL": "5",
+        "ZONE_KOL": "Zone 5 Kol. XXXV",
+        "ZONE_COL": "Zone 5 Col. XXXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -6569,8 +6569,8 @@
         "N245A": "Bielsko-Biała|Bielitz und Biala|Bielitz und Biała|Bielsk a Biała",
         "N651": "$$aBielsko-Biała (Polsko : oblast)$$7ge116554",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "6",
+        "ZONE_KOL": "Zone 6 Kol. XX",
+        "ZONE_COL": "Zone 6 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -8505,8 +8505,8 @@
         "N245A": "Kuźmin",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXV",
-        "ZONE_COL": "8",
+        "ZONE_KOL": "Zone 8 Kol. XXXV",
+        "ZONE_COL": "Zone 8 Col. XXXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -9561,8 +9561,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxX",
-        "ZONE_COL": "8",
+        "ZONE_KOL": "Zone 8 Kol. XXX",
+        "ZONE_COL": "Zone 8 Col. XXX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34333,8 +34333,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "X",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. X",
+        "ZONE_COL": "Zone 27 Col. X",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34377,8 +34377,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XI",
+        "ZONE_COL": "Zone 27 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34421,8 +34421,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XII",
+        "ZONE_COL": "Zone 27 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34465,8 +34465,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XIII",
+        "ZONE_COL": "Zone 27 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34509,8 +34509,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XIV",
+        "ZONE_COL": "Zone 27 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34553,8 +34553,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XV",
+        "ZONE_COL": "Zone 27 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34597,8 +34597,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XVI",
+        "ZONE_COL": "Zone 27 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34641,8 +34641,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XVII",
+        "ZONE_COL": "Zone 27 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34685,8 +34685,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XVIII",
+        "ZONE_COL": "Zone 27 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34729,8 +34729,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XIX",
+        "ZONE_COL": "Zone 27 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34773,8 +34773,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XX",
+        "ZONE_COL": "Zone 27 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34817,8 +34817,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XXI",
+        "ZONE_COL": "Zone 27 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34861,8 +34861,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XXII",
+        "ZONE_COL": "Zone 27 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34905,8 +34905,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XXIII",
+        "ZONE_COL": "Zone 27 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -34949,8 +34949,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "27",
+        "ZONE_KOL": "Zone 27 Kol. XXIV",
+        "ZONE_COL": "Zone 27 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35125,8 +35125,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XI",
+        "ZONE_COL": "Zone 28 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35169,8 +35169,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XII",
+        "ZONE_COL": "Zone 28 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35213,8 +35213,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XIII",
+        "ZONE_COL": "Zone 28 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35257,8 +35257,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XIV",
+        "ZONE_COL": "Zone 28 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35301,8 +35301,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XV",
+        "ZONE_COL": "Zone 28 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35345,8 +35345,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XVI",
+        "ZONE_COL": "Zone 28 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35389,8 +35389,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XVII",
+        "ZONE_COL": "Zone 28 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35433,8 +35433,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XVIII",
+        "ZONE_COL": "Zone 28 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35477,8 +35477,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XIX",
+        "ZONE_COL": "Zone 28 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35521,8 +35521,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XX",
+        "ZONE_COL": "Zone 28 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35565,8 +35565,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXI",
+        "ZONE_COL": "Zone 28 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35609,8 +35609,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXII",
+        "ZONE_COL": "Zone 28 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35653,8 +35653,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXIII",
+        "ZONE_COL": "Zone 28 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35697,8 +35697,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXIV",
+        "ZONE_COL": "Zone 28 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35741,8 +35741,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXV",
+        "ZONE_COL": "Zone 28 Col. XXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35785,8 +35785,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXVI",
+        "ZONE_COL": "Zone 28 Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35829,8 +35829,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "28",
+        "ZONE_KOL": "Zone 28 Kol. XXVII",
+        "ZONE_COL": "Zone 28 Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35873,8 +35873,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XI",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XI",
+        "ZONE_COL": "Zone 29 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35917,8 +35917,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XII",
+        "ZONE_COL": "Zone 29 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -35961,8 +35961,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XIII",
+        "ZONE_COL": "Zone 29 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36005,8 +36005,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XIV",
+        "ZONE_COL": "Zone 29 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36049,8 +36049,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XV",
+        "ZONE_COL": "Zone 29 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36093,8 +36093,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XVI",
+        "ZONE_COL": "Zone 29 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36137,8 +36137,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XVII",
+        "ZONE_COL": "Zone 29 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36181,8 +36181,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XVIII",
+        "ZONE_COL": "Zone 29 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36225,8 +36225,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XIX",
+        "ZONE_COL": "Zone 29 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36269,8 +36269,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XX",
+        "ZONE_COL": "Zone 29 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36313,8 +36313,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXI",
+        "ZONE_COL": "Zone 29 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36357,8 +36357,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXII",
+        "ZONE_COL": "Zone 29 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36401,8 +36401,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXIII",
+        "ZONE_COL": "Zone 29 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36445,8 +36445,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXIV",
+        "ZONE_COL": "Zone 29 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36489,8 +36489,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXV",
+        "ZONE_COL": "Zone 29 Col. XXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36533,8 +36533,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXVI",
+        "ZONE_COL": "Zone 29 Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36577,8 +36577,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "29",
+        "ZONE_KOL": "Zone 29 Kol. XXVII",
+        "ZONE_COL": "Zone 29 Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36621,8 +36621,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XII",
+        "ZONE_COL": "Zone 30 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36665,8 +36665,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XIII",
+        "ZONE_COL": "Zone 30 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36709,8 +36709,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIV",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XIV",
+        "ZONE_COL": "Zone 30 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36753,8 +36753,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XV",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XV",
+        "ZONE_COL": "Zone 30 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36797,8 +36797,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVI",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XVI",
+        "ZONE_COL": "Zone 30 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36841,8 +36841,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XVII",
+        "ZONE_COL": "Zone 30 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36885,8 +36885,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XVIII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XVIII",
+        "ZONE_COL": "Zone 30 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36929,8 +36929,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "XIX",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XIX",
+        "ZONE_COL": "Zone 30 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -36973,8 +36973,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xx",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XX",
+        "ZONE_COL": "Zone 30 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37017,8 +37017,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxI",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXI",
+        "ZONE_COL": "Zone 30 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37061,8 +37061,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXII",
+        "ZONE_COL": "Zone 30 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37105,8 +37105,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXIII",
+        "ZONE_COL": "Zone 30 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37149,8 +37149,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxIV",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXIV",
+        "ZONE_COL": "Zone 30 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37193,8 +37193,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxV",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXV",
+        "ZONE_COL": "Zone 30 Col. XXV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37237,8 +37237,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVI",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXVI",
+        "ZONE_COL": "Zone 30 Col. XXVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -37281,8 +37281,8 @@
         "N245A": "",
         "N651": "$$a",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxVII",
-        "ZONE_COL": "30",
+        "ZONE_KOL": "Zone 30 Kol. XXVII",
+        "ZONE_COL": "Zone 30 Col. XXVII",
         "ZONE_CSR": ""
       },
       "geometry": {

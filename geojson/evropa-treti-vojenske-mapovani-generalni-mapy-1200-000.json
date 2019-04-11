@@ -5407,10 +5407,10 @@
         "TITLE": "Leipzig",
         "SCALE": "200000",
         "SHEET": "3051",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Leipzig",
-        "N651": "$$a",
+        "N651": "$$aLipsko (Německo : oblast)$$7ge327542",
         "POZNAMKA": "Leipzig"
       },
       "geometry": {
@@ -6287,10 +6287,10 @@
         "TITLE": "Kielce",
         "SCALE": "200000",
         "SHEET": "3851",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Kielce",
-        "N651": "$$a",
+        "N651": "$$aKielce (Polsko : oblast)$$7ge134268",
         "POZNAMKA": "Kielce"
       },
       "geometry": {
@@ -6887,10 +6887,10 @@
         "TITLE": "Radom",
         "SCALE": "200000",
         "SHEET": "3951",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Radom",
-        "N651": "$$a",
+        "N651": "$$aRadom (Polsko : oblast)$$7ge129497",
         "POZNAMKA": "Radom"
       },
       "geometry": {
@@ -7727,10 +7727,10 @@
         "TITLE": "Chabnoje",
         "SCALE": "200000",
         "SHEET": "4751",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Chabnoje",
-        "N651": "$$a",
+        "N651": "$$aPoliske (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9167,10 +9167,10 @@
         "TITLE": "Rowno",
         "SCALE": "200000",
         "SHEET": "4451",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Rowno",
-        "N651": "$$a",
+        "N651": "$$aRovno (Ukrajina : oblast)$$7ge1031522",
         "POZNAMKA": "Rowno"
       },
       "geometry": {
@@ -9687,10 +9687,10 @@
         "TITLE": "Rokitno",
         "SCALE": "200000",
         "SHEET": "4551",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Rokitno",
-        "N651": "$$a",
+        "N651": "$$aRokytne (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {

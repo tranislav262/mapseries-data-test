@@ -1773,11 +1773,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3751",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Częstochowa",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Częnstochowa|Częstochowa",
+        "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138"
       },
       "geometry": {
         "coordinates": [
@@ -1815,11 +1815,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "3851",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kielce",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Kielce",
+        "N651": "$$aKielce (Polsko : oblast)$$7ge134268"
       },
       "geometry": {
         "coordinates": [
@@ -1857,11 +1857,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "3951",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Radom",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Radom",
+        "N651": "$$aRadom (Polsko : oblast)$$7ge129497"
       },
       "geometry": {
         "coordinates": [
@@ -1899,11 +1899,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4051",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Lublin",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Lublin",
+        "N651": "$$aLublin (Polsko : oblast)$$7ge251172"
       },
       "geometry": {
         "coordinates": [
@@ -1941,11 +1941,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4151",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Zamość",
+        "N43": "$$ae-pl---$$ae-un---",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Zamość",
+        "N651": "$$aZamość (Polsko : oblast)$$7ge828836"
       },
       "geometry": {
         "coordinates": [
@@ -1983,11 +1983,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4251",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kowel",
+        "N43": "$$ae-un---$$ae-pl---",
+        "N80": "$$a913(477)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Kowel",
+        "N651": "$$aKovel’ (Ukrajina : oblast)$$7ge258349"
       },
       "geometry": {
         "coordinates": [
@@ -2025,11 +2025,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4351",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Łuck",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Łuck",
+        "N651": "$$aLuck (Ukrajina : oblast)$$7ge251175"
       },
       "geometry": {
         "coordinates": [
@@ -2067,11 +2067,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4451",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rowne ",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
+        "N245A": "Rowne|Równe",
+        "N651": "$$aRovno (Ukrajina : oblast)$$7ge1031522"
       },
       "geometry": {
         "coordinates": [
@@ -2109,11 +2109,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4551",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Rokitno",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Rokitno",
+        "N651": "$$aRokytne (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2151,11 +2151,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4651",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Owrucz",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Owrucz",
+        "N651": "$$aOvruč (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2193,11 +2193,11 @@
         "Shape_Area": "0.999999999174",
         "SCALE": "200000",
         "SHEET": "4751",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Chabnoje",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Chabnoje",
+        "N651": "$$aPoliske (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2235,11 +2235,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4851",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Czernobyl",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
+        "N245A": "Czernobyl",
+        "N651": "$$aČernobyl (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [

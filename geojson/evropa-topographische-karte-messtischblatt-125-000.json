@@ -150367,11 +150367,11 @@
         "SCALE": "25000",
         "SHEET": "6505",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Merzig",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N245A": "Merzig",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aMerzig (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -150407,11 +150407,11 @@
         "SCALE": "25000",
         "SHEET": "6506",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Reimsbach",
+        "N43": "$$ae-gx---",
+        "N245A": "Reimsbach",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aReimsbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -153847,11 +153847,11 @@
         "SCALE": "25000",
         "SHEET": "6706",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Ludweiler",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N245A": "Ludweiler",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aLudweiler (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -153887,11 +153887,11 @@
         "SCALE": "25000",
         "SHEET": "6707",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Saarbrücken",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N245A": "Saarbrücken",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aSaarbrücken (Německo : oblast)$$7ge134466"
       },
       "geometry": {
         "type": "Polygon",
@@ -153927,11 +153927,11 @@
         "SCALE": "25000",
         "SHEET": "6708",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "St. Johann",
+        "N43": "$$ae-gx---",
+        "N245A": "St. Johann",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aSaarbrücken (Německo : oblast)$$7ge134466"
       },
       "geometry": {
         "type": "Polygon",
@@ -153967,11 +153967,11 @@
         "SCALE": "25000",
         "SHEET": "6709",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Blieskastel ",
+        "N43": "$$ae-gx---",
+        "N245A": "Blieskastel ",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aBlieskastel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",

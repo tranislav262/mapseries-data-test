@@ -148727,11 +148727,11 @@
         "SCALE": "25000",
         "SHEET": "6405",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Freudenburg ",
+        "N43": "$$ae-gx---",
+        "N245A": "Freudenburg ",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aFreudenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -148767,11 +148767,11 @@
         "SCALE": "25000",
         "SHEET": "6406",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Losheim",
+        "N43": "$$ae-gx---",
+        "N245A": "Losheim",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aLosheim am See (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152047,11 +152047,11 @@
         "SCALE": "25000",
         "SHEET": "6605",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Hemmersdorf",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N245A": "Hemmersdorf",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aHemmersdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152087,11 +152087,11 @@
         "SCALE": "25000",
         "SHEET": "6606",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Saarlautern",
+        "N43": "$$ae-gx---",
+        "N245A": "Saarlautern ",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aSaarlouis (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152127,11 +152127,11 @@
         "SCALE": "25000",
         "SHEET": "6607",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Heusweiler",
+        "N43": "$$ae-gx---",
+        "N245A": "Heusweiler",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aHeusweiler (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152167,11 +152167,11 @@
         "SCALE": "25000",
         "SHEET": "6608",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Illingen",
+        "N43": "$$ae-gx---",
+        "N245A": "Illingen",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aIllingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152207,11 +152207,11 @@
         "SCALE": "25000",
         "SHEET": "6609",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Neunkirchen (Saar)",
+        "N43": "$$ae-gx---",
+        "N245A": "Neunkirchen (Saar)",
+        "N80": "$$a913(430)$$2MRF",
+        "N651": "$$aNeunkirchen (Sársko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -155647,11 +155647,11 @@
         "SCALE": "25000",
         "SHEET": "6807",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Forbach",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N245A": "Forbach",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aForbach (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -155687,11 +155687,11 @@
         "SCALE": "25000",
         "SHEET": "6808",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Saargmünd",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N245A": "Saargmünd",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aSarreguemines (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -155727,11 +155727,11 @@
         "SCALE": "25000",
         "SHEET": "6809",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "",
-        "N245A": "",
-        "N80": "",
-        "N651": ""
+        "TITLE": "Gersheim",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N245A": "Gersheim",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aGersheim (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",

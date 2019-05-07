@@ -378,10 +378,10 @@
         "SCALE": "50000",
         "SHEET": "M-33-43-B",
         "TITLE": "Jindřichovice pod Smrkem",
-        "N43": "$$ae-xr---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.3)$$2MRF",
         "N245A": "Jindřichovice p. Smrkem",
-        "N651": ""
+        "N651": "$$aJindřichovice pod Smrkem"
       },
       "geometry": {
         "type": "Polygon",

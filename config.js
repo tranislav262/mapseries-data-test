@@ -193,7 +193,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1946 (S46) 1:50 000",
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:50 000",
       layer: "evropa-souradnicovy-system-1942-s42",
       template: "evropa-souradnicovy-system-1942-s42.txt",
       formatFunctions: {
@@ -207,7 +207,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1946 (S46) 1:200 000",
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
       layer: "evropa-souradnicovy-system-1942-s42-1200-000",
       template: "evropa-souradnicovy-system-1942-s42-1200-000.txt",
       formatFunctions: {

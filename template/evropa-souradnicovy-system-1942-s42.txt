@@ -155,7 +155,10 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 3
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme 1:50 000] ; $$v{
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Prozatímní mapa ČSR 1:50 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -166,6 +169,13 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
+500   L $$a{
+    "id": "note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+  }
+500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -185,10 +195,10 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    ""
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:50 000 ;$$v{
+830 0 L $$aProzatímní mapa ČSR 1:50 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

@@ -6495,11 +6495,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Louny",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
+        "N80": "$$913(437.315)$$2MRF|$$913(437.312)$$2MRF",
+        "N245A": "Louny",
+        "N651": "$$aLouny (Česko : oblast)$$7ge129878"
       },
       "geometry": {
         "type": "Polygon",
@@ -6701,11 +6701,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-21",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kralupy nad Vltavou",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-us",
+        "N80": "$$913(437.312)$$2MRF|$$913(437.315)$$2MRF",
+        "N245A": "Kralupy nad Vltavou",
+        "N651": "$$aKralupy nad Vltavou (Česko : oblast)$$7ge129671"
       },
       "geometry": {
         "type": "Polygon",
@@ -7731,11 +7731,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "13-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Benátky nad Jizerou",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$913(437.312)$$2MRF",
+        "N245A": "Benátky nad Jizerou",
+        "N651": "$$aBenátky nad Jizerou (Česko : oblast)$$7ge128747"
       },
       "geometry": {
         "type": "Polygon",
@@ -9173,11 +9173,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "13-14",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nymburk",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$913(437.312)$$2MRF",
+        "N245A": "Nymburk",
+        "N651": "$$aNymburk (Česko : oblast)$$7ge130259"
       },
       "geometry": {
         "type": "Polygon",
@@ -10512,11 +10512,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-32",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Zdice",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-pl",
+        "N80": "$$913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
+        "N245A": "Zdice",
+        "N651": "$$aZdice (Česko : oblast)$$7ge409916"
       },
       "geometry": {
         "type": "Polygon",
@@ -14838,11 +14838,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "22-22",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sedlčany",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc",
+        "N80": "$$913(437.312)$$2MRF|$$a913(437.319)$$2MRF",
+        "N245A": "Sedlčany",
+        "N651": "$$aSedlčany (Česko : oblast)$$7ge130764"
       },
       "geometry": {
         "type": "Polygon",
@@ -15353,11 +15353,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "23-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Vlašim",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc$$be-xr-vy",
+        "N80": "$$913(437.312)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Vlašim",
+        "N651": "$$aVlašim (Česko : oblast)$$7ge131312"
       },
       "geometry": {
         "type": "Polygon",
@@ -27852,11 +27852,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "35-13",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Myjava",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF",
+        "N245A": "Myjava",
+        "N651": "$$aMyjava (Slovensko : oblast)$$7ge291829"
       },
       "geometry": {
         "type": "Polygon",

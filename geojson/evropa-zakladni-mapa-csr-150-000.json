@@ -15559,11 +15559,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "23-22",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Žďár nad Sázavou",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
+        "N245A": "Žďár n. Sáz|Žďár nad Sázavou",
+        "N651": "$$aŽďár nad Sázavou (Česko : oblast)$$7ge131632"
       },
       "geometry": {
         "type": "Polygon",
@@ -16589,11 +16589,11 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "24-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Nové Město na Moravě",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
+        "N245A": "Nové Město na Moravě",
+        "N651": "$$aNové Město na Moravě (Česko : oblast)$$7ge130227"
       },
       "geometry": {
         "type": "Polygon",

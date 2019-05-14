@@ -89,10 +89,12 @@ LDR   L -----nem-a22--------4500
       {"attr":"SHEET", "formatFunction":"addDegrees"}
     ]
 },$$p{
+  "id":"N245P",
   "title": "Název listu",
     "width": 15,
-    "value": {
-      "attr": "N245P"
+    "values": [
+      {"attr": "N245P"}
+      ]
       } /$$c{
     "base":"corporation",
     "width": 160,

@@ -10822,12 +10822,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "13-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hradec Králové",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa",
+        "N80": "$$913(437.313)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hradec Králové",
+        "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
       "geometry": {
         "type": "Polygon",
@@ -10926,12 +10926,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-41",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Beroun",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
+        "N80": "$$913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Beroun",
+        "N651": "$$aBeroun (Česko : oblast)$$7ge134063"
       },
       "geometry": {
         "type": "Polygon",
@@ -12798,12 +12798,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "15-23",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hlučín",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hlučín",
+        "N651": "$$aHlučín (Česko : oblast)$$7ge134215"
       },
       "geometry": {
         "type": "Polygon",
@@ -13526,12 +13526,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-34",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hořovice",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-pl",
+        "N80": "$$913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hořovice",
+        "N651": "$$aHořovice (Česko : oblast)$$7ge201219"
       },
       "geometry": {
         "type": "Polygon",
@@ -13630,12 +13630,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "15-41",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hlučín",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hlučín",
+        "N651": "$$aHlučín (Česko : oblast)$$7ge134215"
       },
       "geometry": {
         "type": "Polygon",

@@ -76,11 +76,11 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": ["kn20010725011", "ko2005263855"]
   }
 24510 L $$a{
-    "title": "Název listu",
+    "title": "Název",
     "value": {
       "attr": "N245A"
     }
-  }.$$p{
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
@@ -88,7 +88,12 @@ LDR   L -----nem-a22--------4500
       {"attr":"SHEET"},
       {"attr":"SHEET", "formatFunction":"addDegrees"}
     ]
-} /$$c{
+},$$p{
+  "title": "Název listu",
+    "width": 15,
+    "value": {
+      "attr": "N245P"
+      } /$$c{
     "base":"corporation",
     "width": 160,
     "title": "Údaj o odpovědnosti",

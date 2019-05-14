@@ -77,6 +77,7 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název",
+    "width": 25,
     "value": {
       "attr": "N245A"
     }
@@ -85,8 +86,7 @@ LDR   L -----nem-a22--------4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
+      {"attr":"SHEET"}
     ]
 },$$p{
   "id":"N245P",

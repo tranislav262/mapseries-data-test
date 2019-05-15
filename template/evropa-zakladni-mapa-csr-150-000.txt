@@ -105,18 +105,12 @@ LDR   L -----nem-a22--------4500
     ]
   }
 24630 L $$a{
-     "title": "Název části"
-     "enabled": false,
-       "value": {
-      "attr": "N245P"
-    }
+    "base": "N245P",
+    "title": "Název části"
   }
 24630 L $$a{
+    "base": "sheet",
     "title": "Název části"
-    "enabled": false,
-       "value": {
-      "attr": "sheet"
-    }
   }
 250   L $$a{
     "id":"poradi_vydani",

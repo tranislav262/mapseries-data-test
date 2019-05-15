@@ -838,12 +838,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-13",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Petrovice",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Petrovice",
+        "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
       },
       "geometry": {
         "type": "Polygon",
@@ -1670,12 +1670,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-14",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Petrovice",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Petrovice",
+        "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
       },
       "geometry": {
         "type": "Polygon",
@@ -5518,12 +5518,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "11-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Aš",
+        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Aš",
+        "N651": "$$aAš (Česko : oblast)$$7ge128700"
       },
       "geometry": {
         "type": "Polygon",
@@ -8742,12 +8742,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Praha",
+        "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
+        "N80": "$$913(437.311)$$2MRF|$$913(437.312)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Praha",
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
         "type": "Polygon",
@@ -12902,12 +12902,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "13-42",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Pardubice",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Pardubice",
+        "N651": "$$aPardubice (Česko : oblast)$$7ge130371"
       },
       "geometry": {
         "type": "Polygon",
@@ -13422,12 +13422,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "21-12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rozvadov",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
+        "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rozvadov",
+        "N651": "$$aRozvadov (Česko : oblast)$$7ge327092"
       },
       "geometry": {
         "type": "Polygon",
@@ -14774,12 +14774,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "21-21",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Bělá nad Radbuzou",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$913(437.317)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Bělá nad Radbuzou",
+        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
       },
       "geometry": {
         "type": "Polygon",
@@ -20402,12 +20402,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "26-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jablunkov",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jablunkov",
+        "N651": "$$aJablunkov (Česko : oblast)$$7ge129411"
       },
       "geometry": {
         "type": "Polygon",
@@ -24154,12 +24154,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "24-43",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Šlapanice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Šlapanice",
+        "N651": "$$aŠlapanice (Brno-venkov, Česko : oblast)$$7ge491145"
       },
       "geometry": {
         "type": "Polygon",
@@ -24686,12 +24686,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "26-41",
-        "TITLE": "Jablunkov",
+        "TITLE": "",
         "N43": "",
         "N80": "",
         "N245A": "Geologická mapa ČSR|Mapa ložisek nerostných surovin ČSR",
-        "N245P": "Jablunkov",
-        "N651": "$$aJablunkov (Česko : oblast)$$7ge129411"
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",

@@ -16,7 +16,7 @@ LDR   L -----nem-a22--------4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b50000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -121,7 +121,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:50 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -183,7 +183,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání:
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+650 7 L $$atopografické mapování$$7ph126690$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -201,7 +201,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce",
   "width": 100,
   "valuesByBaseIndex": [
-    "",
+    "7102  L $$aČeský úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }

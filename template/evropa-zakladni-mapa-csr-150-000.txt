@@ -169,7 +169,6 @@ LDR   L -----nem-a22--------4500
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
-      {},
       {"attr":"SHEET"}
     ]
   }, {

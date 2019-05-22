@@ -840,7 +840,7 @@
         "SHEET": "02-13",
         "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Petrovice",
         "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
@@ -1672,7 +1672,7 @@
         "SHEET": "02-14",
         "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Petrovice",
         "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
@@ -5520,7 +5520,7 @@
         "SHEET": "11-11",
         "TITLE": "Aš",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
-        "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Aš",
         "N651": "$$aAš (Česko : oblast)$$7ge128700"
@@ -12800,7 +12800,7 @@
         "SHEET": "15-23",
         "TITLE": "Hlučín",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
-        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Hlučín",
         "N651": "$$aHlučín (Česko : oblast)$$7ge134215"
@@ -13424,7 +13424,7 @@
         "SHEET": "21-12",
         "TITLE": "Rozvadov",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
-        "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Rozvadov",
         "N651": "$$aRozvadov (Česko : oblast)$$7ge327092"
@@ -13528,7 +13528,7 @@
         "SHEET": "12-34",
         "TITLE": "Hořovice",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pl",
-        "N80": "$$913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Hořovice",
         "N651": "$$aHořovice (Česko : oblast)$$7ge201219"
@@ -13632,7 +13632,7 @@
         "SHEET": "15-41",
         "TITLE": "Hlučín",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
-        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Hlučín",
         "N651": "$$aHlučín (Česko : oblast)$$7ge134215"
@@ -14776,7 +14776,7 @@
         "SHEET": "21-21",
         "TITLE": "Bělá nad Radbuzou",
         "N43": "$$ae-xr---$$be-xr-pl",
-        "N80": "$$913(437.317)$$2MRF",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Bělá nad Radbuzou",
         "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
@@ -14984,7 +14984,7 @@
         "SHEET": "22-22",
         "TITLE": "Sedlčany",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc",
-        "N80": "$$913(437.312)$$2MRF|$$a913(437.319)$$2MRF",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.319)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Sedlčany",
         "N651": "$$aSedlčany (Česko : oblast)$$7ge130764"
@@ -15504,7 +15504,7 @@
         "SHEET": "23-11",
         "TITLE": "Vlašim",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc$$be-xr-vy",
-        "N80": "$$913(437.312)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Vlašim",
         "N651": "$$aVlašim (Česko : oblast)$$7ge131312"
@@ -20404,7 +20404,7 @@
         "SHEET": "26-11",
         "TITLE": "Jablunkov",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
-        "N80": "$$913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Mapa geofaktorů životního prostředí ČSR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Jablunkov",
         "N651": "$$aJablunkov (Česko : oblast)$$7ge129411"

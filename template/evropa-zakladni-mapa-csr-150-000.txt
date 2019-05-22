@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$919
+072 7 L $$a55$$xVědy o Zemi. Geologické vědy$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a55$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -55,8 +55,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)528.42 $$2MRF
-080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3)55$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -138,6 +137,17 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
+264   L $$a{
+    "base":"corporation",
+    "width": 40,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "Praha :$$bVojenský zeměpisný ústav,"
+    ]
+  }$$c{
+    "base":"year"
+  }
 300   L $$a1 mapa :$$b{
     "base":"note",
     "width":20,
@@ -181,7 +191,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání:
-650 7 L $$atopografické mapování$$7ph126690$$2czenas
+650 7 L $$ageologie$$7ph114622$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -192,8 +202,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$atopografické mapy$$7fd809173
-655 7 L $$avojenské mapy$$7fd133817
+655 7 L $$ageologické mapy$$7fd132402
 {
   "base":"corporation",
   "title": "Bibliografický předchůdce",

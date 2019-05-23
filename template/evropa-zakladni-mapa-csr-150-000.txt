@@ -131,7 +131,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praha :$$bÚstřední ústav geologický,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
@@ -190,7 +190,7 @@ LDR   L -----nem-a22--------4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání:
+500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací 
 650 7 L $$ageologie$$7ph114622$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",

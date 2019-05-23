@@ -84,7 +84,7 @@ LDR   L -----nem-a22--------4500
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
-    "value": {"SHEET"}
+    "value": {"attr":"SHEET"}
 },$$p{
   "id":"N245P",
   "title": "Název listu",

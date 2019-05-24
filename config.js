@@ -207,20 +207,6 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
-      layer: "evropa-souradnicovy-system-1942-s42-1200-000",
-      template: "evropa-souradnicovy-system-1942-s42-1200-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
       title: "Evropa: Karte Slowakei 1:75 000",
       layer: "evropa-karte-slowakei-175-000",
       template: "evropa-karte-slowakei-175-000.txt",
@@ -389,7 +375,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000 oprava",
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
       layer: "evropa-souradnicovy-system-1942-s42-1200-000-oprava",
       template: "evropa-souradnicovy-system-1942-s42-1200-000-oprava.txt",
       formatFunctions: {

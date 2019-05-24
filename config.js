@@ -373,6 +373,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Geologische Karte der Provinz Preussen 1:100 000",
+      layer: "evropa-geologische-karte-der-provinz-preussen-1100-000",
+      template: "evropa-geologische-karte-der-provinz-preussen-1100-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

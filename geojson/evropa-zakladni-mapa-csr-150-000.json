@@ -2918,12 +2918,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-31",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Litvínov",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Litvínov",
+        "N651": "$$aLitvínov (Česko : oblast)$$7ge129852"
       },
       "geometry": {
         "type": "Polygon",
@@ -3231,7 +3231,7 @@
         "SCALE": "50000",
         "SHEET": "03-23",
         "TITLE": "Harrachov",
-        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-xr-pl",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-xr-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
         "N245P": "Harrachov",
@@ -4166,12 +4166,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "01-44",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Vejprty",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Vejprty",
+        "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
       },
       "geometry": {
         "type": "Polygon",
@@ -4998,12 +4998,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "04-31",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Meziměstí",
+        "N43": "$$ae-xr---$$be-xr-kr$$ae-xr-pl",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Meziměstí",
+        "N651": "$$aMeziměstí (Česko : oblast)$$7ge452593"
       },
       "geometry": {
         "type": "Polygon",
@@ -7182,12 +7182,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Žatec",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Žatec",
+        "N651": "$$aŽatec (Louny, Česko : oblast)$$7ge131589"
       },
       "geometry": {
         "type": "Polygon",
@@ -9366,12 +9366,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "14-12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Deštné v Orlických horách",
+        "N43": "$$ae-xr---$$be-xr-krl$$ae-pl---",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Deštné v Orlických horách",
+        "N651": "$$aDeštné v Orlických horách (Česko : oblast)$$7ge579762"
       },
       "geometry": {
         "type": "Polygon",
@@ -10302,12 +10302,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "14-23",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Králíky",
+        "N43": "$$ae-xr---$$be-xr-pa$$be-xr-ol$$ae-pl---",
+        "N80": "$$a913(437.314)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Králíky",
+        "N651": "$$aKrálíky (Česko : oblast)$$7"
       },
       "geometry": {
         "type": "Polygon",
@@ -13214,12 +13214,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "12-43",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Dobříš",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Dobříš",
+        "N651": "$$aDobříš (Česko : oblast)$$7ge206765"
       },
       "geometry": {
         "type": "Polygon",
@@ -22074,12 +22074,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "24-32",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Brno",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Brno",
+        "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
         "type": "Polygon",
@@ -24050,12 +24050,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "24-34",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Ivančice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Ivančice",
+        "N651": "$$aIvančice (Česko : oblast)$$7ge129402"
       },
       "geometry": {
         "type": "Polygon",
@@ -26042,12 +26042,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "33-21",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Slavonice",
+        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-jm$$be-vy$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Slavonice",
+        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846"
       },
       "geometry": {
         "type": "Polygon",
@@ -27602,12 +27602,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "33-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hnanice",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hnanice",
+        "N651": "$$aHnanice (Znojmo, Česko : oblast)$$7ge579856"
       },
       "geometry": {
         "type": "Polygon",

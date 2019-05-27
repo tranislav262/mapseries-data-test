@@ -94,7 +94,7 @@ LDR   L -----nem-a22--------4500
       ]
       } /$$c{
     "base":"corporation",
-    "width": 160,
+    "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Vydal Ústřední ústav geologický",

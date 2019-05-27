@@ -193,6 +193,20 @@ mapseries.config = {
       }
     },
     {
+      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorat)",
+      layer: "evropa-deutsche-heereskarte-150-000-protektorat",
+      template: "evropa-deutsche-heereskarte-150-000-protektorat.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
       title: "Svět: Karta mira 1:2 500 000",
       layer: "svet-karta-mira-12-500-000",
       template: "svet-karta-mira-12-500-000.txt",
@@ -221,20 +235,6 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Souřadnicový systém 1942 (S42) 1:50 000",
-      layer: "evropa-souradnicovy-system-1942-s42",
-      template: "evropa-souradnicovy-system-1942-s42.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
       title: "Evropa: Normální mezinárodní letecká mapa 1:200 000",
       layer: "evropa-normalni-mezinarodni-letecka-mapa-1200-000",
       template: "evropa-normalni-mezinarodni-letecka-mapa-1200-000.txt",
@@ -249,9 +249,23 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Deutsche Heereskarte 1:50 000 (Protektorat)",
-      layer: "evropa-deutsche-heereskarte-150-000-protektorat",
-      template: "evropa-deutsche-heereskarte-150-000-protektorat.txt",
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
+      layer: "evropa-souradnicovy-system-1942-s42-1200-000-oprava",
+      template: "evropa-souradnicovy-system-1942-s42-1200-000-oprava.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:50 000",
+      layer: "evropa-souradnicovy-system-1942-s42",
+      template: "evropa-souradnicovy-system-1942-s42.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -266,6 +280,20 @@ mapseries.config = {
       title: "Evropa: Základní mapa ČSR 1:200 000",
       layer: "evropa-zakladni-mapa-csr-1200-000",
       template: "evropa-zakladni-mapa-csr-1200-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
+      title: "Evropa: Základní mapa ČSR 1:100 000",
+      layer: "evropa-zakladni-mapa-csr-1100-000",
+      template: "evropa-zakladni-mapa-csr-1100-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -305,9 +333,9 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Topographische Karte (Messtischblatt) 1:25 000",
-      layer: "evropa-topographische-karte-messtischblatt-125-000",
-      template: "evropa-topographische-karte-messtischblatt-125-000.txt",
+      title: "Evropa: Státní mapa ČSR 1:50 000",
+      layer: "evropa-statni-mapa-csr-150-000",
+      template: "evropa-statni-mapa-csr-150-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -319,9 +347,9 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Státní mapa ČSR 1:50 000",
-      layer: "evropa-statni-mapa-csr-150-000",
-      template: "evropa-statni-mapa-csr-150-000.txt",
+      title: "Evropa: Topographische Karte (Messtischblatt) 1:25 000",
+      layer: "evropa-topographische-karte-messtischblatt-125-000",
+      template: "evropa-topographische-karte-messtischblatt-125-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -347,37 +375,9 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Základní mapa ČSR 1:100 000",
-      layer: "evropa-zakladni-mapa-csr-1100-000",
-      template: "evropa-zakladni-mapa-csr-1100-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
       title: "Evropa: Geologische Karte der Provinz Preussen 1:100 000",
       layer: "evropa-geologische-karte-der-provinz-preussen-1100-000",
       template: "evropa-geologische-karte-der-provinz-preussen-1100-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
-      title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
-      layer: "evropa-souradnicovy-system-1942-s42-1200-000-oprava",
-      template: "evropa-souradnicovy-system-1942-s42-1200-000-oprava.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';

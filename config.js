@@ -123,6 +123,20 @@ mapseries.config = {
       }
     },
     {
+      title: "Evropa: Deutsche Heereskarte 1:200 000",
+      layer: "evropa-deutsche-heereskarte-1200-000",
+      template: "evropa-deutsche-heereskarte-1200-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
       title: "Evropa: Deutsche Heereskarte Bulgarien 1:100 000",
       layer: "evropa-deutsche-heereskarte-bulgarien-1100-000",
       template: "evropa-deutsche-heereskarte-bulgarien-1100-000.txt",
@@ -151,9 +165,23 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Deutsche Heereskarte 1:200 000",
-      layer: "evropa-deutsche-heereskarte-1200-000",
-      template: "evropa-deutsche-heereskarte-1200-000.txt",
+      title: "Evropa: Karte Slowakei 1:75 000",
+      layer: "evropa-karte-slowakei-175-000",
+      template: "evropa-karte-slowakei-175-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
+    },
+    {
+      title: "Evropa: Karte Ungarn 1:75 000",
+      layer: "evropa-karte-ungarn-175-000",
+      template: "evropa-karte-ungarn-175-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -196,34 +224,6 @@ mapseries.config = {
       title: "Evropa: Souřadnicový systém 1942 (S42) 1:50 000",
       layer: "evropa-souradnicovy-system-1942-s42",
       template: "evropa-souradnicovy-system-1942-s42.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
-      title: "Evropa: Karte Slowakei 1:75 000",
-      layer: "evropa-karte-slowakei-175-000",
-      template: "evropa-karte-slowakei-175-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
-      title: "Evropa: Karte Ungarn 1:75 000",
-      layer: "evropa-karte-ungarn-175-000",
-      template: "evropa-karte-ungarn-175-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';

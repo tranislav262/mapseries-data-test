@@ -6,7 +6,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-VIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -41,7 +46,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-IX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +86,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-X",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -111,7 +126,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -146,7 +166,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -181,7 +206,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XIV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -216,7 +246,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -251,7 +286,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XVI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -286,7 +326,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XVII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -321,7 +366,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XVIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -356,7 +406,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -391,7 +446,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XIX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -426,7 +486,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -461,7 +526,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -496,7 +566,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -531,7 +606,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -566,7 +646,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXIV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -601,7 +686,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XIX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -636,7 +726,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -671,7 +766,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -706,7 +806,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -741,7 +846,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -776,7 +886,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXVI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -811,7 +926,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXVII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -846,7 +966,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXVIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -881,7 +1006,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXIX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -916,7 +1046,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -951,7 +1086,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -986,7 +1126,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1021,7 +1166,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1056,7 +1206,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1091,7 +1246,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXIX",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1126,7 +1286,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXXIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1161,7 +1326,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXXV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1196,7 +1366,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXXVI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1231,7 +1406,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXI",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1266,7 +1446,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1301,7 +1486,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXIII",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1336,7 +1526,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXIV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1371,7 +1566,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXV",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1406,7 +1606,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "L-33-VI",
-        "TITLE": ""
+        "TITLE": "Čalovo",
+        "N43": "",
+        "N80": "",
+        "N245A": "Čalovo",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1441,7 +1646,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "L-34-I",
-        "TITLE": ""
+        "TITLE": "Nové Zámky",
+        "N43": "$$ae-xo---",
+        "N80": "",
+        "N245A": "Nové Zámky",
+        "N245P": "",
+        "N651": "$$aNové Zámky (Slovensko : oblast)$$7ge900871"
       },
       "geometry": {
         "type": "Polygon",

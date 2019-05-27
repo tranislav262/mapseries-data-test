@@ -7,12 +7,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-21",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Dolní Poustevna",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Dolní Poustevna",
+        "N651": "$$aDolní Poustevna (Česko : oblast)$$7ge574890"
       },
       "geometry": {
         "coordinates": [
@@ -1372,12 +1372,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "01-42",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Načetín",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Načetín",
+        "N651": "$$aNačetín (Kalek, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1582,12 +1582,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "01-34",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rolava",
+        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rolava",
+        "N651": "$$aPřebuz (Česko : oblast)$$7ge370134"
       },
       "geometry": {
         "coordinates": [
@@ -1897,12 +1897,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "01-43",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Horní Blatná",
+        "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČSR|Hydrogeologická mapa ČR|Mapa geofaktorů životního prostředí ČSR|Mapa ložisek nerostných surovin ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Horní Blatná",
+        "N651": "$$aHorní Blatná (Česko : oblast)$$7ge232524"
       },
       "geometry": {
         "coordinates": [

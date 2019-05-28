@@ -726,12 +726,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XX",
-        "TITLE": "",
+        "TITLE": "Trstená",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Trstená",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aTrstená (Slovensko : oblast)$$7ge981056"
       },
       "geometry": {
         "type": "Polygon",
@@ -766,12 +766,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXI",
-        "TITLE": "",
+        "TITLE": "Spišská Stará Ves",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Spišská Stará Ves",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aSpišská Stará Ves (Slovensko : oblast)$$7ge981213"
       },
       "geometry": {
         "type": "Polygon",
@@ -806,12 +806,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXII",
-        "TITLE": "",
+        "TITLE": "Zborov",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Zborov",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aZborov (Bardejov, Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1086,12 +1086,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXV",
-        "TITLE": "",
+        "TITLE": "Žilina",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Žilina",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
         "type": "Polygon",
@@ -1126,12 +1126,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVI",
-        "TITLE": "",
+        "TITLE": "Banská Bystrica",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Banská Bystrica",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
         "type": "Polygon",
@@ -1166,12 +1166,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVII",
-        "TITLE": "",
+        "TITLE": "Vysoké Tatry",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Vysoké Tatry",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aVysoké Tatry (Polsko a Slovensko : pohoří : oblast)$$7ge131356"
       },
       "geometry": {
         "type": "Polygon",
@@ -1206,12 +1206,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXVIII",
-        "TITLE": "",
+        "TITLE": "Košice",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Košice",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
         "type": "Polygon",
@@ -1246,12 +1246,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXIX",
-        "TITLE": "",
+        "TITLE": "Snina",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Snina",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aSnina (Slovensko : oblast)$$7ge981222"
       },
       "geometry": {
         "type": "Polygon",
@@ -1406,12 +1406,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXI",
-        "TITLE": "",
+        "TITLE": "Nitra",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
+        "N245A": "Nitra",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
         "type": "Polygon",
@@ -1446,12 +1446,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXII",
-        "TITLE": "",
+        "TITLE": "Zvolen",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
+        "N245A": "Zvolen",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aZvolen (Slovensko : oblast)$$7ge132353"
       },
       "geometry": {
         "type": "Polygon",
@@ -1486,12 +1486,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXIII",
-        "TITLE": "",
+        "TITLE": "Rimavská Sobota",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
+        "N245A": "Rimavská Sobota",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aRimavská Sobota (Slovensko : oblast)$$7xx0127667"
       },
       "geometry": {
         "type": "Polygon",
@@ -1526,12 +1526,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXIV",
-        "TITLE": "",
+        "TITLE": "Trebišov",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
+        "N245A": "Trebišov",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aTrebišov (Slovensko : oblast)$$7ge844050"
       },
       "geometry": {
         "type": "Polygon",
@@ -1566,12 +1566,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-34-XXXV",
-        "TITLE": "",
+        "TITLE": "Čierna",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
+        "N245A": "Čierna",
         "N245P": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aČierna nad Tisou (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

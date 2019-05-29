@@ -9,7 +9,7 @@
         "SHEET": "02-21",
         "TITLE": "Dolní Poustevna",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Dolní Poustevna",
         "N651": "$$aDolní Poustevna (Česko : oblast)$$7ge574890"
@@ -112,12 +112,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-11",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Frýdlant",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-xr-pl---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Frýdlant",
+        "N651": "$$aFrýdlant (Česko : oblast)$$7ge192269"
       },
       "geometry": {
         "coordinates": [
@@ -219,7 +219,7 @@
         "SHEET": "02-13",
         "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Petrovice",
         "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
@@ -322,12 +322,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-22",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Varnsdorf",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Varnsdorf",
+        "N651": "$$aVarnsdorf (Česko : oblast)$$7ge202249"
       },
       "geometry": {
         "coordinates": [
@@ -427,12 +427,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Frýdlant",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-xr-pl---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Frýdlant",
+        "N651": "$$aFrýdlant (Česko : oblast)$$7ge192269"
       },
       "geometry": {
         "coordinates": [
@@ -534,7 +534,7 @@
         "SHEET": "02-14",
         "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Petrovice",
         "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
@@ -742,12 +742,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-23",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Děčín",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Děčín",
+        "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
       },
       "geometry": {
         "coordinates": [
@@ -954,7 +954,7 @@
         "SHEET": "02-31",
         "TITLE": "Litvínov",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Litvínov",
         "N651": "$$aLitvínov (Česko : oblast)$$7ge129852"
@@ -1374,7 +1374,7 @@
         "SHEET": "01-42",
         "TITLE": "Načetín",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Načetín",
         "N651": "$$aNačetín (Kalek, Česko : oblast)"
@@ -1689,7 +1689,7 @@
         "SHEET": "01-44",
         "TITLE": "Vejprty",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Vejprty",
         "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
@@ -1899,7 +1899,7 @@
         "SHEET": "01-43",
         "TITLE": "Horní Blatná",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Horní Blatná",
         "N651": "$$aHorní Blatná (Česko : oblast)$$7ge232524"

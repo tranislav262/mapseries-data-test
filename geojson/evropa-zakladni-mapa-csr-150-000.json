@@ -17547,7 +17547,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Čadca",
-        "N651": "$$aČadca (Slovensko : oblast)xx0117220"
+        "N651": "$$aČadca (Slovensko : oblast)$$7xx0117220"
       },
       "geometry": {
         "coordinates": [

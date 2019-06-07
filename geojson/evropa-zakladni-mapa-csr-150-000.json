@@ -3787,12 +3787,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "11-21",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Karlovy Vary",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Karlovy Vary",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
         "coordinates": [
@@ -16702,12 +16702,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "25-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Turzovka",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo$$be-zl---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Turzovka",
+        "N651": "$$aTurzovka (Slovensko : oblast)$$7xx0134091"
       },
       "geometry": {
         "coordinates": [
@@ -21871,12 +21871,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "32-23",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Český Krumlov",
+        "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Český Krumlov",
+        "N651": "$$aČeský Krumlov (Česko : oblast)$$7ge131714"
       },
       "geometry": {
         "coordinates": [

@@ -847,12 +847,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "02-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Nový Bor",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nový Bor",
+        "N651": "$$aNový Bor (Česko : oblast)$$7ge130240"
       },
       "geometry": {
         "coordinates": [
@@ -1057,12 +1057,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-24",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Malá Úpa",
+        "N43": "$$ae-xr---$$be-xr-kr$$ae-xr-pl---",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Malá Úpa",
+        "N651": "$$aMalá Úpa (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1267,12 +1267,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-13",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hrádek nad Nisou",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-xr-pl---$$ae-gx---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hrádek nad Nisou",
+        "N651": "$$aHrádek nad Nisou (Česko : oblast)$$7ge242322"
       },
       "geometry": {
         "coordinates": [
@@ -1792,12 +1792,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-31",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mimoň",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Mimoň",
+        "N651": "$$aMimoň (Česko : oblast)$$7ge562705"
       },
       "geometry": {
         "coordinates": [

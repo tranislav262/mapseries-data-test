@@ -428,7 +428,7 @@
         "SCALE": "50000",
         "SHEET": "03-12",
         "TITLE": "Frýdlant",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-xr-pl---",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Frýdlant",
@@ -3372,7 +3372,7 @@
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
         "N245P": "Dvůr Králové nad Labem",
-        "N651": "$$aDvůr Králové nad Labem$$7ge138285"
+        "N651": "$$aDvůr Králové nad Labem (Česko : oblast)$$7ge138285"
       },
       "geometry": {
         "coordinates": [
@@ -3472,12 +3472,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-43",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Sobotka",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Sobotka",
+        "N651": "$$aSobotka (Česko : oblast)$$7ge130879"
       },
       "geometry": {
         "coordinates": [

@@ -203,15 +203,32 @@ LDR   L -----nem-a22--------4500
     }
   }
 655 7 L $$apedologické mapy$$7fd808068
-{
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", "2"]
+  }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce",
+  "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "7102  L $$aČeský úřad geodetický a kartografický$$4ctg$$7ko2004231816"
-    "7102  L $$aGeoindustria Praha$$4com$$7ko2003162192"
-    "7102  L $$aLesprojekt Brandýs nad Labem$$4com",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    "Geoindustria Praha$$4com$$7ko2003162192"
+  ]
+}
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", "1"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
 830 0 L $$aZákladní mapa ČSR 1:50 000 ;$$v{

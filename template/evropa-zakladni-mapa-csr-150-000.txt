@@ -97,7 +97,7 @@ LDR   L -----nem-a22--------4500
     "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Sestavila Geoindrustria, n.p. Praha a Lesoprojekt Brandýs n. L. ; Vydal Ústřední ústav geologický",
+      "Sestavila Geoindrustria, n.p. Praha a Lesprojekt Brandýs n. L. ; Vydal Ústřední ústav geologický Praha",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }

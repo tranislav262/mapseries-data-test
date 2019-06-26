@@ -3997,12 +3997,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "03-34",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Sobotka",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-st$$be-xr-li",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Sobotka",
+        "N651": "$$aSobotka (Česko : oblast)$$7ge130879"
       },
       "geometry": {
         "coordinates": [
@@ -8617,12 +8617,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "14-14",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Žamberk",
+        "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr$$ae-pl---",
+        "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Žamberk",
+        "N651": "$$aŽamberk (Česko : oblast)$$7ge131583"
       },
       "geometry": {
         "coordinates": [
@@ -13132,12 +13132,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "15-44",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Karviná",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Karviná",
+        "N651": "$$aKarviná (Česko : oblast)$$7ge129546"
       },
       "geometry": {
         "coordinates": [
@@ -15337,12 +15337,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "22-31",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Sušice",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx--",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Sušice",
+        "N651": "$$aSušice (Klatovy, Česko : oblast)$$7ge131006"
       },
       "geometry": {
         "coordinates": [

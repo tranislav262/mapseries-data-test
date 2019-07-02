@@ -28154,47 +28154,6 @@
       }
     },
     {
-      "id": "bee78bcd186c11e60fe6d8bcac96bd50",
-      "type": "Feature",
-      "properties": {
-        "SCALE": "50000",
-        "SHEET": "37-43",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              21.000374209146052,
-              48.511707685369174
-            ],
-            [
-              20.99901526354751,
-              48.34059712591054
-            ],
-            [
-              20.665847958351584,
-              48.34010662855379
-            ],
-            [
-              20.667113891084245,
-              48.51166148011736
-            ],
-            [
-              21.000374209146052,
-              48.511707685369174
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    },
-    {
       "id": "6933fc98a6cc6e970290bd175b599ab7",
       "type": "Feature",
       "properties": {

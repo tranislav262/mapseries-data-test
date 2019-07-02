@@ -26594,12 +26594,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-23",
-        "TITLE": "",
+        "TITLE": "Brezno",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Brezno",
+        "N651": "$$aBrezno (Slovensko : oblast)$$7ge889051"
       },
       "geometry": {
         "coordinates": [
@@ -26635,12 +26635,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-44",
-        "TITLE": "",
+        "TITLE": "Poltár",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Poltár",
+        "N651": "$$aPoltár (Slovensko : oblast)$$7xx0124514"
       },
       "geometry": {
         "coordinates": [
@@ -26676,12 +26676,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "37-14",
-        "TITLE": "",
+        "TITLE": "Dobšiná",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Dobšiná",
+        "N651": "$$aDobšiná (Slovensko : oblast)$$7ge953336"
       },
       "geometry": {
         "coordinates": [
@@ -26717,12 +26717,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-33",
-        "TITLE": "",
+        "TITLE": "Banská Štiavnica",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Banská Štiavnica",
+        "N651": "$$aBanská Štiavnica (Slovensko : oblast)$$7xx0115690"
       },
       "geometry": {
         "coordinates": [
@@ -26774,12 +26774,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "46-24",
-        "TITLE": "",
+        "TITLE": "Tachty",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Tachty",
+        "N651": "$$aTachty (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -27454,12 +27454,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "37-32",
-        "TITLE": "",
+        "TITLE": "Rožňava",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rožňava",
+        "N651": "$$aRožňava (Slovensko : oblast)$$7ge134460"
       },
       "geometry": {
         "coordinates": [
@@ -28286,12 +28286,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "46-14",
-        "TITLE": "",
+        "TITLE": "Šahy",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Šahy",
+        "N651": "$$aŠahy (Slovensko : oblast)$$7ge899916"
       },
       "geometry": {
         "coordinates": [
@@ -28327,12 +28327,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-24",
-        "TITLE": "",
+        "TITLE": "Pohronská Polhora",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Pohronská Polhora",
+        "N651": "$$aPohronská Polhora (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -28368,12 +28368,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-41",
-        "TITLE": "",
+        "TITLE": "Detva",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Detva",
+        "N651": "$$aDetva (Slovensko : oblast)$$7ge889162"
       },
       "geometry": {
         "coordinates": [
@@ -28409,12 +28409,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-42",
-        "TITLE": "",
+        "TITLE": "Hnúšťa",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hnúšťa",
+        "N651": "$$aHnúšťa (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -28454,12 +28454,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-43",
-        "TITLE": "",
+        "TITLE": "Cinobaňa",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Cinobaňa",
+        "N651": "$$aCinobaňa (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -28835,12 +28835,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "47-12",
-        "TITLE": "",
+        "TITLE": "Kráľ",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kráľ",
+        "N651": "$$aKráľ (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -28876,12 +28876,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "47-11",
-        "TITLE": "",
+        "TITLE": "Rimavská Seč",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rimavská Seč",
+        "N651": "$$aRimavská Seč (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -29206,12 +29206,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "46-12",
-        "TITLE": "",
+        "TITLE": "Litava",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Litava",
+        "N651": "$$aLitava (Slovensko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -30040,12 +30040,12 @@
       "properties": {
         "SCALE": "50000",
         "SHEET": "36-31",
-        "TITLE": "",
+        "TITLE": "Žiar nad Hronom",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Geologická mapa ČR|Geologická mapa ČSR|Hydrogeologická mapa ČR|Hydrogeologická mapa ČSR|Mapa geofaktorů životního prostředí ČSR|Mapa geochemické reaktivity hornin ČR|Mapa geochemické reaktivity hornin ČSR|Mapa geochemie povrchových vod ČSR|Mapa chráněných území přírody ČSR|Mapa inženýrskogeologického rajónování ČR|Mapa inženýrskogeologického rajónování ČSR|Mapa ložisek nerostných surovin ČSR|Půdně interpretační mapa ČR|Půdně interpretační mapa ČSR|Půdní mapa ČSR|Půdní mapa ČR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Žiar nad Hronom",
+        "N651": "$$aŽiar nad Hronom (Slovensko : oblast)$$7xx0078637"
       },
       "geometry": {
         "coordinates": [

@@ -43,12 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   } 
-072 7 L $$a556$$xHydrologie$$2Konspekt$$97
-072 7 L $$a550$$xGeofyzika. Geochemie. Geobiologie. Užitá geologie$$2Konspekt$$97
+072 7 L $$a553$$xLožisková geologie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a556.314$$2MRF
-080   L $$a550.4$$2MRF
-080   L $$a556.5$$2MRF
+080   L $$a(084.3)55$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -58,8 +55,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)556$$2MRF
-080   L $$a(084.3)550.4$$2MRF
+080   L $$a553.3/.9$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -101,7 +97,7 @@ LDR   L -----nem-a22--------4500
     "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Sestavila Geoindrustria, n.p. Praha a Lesprojekt Brandýs n. L. ; Vydal Ústřední ústav geologický Praha",
+      "Sestavila Geoindrustria, s.p. Praha ; Vydal Ústřední ústav geologický Praha ; Redaktor listu ; Redaktor řady",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
     ]
   }
@@ -194,10 +190,8 @@ LDR   L -----nem-a22--------4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací 
-650 7 L $$ageochemie$$7ph120501$$2czenas
-650 7 L $$ahydrogeochemie$$7ph257836$$2czenas
-650 7 L $$apovrchové vody$$7ph124451$$2czenas
+500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni 
+650 7 L $$aložiska nerostných surovin$$7ph137779$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -208,8 +202,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$ahydrologické mapy$$7fd185308
-655 7 L $$ageochemické mapy$$7fd808066
+655 7 L $$ageologické mapy$$7fd132402
 710{
     "base":"corporation",
     "width": 1,

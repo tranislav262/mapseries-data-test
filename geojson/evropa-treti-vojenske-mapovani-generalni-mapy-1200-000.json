@@ -9,7 +9,7 @@
         "SHEET": "3752",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Łódź, Lodz",
+        "N245A": "Łódź, Lodz|Lodz",
         "N651": "$$aLodž (Polsko : oblast)$$7ge292514",
         "POZNAMKA": ""
       },
@@ -567,10 +567,10 @@
         "TITLE": "Zürich",
         "SCALE": "200000",
         "SHEET": "2647",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-sz---",
+        "N80": "$$a913(494.34)$$2MRF",
         "N245A": "Zürich",
-        "N651": "$$a",
+        "N651": "$$aCurych (Švýcarsko : oblast)$$7ge128980",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -607,10 +607,10 @@
         "TITLE": "Karlsruhe",
         "SCALE": "200000",
         "SHEET": "2649",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---$$ae-fr---",
+        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Karlsruhe",
-        "N651": "$$a",
+        "N651": "$$aKarlsruhe (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -647,10 +647,10 @@
         "TITLE": "Alessandria",
         "SCALE": "200000",
         "SHEET": "2645",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Alessandria",
-        "N651": "$$a",
+        "N651": "$$aAlessandria (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -687,10 +687,10 @@
         "TITLE": "Varese",
         "SCALE": "200000",
         "SHEET": "2646",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494.34)$$2MRF",
         "N245A": "Varese",
-        "N651": "$$a",
+        "N651": "$$aVarese (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -727,10 +727,10 @@
         "TITLE": "Schaffhausen",
         "SCALE": "200000",
         "SHEET": "2648",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-sz---$$ae-gx---",
+        "N80": "$$a913(494.29)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Schaffhausen",
-        "N651": "$$a",
+        "N651": "$$aSchaffhausen (Švýcarsko : oblast)$$7ge663889",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -767,10 +767,10 @@
         "TITLE": "Mainz",
         "SCALE": "200000",
         "SHEET": "2650",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Mainz",
-        "N651": "$$a",
+        "N651": "$$aMohuč (Německo : oblast)$$7ge130058",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2287,10 +2287,10 @@
         "TITLE": "München",
         "SCALE": "200000",
         "SHEET": "2948",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|",
         "N245A": "München",
-        "N651": "$$a",
+        "N651": "$$aMnichov (Německo : oblast)$$7ge273426",
         "POZNAMKA": ""
       },
       "geometry": {

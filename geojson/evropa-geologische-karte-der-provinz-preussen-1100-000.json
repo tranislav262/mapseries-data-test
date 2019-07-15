@@ -6,12 +6,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "3",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rossitten",
+        "N43": "$$ae e-ru---$$ae-li---",
+        "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rossitten",
+        "N651": "$$aRybachy (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -50,12 +50,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "4",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Tilsit",
+        "N43": "$$ae e-ru---$$ae-li---",
+        "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Tilsit",
+        "N651": "$$aSovetsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -94,12 +94,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "5",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jura",
+        "N43": "$$ae e-ru---$$ae-li---",
+        "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jura",
+        "N651": "$$aGaurė (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -134,12 +134,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "6",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Königsberg",
+        "N43": "$$ae e-ru---",
+        "N80": "$$a913(470.26)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Königsberg",
+        "N651": "$$aKaliningrad (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -174,12 +174,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "7",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Labiau",
+        "N43": "$$ae e-ru---",
+        "N80": "$$a913(470+571)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Labiau",
+        "N651": "$$aPolessk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -214,12 +214,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "8",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Insterburg",
+        "N43": "$$ae e-ru---",
+        "N80": "$$a913(470+571)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Insterburg",
+        "N651": "$$aČerňachovsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -254,12 +254,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "9",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Pillkallen ",
+        "N43": "$$ae e-ru---$$ae-li---",
+        "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Pillkallen ",
+        "N651": "$$aDobrovolsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -295,11 +295,11 @@
         "SCALE": "100000",
         "SHEET": "11",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -338,12 +338,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "12",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Danzig ",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Danzig ",
+        "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456"
       },
       "geometry": {
         "type": "Polygon",
@@ -383,11 +383,11 @@
         "SCALE": "100000",
         "SHEET": "13",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$ae e-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -422,12 +422,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "14",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Heiligenbeil",
+        "N43": "$$ae-pl---$$ae e-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Heiligenbeil",
+        "N651": "$$aMamonovo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -462,12 +462,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "15",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Friedland",
+        "N43": "$$ae-pl---$$ae e-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Friedland",
+        "N651": "$$aPravdinsk (Kaliningradská oblast, Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -502,12 +502,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "16",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Nordenburg ",
+        "N43": "$$ae-pl---$$ae e-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nordenburg ",
+        "N651": "$$aKrylovo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -542,12 +542,12 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "17",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Gumbinnen-Goldapp",
+        "N43": "$$ae-pl---$$ae e-ru---$$ae-li---",
+        "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Gumbinnen-Goldapp",
+        "N651": "$$aGołdap (Polsko : oblast)|$$aGusev (Kaliningradská oblast, Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -583,11 +583,11 @@
         "SCALE": "100000",
         "SHEET": "18",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -623,11 +623,11 @@
         "SCALE": "100000",
         "SHEET": "19",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -663,11 +663,11 @@
         "SCALE": "100000",
         "SHEET": "20",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -703,11 +703,11 @@
         "SCALE": "100000",
         "SHEET": "21",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -743,11 +743,11 @@
         "SCALE": "100000",
         "SHEET": "22",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -783,11 +783,11 @@
         "SCALE": "100000",
         "SHEET": "23",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -823,11 +823,11 @@
         "SCALE": "100000",
         "SHEET": "24",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -863,11 +863,11 @@
         "SCALE": "100000",
         "SHEET": "25",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -903,11 +903,11 @@
         "SCALE": "100000",
         "SHEET": "26",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -943,11 +943,11 @@
         "SCALE": "100000",
         "SHEET": "27",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -983,11 +983,11 @@
         "SCALE": "100000",
         "SHEET": "28",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1023,11 +1023,11 @@
         "SCALE": "100000",
         "SHEET": "29",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1063,11 +1063,11 @@
         "SCALE": "100000",
         "SHEET": "30",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1103,11 +1103,11 @@
         "SCALE": "100000",
         "SHEET": "31",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1143,11 +1143,11 @@
         "SCALE": "100000",
         "SHEET": "32",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1183,11 +1183,11 @@
         "SCALE": "100000",
         "SHEET": "33",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1223,11 +1223,11 @@
         "SCALE": "100000",
         "SHEET": "34",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1263,11 +1263,11 @@
         "SCALE": "100000",
         "SHEET": "35",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1303,11 +1303,11 @@
         "SCALE": "100000",
         "SHEET": "36",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1343,11 +1343,11 @@
         "SCALE": "100000",
         "SHEET": "37",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1383,11 +1383,11 @@
         "SCALE": "100000",
         "SHEET": "38",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1423,11 +1423,11 @@
         "SCALE": "100000",
         "SHEET": "39",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1463,11 +1463,11 @@
         "SCALE": "100000",
         "SHEET": "40",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1503,11 +1503,11 @@
         "SCALE": "100000",
         "SHEET": "41",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1547,7 +1547,7 @@
         "N80": "$$a913(474.5)$$2MRF|$$a913(474.2)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1627,11 +1627,11 @@
         "SCALE": "100000",
         "SHEET": "10",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N245P": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",

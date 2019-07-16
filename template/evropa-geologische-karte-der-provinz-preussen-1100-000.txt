@@ -76,26 +76,43 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
   }
 24510 L $$a{
-    "title": "Název listu",
+    "title": "Název",
+    "width": 30,
     "value": {
-      "attr": "N245a"
+      "attr": "N245A"
     }
-  }.$$p{
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
+    "value": {"attr":"SHEET"}
+},$$p{
+  "id":"N245P",
+  "title": "Název listu",
+    "width": 15,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
-  }$$h[kartografický dokument] /$$c{
+      {"attr":"N245P"}
+      ]
+      } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "Sestavil a vydal Ústřední ústav geologický",
+      "[Militärgeographisches Institut]"
     ]
+  }
+24630 L $$a{
+    "base":"sheet",
+    "title": "Název části",     
+    "valuesByBaseIndex": [
+      {},
+      {"attr":"SHEET"}
+    ]
+  }
+24630 L $$a{
+    "base": "N245P",
+    "title": "Název části"
   }
 2463  L $$a{
     "base":"sheet",

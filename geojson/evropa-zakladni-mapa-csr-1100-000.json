@@ -10,7 +10,7 @@
         "TITLE": "Cheb",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Cheb",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
@@ -195,7 +195,7 @@
         "TITLE": "Klášterec nad Ohří",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Klášterec nad Ohří",
         "N651": "$$aKlášterec nad Ohří (Česko : oblast)$$7ge192235"
       },
@@ -380,7 +380,7 @@
         "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Petrovice",
         "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
       },
@@ -565,7 +565,7 @@
         "TITLE": "Děčín",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Děčín",
         "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
       },
@@ -750,7 +750,7 @@
         "TITLE": "Most",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Most",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
@@ -935,7 +935,7 @@
         "TITLE": "Ústí nad Labem",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Ústí nad Labem",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
@@ -1120,7 +1120,7 @@
         "TITLE": "Liberec",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Liberec",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
@@ -1305,7 +1305,7 @@
         "TITLE": "Harrachov",
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Harrachov",
         "N651": "$$aHarrachov (Semily, Česko : oblast)$$7ge251147"
       },
@@ -1490,7 +1490,7 @@
         "TITLE": "Mladá Boleslav",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr$$be-xr-li",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.313)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Mladá Boleslav",
         "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
@@ -1675,7 +1675,7 @@
         "TITLE": "Trutnov",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Trutnov",
         "N651": "$$aTrutnov (Česko : oblast)$$7ge131134"
       },
@@ -1860,7 +1860,7 @@
         "TITLE": "Náchod",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Náchod",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
       },
@@ -2045,7 +2045,7 @@
         "TITLE": "Javorník",
         "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Javorník",
         "N651": "$$aJavorník (Jeseník, Česko : oblast)$$7ge130959"
       },
@@ -2230,7 +2230,7 @@
         "TITLE": "Cheb",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Cheb",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
@@ -2415,7 +2415,7 @@
         "TITLE": "Karlovy Vary",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl$$be-xr-us",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Karlovy Vary",
         "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
@@ -2600,7 +2600,7 @@
         "TITLE": "Tachov",
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Tachov",
         "N651": "$$aTachov (Česko : oblast)$$7ge131034"
       },
@@ -2785,7 +2785,7 @@
         "TITLE": "Mariánské Lázně",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Mariánské Lázně",
         "N651": "$$aMariánské Lázně (Česko : oblast)$$7ge129965"
       },
@@ -2970,7 +2970,7 @@
         "TITLE": "Žatec",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-pl$$be-xr-st",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Žatec",
         "N651": "$$aŽatec (Louny, Česko : oblast)$$7ge131589"
       },
@@ -3155,7 +3155,7 @@
         "TITLE": "Praha",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-us$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Praha",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
@@ -3340,7 +3340,7 @@
         "TITLE": "Plzeň",
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-st",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Plzeň",
         "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
@@ -3525,7 +3525,7 @@
         "TITLE": "Beroun",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Beroun",
         "N651": "$$aBeroun (Česko : oblast)$$7ge134063"
       },
@@ -3710,7 +3710,7 @@
         "TITLE": "Brandýs nad Labem-Stará Boleslav",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF|$$a913(437.313)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Brandýs nad Labem-Stará Boleslav",
         "N651": "$$aBrandýs nad Labem-Stará Boleslav (Česko : oblast)$$7ge128811"
       },
@@ -3895,7 +3895,7 @@
         "TITLE": "Hradec Králové",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-xr-st",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Hradec Králové",
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
@@ -4080,7 +4080,7 @@
         "TITLE": "Kolín",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg$$be-xr-vy",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Kolín",
         "N651": "$$aKolín (Česko : oblast)$$7ge129621"
       },
@@ -4265,7 +4265,7 @@
         "TITLE": "Pardubice",
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-vy$$ae-xr-st",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Pardubice",
         "N651": "$$aPardubice (Česko : oblast)$$7ge130371"
       },
@@ -4450,7 +4450,7 @@
         "TITLE": "Nové Město nad Metují",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-xr-pa$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Nové Město nad Metují",
         "N651": "$$aNové Město nad Metují (Česko : oblast)$$7ge259810"
       },
@@ -4635,7 +4635,7 @@
         "TITLE": "Jeseník",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Jeseník",
         "N651": "$$aJeseník (Česko : oblast)$$7ge129454"
       },
@@ -4820,7 +4820,7 @@
         "TITLE": "Svitavy",
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-vy",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Svitavy",
         "N651": "$$aSvitavy (Česko : oblast)$$7ge134523"
       },
@@ -5005,7 +5005,7 @@
         "TITLE": "Šumperk",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Šumperk",
         "N651": "$$aŠumperk (Česko : oblast)$$7ge131567"
       },
@@ -5190,7 +5190,7 @@
         "TITLE": "Krnov",
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Krnov",
         "N651": "$$aKrnov (Česko : oblast)$$7ge129680"
       },
@@ -5375,7 +5375,7 @@
         "TITLE": "Ostrava",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Ostrava",
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
@@ -5560,7 +5560,7 @@
         "TITLE": "Opava",
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Opava",
         "N651": "$$aOpava (Česko : oblast)$$7ge128535"
       },
@@ -5745,7 +5745,7 @@
         "TITLE": "Ostrava",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Ostrava",
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
@@ -5930,7 +5930,7 @@
         "TITLE": "Rozvadov",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Rozvadov",
         "N651": "$$aRozvadov (Česko : oblast)$$7ge327092"
       },
@@ -6115,7 +6115,7 @@
         "TITLE": "Klatovy",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Klatovy",
         "N651": "$$aKlatovy (Česko : oblast)$$7ge128500"
       },
@@ -6300,7 +6300,7 @@
         "TITLE": "Nýrsko",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Nýrsko",
         "N651": "$$aNýrsko (Česko : oblast)$$7ge327505"
       },
@@ -6485,7 +6485,7 @@
         "TITLE": "Blatná",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl$$be-xr-st",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Blatná",
         "N651": "$$aBlatná (Strakonice, Česko : oblast)$$7ge205499"
       },
@@ -6670,7 +6670,7 @@
         "TITLE": "Příbram",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Příbram",
         "N651": "$$aPříbram (Česko : oblast)$$7ge130587"
       },
@@ -6855,7 +6855,7 @@
         "TITLE": "Strakonice",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Strakonice",
         "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
@@ -7040,7 +7040,7 @@
         "TITLE": "Písek",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-st",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.312)$$2MRF|",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Písek",
         "N651": "$$aPísek (Česko : oblast)$$7ge128560"
       },
@@ -7225,7 +7225,7 @@
         "TITLE": "Tábor",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-st$$be-xr-vy",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Tábor",
         "N651": "$$aTábor (Česko : oblast)$$7ge131165"
       },
@@ -7410,7 +7410,7 @@
         "TITLE": "Jihlava",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Jihlava",
         "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
@@ -7595,7 +7595,7 @@
         "TITLE": "Jindřichův Hradec",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Jindřichův Hradec",
         "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
@@ -7780,7 +7780,7 @@
         "TITLE": "Třebíč",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm$$be-xr-jc",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Třebíč",
         "N651": "$$aTřebíč (Česko : oblast)$$7ge131186"
       },
@@ -7965,7 +7965,7 @@
         "TITLE": "Boskovice",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Boskovice",
         "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
       },
@@ -8150,7 +8150,7 @@
         "TITLE": "Olomouc",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa$$be-xr-jm",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Olomouc",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
@@ -8335,7 +8335,7 @@
         "TITLE": "Brno",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Brno",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
@@ -8520,7 +8520,7 @@
         "TITLE": "Vyškov",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$be-xr-zl",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Vyškov",
         "N651": "$$aVyškov (Česko : oblast)$$7ge131362"
       },
@@ -8705,7 +8705,7 @@
         "TITLE": "Přerov",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$be-xr-zl",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Přerov",
         "N651": "$$aPřerov (Česko : oblast)$$7ge130578"
       },
@@ -8890,7 +8890,7 @@
         "TITLE": "Frýdek-Místek",
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Frýdek-Místek",
         "N651": "$$aFrýdek-Místek (Česko : oblast)$$7ge134178"
       },
@@ -9075,7 +9075,7 @@
         "TITLE": "Gottwaldov",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Gottwaldov",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
@@ -9260,7 +9260,7 @@
         "TITLE": "Povážská Bystrica",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Povážská Bystrica",
         "N651": "$$aPovážská Bystrica (Slovensko : oblast)$$7ge525389"
       },
@@ -9445,7 +9445,7 @@
         "TITLE": "Čadca",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm$$be-xr-vy",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Čadca",
         "N651": "$$aČadca (Slovensko : oblast)$$7xx0117220"
       },
@@ -9630,7 +9630,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -9835,7 +9835,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10020,7 +10020,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10221,7 +10221,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10330,7 +10330,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10387,7 +10387,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10492,7 +10492,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10549,7 +10549,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10606,7 +10606,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10663,7 +10663,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -10720,7 +10720,7 @@
         "TITLE": "Volary",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-gx---$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Volary",
         "N651": "$$aVolary (Česko : oblast)$$7ge339094"
       },
@@ -10905,7 +10905,7 @@
         "TITLE": "České Budějovice",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "České Budějovice",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
@@ -11090,7 +11090,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -11275,7 +11275,7 @@
         "TITLE": "Vyšší Brod",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Vyšší Brod",
         "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
       },
@@ -11460,7 +11460,7 @@
         "TITLE": "Třeboň",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Třeboň",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
@@ -11645,7 +11645,7 @@
         "TITLE": "Jemnice",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Jemnice",
         "N651": "$$aJemnice (Třebíč, Česko : oblast)$$7ge129445"
       },
@@ -11830,7 +11830,7 @@
         "TITLE": "Vyšší Brod",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Vyšší Brod",
         "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
       },
@@ -12015,7 +12015,7 @@
         "TITLE": "Znojmo",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Znojmo",
         "N651": "$$aZnojmo (Česko : oblast)$$7ge131457"
       },
@@ -12200,7 +12200,7 @@
         "TITLE": "Hodonín",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl$$ae-au---$$ae-xo---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Hodonín",
         "N651": "$$aHodonín (Česko : oblast)$$7ge134218"
       },
@@ -12385,7 +12385,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -12570,7 +12570,7 @@
         "TITLE": "Nové Mesto nad Váhom",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "Nové Mesto nad Váhom",
         "N651": "$$aNové Mesto nad Váhom (Slovensko : oblast)$$7xx0122458"
       },
@@ -12755,7 +12755,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -12940,7 +12940,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13125,7 +13125,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13310,7 +13310,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13431,7 +13431,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13524,7 +13524,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13613,7 +13613,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13674,7 +13674,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13735,7 +13735,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13796,7 +13796,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13857,7 +13857,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13918,7 +13918,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -13979,7 +13979,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14036,7 +14036,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14097,7 +14097,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14154,7 +14154,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14247,7 +14247,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14304,7 +14304,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14393,7 +14393,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14490,7 +14490,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14547,7 +14547,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14612,7 +14612,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14673,7 +14673,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14734,7 +14734,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14795,7 +14795,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },
@@ -14856,7 +14856,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mapa chráněných území přírody ČSR",
         "N245P": "",
         "N651": ""
       },

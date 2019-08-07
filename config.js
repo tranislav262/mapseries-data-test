@@ -415,6 +415,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Prozatímní vojenské mapování 1:10 000 (Benešovo zobrazení)",
+      layer: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni",
+      template: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

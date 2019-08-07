@@ -68,7 +68,7 @@ LDR   L -----nem-a22--------4500
     "values": [
       "Ústřední ústav geologický",
       "Státní ústav památkové péče a ochrany přírody"]
-  }$$4ctg$$4pbl$$7{
+  }$$4ctg$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
@@ -203,15 +203,6 @@ LDR   L -----nem-a22--------4500
     }
   }
 655 7 L $$amapy chráněných území$$7fd808067
-{
-  "base":"corporation",
-  "title": "Bibliografický předchůdce",
-  "width": 100,
-  "valuesByBaseIndex": [
-    "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
-  ]
-}
 710{
     "base":"corporation",
     "width": 1,

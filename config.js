@@ -387,6 +387,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Souřadnicový systém 1942 (S42) 1:25 000",
+      layer: "evropa-souradnicovy-system-1942-s42-125-000",
+      template: "evropa-souradnicovy-system-1942-s42-125-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

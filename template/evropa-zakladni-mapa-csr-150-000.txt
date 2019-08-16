@@ -67,12 +67,12 @@ LDR   L -----nem-a22--------4500
     "title":"Vydavatelská korporace",
     "values": [
       "Ústřední ústav geologický",
-      "Vojenský zeměpisný ústav"]
+      "Stavební geologie Praha"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724781"]
   }
 24510 L $$a{
     "title": "Název",
@@ -80,7 +80,7 @@ LDR   L -----nem-a22--------4500
     "value": {
       "attr": "N245A"
     }
-  }:$$bSignální mapa střetů zájmů.$$n{
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
@@ -98,7 +98,7 @@ LDR   L -----nem-a22--------4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Sestavil a vydal Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady"
     ]
   }
 24630 L $$a{
@@ -132,7 +132,7 @@ LDR   L -----nem-a22--------4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Praha :$$bVydal Ústřední ústav geologický,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVydal Ústřední ústav geologický,"
     ]
   }$$c{
     "base":"year"
@@ -143,7 +143,7 @@ LDR   L -----nem-a22--------4500
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
       "Kolín :$$bReprodukční zpracování a tisk OT,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Kolín :$$bReprodukční zpracování a tisk OT,"
     ]
   }$$c{
     "base":"year"
@@ -214,7 +214,7 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
-    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816"
   ]
 }
 710{
@@ -228,7 +228,7 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "Geoindustria Praha$$4com$$7ko2003162192",
-    ""
+    "Ústřední ústav geologický$$pbl$$7kn20010725011"
   ]
 }
 710{

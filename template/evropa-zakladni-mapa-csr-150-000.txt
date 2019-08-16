@@ -43,10 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   } 
-072 7 L $$a502$$xŽivotní prostředí a jeho ochrana$$2Konspekt$$92
+072 7 L $$a624$$xStavební inženýrství$$2Konspekt$$919
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a502.5$$2MRF
-080   L $$a502:55$$2MRF
+080   L $$a624.131.1$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -56,7 +55,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)502/504$$2MRF
+080   L $$a(084.3)55$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -192,8 +191,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
-650 7 L $$akrajinná ekologie$$7ph115007$$2czenas
-650 7 L $$aenvironmentální geologie$$7ph184842$$2czenas
+650 7 L $$ainženýrská geologie$$7ph121179$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -204,7 +202,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$amapy životního prostředí$$7fd132802 
+655 7 L $$ageologické mapy$$7fd132402
 710{
     "base":"corporation",
     "width": 1,

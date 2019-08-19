@@ -2487,10 +2487,10 @@
         "TITLE": "Petrikowo",
         "SCALE": "200000",
         "SHEET": "4652",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-pl---",
+        "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Petrikowo",
-        "N651": "$$a",
+        "N651": "$$aPetrykaŭ (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2527,10 +2527,10 @@
         "TITLE": "Kiszyniew",
         "SCALE": "200000",
         "SHEET": "4647",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-mv---$$ae-rm---",
+        "N80": "$$a913(478)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Kiszyniew",
-        "N651": "$$a",
+        "N651": "$$aKišiněv (Moldavsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2567,10 +2567,10 @@
         "TITLE": "Catalza",
         "SCALE": "200000",
         "SHEET": "4641",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Catalza",
-        "N651": "$$a",
+        "N651": "$$aÇatalca (Turecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2607,10 +2607,10 @@
         "TITLE": "Winnica",
         "SCALE": "200000",
         "SHEET": "4649",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Winnica",
-        "N651": "$$a",
+        "N651": "$$aVìnnycja (Ukrajina : oblast)$$7ge553113",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2647,8 +2647,8 @@
         "TITLE": "Midia",
         "SCALE": "200000",
         "SHEET": "4642",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$aa-tu---$$ae-bu---",
+        "N80": "$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Midia",
         "N651": "$$a",
         "POZNAMKA": ""
@@ -2688,7 +2688,7 @@
         "SCALE": "200000",
         "SHEET": "4645",
         "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
-        "N80": "$$a913(498)$$2MRF",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Galaƫǐ (Galaz)|Galaz",
         "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638",
         "POZNAMKA": ""
@@ -2727,10 +2727,10 @@
         "TITLE": "Bolgrad",
         "SCALE": "200000",
         "SHEET": "4646",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Bolgrad",
-        "N651": "$$a",
+        "N651": "$$aBolhrad (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2767,10 +2767,10 @@
         "TITLE": "Soroki",
         "SCALE": "200000",
         "SHEET": "4648",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-mv---$$ae-un---",
+        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Soroki",
-        "N651": "$$a",
+        "N651": "$$aSoroca (Moldavsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2887,10 +2887,10 @@
         "TITLE": "Owrucz",
         "SCALE": "200000",
         "SHEET": "4651",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Owrucz",
-        "N651": "$$a",
+        "N651": "$$aOvruč (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2967,10 +2967,10 @@
         "TITLE": "Glusk",
         "SCALE": "200000",
         "SHEET": "4653",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Glusk",
-        "N651": "$$a",
+        "N651": "$$aHlusk (Bělorusko : oblast)$$7ge563468",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3007,10 +3007,10 @@
         "TITLE": "Posen",
         "SCALE": "200000",
         "SHEET": "3552",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Posen",
-        "N651": "$$a",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3084,12 +3084,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Breclav",
+        "TITLE": "Břeclav",
         "SCALE": "200000",
         "SHEET": "3549",
-        "N43": "$$ae-xr---$$ae-xo---$$ae-au---",
-        "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF",
-        "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín| Přerov a Hodonín|Gottwaldov, Breclav|Gottwaldov",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol$$ae-xo---$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín|Přerov a Hodonín|Gottwaldov, Břeclav|Gottwaldov",
         "N651": "$$aHodonín (Česko : oblast)$$7ge134218|$$aBřeclav (Česko : oblast)$$7ge128421|$$aPřerov (Česko : oblast)$$7ge130578|$$aZlín (Česko : oblast)$$7ge131454",
         "POZNAMKA": ""
       },
@@ -3128,7 +3128,7 @@
         "SCALE": "200000",
         "SHEET": "3545",
         "N43": "$$ae-bn---$$ae-ci---",
-        "N80": "$$a913(497.6)$$2MRF",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Banjaluka|Banja Luka",
         "N651": "$$aBanja Luka (Bosna a Hercegovina : oblast)$$7ge856370\n",
         "POZNAMKA": ""
@@ -3168,7 +3168,7 @@
         "SCALE": "200000",
         "SHEET": "3546",
         "N43": "$$ae-ci---$$ae-hu---",
-        "N80": "$$a913(497.5)$$2MRF",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Belovar|Bjelovar, Nagykanizsa",
         "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770\n",
         "POZNAMKA": ""
@@ -3208,7 +3208,7 @@
         "SCALE": "200000",
         "SHEET": "3548",
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Bratislava|Preßburg|Pressburg|Prešpurk, Pozsony",
         "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358\n",
         "POZNAMKA": ""
@@ -3247,10 +3247,10 @@
         "TITLE": "Mostar",
         "SCALE": "200000",
         "SHEET": "3543",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Mostar",
-        "N651": "$$a",
+        "N651": "$$aMostar (Bosna a Hercegovina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3287,7 +3287,7 @@
         "TITLE": "Olomouc",
         "SCALE": "200000",
         "SHEET": "3550",
-        "N43": "$$ae-xr---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534",
@@ -3327,10 +3327,10 @@
         "TITLE": "Breslau",
         "SCALE": "200000",
         "SHEET": "3551",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Breslau",
-        "N651": "$$a",
+        "N651": "$$aVratislav (Polsko : oblast)$$7ge191392",
         "POZNAMKA": "Breslau|Vratislav"
       },
       "geometry": {
@@ -3367,10 +3367,10 @@
         "TITLE": "Travnik",
         "SCALE": "200000",
         "SHEET": "3544",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Travnik",
-        "N651": "$$a",
+        "N651": "$$aTravnik (Bosna a Hercegovina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3407,10 +3407,10 @@
         "TITLE": "Nakel",
         "SCALE": "200000",
         "SHEET": "3553",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Nakel",
-        "N651": "$$a",
+        "N651": "$$aNakło nad Notecią (Polsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3447,10 +3447,10 @@
         "TITLE": "Frankfurt",
         "SCALE": "200000",
         "SHEET": "3252",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---$$ae-pl---",
+        "N80": "$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Frankfurt",
-        "N651": "$$a",
+        "N651": "$$aFrankfurt nad Odrou (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3487,8 +3487,8 @@
         "TITLE": "Klagenfurt",
         "SCALE": "200000",
         "SHEET": "3247",
-        "N43": "$$ae-cau---$$ae-xv---",
-        "N80": "$$a913(436.5)$$2MRF",
+        "N43": "$$ae-au---$$ae-xv---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Klagenfurt",
         "N651": "$$aKlagenfurt (Rakousko : oblast)\n$$7ge273424",
         "POZNAMKA": ""
@@ -3528,7 +3528,7 @@
         "SCALE": "200000",
         "SHEET": "3249",
         "N43": "$$ae-xr---$$ae-au---$$ae-gx---",
-        "N80": "$$a913(437.319)$$2MRF",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Budweis|Č. Budějovice|Budweis (Budějovice)|Budweis Č. Budějovice, Budweis",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833",
         "POZNAMKA": ""
@@ -3568,7 +3568,7 @@
         "SCALE": "200000",
         "SHEET": "3245",
         "N43": "$$ae-ci---$$ae-xv---",
-        "N80": "$$a913(497.5)$$2MRF",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Pola|Pula",
         "N651": "$$aPula (Chorvatsko : oblast)\n$$7ge828495",
         "POZNAMKA": ""
@@ -3608,7 +3608,7 @@
         "SCALE": "200000",
         "SHEET": "3246",
         "N43": "$$ae-xv---$$ae-ci---$$ae-au---$$ae-it---",
-        "N80": "$$a913(497.4)$$2MRF",
+        "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Laibach|Ljubljana",
         "N651": "$$aLublaň (Slovinsko : oblast)\n$$7ge582052",
         "POZNAMKA": ""
@@ -3647,10 +3647,10 @@
         "TITLE": "Linz",
         "SCALE": "200000",
         "SHEET": "3248",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
         "N245A": "Linz",
-        "N651": "$$a",
+        "N651": "$$aLinec (Rakousko : oblast)$$7ge494546",
         "POZNAMKA": "Linz|Linec"
       },
       "geometry": {
@@ -3687,7 +3687,7 @@
         "TITLE": "Prag",
         "SCALE": "200000",
         "SHEET": "3250",
-        "N43": "$$ae-xr---",
+        "N43": "$$ae-xr---$$be-xr-pg",
         "N80": "$$a913(437.311)$$2MRF",
         "N245A": "Prag|Praha|Prag (Praha), Prag",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513",
@@ -3727,8 +3727,8 @@
         "TITLE": "Bautzen",
         "SCALE": "200000",
         "SHEET": "3251",
-        "N43": "$$ae-gx---$$ae-xr---$$ae-pl---",
-        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us$$be-xr-li$$ae-pl---",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Bautzen|Litoměřice|Č. Lípa, Bautzen|Terezín, Bautzen|Ústí n. L.",
         "N651": "$$aBudyšín (Německo : oblast)$$7ge807051|$$aLitoměřice (Česko : oblast)$$7ge129847|$$aČeská Lípa (Česko : oblast)$$7ge131693|$$aTerezín (Litoměřice, Česko : oblast)$$7ge131067",
         "POZNAMKA": "Č. Lípa"

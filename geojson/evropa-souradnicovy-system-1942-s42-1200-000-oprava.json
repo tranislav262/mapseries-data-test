@@ -846,12 +846,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "M-33-XXV",
-        "TITLE": "",
+        "TITLE": "Švarcava",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245P": "",
+        "N245P": "Švarcava",
         "N245A": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
+        "N651": "$$aŠvarcava (Česko : zaniklá obec)$$7ge311483"
       },
       "geometry": {
         "type": "Polygon",

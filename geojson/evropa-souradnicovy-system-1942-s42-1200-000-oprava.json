@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "id": "9f1188fdc2f4533a6f839af33359b1a4",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -14,7 +15,6 @@
         "N651": "$$aChabařovice (Česko : oblast)$$7ge128913"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -38,10 +38,12 @@
               50.6666666665335
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "080b662639f66ae99519b048e466b36a",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -54,7 +56,6 @@
         "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -78,10 +79,12 @@
               50.6666666665335
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "71080997901f1f666cf9be828c59eb42",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -94,7 +97,6 @@
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -118,50 +120,12 @@
               50.6666666665335
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "SCALE": "200000",
-        "SHEET": "M-33-XI",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245P": "",
-        "N245A": "Aeromagnetická mapa ČSSR",
-        "N651": "$$a"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              17.00000000029985,
-              50.6666666665335
-            ],
-            [
-              16.000000000499654,
-              50.6666666665335
-            ],
-            [
-              16.000000000499654,
-              51.333333333066946
-            ],
-            [
-              17.00000000029985,
-              51.333333333066946
-            ],
-            [
-              17.00000000029985,
-              50.6666666665335
-            ]
-          ]
-        ]
-      }
-    },
-    {
+      "id": "bd8fd8515240aa650497c4c640dee03c",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -174,7 +138,6 @@
         "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -198,10 +161,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "32d85f19088668bf245d90c7dd1d2200",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -214,7 +179,6 @@
         "N651": "$$aTeplice (Česko : oblast)$$7ge131061"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -238,10 +202,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "07e1b2165e2e3dc5d5f2f74990925378",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -254,7 +220,6 @@
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -278,10 +243,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "c82ec261ad154d30ced3bac93779d9cb",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -294,7 +261,6 @@
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -318,10 +284,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "420ece66b6eacc28bcd9d416336ba3c9",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -334,7 +302,6 @@
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -358,10 +325,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "627f9d7bce00b8c682f52e2c4709c5b7",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -374,7 +343,6 @@
         "N651": "$$aJeseník (Česko : oblast)$$7ge129454"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -398,10 +366,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "9343de6e13b7bf6b9ef2d0bb97f9508c",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -414,7 +384,6 @@
         "N651": "$$aStrahovice (Česko : oblast)$$7ge981041"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -438,10 +407,12 @@
               50
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "3335c56e6fe5c634fcb20e965be0d40d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -454,7 +425,6 @@
         "N651": "$$aMariánské Lázně (Česko : oblast)$$7ge129965"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -478,10 +448,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "6c15fada871af581105ab2fe52ceab38",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -494,7 +466,6 @@
         "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -518,10 +489,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "ec08698222107f292acd3cc516ad1c7d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -534,7 +507,6 @@
         "N651": "$$aTábor (Česko : oblast)$$7ge131165"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -558,10 +530,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "1af3f6d4f480001be99cba48661670c8",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -574,7 +548,6 @@
         "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -598,10 +571,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "cf83376c22385ba80a584d4501c7ca42",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -614,7 +589,6 @@
         "N651": "$$aČeská Třebová (Česko : oblast)$$7ge131696"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -638,10 +612,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "5dffdc0415813a0ff80f3f2d22435704",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -654,7 +630,6 @@
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -678,10 +653,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "4cd00637641367a93bbcb8dbc31cce5d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -694,7 +671,6 @@
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -718,10 +694,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "01f97ad4edd101bbbdb532ec729f4f6c",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -734,7 +712,6 @@
         "N651": "$$aTrstená (Slovensko : oblast)$$7ge981056"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -758,10 +735,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "78af6ca8e2175496ce2952e8bccc599d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -774,7 +753,6 @@
         "N651": "$$aSpišská Stará Ves (Slovensko : oblast)$$7ge981213"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -798,10 +776,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "e9e4ba14f3926dd705b050722e03a4b8",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -814,7 +794,6 @@
         "N651": "$$aZborov (Bardejov, Slovensko : oblast)"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -838,10 +817,12 @@
               49.33333333346661
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "695d1053c2857241852e4a5bdc6cf38d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -854,7 +835,6 @@
         "N651": "$$aŠvarcava (Česko : zaniklá obec)$$7ge311483"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -878,10 +858,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "03f0654383448d82c11775d2f29e00dd",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -894,7 +876,6 @@
         "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -918,10 +899,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "285c56271856c7beaf15f0debde61510",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -934,7 +917,6 @@
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -958,10 +940,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "13511365abe47f0c534b58ffa9fa6f53",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -974,7 +958,6 @@
         "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -998,10 +981,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "8e7c7279f490c91f84a644adf7e96fae",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1014,7 +999,6 @@
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1038,10 +1022,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "bcb1bf0f44e95818c3d07387cb5eb59f",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1054,7 +1040,6 @@
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1078,10 +1063,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "7d602d12d5378c783524af9f091df25e",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1094,7 +1081,6 @@
         "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1118,10 +1104,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "b0bdea7229effb247a929d7265e10158",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1134,7 +1122,6 @@
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1158,10 +1145,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "3c976e0ecae3d3abb0210e2c1fa8ab63",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1174,7 +1163,6 @@
         "N651": "$$aVysoké Tatry (Polsko a Slovensko : pohoří : oblast)$$7ge131356"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1198,10 +1186,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "9d0193adcd5861ec66803d2ab5bc70ed",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1214,7 +1204,6 @@
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1238,10 +1227,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "850ad57886985bfbbaa7c2e185f7fdd1",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1254,7 +1245,6 @@
         "N651": "$$aSnina (Slovensko : oblast)$$7ge981222"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1278,10 +1268,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "2b0d4cc2fd96bbef6738dcf551c5d184",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1294,7 +1286,6 @@
         "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1318,10 +1309,12 @@
               48.66666666693317
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "d3ce49f8d80a364afd9910a448d47354",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1334,7 +1327,6 @@
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1358,10 +1350,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "58bc64b061d704ec79b3be52b74a4a04",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1374,7 +1368,6 @@
         "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1398,10 +1391,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "669c1452c6f5bbfc9ec67b1a845f8e62",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1414,7 +1409,6 @@
         "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1438,10 +1432,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "bca4063d49d3272547336b331d7a080d",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1454,7 +1450,6 @@
         "N651": "$$aZvolen (Slovensko : oblast)$$7ge132353"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1478,10 +1473,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "7e3580d3922f6e7a8aa175b6b261de11",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1494,7 +1491,6 @@
         "N651": "$$aRimavská Sobota (Slovensko : oblast)$$7xx0127667"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1518,10 +1514,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "a98d9b3567e8870e9b402ab9f8eaa68b",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1534,7 +1532,6 @@
         "N651": "$$aTrebišov (Slovensko : oblast)$$7ge844050"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1558,10 +1555,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "1e6535c10ee7d73e93c6233edbcacb50",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1574,7 +1573,6 @@
         "N651": "$$aČierna nad Tisou (Slovensko : oblast)"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1598,10 +1596,12 @@
               48.00000000039978
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "3e768706ce1c3f30d80d7aaf142f8cc2",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1614,7 +1614,6 @@
         "N651": "$$aVeľký Meder (Slovensko : oblast)"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1638,10 +1637,12 @@
               47.333333333866335
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
+      "id": "a8af19e9feca2874ea5fe74308339336",
       "type": "Feature",
       "properties": {
         "SCALE": "200000",
@@ -1654,7 +1655,6 @@
         "N651": "$$aNové Zámky (Slovensko : oblast)$$7ge900871"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1678,7 +1678,8 @@
               47.333333333866335
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     }
   ]

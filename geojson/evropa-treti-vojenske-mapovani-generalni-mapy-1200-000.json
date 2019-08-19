@@ -89,7 +89,7 @@
         "SHEET": "3741",
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
-        "N245A": "Durazzo (Durz), Durazzo",
+        "N245A": "Durazzo (Durz)|Durazzo",
         "N651": "$$aDürres (Albánie : oblast)$$7ge856385",
         "POZNAMKA": ""
       },
@@ -129,7 +129,7 @@
         "SHEET": "3749",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Banská Bystrica|Neusohl|Baňská Bystrica|Baňská Bystrica (Neusohl - Beszterczebánya), Besztercebánya",
+        "N245A": "Banská Bystrica|Neusohl|Baňská Bystrica|Baňská Bystrica (Neusohl - Beszterczebánya)|Besztercebánya",
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429",
         "POZNAMKA": "Báňská Bystřice|Baň. Bystrica"
       },
@@ -209,7 +209,7 @@
         "SHEET": "3745",
         "N43": "$$ae-rb---$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Mitrovice|Mitrowitz, Mitrovica",
+        "N245A": "Mitrovice|Mitrowitz|Mitrovica",
         "N651": "$$aSremska Mitrovica (Srbsko : oblast)$$7ge856389",
         "POZNAMKA": ""
       },
@@ -449,7 +449,7 @@
         "SHEET": "3751",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Częnstochowa, Czestochowa",
+        "N245A": "Częnstochowa|Czestochowa",
         "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138",
         "POZNAMKA": ""
       },
@@ -529,7 +529,7 @@
         "SHEET": "3753",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Płock, Plock",
+        "N245A": "Płock|Plock",
         "N651": "$$aPłock (Polsko : oblast)$$7ge856398",
         "POZNAMKA": ""
       },
@@ -804,13 +804,13 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Geissen",
+        "TITLE": "Giessen",
         "SCALE": "200000",
         "SHEET": "2651",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Geissen",
-        "N651": "$$a",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Giessen",
+        "N651": "$$aGiessen (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -847,10 +847,10 @@
         "TITLE": "Savona",
         "SCALE": "200000",
         "SHEET": "2644",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Savona",
-        "N651": "$$a",
+        "N651": "$$aSavona (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -887,10 +887,10 @@
         "TITLE": "Drogiczyn",
         "SCALE": "200000",
         "SHEET": "4352",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Drogiczyn",
-        "N651": "$$a",
+        "N651": "$$aDrogičin (Bělorusko : oblast)$$7ge563958",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -929,7 +929,7 @@
         "SHEET": "4347",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Gyergyó-Szt.-Miklós, Gyergyószentmiklós",
+        "N245A": "Gyergyó-Szt.-Miklós|Gyergyószentmiklós",
         "N651": "$$aGheorgheni (Harghita, Rumunsko : oblast)$$7ge856666",
         "POZNAMKA": "Gyergyószentmiklós"
       },
@@ -967,10 +967,10 @@
         "TITLE": "Xanthi",
         "SCALE": "200000",
         "SHEET": "4341",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---$$ae-bu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Xanthi",
-        "N651": "$$a",
+        "N651": "$$aXanthé (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1009,7 +1009,7 @@
         "SHEET": "4349",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Kolomea, Kolomija",
+        "N245A": "Kolomea|Kolomija",
         "N651": "$$aKolomyja (Ukrajina : oblast)$$7ge828863",
         "POZNAMKA": "Kołomea"
       },
@@ -1049,7 +1049,7 @@
         "SHEET": "4342",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Stara Zagora (Eski Zagra), Eski Zagra",
+        "N245A": "Stara Zagora (Eski Zagra)|Eski Zagra",
         "N651": "$$aStara Zagora (Bulharsko : oblast)$$7ge856658",
         "POZNAMKA": ""
       },
@@ -1089,7 +1089,7 @@
         "SHEET": "4345",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Tǎrgoviște, Targoviste",
+        "N245A": "Tǎrgoviște|Targoviste",
         "N651": "$$aTărgovişte (Rumunsko : oblast)$$7ge856662",
         "POZNAMKA": ""
       },
@@ -1129,7 +1129,7 @@
         "SHEET": "4346",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Brassó (Kronstadt), Brassó",
+        "N245A": "Brassó (Kronstadt)|Brassó",
         "N651": "$$aBrašov-oblast (Rumunsko)$$7ge385110",
         "POZNAMKA": ""
       },
@@ -1167,10 +1167,10 @@
         "TITLE": "Lemni",
         "SCALE": "200000",
         "SHEET": "4340",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---$$ae-bu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Lemni",
-        "N651": "$$a",
+        "N651": "$$aLimnos (Řecko : ostrov)$$7ge606269",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1208,8 +1208,8 @@
         "SCALE": "200000",
         "SHEET": "4348",
         "N43": "$$ae-un---$$ae-rm---",
-        "N80": "$$a913(477)$$2MRF",
-        "N245A": "Śniatyn, Sznyatin",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Śniatyn|Sznyatin",
         "N651": "$$aSnjatyn (Ukrajina : oblast)$$7ge828860",
         "POZNAMKA": ""
       },
@@ -1244,13 +1244,13 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Trinovo",
+        "TITLE": "Trnovo",
         "SCALE": "200000",
         "SHEET": "4343",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Trinovo",
-        "N651": "$$a",
+        "N43": "$$ae-bu---",
+        "N80": "$$a913(497.2)$$2MRF",
+        "N245A": "Trnovo",
+        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1329,7 +1329,7 @@
         "SHEET": "4351",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Łuck, Luck",
+        "N245A": "Łuck|Luck",
         "N651": "$$aLuck (Ukrajina : oblast)$$7ge251175",
         "POZNAMKA": ""
       },
@@ -1367,9 +1367,9 @@
         "TITLE": "Svistov",
         "SCALE": "200000",
         "SHEET": "4344",
-        "N43": "$$ae-rm---$$ae-bu---",
-        "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Svištov, Svistov",
+        "N43": "$$ae-bu---$$ae-rm---",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Svištov|Svistov",
         "N651": "$$aSvištov (Bulharsko : oblast)$$7ge856660",
         "POZNAMKA": ""
       },
@@ -1407,10 +1407,10 @@
         "TITLE": "Slonim",
         "SCALE": "200000",
         "SHEET": "4353",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Slonim",
-        "N651": "$$a",
+        "N651": "$$aSlonim (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1447,10 +1447,10 @@
         "TITLE": "Siedlec",
         "SCALE": "200000",
         "SHEET": "4052",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Siedlec",
-        "N651": "$$a",
+        "N651": "$$aSiedlce (Polsko : oblast)$$7ge191386",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1488,7 +1488,7 @@
         "SCALE": "200000",
         "SHEET": "4047",
         "N43": "$$ae-rm---$$ae-hu---",
-        "N80": "$$a913(498)$$2MRF",
+        "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Oradea-Mare|Groszwardein, Nagyvárad",
         "N651": "$$aOradea (Rumunsko : oblast)$$7ge856419",
         "POZNAMKA": "Grosswardein|Vel. Varadin"
@@ -1527,10 +1527,10 @@
         "TITLE": "Vodena",
         "SCALE": "200000",
         "SHEET": "4041",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---$$ae-xn---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Vodena",
-        "N651": "$$a",
+        "N651": "$$aEdessa (Řecko : oblast)",
         "POZNAMKA": "Vodena"
       },
       "geometry": {
@@ -1608,8 +1608,8 @@
         "SCALE": "200000",
         "SHEET": "4042",
         "N43": "$$ae-xn---$$ae-rb---$$ae-bu---",
-        "N80": "$$a913(497.7)$$2MRF",
-        "N245A": "Kriva Palanka, Egri Palanka",
+        "N80": "$$a913(497.7)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Kriva Palanka|Egri Palanka",
         "N651": "$$aKriva Palanka (Makedonie : oblast)$$7ge828829",
         "POZNAMKA": ""
       },
@@ -1647,10 +1647,10 @@
         "TITLE": "Orsova",
         "SCALE": "200000",
         "SHEET": "4045",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rm---$$ae-rb---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Orsova",
-        "N651": "$$a",
+        "N651": "$$aOršava (Rumunsko : oblast",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1684,13 +1684,13 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Lugos",
+        "TITLE": "Lugoj",
         "SCALE": "200000",
         "SHEET": "4046",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Lugos",
-        "N651": "$$a",
+        "N651": "$$aLugoj (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1727,10 +1727,10 @@
         "TITLE": "Larisa",
         "SCALE": "200000",
         "SHEET": "4040",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Larisa",
-        "N651": "$$a",
+        "N651": "$$aLárisa (Řecko : oblast)$$7ge464476",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1767,8 +1767,8 @@
         "TITLE": "Munkács",
         "SCALE": "200000",
         "SHEET": "4048",
-        "N43": "$$ae-hu---$$ae-un---$$ae-rm---$$ae-xo---",
-        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
+        "N43": "$$ae-un---$$ae-rm---$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Munkács|Munkačevo|Mukačevo|Mukačevo, Carăii Mari|Král. Chlumec, Munkács|Král. Chlmec",
         "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149|$$aCarei (Rumunsko : oblast)$$7ge828883|$$aKráľovský Chlmec (Slovensko : oblast)$$7ge856420",
         "POZNAMKA": ""
@@ -1804,13 +1804,13 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Lamía",
+        "TITLE": "Lamia ",
         "SCALE": "200000",
         "SHEET": "4039",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Lamía",
-        "N651": "$$a",
+        "N651": "$$aLamia (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1848,8 +1848,8 @@
         "SCALE": "200000",
         "SHEET": "4043",
         "N43": "$$ae-rb---$$ae-bu---",
-        "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Niš, Nis",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Niš|Nis",
         "N651": "$$aNiš (Srbsko : oblast)$$7ge586329",
         "POZNAMKA": ""
       },
@@ -1888,8 +1888,8 @@
         "SCALE": "200000",
         "SHEET": "4050",
         "N43": "$$ae-pl---$$ae-un---",
-        "N80": "$$a913(438)$$2MRF",
-        "N245A": "Przemyśl, Przemysl",
+        "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
+        "N245A": "Przemyśl|Przemysl",
         "N651": "$$aPrzemyśl (Polsko : oblast)$$7ge130543",
         "POZNAMKA": "Přemyšl"
       },
@@ -1927,10 +1927,10 @@
         "TITLE": "Lublin",
         "SCALE": "200000",
         "SHEET": "4051",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Lublin",
-        "N651": "$$a",
+        "N651": "$$aLublin (Polsko : oblast)$$7ge251172",
         "POZNAMKA": "Lublin"
       },
       "geometry": {
@@ -1968,8 +1968,8 @@
         "SCALE": "200000",
         "SHEET": "4044",
         "N43": "$$ae-rb---$$ae-bu---$$ae-rm---",
-        "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Zaječar, Zajecar",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Zaječar|Zajecar",
         "N651": "$$aZaječar (Srbsko : oblast)$$7ge856418",
         "POZNAMKA": ""
       },
@@ -2009,7 +2009,7 @@
         "SHEET": "4053",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Łomźa, Lomza",
+        "N245A": "Łomźa|Lomza",
         "N651": "$$aŁomża (Polsko : oblast)$$7ge191172",
         "POZNAMKA": ""
       },
@@ -2047,10 +2047,10 @@
         "TITLE": "Magdeburg",
         "SCALE": "200000",
         "SHEET": "2952",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Magdeburg",
-        "N651": "$$a",
+        "N651": "$$aMagdeburg (Německo : oblast)$$7ge232870",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2087,10 +2087,10 @@
         "TITLE": "Innsbruck",
         "SCALE": "200000",
         "SHEET": "2947",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Innsbruck",
-        "N651": "$$a",
+        "N651": "$$aInnsbruck (Rakousko : oblast)$$7ge494545",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2127,11 +2127,11 @@
         "TITLE": "Ingolstadt",
         "SCALE": "200000",
         "SHEET": "2949",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Ingolstadt",
-        "N651": "$$a",
-        "POZNAMKA": "Innsbruck"
+        "N651": "$$aIngolstadt (Německo : oblast)",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2167,10 +2167,10 @@
         "TITLE": "Civitavecchia",
         "SCALE": "200000",
         "SHEET": "2942",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Civitavecchia",
-        "N651": "$$a",
+        "N651": "$$aCivitavecchia (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2249,7 +2249,7 @@
         "SHEET": "2946",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Trient, Trento",
+        "N245A": "Trient|Trento",
         "N651": "$$Trident (Itálie : oblast)$$7ge856350",
         "POZNAMKA": ""
       },
@@ -2288,7 +2288,7 @@
         "SCALE": "200000",
         "SHEET": "2948",
         "N43": "$$ae-gx---$$ae-au---",
-        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "München",
         "N651": "$$aMnichov (Německo : oblast)$$7ge273426",
         "POZNAMKA": ""
@@ -2327,10 +2327,10 @@
         "TITLE": "Siena",
         "SCALE": "200000",
         "SHEET": "2943",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Siena",
-        "N651": "$$a",
+        "N651": "$$aSiena (Itálie : oblast)$$7ge340415",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2367,10 +2367,10 @@
         "TITLE": "Bamberg",
         "SCALE": "200000",
         "SHEET": "2950",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Bamberg",
-        "N651": "$$a",
+        "N651": "$$aBamberg (Německo : oblast)$$7ge134048",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2407,10 +2407,10 @@
         "TITLE": "Erfurt",
         "SCALE": "200000",
         "SHEET": "2951",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Erfurt",
-        "N651": "$$a",
+        "N651": "$$aErfurt (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2447,10 +2447,10 @@
         "TITLE": "Firenze",
         "SCALE": "200000",
         "SHEET": "2944",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Firenze",
-        "N651": "$$a",
+        "N651": "$$aFlorencie (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2689,7 +2689,7 @@
         "SHEET": "4645",
         "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Galaƫǐ (Galaz), Galaz",
+        "N245A": "Galaƫǐ (Galaz)|Galaz",
         "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638",
         "POZNAMKA": ""
       },
@@ -2807,10 +2807,10 @@
         "TITLE": "Varna",
         "SCALE": "200000",
         "SHEET": "4643",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bu---",
+        "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Varna",
-        "N651": "$$a",
+        "N651": "$$aVarna (Bulharsko : oblast)$$7ge723128",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2849,7 +2849,7 @@
         "SHEET": "4650",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Żytomir, Zytomir",
+        "N245A": "Żytomir|Zytomir",
         "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901",
         "POZNAMKA": ""
       },
@@ -2928,8 +2928,8 @@
         "SCALE": "200000",
         "SHEET": "4644",
         "N43": "$$ae-rm---$$ae-bu---",
-        "N80": "$$a913(498)$$2MRF",
-        "N245A": "Constanta (Küstendže), Kustendze",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Constanta (Küstendže)|Kustendze",
         "N651": "$$aConstanţa (Rumunsko : oblast)$$7ge749574",
         "POZNAMKA": ""
       },
@@ -3129,7 +3129,7 @@
         "SHEET": "3545",
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Banjaluka, Banja Luka",
+        "N245A": "Banjaluka|Banja Luka",
         "N651": "$$aBanja Luka (Bosna a Hercegovina : oblast)$$7ge856370\n",
         "POZNAMKA": ""
       },
@@ -3288,8 +3288,8 @@
         "SCALE": "200000",
         "SHEET": "3550",
         "N43": "$$ae-xr---$$ae-pl---",
-        "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc, Olomouc|Olomouc",
+        "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534",
         "POZNAMKA": ""
       },
@@ -3569,7 +3569,7 @@
         "SHEET": "3245",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Pola, Pula",
+        "N245A": "Pola|Pula",
         "N651": "$$aPula (Chorvatsko : oblast)\n$$7ge828495",
         "POZNAMKA": ""
       },
@@ -3609,7 +3609,7 @@
         "SHEET": "3246",
         "N43": "$$ae-xv---$$ae-ci---$$ae-au---$$ae-it---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "Laibach, Ljubljana",
+        "N245A": "Laibach|Ljubljana",
         "N651": "$$aLublaň (Slovinsko : oblast)\n$$7ge582052",
         "POZNAMKA": ""
       },
@@ -4529,7 +4529,7 @@
         "SHEET": "3444",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Spalato, Split",
+        "N245A": "Spalato|Split",
         "N651": "$$aSplit (Chorvatsko : oblast)\n$$7ge856365",
         "POZNAMKA": ""
       },

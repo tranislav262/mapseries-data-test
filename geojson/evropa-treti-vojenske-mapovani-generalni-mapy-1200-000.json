@@ -3767,10 +3767,10 @@
         "TITLE": "Insel Selve",
         "SCALE": "200000",
         "SHEET": "3244",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
         "N245A": "Insel Selve",
-        "N651": "$$a",
+        "N651": "$$aSilba (Chorvatsko : ostrov)$$7ge921202",
         "POZNAMKA": "Insel Selve"
       },
       "geometry": {
@@ -3807,10 +3807,10 @@
         "TITLE": "Stettin",
         "SCALE": "200000",
         "SHEET": "3253",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---$$ae-gx---",
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Stettin",
-        "N651": "$$a",
+        "N651": "$$aŠtětín (Polsko : oblast)$$7ge134526",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3847,10 +3847,10 @@
         "TITLE": "Reczyca",
         "SCALE": "200000",
         "SHEET": "4852",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Reczyca",
-        "N651": "$$a",
+        "N651": "$$aRečyca (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3887,10 +3887,10 @@
         "TITLE": "Katarzy",
         "SCALE": "200000",
         "SHEET": "4847",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Katarzy",
-        "N651": "$$a",
+        "N651": "$$aSnamjanka (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3927,10 +3927,10 @@
         "TITLE": "Uman",
         "SCALE": "200000",
         "SHEET": "4849",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Uman",
-        "N651": "$$a",
+        "N651": "$$aUman’ (Ukrajina : oblast)$$7ge525690",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3967,10 +3967,10 @@
         "TITLE": "Odessa",
         "SCALE": "200000",
         "SHEET": "4846",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Odessa",
-        "N651": "$$a",
+        "N651": "$$aOděsa (Ukrajina : oblast)$$7ge491047",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4007,10 +4007,10 @@
         "TITLE": "Ananiew",
         "SCALE": "200000",
         "SHEET": "4848",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Ananiew",
-        "N651": "$$a",
+        "N651": "$$aAnanjiv (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4047,10 +4047,10 @@
         "TITLE": "Kijew",
         "SCALE": "200000",
         "SHEET": "4850",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kijew",
-        "N651": "$$a",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4087,8 +4087,8 @@
         "TITLE": "Czernobyl",
         "SCALE": "200000",
         "SHEET": "4851",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-bw---",
+        "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Czernobyl",
         "N651": "$$a",
         "POZNAMKA": ""
@@ -4127,10 +4127,10 @@
         "TITLE": "Rogaczew",
         "SCALE": "200000",
         "SHEET": "4853",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Rogaczew",
-        "N651": "$$a",
+        "N651": "$$aRahačoŭ (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4167,10 +4167,10 @@
         "TITLE": "Glogau",
         "SCALE": "200000",
         "SHEET": "3452",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Glogau",
-        "N651": "$$a",
+        "N651": "$$aGłogów (Polsko : oblast)$$7ge117372",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4208,7 +4208,7 @@
         "SCALE": "200000",
         "SHEET": "3447",
         "N43": "$$ae-hu---$$ae-au---$$ae-xv---$$ae-ci---",
-        "N80": "$$a913(439)$$2MRF",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Steinamanger, Szombathely",
         "N651": "$$aSzombathely (Maďarsko : oblast)$$7ge856366",
         "POZNAMKA": ""
@@ -4247,8 +4247,8 @@
         "TITLE": "Brünn",
         "SCALE": "200000",
         "SHEET": "3449",
-        "N43": "$$ae-xr---$$ae-au---",
-        "N80": "$$a913(437.322)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Brno|Brünn|Brünn (Brno), Brünn",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414",
         "POZNAMKA": ""
@@ -4287,10 +4287,10 @@
         "TITLE": "Kostajnica",
         "SCALE": "200000",
         "SHEET": "3445",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bn---$$ae-ci---",
+        "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Kostajnica",
-        "N651": "$$a",
+        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4328,8 +4328,8 @@
         "SCALE": "200000",
         "SHEET": "3446",
         "N43": "$$ae-ci---$$ae-xv---$$ae-hu---",
-        "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Zagreb, Zágráb",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Zagreb|Zágráb",
         "N651": "$$aZáhřeb (Chorvatsko : oblast)\n$$7ge445597",
         "POZNAMKA": ""
       },
@@ -4368,7 +4368,7 @@
         "SCALE": "200000",
         "SHEET": "3448",
         "N43": "$$ae-au---$$ae-hu---",
-        "N80": "$$a913(436.1)$$2MRF",
+        "N80": "$$a913(436.1)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Vídeň|Wien, Becs",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468",
         "POZNAMKA": ""
@@ -4407,10 +4407,10 @@
         "TITLE": "I. Lissa",
         "SCALE": "200000",
         "SHEET": "3443",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-ci---",
+        "N80": "$$a913(497.5)$$2MRF",
         "N245A": "I. Lissa",
-        "N651": "$$a",
+        "N651": "$$aVis (Chorvatsko : ostrov)$$7ge602860",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4447,7 +4447,7 @@
         "TITLE": "Josefstadt",
         "SCALE": "200000",
         "SHEET": "3450",
-        "N43": "$$ae-xr---$$ae-pl---",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Josefstadt|Josefov|Vysoké Mýto|Glatz, Josefstadt|Náchod",
         "N651": "$$aJosefov (Jaroměř, Česko : oblast)$$7ge884444|$$aVysoké Mýto (Česko : oblast)$$7ge131354|$$aKladsko (Polsko : oblast)$$7ge129579",
@@ -4487,7 +4487,7 @@
         "TITLE": "Schweidnitz",
         "SCALE": "200000",
         "SHEET": "3451",
-        "N43": "$$ae-pl---$$ae-xr---",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Schweidnitz|Trutnov, Schweidnitz|Trutnov|Úpice, Schweidnitz|Úpice",
         "N651": "$$aSvídnice (Polsko : oblast)$$7ge343761|$$aTrutnov (Česko : oblast)$$7ge131134|$$aÚpice (Česko : oblast)$$7ge250326",
@@ -4528,7 +4528,7 @@
         "SCALE": "200000",
         "SHEET": "3444",
         "N43": "$$ae-ci---$$ae-bn---",
-        "N80": "$$a913(497.5)$$2MRF",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Spalato|Split",
         "N651": "$$aSplit (Chorvatsko : oblast)\n$$7ge856365",
         "POZNAMKA": ""
@@ -4567,10 +4567,10 @@
         "TITLE": "Schneidemühl",
         "SCALE": "200000",
         "SHEET": "3453",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Schneidemühl",
-        "N651": "$$a",
+        "N651": "$$aPiła (Polsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4607,10 +4607,10 @@
         "TITLE": "Torgau",
         "SCALE": "200000",
         "SHEET": "3152",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Torgau",
-        "N651": "$$a",
+        "N651": "$$aTorgau (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4647,8 +4647,8 @@
         "TITLE": "Hofgastein",
         "SCALE": "200000",
         "SHEET": "3147",
-        "N43": "$$ae-au---$$ae-it---$$ae-xv---",
-        "N80": "$$a913(436.8)$$2MRF",
+        "N43": "$$ae-au---$$ae-it---$$ae-xv---$$ae-gx---",
+        "N80": "$$a913(436.8)$$2MRF|$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Hofgastein",
         "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358",
         "POZNAMKA": ""
@@ -4687,10 +4687,10 @@
         "TITLE": "Passau",
         "SCALE": "200000",
         "SHEET": "3149",
-        "N43": "$$ae-gx---$$ae-xr---$$ae-au---",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl$$ae-au---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430.129)$$2MRF\n",
         "N245A": "Klatovy |Passau|Klatovy, Passau",
-        "N651": "$$aKlatovy (Česko : oblast)$$7ge128500|$$aPasov-oblast (Německo)$$7ge114414",
+        "N651": "$$aKlatovy (Česko : oblast)$$7ge128500|$$aPasov (Německo : oblast)$$7ge114414",
         "POZNAMKA": ""
       },
       "geometry": {

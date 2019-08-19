@@ -4090,7 +4090,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Czernobyl",
-        "N651": "$$a",
+        "N651": "$$aČernobyl (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4727,10 +4727,10 @@
         "TITLE": "Rovigno",
         "SCALE": "200000",
         "SHEET": "3145",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-ci---$$ae-xv---",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Rovigno",
-        "N651": "$$a",
+        "N651": "$$aRovinj (Chorvatsko : oblast)",
         "POZNAMKA": "Rovigno"
       },
       "geometry": {
@@ -4767,10 +4767,10 @@
         "TITLE": "Triest",
         "SCALE": "200000",
         "SHEET": "3146",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---$$ae-xv---",
+        "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Triest",
-        "N651": "$$a",
+        "N651": "$$aTerst (Itálie : oblast)$$7ge829830",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4807,10 +4807,10 @@
         "TITLE": "Salzburg",
         "SCALE": "200000",
         "SHEET": "3148",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Salzburg",
-        "N651": "$$a",
+        "N651": "$$aSalcburk (Rakousko : oblast)$$7ge158425",
         "POZNAMKA": "Salzburg|Salcpurk"
       },
       "geometry": {
@@ -4847,10 +4847,10 @@
         "TITLE": "Ascoli",
         "SCALE": "200000",
         "SHEET": "3143",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Ascoli",
-        "N651": "$$a",
+        "N651": "$$aAscoli Piceno (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4887,8 +4887,8 @@
         "TITLE": "Pilsen",
         "SCALE": "200000",
         "SHEET": "3150",
-        "N43": "$$ae-xr---$$ae-gx---",
-        "N80": "$$a913(437.317)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Pilsen|Plzeň|Pilsen (Plzeň), Pilsen|Pilsen (Plzeň)",
         "N651": "$$aPlzeň (Česko : oblast)\n$$7ge130440",
         "POZNAMKA": ""
@@ -4927,7 +4927,7 @@
         "TITLE": "Dresen",
         "SCALE": "200000",
         "SHEET": "3151",
-        "N43": "$$ae-gx---$$ae-xr---",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Dresden|Teplice-Šanov, Dresden|Teplice-Šanov|Teplice-Šanov, Dresden, Dresen|Teplice",
         "N651": "$$aDrážďany (Německo : oblast)$$7ge129087|$$aTeplice (Česko : oblast)$$7ge131061",
@@ -4967,10 +4967,10 @@
         "TITLE": "Ancona",
         "SCALE": "200000",
         "SHEET": "3144",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Ancona",
-        "N651": "$$a",
+        "N651": "$$aAncona (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5007,10 +5007,10 @@
         "TITLE": "Berlin",
         "SCALE": "200000",
         "SHEET": "3153",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Berlin",
-        "N651": "$$a",
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5047,10 +5047,10 @@
         "TITLE": "Wittenberge",
         "SCALE": "200000",
         "SHEET": "3052",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Wittenberge",
-        "N651": "$$a",
+        "N651": "$$aWittenberge (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5167,10 +5167,10 @@
         "TITLE": "Rom",
         "SCALE": "200000",
         "SHEET": "3042",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Rom",
-        "N651": "$$a",
+        "N651": "$$aŘím (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5247,10 +5247,10 @@
         "TITLE": "Belluno",
         "SCALE": "200000",
         "SHEET": "3046",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Belluno",
-        "N651": "$$a",
+        "N651": "$$aBelluno (Itálie : oblast)",
         "POZNAMKA": "Belluno"
       },
       "geometry": {
@@ -5287,10 +5287,10 @@
         "TITLE": "Kufstein",
         "SCALE": "200000",
         "SHEET": "3048",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Kufstein",
-        "N651": "$$a",
+        "N651": "$$aKufstein (Rakousko : oblast)$$7ge560468",
         "POZNAMKA": "Kufstein"
       },
       "geometry": {
@@ -5327,10 +5327,10 @@
         "TITLE": "Perugia",
         "SCALE": "200000",
         "SHEET": "3043",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Perugia",
-        "N651": "$$a",
+        "N651": "$$aPerugia (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5367,8 +5367,8 @@
         "TITLE": "Eger",
         "SCALE": "200000",
         "SHEET": "3050",
-        "N43": "$$ae-gx---$$ae-xr---",
-        "N80": "$$a913(437.318)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
+        "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Eger|Cheb, Eger|Cheb",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921",
         "POZNAMKA": ""
@@ -5447,10 +5447,10 @@
         "TITLE": "Ravenna",
         "SCALE": "200000",
         "SHEET": "3044",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Ravenna",
-        "N651": "$$a",
+        "N651": "$$aRavenna (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5487,10 +5487,10 @@
         "TITLE": "Bern",
         "SCALE": "200000",
         "SHEET": "2547",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-sz---$$ae-fr---",
+        "N80": "$$a913(494)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Bern",
-        "N651": "$$a",
+        "N651": "$$aBern (Švýcarsko : oblast)$$7ge663866",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5527,10 +5527,10 @@
         "TITLE": "Strassbourg",
         "SCALE": "200000",
         "SHEET": "2549",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-fr---$$ae-gx---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Strassbourg",
-        "N651": "$$a",
+        "N651": "$$aŠtrasburk (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5567,10 +5567,10 @@
         "TITLE": "Torino",
         "SCALE": "200000",
         "SHEET": "2545",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---$$ae-fr---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Torino",
-        "N651": "$$a",
+        "N651": "$$aTurín (Itálie : oblast)$$7ge572776",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5607,10 +5607,10 @@
         "TITLE": "Aosta",
         "SCALE": "200000",
         "SHEET": "2546",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---$$ae-fr---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Aosta",
-        "N651": "$$a",
+        "N651": "$$aAosta (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5647,10 +5647,10 @@
         "TITLE": "Colmar",
         "SCALE": "200000",
         "SHEET": "2548",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-fr---$$ae-gx---$$ae-sz---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Colmar",
-        "N651": "$$a",
+        "N651": "$$aColmar (Francie : oblast)$$7ge672208",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5687,10 +5687,10 @@
         "TITLE": "Koblenz",
         "SCALE": "200000",
         "SHEET": "2550",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Koblenz",
-        "N651": "$$a",
+        "N651": "$$aKoblenz (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5727,10 +5727,10 @@
         "TITLE": "Köln",
         "SCALE": "200000",
         "SHEET": "2551",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Köln",
-        "N651": "$$a",
+        "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5767,10 +5767,10 @@
         "TITLE": "Nizza",
         "SCALE": "200000",
         "SHEET": "2544",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-fr---$$ae-it---$$ae-mc---",
+        "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(449.49)$$2MRF",
         "N245A": "Nizza",
-        "N651": "$$a",
+        "N651": "$$aNice (Francie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5807,10 +5807,10 @@
         "TITLE": "Nowogeorgiewsk",
         "SCALE": "200000",
         "SHEET": "3852",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Nowogeorgiewsk",
-        "N651": "$$a",
+        "N651": "$$aModlin (Polsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5847,10 +5847,10 @@
         "TITLE": "Szolnok",
         "SCALE": "200000",
         "SHEET": "3847",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
         "N245A": "Szolnok",
-        "N651": "$$a",
+        "N651": "$$aSzolnok (Maďarsko : oblast)$$7ge459428",
         "POZNAMKA": "Szolnok"
       },
       "geometry": {
@@ -5887,10 +5887,10 @@
         "TITLE": "Elbasan",
         "SCALE": "200000",
         "SHEET": "3841",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-aa---$$ae-xn---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Elbasan",
-        "N651": "$$a",
+        "N651": "$$aElbasan (Albánie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5928,7 +5928,7 @@
         "SCALE": "200000",
         "SHEET": "3849",
         "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Leutschau|Spiš. N. Ves|Levoča (Löcse)|Levoča|Lőcse|Spišská Nová Ves|Spišská N. Ves, Locse",
         "N651": "$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aSpišská Nová Ves (Slovensko : oblast)$$7ge784155",
         "POZNAMKA": ""
@@ -5967,10 +5967,10 @@
         "TITLE": "Prizren",
         "SCALE": "200000",
         "SHEET": "3842",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-kv---$$ae-aa---$$ae-xn---",
+        "N80": "$$a913(497.115)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Prizren",
-        "N651": "$$a",
+        "N651": "$$aPrizren (Kosovo : oblast)$$7ge408625",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6008,8 +6008,8 @@
         "SCALE": "200000",
         "SHEET": "3845",
         "N43": "$$ae-rb---$$ae-rm---",
-        "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Belgrad, Belgrád",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Belgrad|Belgrád",
         "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990",
         "POZNAMKA": ""
       },
@@ -6047,9 +6047,9 @@
         "TITLE": "Szeged",
         "SCALE": "200000",
         "SHEET": "3846",
-        "N43": "$$ae-rb---$$ae-hu---$$ae-rm---",
-        "N80": "$$a913(439)$$2MRF",
-        "N245A": "Szegedin, Szeged",
+        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Szegedin|Szeged",
         "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405",
         "POZNAMKA": ""
       },
@@ -6088,8 +6088,8 @@
         "SCALE": "200000",
         "SHEET": "3840",
         "N43": "$$ae-gr---$$ae-aa---",
-        "N80": "$$a913(495)$$2MRF",
-        "N245A": "Korfu (Kerkira), Kerkira (Korfu)",
+        "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
+        "N245A": "Korfu (Kerkira)|Kerkira (Korfu)",
         "N651": "$$aKorfu (Řecko : oblast)$$7ge856399",
         "POZNAMKA": ""
       },
@@ -6167,10 +6167,10 @@
         "TITLE": "Preveza",
         "SCALE": "200000",
         "SHEET": "3839",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Preveza",
-        "N651": "$$a",
+        "N651": "$$aPreveza (Řecko : oblast)$$7ge593117",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6207,10 +6207,10 @@
         "TITLE": "Novipazar",
         "SCALE": "200000",
         "SHEET": "3843",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rb---$$ae-aa---$$ae-xn---$$ae-mo---$$ae-kv---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.115)$$2MRF",
         "N245A": "Novipazar",
-        "N651": "$$a",
+        "N651": "$$aNovi Pazar (Srbsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6329,7 +6329,7 @@
         "SHEET": "3844",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Užice, Uzice",
+        "N245A": "Užice|Uzice",
         "N651": "$$aUžice (Srbsko : oblast)$$7ge856404",
         "POZNAMKA": ""
       },
@@ -6369,7 +6369,7 @@
         "SHEET": "3853",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Mława, Miawa",
+        "N245A": "Mława|Miawa",
         "N651": "$$aMława (Polsko : oblast)$$7ge856409",
         "POZNAMKA": ""
       },
@@ -6407,10 +6407,10 @@
         "TITLE": "Warschau",
         "SCALE": "200000",
         "SHEET": "3952",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Warschau",
-        "N651": "$$a",
+        "N651": "$$aVaršava (Polsko : oblast)$$7ge217232",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6447,10 +6447,10 @@
         "TITLE": "Békéscsaba",
         "SCALE": "200000",
         "SHEET": "3947",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-hu---$$ae-rm---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Békéscsaba",
-        "N651": "$$a",
+        "N651": "$$aBékéscsaba (Maďarsko : oblast)",
         "POZNAMKA": "Békés-Csaba"
       },
       "geometry": {

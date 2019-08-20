@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Lodz",
+        "TITLE": "Łódź",
         "SCALE": "200000",
         "SHEET": "3752",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Łódź, Lodz|Lodz",
+        "N245A": "Łódź|Lodz",
         "N651": "$$aLodž (Polsko : oblast)$$7ge292514",
         "POZNAMKA": ""
       },
@@ -44,12 +44,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Budapest",
+        "TITLE": "Budapest (Süd)",
         "SCALE": "200000",
         "SHEET": "3747",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "Budapest, Kecskemét|Budapest Kecskemét",
+        "N245A": "Budapest, Kecskemét|Budapest|Kecskemét",
         "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aKecskemét (Maďarsko : oblast)$$7ge856394",
         "POZNAMKA": "Budapešť-Kecskemét"
       },
@@ -128,7 +128,7 @@
         "SCALE": "200000",
         "SHEET": "3749",
         "N43": "$$ae-xo---$$ae-pl---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Banská Bystrica|Neusohl|Baňská Bystrica|Baňská Bystrica (Neusohl - Beszterczebánya)|Besztercebánya",
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429",
         "POZNAMKA": "Báňská Bystřice|Baň. Bystrica"
@@ -208,7 +208,7 @@
         "SCALE": "200000",
         "SHEET": "3745",
         "N43": "$$ae-rb---$$ae-bn---$$ae-ci---",
-        "N80": "$$a913(497.11)$$2MRF",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Mitrovice|Mitrowitz|Mitrovica",
         "N651": "$$aSremska Mitrovica (Srbsko : oblast)$$7ge856389",
         "POZNAMKA": ""
@@ -248,8 +248,8 @@
         "SCALE": "200000",
         "SHEET": "3746",
         "N43": "$$ae-rb---$$ae-hu---$$ae-ci---",
-        "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Maria-Theresiopel, Szabadka",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
+        "N245A": "Maria-Theresiopel|Szabadka",
         "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392",
         "POZNAMKA": ""
       },
@@ -324,7 +324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Losonc",
+        "TITLE": "Losonc, Budapest (Nord)",
         "SCALE": "200000",
         "SHEET": "3748",
         "N43": "$$ae-hu---$$ae-xo---",
@@ -524,7 +524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Plock",
+        "TITLE": "Płock",
         "SCALE": "200000",
         "SHEET": "3753",
         "N43": "$$ae-pl---",
@@ -1084,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Targoviste",
+        "TITLE": "Tărgoviste",
         "SCALE": "200000",
         "SHEET": "4345",
         "N43": "$$ae-rm---",
@@ -1164,12 +1164,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Lemni",
+        "TITLE": "Isola Lemni",
         "SCALE": "200000",
         "SHEET": "4340",
         "N43": "$$ae-gr---$$ae-bu---",
         "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF",
-        "N245A": "Lemni",
+        "N245A": "Lemni|I. Lemnos (Lemni)",
         "N651": "$$aLimnos (Řecko : ostrov)$$7ge606269",
         "POZNAMKA": ""
       },
@@ -1324,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Luck",
+        "TITLE": "Łuck",
         "SCALE": "200000",
         "SHEET": "4351",
         "N43": "$$ae-un---",
@@ -1484,12 +1484,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Nagyvárad",
+        "TITLE": "Groszwardein",
         "SCALE": "200000",
         "SHEET": "4047",
         "N43": "$$ae-rm---$$ae-hu---",
         "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Oradea-Mare|Groszwardein, Nagyvárad",
+        "N245A": "Oradea-Mare|Groszwardein|Nagyvárad",
         "N651": "$$aOradea (Rumunsko : oblast)$$7ge856419",
         "POZNAMKA": "Grosswardein|Vel. Varadin"
       },
@@ -1568,7 +1568,7 @@
         "SCALE": "200000",
         "SHEET": "4049",
         "N43": "$$ae-xo---$$ae-un---$$ae-pl---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Humenné|Ungvár|Užhorod|Užhorod (Ungvár), Ungvár",
         "N651": "$$aHumenné (Slovensko : oblast)$$7ge406272|$$aUžhorod (Ukrajina : oblast)$$7ge784174",
         "POZNAMKA": ""
@@ -1884,7 +1884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Przemysl",
+        "TITLE": "Przemyśl",
         "SCALE": "200000",
         "SHEET": "4050",
         "N43": "$$ae-pl---$$ae-un---",
@@ -2004,7 +2004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Lomza",
+        "TITLE": "Łomża",
         "SCALE": "200000",
         "SHEET": "4053",
         "N43": "$$ae-pl---",
@@ -2650,7 +2650,7 @@
         "N43": "$$aa-tu---$$ae-bu---",
         "N80": "$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Midia",
-        "N651": "$$a",
+        "N651": "$$aKıyıköy (Turecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2844,7 +2844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Zytomir",
+        "TITLE": "Żytomir",
         "SCALE": "200000",
         "SHEET": "4650",
         "N43": "$$ae-un---",
@@ -3084,11 +3084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Břeclav",
+        "TITLE": "Lundenburg",
         "SCALE": "200000",
         "SHEET": "3549",
-        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol$$ae-xo---$$ae-au---",
-        "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol$$be-xr-zl$$be-xr-ol$$ae-xo---$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín|Přerov a Hodonín|Gottwaldov, Břeclav|Gottwaldov",
         "N651": "$$aHodonín (Česko : oblast)$$7ge134218|$$aBřeclav (Česko : oblast)$$7ge128421|$$aPřerov (Česko : oblast)$$7ge130578|$$aZlín (Česko : oblast)$$7ge131454",
         "POZNAMKA": ""
@@ -3284,7 +3284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Olomouc",
+        "TITLE": "Olmütz",
         "SCALE": "200000",
         "SHEET": "3550",
         "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
@@ -4324,7 +4324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Zágráb",
+        "TITLE": "Zagreb",
         "SCALE": "200000",
         "SHEET": "3446",
         "N43": "$$ae-ci---$$ae-xv---$$ae-hu---",
@@ -4364,7 +4364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Becs",
+        "TITLE": "Wien",
         "SCALE": "200000",
         "SHEET": "3448",
         "N43": "$$ae-au---$$ae-hu---",
@@ -4404,7 +4404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "I. Lissa",
+        "TITLE": "Isola Lissa",
         "SCALE": "200000",
         "SHEET": "3443",
         "N43": "$$ae-ci---",
@@ -4689,7 +4689,7 @@
         "SHEET": "3149",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl$$ae-au---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430.129)$$2MRF\n",
-        "N245A": "Klatovy |Passau|Klatovy, Passau",
+        "N245A": "Klatovy|Passau|Klatovy, Passau",
         "N651": "$$aKlatovy (Česko : oblast)$$7ge128500|$$aPasov (Německo : oblast)$$7ge114414",
         "POZNAMKA": ""
       },
@@ -4924,7 +4924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Dresen",
+        "TITLE": "Dresden",
         "SCALE": "200000",
         "SHEET": "3151",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
@@ -5127,7 +5127,7 @@
         "TITLE": "Regensburg",
         "SCALE": "200000",
         "SHEET": "3049",
-        "N43": "$$ae-gx---$$ae-xr---",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF",
         "N245A": "Kleneč pod Čerchovem|Kleneč, Regensburg|Klenčí pod Čerchovem|Regensburg|Kleneč pod Čerchovem, Regensburg|Klenčí p. Čerchovem",
         "N651": "$$aKlenčí pod Čerchovem (Česko : oblast)$$7ge500297|$$aŘezno (Německo : oblast)$$7ge391146",
@@ -5924,7 +5924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Locse",
+        "TITLE": "Leutschau",
         "SCALE": "200000",
         "SHEET": "3849",
         "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
@@ -6004,7 +6004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Belgrád",
+        "TITLE": "Belgrad",
         "SCALE": "200000",
         "SHEET": "3845",
         "N43": "$$ae-rb---$$ae-rm---",
@@ -6089,7 +6089,7 @@
         "SHEET": "3840",
         "N43": "$$ae-gr---$$ae-aa---",
         "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
-        "N245A": "Korfu (Kerkira)|Kerkira (Korfu)",
+        "N245A": "Korfu (Kerkira)|Korfu",
         "N651": "$$aKorfu (Řecko : oblast)$$7ge856399",
         "POZNAMKA": ""
       },
@@ -6244,7 +6244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Krakkó",
+        "TITLE": "Krakau",
         "SCALE": "200000",
         "SHEET": "3850",
         "N43": "$$ae-pl---",
@@ -6364,7 +6364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Miawa",
+        "TITLE": "Mława",
         "SCALE": "200000",
         "SHEET": "3853",
         "N43": "$$ae-pl---",
@@ -7124,7 +7124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Mantova",
+        "TITLE": "Mantua",
         "SCALE": "200000",
         "SHEET": "2845",
         "N43": "$$ae-it---",
@@ -7244,12 +7244,12 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Elba Island",
+        "TITLE": "Insel Elba",
         "SCALE": "200000",
         "SHEET": "2843",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Elba Island",
+        "N245A": "Insel Elba",
         "N651": "$$aElba (Itálie : ostrov)$$7ge192262",
         "POZNAMKA": ""
       },
@@ -7644,7 +7644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Balta",
+        "TITLE": "Bałta",
         "SCALE": "200000",
         "SHEET": "4748",
         "N43": "$$ae-un---$$ae-mv---",
@@ -7924,7 +7924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Ivanovo Frankijszk",
+        "TITLE": "Stanislau",
         "SCALE": "200000",
         "SHEET": "4249",
         "N43": "$$ae-un---",
@@ -8204,7 +8204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Plevna",
+        "TITLE": "Pleven",
         "SCALE": "200000",
         "SHEET": "4243",
         "N43": "$$ae-bu---",
@@ -8484,7 +8484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Milano",
+        "TITLE": "Mailand",
         "SCALE": "200000",
         "SHEET": "2745",
         "N43": "$$ae-it---$$ae-sz---",
@@ -8684,7 +8684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Genova",
+        "TITLE": "Genua",
         "SCALE": "200000",
         "SHEET": "2744",
         "N43": "$$ae-it---",
@@ -9044,7 +9044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Csernyivici",
+        "TITLE": "Czernowitz",
         "SCALE": "200000",
         "SHEET": "4448",
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
@@ -9084,7 +9084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Slivno",
+        "TITLE": "Sliven",
         "SCALE": "200000",
         "SHEET": "4443",
         "N43": "$$ae-bu---",
@@ -9884,7 +9884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Trencsén",
+        "TITLE": "Trenschin",
         "SCALE": "200000",
         "SHEET": "3649",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl$$be-xr-mo",
@@ -9964,7 +9964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Bród",
+        "TITLE": "Brod",
         "SCALE": "200000",
         "SHEET": "3645",
         "N43": "$$ae-ci---$$ae-bn---",
@@ -10004,7 +10004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Pécs",
+        "TITLE": "Fünfkirchen",
         "SCALE": "200000",
         "SHEET": "3646",
         "N43": "$$ae-hu---$$ae-ci---",
@@ -10044,7 +10044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Komárom",
+        "TITLE": "Komorn",
         "SCALE": "200000",
         "SHEET": "3648",
         "N43": "$$ae-xo---$$ae-hu---",
@@ -10124,7 +10124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Opava",
+        "TITLE": "Troppau",
         "SCALE": "200000",
         "SHEET": "3650",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---$$ae-pl---",
@@ -10204,7 +10204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Szarajevó",
+        "TITLE": "Sarajevo",
         "SCALE": "200000",
         "SHEET": "3644",
         "N43": "$$ae-bn---",
@@ -10444,7 +10444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Celje",
+        "TITLE": "Cilli",
         "SCALE": "200000",
         "SHEET": "3346",
         "N43": "$$ae-xv---$$ae-ci---",
@@ -10604,7 +10604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Zára",
+        "TITLE": "Zara",
         "SCALE": "200000",
         "SHEET": "3344",
         "N43": "$$ae-ci---",
@@ -10884,7 +10884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Zsilvásárhely",
+        "TITLE": "Târgu-Jiu",
         "SCALE": "200000",
         "SHEET": "4145",
         "N43": "$$ae-rm---",
@@ -11164,7 +11164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Zamosc",
+        "TITLE": "Zamość",
         "SCALE": "200000",
         "SHEET": "4151",
         "N43": "$$ae-pl---$$ae-un---$$ae-bw---",
@@ -11244,7 +11244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "TITLE": "Bielostok",
+        "TITLE": "Białystok",
         "SCALE": "200000",
         "SHEET": "4153",
         "N43": "$$ae-pl---",

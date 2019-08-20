@@ -7609,7 +7609,7 @@
         "SHEET": "4746",
         "N43": "$$a",
         "N80": "$$a913(4",
-        "N245A": "Tatar Bunar",
+        "N245A": "Tatar Bunar|Tatar – Bugar",
         "N651": "$$a",
         "POZNAMKA": ""
       },
@@ -7647,10 +7647,10 @@
         "TITLE": "Balta",
         "SCALE": "200000",
         "SHEET": "4748",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Balta",
-        "N651": "$$a",
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Balta|Bałta",
+        "N651": "$$aBalta (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7687,10 +7687,10 @@
         "TITLE": "Skwira",
         "SCALE": "200000",
         "SHEET": "4750",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Skwira",
-        "N651": "$$a",
+        "N651": "$$aSkvyra (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7767,10 +7767,10 @@
         "TITLE": "Bobrujsk",
         "SCALE": "200000",
         "SHEET": "4753",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Bobrujsk",
-        "N651": "$$a",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7807,10 +7807,10 @@
         "TITLE": "Kobrin",
         "SCALE": "200000",
         "SHEET": "4252",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Kobrin",
-        "N651": "$$a",
+        "N651": "$$aKobryn (Bělorusko : oblast)",
         "POZNAMKA": "Kobrin"
       },
       "geometry": {
@@ -7849,7 +7849,7 @@
         "SHEET": "4247",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Bistrita|Bestercze (Bistritz), Beszterce",
+        "N245A": "Bistrita|Bestercze (Bistritz)|Beszterce",
         "N651": "$$aBistriţa (Rumunsko : oblast)$$7ge856654",
         "POZNAMKA": "Besztercze|Besztercze Rodnahegyseg"
       },
@@ -7887,10 +7887,10 @@
         "TITLE": "Kavala",
         "SCALE": "200000",
         "SHEET": "4241",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Kavala",
-        "N651": "$$a",
+        "N651": "$$aKavála (Řecko : oblast)",
         "POZNAMKA": "Kavala"
       },
       "geometry": {
@@ -7968,8 +7968,8 @@
         "SCALE": "200000",
         "SHEET": "4242",
         "N43": "$$ae-bu---$$ae-gr---",
-        "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Plovdiv (Philippopel), Philippopel",
+        "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
+        "N245A": "Plovdiv (Philippopel)|Philippopel",
         "N651": "$$aPlovdiv (Bulharsko : oblast)$$7ge723127",
         "POZNAMKA": ""
       },
@@ -8009,7 +8009,7 @@
         "SHEET": "4245",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Râmnicu-Vâlcea, Ramnicu Valcea",
+        "N245A": "Râmnicu-Vâlcea|Ramnicu Valcea",
         "N651": "$$aRâmnicu-Vâlcea (Rumunsko : oblast)$$7ge856648",
         "POZNAMKA": "Rimnik"
       },
@@ -8049,7 +8049,7 @@
         "SHEET": "4246",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Sibiu (Hermannstadt)|Nagy-Szeben (Hermannstadt)\n, Nagyszeben",
+        "N245A": "Sibiu (Hermannstadt)|Nagy-Szeben (Hermannstadt)|Nagyszeben",
         "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458",
         "POZNAMKA": ""
       },
@@ -8087,10 +8087,10 @@
         "TITLE": "Athos",
         "SCALE": "200000",
         "SHEET": "4240",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Athos",
-        "N651": "$$a",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
+        "N245A": "Athos|Asos (Athos)",
+        "N651": "$$aAthos (Řecko)$$7ge128691",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8167,10 +8167,10 @@
         "TITLE": "Szkírosz",
         "SCALE": "200000",
         "SHEET": "4239",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Szkírosz",
-        "N651": "$$a",
+        "N651": "$$aSkyros (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8209,7 +8209,7 @@
         "SHEET": "4243",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Pleven (Plevna), Plevna",
+        "N245A": "Pleven (Plevna)|Plevna",
         "N651": "$$aPleven (Bulharsko : oblast)$$7ge856643",
         "POZNAMKA": ""
       },
@@ -8248,8 +8248,8 @@
         "SCALE": "200000",
         "SHEET": "4250",
         "N43": "$$ae-un---$$ae-pl---",
-        "N80": "$$a913(477)$$2MRF",
-        "N245A": "Lemberk, Lemberg",
+        "N80": "$$a913(477)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Lemberk|Lemberg",
         "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443",
         "POZNAMKA": "Lemberg"
       },
@@ -8288,7 +8288,7 @@
         "SCALE": "200000",
         "SHEET": "4251",
         "N43": "$$ae-un---$$ae-pl---",
-        "N80": "$$a913(477)$$2MRF",
+        "N80": "$$a913(477)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Kowel",
         "N651": "$$aKovel’ (Ukrajina : oblast)$$7ge251173",
         "POZNAMKA": ""
@@ -8327,10 +8327,10 @@
         "TITLE": "Slatina",
         "SCALE": "200000",
         "SHEET": "4244",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rm---$$ae-bu---",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Slatina",
-        "N651": "$$a",
+        "N651": "$$aSlatina (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8367,10 +8367,10 @@
         "TITLE": "Wolkowisk",
         "SCALE": "200000",
         "SHEET": "4253",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Wolkowisk",
-        "N651": "$$a",
+        "N43": "$$ae-bw---$$ae-pl---",
+        "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Wolkowisk|Wołkowysk",
+        "N651": "$$aVaŭkavysk (Bělorusko : oblast)$$7ge1028544",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8407,10 +8407,10 @@
         "TITLE": "Chur",
         "SCALE": "200000",
         "SHEET": "2747",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-sz---$$ae-it---$$ae-lh---",
+        "N80": "$$a913(494)$$2MRF|$$a913(450)$$2MRF|$$a913(494.9)$$2MRF",
         "N245A": "Chur",
-        "N651": "$$a",
+        "N651": "$$aChur (Švýcarsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8447,10 +8447,10 @@
         "TITLE": "Stuttgart",
         "SCALE": "200000",
         "SHEET": "2749",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Stuttgart",
-        "N651": "$$a",
+        "N651": "$$aStuttgart (Německo : oblast)$$7ge458646",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8488,8 +8488,8 @@
         "SCALE": "200000",
         "SHEET": "2745",
         "N43": "$$ae-it---$$ae-sz---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "Mailand, Milano",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "Mailand|Milano",
         "N651": "$$aMilán (Itálie : oblast)$$7ge392508",
         "POZNAMKA": ""
       },
@@ -8527,10 +8527,10 @@
         "TITLE": "Como",
         "SCALE": "200000",
         "SHEET": "2746",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Como",
-        "N651": "$$a",
+        "N651": "$$aComo (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8567,10 +8567,10 @@
         "TITLE": "Konstanz",
         "SCALE": "200000",
         "SHEET": "2748",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---$$ae-au---$$ae-sz---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Konstanz",
-        "N651": "$$a",
+        "N651": "$$aKostnice (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8607,10 +8607,10 @@
         "TITLE": "Aschaffenburg",
         "SCALE": "200000",
         "SHEET": "2750",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Aschaffenburg",
-        "N651": "$$a",
+        "N651": "$$aAschaffenburg (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8647,10 +8647,10 @@
         "TITLE": "Kassel",
         "SCALE": "200000",
         "SHEET": "2751",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Kassel",
-        "N651": "$$a",
+        "N651": "$$aKassel (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8689,7 +8689,7 @@
         "SHEET": "2744",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Genua, Genova",
+        "N245A": "Genua|Genova",
         "N651": "$$aJanov (Itálie : oblast)$$7ge418801",
         "POZNAMKA": ""
       },
@@ -8727,10 +8727,10 @@
         "TITLE": "Pinsk",
         "SCALE": "200000",
         "SHEET": "4452",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Pinsk",
-        "N651": "$$a",
+        "N651": "$$aPinsk (Bělorusko : oblast)$$7ge579940",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8769,7 +8769,7 @@
         "SHEET": "4447",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Piatra, Karácsonko",
+        "N245A": "Piatra|Karácsonko",
         "N651": "$$aPiatra Neamț (Rumunsko : oblast)$$7ge856679",
         "POZNAMKA": ""
       },
@@ -8807,10 +8807,10 @@
         "TITLE": "Dimotika",
         "SCALE": "200000",
         "SHEET": "4441",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---$$ae-tu---$$ae-bu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Dimotika",
-        "N651": "$$a",
+        "N651": "$$aDidymoteicho (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8887,10 +8887,10 @@
         "TITLE": "Adrianopel",
         "SCALE": "200000",
         "SHEET": "4442",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Adrianopel",
-        "N651": "$$a",
+        "N43": "$$ae-tu---$$ae-bu---$$ae-gr---",
+        "N80": "$$a913(560)$$2MRF|$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
+        "N245A": "Adrianopel|Adrianopol",
+        "N651": "$$aEdirne (Turecko : oblast)$$7ge746652",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8929,7 +8929,7 @@
         "SHEET": "4445",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Ploești, Ploiesti",
+        "N245A": "Ploești|Ploiesti",
         "N651": "$$aPloiești (Rumunsko : oblast)$$7ge856672",
         "POZNAMKA": ""
       },
@@ -8969,7 +8969,7 @@
         "SHEET": "4446",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Kézdi-Vásárhely, Kézdivásárhely",
+        "N245A": "Kézdi-Vásárhely|Kézdivásárhely",
         "N651": "$$aTârgu Secuiesc (Rumunsko : oblast)$$7ge856675",
         "POZNAMKA": ""
       },
@@ -9007,10 +9007,10 @@
         "TITLE": "Gelibolu",
         "SCALE": "200000",
         "SHEET": "4440",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Gelibolu",
-        "N651": "$$a",
+        "N651": "$$aGallipoli (Turecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9047,9 +9047,9 @@
         "TITLE": "Csernyivici",
         "SCALE": "200000",
         "SHEET": "4448",
-        "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
-        "N80": "$$a913(477)$$2MRF",
-        "N245A": "Czernowitz, Csernyivici",
+        "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
+        "N245A": "Czernowitz|Csernyivici",
         "N651": "$$aČernìvcì (Ukrajina : oblast)$$7ge828845",
         "POZNAMKA": ""
       },
@@ -9089,7 +9089,7 @@
         "SHEET": "4443",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Sliven (Slivno), Slivno",
+        "N245A": "Sliven (Slivno)|Slivno",
         "N651": "$$aSliven (Bulharsko : oblast)$$7ge856668",
         "POZNAMKA": ""
       },
@@ -9208,8 +9208,8 @@
         "SCALE": "200000",
         "SHEET": "4444",
         "N43": "$$ae-rm---$$ae-bu---",
-        "N80": "$$a913(498)$$2MRF",
-        "N245A": "Bukurești (Bukarest), Bukarest",
+        "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Bukurești (Bukarest)|Bukarest",
         "N651": "$$aBukurešť (Rumunsko : oblast)$$7ge856669",
         "POZNAMKA": ""
       },
@@ -9247,10 +9247,10 @@
         "TITLE": "Nieswiez",
         "SCALE": "200000",
         "SHEET": "4453",
-        "N43": "$$a",
-        "N80": "$$a913(4",
-        "N245A": "Nieswiez",
-        "N651": "$$a",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
+        "N245A": "Nieśwież|Nieswiez",
+        "N651": "$$aŇasviž (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9287,10 +9287,10 @@
         "TITLE": "Turow",
         "SCALE": "200000",
         "SHEET": "4552",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---$$ae-un---",
+        "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Turow",
-        "N651": "$$a",
+        "N651": "$$aTurov (Bělorusko : oblast)$$7ge118174",
         "POZNAMKA": ""
       },
       "geometry": {

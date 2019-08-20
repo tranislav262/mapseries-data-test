@@ -6487,10 +6487,10 @@
         "TITLE": "Monastir",
         "SCALE": "200000",
         "SHEET": "3941",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-xn---$$ae-gr---$$ae-aa---",
+        "N80": "$$a913(497.7)$$2MRF|$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
         "N245A": "Monastir",
-        "N651": "$$a",
+        "N651": "$$aBitola (Makedonie : oblast)$$7ge202241",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6528,8 +6528,8 @@
         "SCALE": "200000",
         "SHEET": "3949",
         "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
-        "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Kassa (Kaschau)|Košice|Kaschau, Kassa",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(439)$$2MRF",
+        "N245A": "Kassa (Kaschau)|Košice|Kaschau|Kassa",
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287",
         "POZNAMKA": ""
       },
@@ -6567,10 +6567,10 @@
         "TITLE": "Skopje",
         "SCALE": "200000",
         "SHEET": "3942",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-xn---$$ae-kv---$$ae-rb---",
+        "N80": "$$a913(497.7)$$2MRF|$$a913(497.115)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Skopje",
-        "N651": "$$a",
+        "N651": "$$aSkopje (Makedonie : oblast)$$7ge130824",
         "POZNAMKA": "Skoplje"
       },
       "geometry": {
@@ -6608,8 +6608,8 @@
         "SCALE": "200000",
         "SHEET": "3945",
         "N43": "$$ae-rb---$$ae-rm---",
-        "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Versecz, Versec",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
+        "N245A": "Versecz|Versec",
         "N651": "$$aVršac (Srbsko : oblast)$$7ge856415",
         "POZNAMKA": ""
       },
@@ -6647,10 +6647,10 @@
         "TITLE": "Temesvár",
         "SCALE": "200000",
         "SHEET": "3946",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rm---$$ae-hu---",
+        "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Temesvár",
-        "N651": "$$a",
+        "N651": "$$aTemešvár (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6687,10 +6687,10 @@
         "TITLE": "Janina",
         "SCALE": "200000",
         "SHEET": "3940",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---$$ae-aa---",
+        "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
         "N245A": "Janina",
-        "N651": "$$a",
+        "N651": "$$aIoánnina (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6728,7 +6728,7 @@
         "SCALE": "200000",
         "SHEET": "3948",
         "N43": "$$ae-hu---$$ae-xo---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Cejkov|Debreczen|Debrecín, Debrecen|Debrecen|Streda n. Bodr.",
         "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510|$$aCejkov (Slovensko : oblast)$$7ge828966",
         "POZNAMKA": ""
@@ -6767,10 +6767,10 @@
         "TITLE": "Arta",
         "SCALE": "200000",
         "SHEET": "3939",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Arta",
-        "N651": "$$a",
+        "N651": "$$aArta (Řecko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6808,8 +6808,8 @@
         "SCALE": "200000",
         "SHEET": "3943",
         "N43": "$$ae-kv---$$ae-rb---",
-        "N80": "$$a913(497.115)$$2MRF",
-        "N245A": "Priština, Pristina",
+        "N80": "$$a913(497.115)$$2MRF|$$a913(497.11)$$2MRF",
+        "N245A": "Priština|Pristina",
         "N651": "$$aPriština (Kosovo : oblast)$$7ge856412",
         "POZNAMKA": ""
       },
@@ -6929,7 +6929,7 @@
         "SHEET": "3944",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Kragujevac, Kragujevác",
+        "N245A": "Kragujevac|Kragujevác",
         "N651": "$$aKragujevac (Srbsko : oblast)$$7ge856414",
         "POZNAMKA": ""
       },
@@ -6969,7 +6969,7 @@
         "SHEET": "3953",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Ostrołęka, Ostroleka",
+        "N245A": "Ostrołęka|Ostroleka",
         "N651": "$$aOstrołęka (Polsko : oblast)$$7ge856417",
         "POZNAMKA": ""
       },
@@ -7007,10 +7007,10 @@
         "TITLE": "Braunschweig",
         "SCALE": "200000",
         "SHEET": "2852",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Braunschweig",
-        "N651": "$$a",
+        "N651": "$$aBraunschweig (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7048,8 +7048,8 @@
         "SCALE": "200000",
         "SHEET": "2847",
         "N43": "$$ae-it---$$ae-sz---$$ae-au---$$ae-gx---",
-        "N80": "$$a913(450)$$2MRF",
-        "N245A": "Glurns, Glorenza",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Glurns|Glorenza",
         "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344",
         "POZNAMKA": ""
       },
@@ -7087,10 +7087,10 @@
         "TITLE": "Ansbach",
         "SCALE": "200000",
         "SHEET": "2849",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Ansbach",
-        "N651": "$$a",
+        "N651": "$$aAnsbach (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7129,7 +7129,7 @@
         "SHEET": "2845",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Mantua, Mantova",
+        "N245A": "Mantua|Mantova",
         "N651": "$$aMantova (Itálie : oblast)$$7ge671384",
         "POZNAMKA": ""
       },
@@ -7168,7 +7168,7 @@
         "SCALE": "200000",
         "SHEET": "2846",
         "N43": "$$ae-it---$$ae-sz---",
-        "N80": "$$a913(450)$$2MRF",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Sondrio",
         "N651": "$$aSondrio (Itálie : oblast)$$7ge856197",
         "POZNAMKA": ""
@@ -7207,10 +7207,10 @@
         "TITLE": "Ulm",
         "SCALE": "200000",
         "SHEET": "2848",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Ulm",
-        "N651": "$$a",
+        "N651": "$$aUlm (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7247,10 +7247,10 @@
         "TITLE": "Elba Island",
         "SCALE": "200000",
         "SHEET": "2843",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Elba Island",
-        "N651": "$$a",
+        "N651": "$$aElba (Itálie : ostrov)$$7ge192262",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7287,10 +7287,10 @@
         "TITLE": "Würzburg",
         "SCALE": "200000",
         "SHEET": "2850",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Würzburg",
-        "N651": "$$a",
+        "N651": "$$aWürzburg (Německo : oblast)$$7ge413405",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7327,10 +7327,10 @@
         "TITLE": "Meiningen",
         "SCALE": "200000",
         "SHEET": "2851",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
         "N245A": "Meiningen",
-        "N651": "$$a",
+        "N651": "$$aMeiningen (Německo : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7367,10 +7367,10 @@
         "TITLE": "Livorno",
         "SCALE": "200000",
         "SHEET": "2844",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Livorno",
-        "N651": "$$a",
+        "N651": "$$aLivorno (Itálie : oblast)$$7ge418590",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7407,10 +7407,10 @@
         "TITLE": "Mozyr",
         "SCALE": "200000",
         "SHEET": "4752",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Mozyr",
-        "N651": "$$a",
+        "N651": "$$aMazyr (Bělorusko : oblast)$$7ge577267",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7447,10 +7447,10 @@
         "TITLE": "Bendery",
         "SCALE": "200000",
         "SHEET": "4747",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-mv---$$ae-un---",
+        "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Bendery",
-        "N651": "$$a",
+        "N651": "$$aTighina (Moldavsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7487,10 +7487,10 @@
         "TITLE": "Konstantinopel",
         "SCALE": "200000",
         "SHEET": "4741",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Konstantinopel",
-        "N651": "$$a",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7527,10 +7527,10 @@
         "TITLE": "Braclaw",
         "SCALE": "200000",
         "SHEET": "4749",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Braclaw",
-        "N651": "$$a",
+        "N651": "$$aBraclav (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7567,10 +7567,10 @@
         "TITLE": "Sulina",
         "SCALE": "200000",
         "SHEET": "4745",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-rm---$$ae-un---",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Sulina",
-        "N651": "$$a",
+        "N651": "$$aSulina (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7607,10 +7607,10 @@
         "TITLE": "Tatar Bunar",
         "SCALE": "200000",
         "SHEET": "4746",
-        "N43": "$$a",
-        "N80": "$$a913(4",
+        "N43": "$$ae-un---$$ae-mv---",
+        "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Tatar Bunar|Tatar – Bugar",
-        "N651": "$$a",
+        "N651": "$$aTatarbunary (Ukrajina : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {

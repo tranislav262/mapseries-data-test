@@ -9417,11 +9417,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4043",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Niš",
+        "N43": "$$ae-rb---$$ae-bu---",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
+        "N245A": "Niš",
+        "N651": "$$aNiš (Srbsko : oblast)$$7ge586329"
       },
       "geometry": {
         "coordinates": [
@@ -11265,11 +11265,11 @@
         "Shape_Area": "1.00000000007",
         "SCALE": "200000",
         "SHEET": "4238",
-        "TITLE": "",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Tinos",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
+        "N245A": "Tinos",
+        "N651": "$$aTinos (Řecko : oblast)"
       },
       "geometry": {
         "coordinates": [

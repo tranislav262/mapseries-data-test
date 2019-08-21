@@ -143,6 +143,9 @@ LDR   L -----nem-a22--------4500
   "title": "Šířka",
   "width": 2
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$a[Deutsche Heereskarte 1:200 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

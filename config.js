@@ -429,6 +429,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa: Definitivní vojenské mapování 1:20 000 (Křovákovo zobrazení)",
+      layer: "evropa-definitivni-vojenske-mapovani-120-000-krovakovo-zobrazeni",
+      template: "evropa-definitivni-vojenske-mapovani-120-000-krovakovo-zobrazeni.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }

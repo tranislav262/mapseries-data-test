@@ -20089,11 +20089,11 @@
         "ZM25": "22-412",
         "SCALE": "25000",
         "SHEET": "22-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Kluky",
+        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Kluky",
+        "N651": "$$aKluky (Písek, Česko : oblast)$$7ge251158"
       },
       "geometry": {
         "type": "Polygon",
@@ -23933,11 +23933,11 @@
         "ZM25": "23-311",
         "SCALE": "25000",
         "SHEET": "23-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Planá nad Lužnicí",
+        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Planá nad Lužnicí",
+        "N651": "$$aPlaná nad Lužnicí (Česko : oblast)$$7ge534206"
       },
       "geometry": {
         "type": "Polygon",
@@ -26013,11 +26013,11 @@
         "ZM25": "22-423",
         "SCALE": "25000",
         "SHEET": "22-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Týn nad Vltavou",
+        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Týn nad Vltavou",
+        "N651": "$$aTýn nad Vltavou (Česko : oblast)$$7ge213350"
       },
       "geometry": {
         "type": "Polygon",
@@ -28429,11 +28429,11 @@
         "ZM25": "21-234",
         "SCALE": "25000",
         "SHEET": "21-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Domažlice",
+        "N43": "$$ae-xr---$$ae-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245A": "Domažlice",
+        "N651": "$$aDomažlice (Česko : oblast)$$7ge128466"
       },
       "geometry": {
         "type": "Polygon",

@@ -9,14 +9,14 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -33,7 +33,7 @@ LDR   L -----nem-a22--------4500
     "id":"langcode2",
     "width":3,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun", "pol"]
   }
 043   L {
     "title": "Pole 043",
@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$919
+072 7 L $$a553$$xLožisková geologie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a553.3/.9$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -55,58 +55,62 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)528.42 $$2MRF
-080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3)55$$2MRF
 110{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Ústřední ústav geologický",
       "Vojenský zeměpisný ústav"]
-  }$$4ctg$$4pbl$$7{
+  }$$4com$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20010725011", "ko2005263855"]
   }
 24510 L $$a{
-    "title": "Název listu",
+    "title": "Název",
+    "width": 35,
     "value": {
       "attr": "N245A"
     }
-  }.$$p{
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
+    "value": {"attr":"SHEET"}
+},$$p{
+  "id":"N245P",
+  "title": "Název listu",
+    "width": 15,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
-  }$$h[kartografický dokument] /$$c{
+      {"attr":"N245P"}
+      ]
+      } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "Sestavil Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
+      "Vojenský zeměpisný ústav"
     ]
   }
-2463  L $$a{
+24630 L $$a{
     "base":"sheet",
-    "title": "Variantní název",
+    "title": "Název části",     
     "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
+      {},
       {"attr":"SHEET"}
     ]
   }
 24630 L $$a{
-    "base": "sheet",
+    "base": "N245P",
     "title": "Název části"
   }
 250   L $$a{
@@ -114,7 +118,7 @@ LDR   L -----nem-a22--------4500
     "width":5,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:25 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
@@ -122,27 +126,54 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
-260   L $$a{
+264   L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+264   L $$a{
+    "base":"corporation",
+    "width": 40,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "Praha :$$bKartografie n. p., Praha",
+      ""
+    ]
+  }$$c{
+    "base":"year"
+  }
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 3
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 3
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 3
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 3
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Základní mapa ČSR 1:25 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -153,7 +184,14 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+500   L $$a{
+    "id": "note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+  }
+500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
+650 7 L $$aložiska nerostných surovin$$7ph137779$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -164,18 +202,36 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$atopografické mapy$$7fd809173
-655 7 L $$avojenské mapy$$7fd133817
-{
+655 7 L $$ageologické mapy$$7fd132402
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", ""]
+  }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce",
+  "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    ""
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", ""]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Geoindustria Praha$$4com$$7ko2003162192",
+    "Kartografie Praha (firma)$$prt$$7kn20010724363"
+  ]
+}
+830 0 L $$aTřetí vojenské mapování 1:25 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

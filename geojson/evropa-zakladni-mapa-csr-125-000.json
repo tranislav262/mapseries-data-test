@@ -11222,9 +11222,9 @@
     {
       "type": "Feature",
       "properties": {
-        "ZM25": "26-12",
+        "ZM25": "26-124",
         "SCALE": "25000",
-        "SHEET": "26-12",
+        "SHEET": "26-124",
         "TITLE": "",
         "N43": "",
         "N80": "",
@@ -20526,7 +20526,7 @@
         "SCALE": "25000",
         "SHEET": "22-412",
         "TITLE": "Kluky",
-        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
         "N245P": "Kluky",
@@ -20781,12 +20781,12 @@
         "ZM25": "32-421",
         "SCALE": "25000",
         "SHEET": "32-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rožmberk nad Vltavou",
+        "N43": "$$ae-xr---$$be-xr-jc$$ae-gx---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rožmberk nad Vltavou",
+        "N651": "$$aRožmberk nad Vltavou (Česko : oblast)$$7ge982309"
       },
       "geometry": {
         "type": "Polygon",
@@ -24433,7 +24433,7 @@
         "SCALE": "25000",
         "SHEET": "23-311",
         "TITLE": "Planá nad Lužnicí",
-        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
         "N245P": "Planá nad Lužnicí",
@@ -26547,7 +26547,7 @@
         "SCALE": "25000",
         "SHEET": "22-423",
         "TITLE": "Týn nad Vltavou",
-        "N43": "$$ae-xr---$$ae-xr-jc",
+        "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
         "N245P": "Týn nad Vltavou",
@@ -29006,7 +29006,7 @@
         "SCALE": "25000",
         "SHEET": "21-234",
         "TITLE": "Domažlice",
-        "N43": "$$ae-xr---$$ae-xr-pl",
+        "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
         "N245P": "Domažlice",
@@ -30922,12 +30922,12 @@
         "ZM25": "21-244",
         "SCALE": "25000",
         "SHEET": "21-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Klatovy",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Klatovy",
+        "N651": "$$aKlatovy (Česko : oblast)$$7ge128500"
       },
       "geometry": {
         "type": "Polygon",
@@ -46992,12 +46992,12 @@
         "ZM25": "23-232",
         "SCALE": "25000",
         "SHEET": "23-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Dobronín ",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Dobronín ",
+        "N651": "$$aDobronín (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -48124,12 +48124,12 @@
         "ZM25": "23-421",
         "SCALE": "25000",
         "SHEET": "23-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Brtnice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Brtnice",
+        "N651": "$$aBrtnice (Jihlava, Česko : oblast)$$7ge433079"
       },
       "geometry": {
         "type": "Polygon",
@@ -50498,12 +50498,12 @@
         "ZM25": "34-111",
         "SCALE": "25000",
         "SHEET": "34-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Višňové",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Višňové",
+        "N651": "$$aVišňové (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

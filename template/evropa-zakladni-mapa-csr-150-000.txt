@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xr"]
   }||||||||z|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "cze"]
   }-d
 0341  L $$b50000{
     "title": "Zeměpisné souřadnice",
@@ -60,7 +60,7 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
@@ -68,12 +68,13 @@ LDR   L -----nem-a22--------4500
     "values": [
       "Ústřední ústav geologický",
       "Stavební geologie Praha",
-      "GEOtest Brno"]
+      "GEOtest Brno",
+      "Projektový ústav dopravních a inženýrských staveb"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222"]
   }
 24510 L $$a{
     "title": "Název",
@@ -100,7 +101,8 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Sestavil a vydal Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
       "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
-      "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady"
+      "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
+      "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady"
     ]
   }
 24630 L $$a{
@@ -135,6 +137,7 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,"
     ]
   }$$c{
@@ -145,6 +148,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,"
@@ -211,12 +215,13 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816"
@@ -226,13 +231,14 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
   "width": 100,
   "valuesByBaseIndex": [
     "Geoindustria Praha$$4com$$7ko2003162192",
+    "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011"
   ]

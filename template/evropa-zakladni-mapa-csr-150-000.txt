@@ -233,8 +233,8 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "Geoindustria Praha$$4com$$7ko2003162192",
-    "Ústřední ústav geologický$$pbl$$7kn20010725011",
-    "Ústřední ústav geologický$$pbl$$7kn20010725011"
+    "Ústřední ústav geologický$$4pbl$$7kn20010725011",
+    "Ústřední ústav geologický$$4pbl$$7kn20010725011"
   ]
 }
 710{

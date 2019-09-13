@@ -76,7 +76,7 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název",
-    "width": 35,
+    "width": 45,
     "value": {
       "attr": "N245A"
     }

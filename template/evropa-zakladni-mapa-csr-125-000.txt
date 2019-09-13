@@ -76,7 +76,7 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název",
-    "width": 45,
+    "width": 40,
     "value": {
       "attr": "N245A"
     }
@@ -94,7 +94,7 @@ LDR   L -----nem-a22--------4500
       ]
       } /$$c{
     "base":"corporation",
-    "width": 180,
+    "width": 130,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Sestavil Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
@@ -142,7 +142,7 @@ LDR   L -----nem-a22--------4500
     "width": 40,
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
-      "Praha :$$bKartografie, n.p., Praha",
+      "Praha :$$bKartografie, n.p., Praha,",
       ""
     ]
   }$$c{
@@ -214,21 +214,21 @@ LDR   L -----nem-a22--------4500
   "width": 100,
   "valuesByBaseIndex": [
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
-    ""
+    "Geoindustria Praha$$4com$$7ko2003162192"
   ]
 }
 710{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2"]
+    "valuesByBaseIndex": ["2", ""]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
   "width": 100,
   "valuesByBaseIndex": [
     "Kartografie Praha (firma)$$4prt$$4pbl$$7kn20010724363",
-    "Geoindustria Praha$$4com$$7ko2003162192"
+    ""
   ]
 }
 710{

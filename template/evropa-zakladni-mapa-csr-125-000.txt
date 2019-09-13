@@ -63,7 +63,7 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": ["2", "2"]
   }  L $$a{
     "id":"corporation",
-    "width":52,
+    "width":40,
     "title":"Vydavatelská korporace",
     "values": [
       "Ústřední ústav geologický",
@@ -94,7 +94,7 @@ LDR   L -----nem-a22--------4500
       ]
       } /$$c{
     "base":"corporation",
-    "width": 130,
+    "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Sestavil Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",

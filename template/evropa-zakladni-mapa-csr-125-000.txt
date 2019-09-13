@@ -3,16 +3,16 @@ LDR   L -----nem-a22--------4500
 007   L aj|ca|||
 008   L  ||||s{
     "id": "year",
-    "width": 5,
+    "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 15,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||0|||{
     "base":"corporation",
-    "width":3,
+    "width":8,
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze"]
   }-d
@@ -26,12 +26,12 @@ LDR   L -----nem-a22--------4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "slo", "ger", "hun", "pol"]
   }
@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a553$$xLožisková geologie$$2Konspekt$$97
+072 7 L $$a55$$xVědy o Zemi. Geologické vědy$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a553.3/.9$$2MRF
+080   L $$a55$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -115,7 +115,7 @@ LDR   L -----nem-a22--------4500
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:25 000{
@@ -156,19 +156,19 @@ LDR   L -----nem-a22--------4500
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "mapWidth",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
@@ -191,7 +191,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
-650 7 L $$aložiska nerostných surovin$$7ph137779$$2czenas
+650 7 L $$ageologie$$7ph114622$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -227,7 +227,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce2",
   "width": 100,
   "valuesByBaseIndex": [
-    "Kartografie Praha (firma)$$4prt$$4com$$7kn20010724363",
+    "Kartografie Praha (firma)$$4prt$$4pbl$$7kn20010724363",
     "Geoindustria Praha$$4com$$7ko2003162192"
   ]
 }

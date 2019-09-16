@@ -7,12 +7,12 @@ LDR   L -----nem-a22------i-4500
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 15,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["au", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width":8,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
@@ -27,12 +27,12 @@ LDR   L -----nem-a22------i-4500
 040   L $$bcze$$erda
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun", "pol"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun", "pol"]
   }
@@ -130,14 +130,27 @@ LDR   L -----nem-a22------i-4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarevná ;$$c 33 x 39 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia

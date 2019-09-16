@@ -1005,7 +1005,7 @@
       "type": "Feature",
       "properties": {
         "SCALE": "750000",
-        "SHEET": "westl.A.3",
+        "SHEET": "westl.A.3.",
         "TITLE": "Genf, Lyon, Belfort, Macon.",
         "N43": "$$ae-fr---$$ae-it---$$ae-sz---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(494)$$2MRF",

@@ -12,7 +12,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr", "gw", "ru", "hu"]
   }-|||||||a|||||||||{
     "base":"corporation",
-    "width":8,
+    "width":5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "ger", "ger", "cze", "cze", "ger", "ger", "hun"]
   }-d
@@ -144,7 +144,7 @@ LDR   L -----nem-a22------i-4500
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:75 000{

@@ -3,16 +3,16 @@ LDR   L -----nem-a22--------4500
 007   L aj|ca|||
 008   L  ||||s{
     "id": "year",
-    "width": 5,
+    "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 15,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width":8,
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze"]
   }-d
@@ -26,12 +26,12 @@ LDR   L -----nem-a22--------4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "slo", "ger", "hun", "pol"]
   }
@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
+072 7 L $$a581$$xObecná botanika$$2Konspekt$$92
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a581.52$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -55,8 +55,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)528.42 $$2MRF
-080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3)581.52$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -68,12 +67,12 @@ LDR   L -----nem-a22--------4500
     "title":"Vydavatelská korporace",
     "values": [
       "Ústřední ústav geologický",
-      "Vojenský zeměpisný ústav"]
+      "Kartografie Praha (firma)"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724363"]
   }
 24510 L $$a{
     "title": "Název",
@@ -99,7 +98,7 @@ LDR   L -----nem-a22--------4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Vydal Ústřední ústav geologický",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "zpracovala Kartografie n. p. Praha"
     ]
   }
 24630 L $$a{
@@ -116,7 +115,7 @@ LDR   L -----nem-a22--------4500
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:50 000{
@@ -133,7 +132,7 @@ LDR   L -----nem-a22--------4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Praha :$$bVydal Ústřední ústav geologický,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,"
     ]
   }$$c{
     "base":"year"
@@ -144,7 +143,7 @@ LDR   L -----nem-a22--------4500
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
       "Bratislava :$$bKartografický a reprodukční ústav v Bratislavě,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bvytiskla Kartografie n. p. Praha,"
     ]
   }$$c{
     "base":"year"
@@ -157,24 +156,24 @@ LDR   L -----nem-a22--------4500
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "mapWidth",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Technickohospodářské mapy 1:200 000] ; $$v{
+4901  L $$aČeskoslovenská mapa s-42 1:200 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -192,7 +191,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání:
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+650 7 L $$ageobotanika$$7ph114612$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -203,8 +202,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$atopografická mapová díla$$7fd688544
-655 7 L $$avojenské mapy$$7fd133817
+655 7 L $$ageobotanické mapy$$7fd808069
 {
   "base":"corporation",
   "title": "Bibliografický předchůdce",

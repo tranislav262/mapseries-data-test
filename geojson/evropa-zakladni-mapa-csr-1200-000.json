@@ -6,7 +6,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "01",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -345,7 +350,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "04",
-        "TITLE": ""
+        "TITLE": "Náchod",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Náchod",
+        "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
       },
       "geometry": {
         "type": "Polygon",
@@ -684,7 +694,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "03",
-        "TITLE": ""
+        "TITLE": "Liberec",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st$$be-xr-kr$$ae-pl---$$ae-gx---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Liberec",
+        "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
         "type": "Polygon",
@@ -1023,7 +1038,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "02",
-        "TITLE": ""
+        "TITLE": "Ústí nad Labem",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-st$$be-xr-li$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Ústí nad Labem",
+        "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
         "type": "Polygon",
@@ -1362,7 +1382,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "11",
-        "TITLE": ""
+        "TITLE": "Karlovy Vary",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Karlovy Vary",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
         "type": "Polygon",
@@ -1701,7 +1726,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "13",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2040,7 +2070,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "14",
-        "TITLE": ""
+        "TITLE": "Šumperk",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Šumperk",
+        "N651": "$$aŠumperk (Česko : oblast)$$7ge131567"
       },
       "geometry": {
         "type": "Polygon",
@@ -2379,7 +2414,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "12",
-        "TITLE": ""
+        "TITLE": "Praha",
+        "N43": "$$ae-xr---$$be-xr-pg",
+        "N80": "$$a913(437.311)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Praha",
+        "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
         "type": "Polygon",
@@ -2718,7 +2758,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "15",
-        "TITLE": ""
+        "TITLE": "Ostrava",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Ostrava",
+        "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
         "type": "Polygon",
@@ -3057,7 +3102,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "21",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3396,7 +3446,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "23",
-        "TITLE": ""
+        "TITLE": "Jihlava",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Jihlava",
+        "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
       "geometry": {
         "type": "Polygon",
@@ -3735,7 +3790,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "22",
-        "TITLE": ""
+        "TITLE": "Strakonice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Strakonice",
+        "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
       "geometry": {
         "type": "Polygon",
@@ -4074,7 +4134,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "26",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -4449,7 +4514,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "25",
-        "TITLE": ""
+        "TITLE": "Gottwaldov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Gottwaldov",
+        "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
         "type": "Polygon",
@@ -4788,7 +4858,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "24",
-        "TITLE": ""
+        "TITLE": "Brno",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Brno",
+        "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
         "type": "Polygon",
@@ -5127,7 +5202,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "34",
-        "TITLE": ""
+        "TITLE": "Znojmo",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Znojmo",
+        "N651": "$$aZnojmo (Česko : oblast)$$7ge131457"
       },
       "geometry": {
         "type": "Polygon",
@@ -5466,7 +5546,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "33",
-        "TITLE": ""
+        "TITLE": "Třeboň",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Třeboň",
+        "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
         "type": "Polygon",
@@ -5805,7 +5890,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "32",
-        "TITLE": ""
+        "TITLE": "České Budějovice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "České Budějovice",
+        "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -6144,7 +6234,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "35",
-        "TITLE": ""
+        "TITLE": "Trnava",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "Trnava",
+        "N651": "$$aTrnava (Slovensko : oblast)$$7ge518483"
       },
       "geometry": {
         "type": "Polygon",
@@ -6483,7 +6578,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "27",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6630,7 +6730,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "28",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6665,7 +6770,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "37",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6700,7 +6810,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "38",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6735,7 +6850,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "44",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6846,7 +6966,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "45",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6957,7 +7082,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "36",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7144,7 +7274,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "46",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7179,7 +7314,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "47",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7214,7 +7354,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "48",
-        "TITLE": ""
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
+        "N245P": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",

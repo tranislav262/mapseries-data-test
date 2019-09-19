@@ -6,12 +6,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "01",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
+        "TITLE": "Vejprty",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Vejprty",
+        "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
       },
       "geometry": {
         "type": "Polygon",
@@ -1726,12 +1726,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "13",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr$$be-xr-st$$be-xr-vy$$be-xr-pg",
-        "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.311)$$2MRF",
+        "TITLE": "Hradec Králové",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-st$$be-xr-vy$$be-xr-pg",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.311)$$2MRF",
         "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hradec Králové",
+        "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
       "geometry": {
         "type": "Polygon",
@@ -3102,12 +3102,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "21",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl$$ae-gx---",
-        "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
+        "TITLE": "Klatovy",
+        "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Klatovy",
+        "N651": "$$aKlatovy (Česko : oblast)$$7ge128500"
       },
       "geometry": {
         "type": "Polygon",
@@ -4134,12 +4134,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "26",
-        "TITLE": "",
+        "TITLE": "Žilina",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF",
         "N245A": "Mapa jakosti zdrojů pozdemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Žilina",
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
         "type": "Polygon",

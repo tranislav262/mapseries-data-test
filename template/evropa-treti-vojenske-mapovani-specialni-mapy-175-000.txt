@@ -7,7 +7,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Rok vydání"
   }----{
     "base": "corporation",
-    "width": 15,
+    "width": 13,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr", "gw", "ru", "hu"]
   }-|||||||a|||||||||{
@@ -236,7 +236,7 @@ LDR   L -----nem-a22------i-4500
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
     "id":"identifikator",
-    "width": 1,
+    "width": 10,
     "title": "Identifikátor",
     "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
@@ -257,7 +257,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
   }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce1",
+  "title": "Vedlejší záhlaví pro korporaci1",
   "width": 100,
   "valuesByBaseIndex": [
     "",
@@ -282,7 +282,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["", "", "", "2", "2", "2", "1", "", "1", "", "1"]
   }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce2",
+  "title": "Vedlejší záhlaví pro korporaci2",
   "width": 100,
   "valuesByBaseIndex": [
     "",

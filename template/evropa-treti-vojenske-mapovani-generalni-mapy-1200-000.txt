@@ -116,6 +116,7 @@ LDR   L -----nem-a22------i-4500
   }
 2463  L $$a{
     "base":"sheet",
+    "width":15,
     "title": "Variantní název",
     "valuesByBaseIndex": [
       {"formatFunction":"addDegrees"},
@@ -182,6 +183,7 @@ LDR   L -----nem-a22------i-4500
 338   L $$alist$$bnb$$2rdacarrier
 4901  L $$a[Die Franzisco-Josephinische Landesaufnahme 1:200 000] ; $$v{
     "base":"sheet",
+    "width":15,
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
       {},
@@ -192,10 +194,16 @@ LDR   L -----nem-a22------i-4500
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
-    "id": "note",
+    "id":"note",
     "width": 20,
     "title": "Poznámka k barevnosti",
-    "values": ["Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
   }
 500   L $$a{
     "id": "note2",
@@ -256,6 +264,7 @@ LDR   L -----nem-a22------i-4500
 }
 830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
     "base":"sheet",
+    "width":15,
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
       {},

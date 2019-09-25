@@ -140,6 +140,7 @@ LDR   L -----nem-a22------i-4500
   }
 24630 L $$a{
     "base": "sheet",
+    "width":12,
     "title": "Název části"
   }
 250   L $$a{
@@ -236,7 +237,7 @@ LDR   L -----nem-a22------i-4500
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
     "id":"identifikator",
-    "width": 10,
+    "width": 1,
     "title": "Identifikátor",
     "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",

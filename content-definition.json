@@ -43,7 +43,8 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:958bb453-4fb0-4615-96af-de2bb57daf1c/177,153,11393,9946/,200/0/default.jpg",
   "description": {
-   "cs": "Po zániku monarchie v roce 1918 převzaly československé úřady podklady Übersichts-Karte von Mittel-Europa vytvořené na základě třetího vojenského mapování. Listy Přehledné mapy střední Evropy v měřítku 1:750 000 vydával v roce 1919 Zeměpisný ústav spadající pod Ministerstvo národní obrany, od roku 1919 pak Vojenský zeměpisný ústav. Přehledná mapa byla součástí státního mapového díla i po druhé světové válce a využívána byla až do roku 1956. "
+   "cs": "Po zániku monarchie v roce 1918 převzaly československé úřady podklady Übersichts-Karte von Mittel-Europa vytvořené na základě třetího vojenského mapování. Listy Přehledné mapy střední Evropy v měřítku 1:750 000 vydával v roce 1919 Zeměpisný ústav spadající pod Ministerstvo národní obrany, od roku 1919 pak Vojenský zeměpisný ústav. Přehledná mapa byla součástí státního mapového díla i po druhé světové válce a využívána byla až do roku 1956. ",
+   "en": "After Dissolution of the Austro-Hungarian monarchy in 1918, the Czechoslovak authorities took over the documents of the Übersichts-Karte von Mittel-Europa, created on the basis of the Third Military Survey. Map sheets of 1: 750 000 scale were in 1919 published by the Institute of Geography under the Ministry of National Defense, and since 1919 by the Military Geography Institute. These maps were part of the state map series even after World War II and was used until 1956."
   }
  },
  {

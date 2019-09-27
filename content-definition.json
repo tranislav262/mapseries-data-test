@@ -124,7 +124,8 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:83bbeab1-8356-43bf-b35a-daae317bb86d/233,239,14434,10971/,200/0/default.jpg",
   "description": {
-   "cs": "Po rozpadu Rakousko-Uherska v roce 1918 byl Militär-Geographisches \nInstitutu přejmenován na Kartographisches Institut a jeho působnost se \nomezila na území Rakouské republiky. Nová vydání listů speciální mapy \ntak plynule navázala na starší předchůdce."
+   "cs": "Po rozpadu Rakousko-Uherska v roce 1918 byl Militär-Geographisches \nInstitutu přejmenován na Kartographisches Institut a jeho působnost se \nomezila na území Rakouské republiky. Nová vydání listů speciální mapy \ntak plynule navázala na starší předchůdce.",
+   "en": "After the collapse of the Austro-Hungarian Empire in 1918, the Militär-Geographisches Institut was renamed to Kartographisches Institut and its activities were limited by territory the Republic of Austria. Publishing the Special map sheets of 1:75 000 scale continued until annexation of Austria in 1938, when Hauptvermessungsabteilung XIV in Vienna was established. "
   }
  },
  {

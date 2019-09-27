@@ -79,7 +79,8 @@
   "groupby": "field.substring(0,6)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:8691a29a-ed4c-4c56-aa9f-9853809aa5f5/197,248,18711,14855/,200/0/default.jpg",
   "description": {
-   "cs": "Vojenský zeměpisný ústav převzal po svém ustanovení v roce 1919 i \npodklady map topografických sekcí pokrývajících území nově vzniklého \nČeskoslovenska, které vznikly ve vídeňském Militär-Geographisches \nInstitutu jako jeden z výsledků třetího vojenského mapování. VZÚ \ntopografické sekce reambuloval a ve 20. a 30. letech je pak vydával jako \nTopografickou mapu ČSR v měřítku 1:25 000."
+   "cs": "Vojenský zeměpisný ústav převzal po svém ustanovení v roce 1919 i \npodklady map topografických sekcí pokrývajících území nově vzniklého \nČeskoslovenska, které vznikly ve vídeňském Militär-Geographisches \nInstitutu jako jeden z výsledků třetího vojenského mapování. VZÚ \ntopografické sekce reambuloval a ve 20. a 30. letech je pak vydával jako \nTopografickou mapu ČSR v měřítku 1:25 000.",
+   "en": "After establishment in 1919, the Military Geographical Institute in Prague took over the maps of the Topographic sections covering the territory of the newly established Czechoslovakia, which were created at the Militär-Geographisches Institute in Vienna as one of the results of Third Military Survey. Military Geographical Institute edited these mapse and published them as the Topographic Map of Czechoslovakia, 1:25 000 in the 1920s and 1930s ."
   }
  },
  {

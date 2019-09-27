@@ -112,7 +112,8 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:90d8022f-6204-4533-8ac2-eeb2fc95ad92/276,185,10734,15387/,200/0/default.jpg",
   "description": {
-   "cs": "Po obsazení Rakouska nacistickým Německem došlo v roce 1938 k vytvoření \nXIV oddělení  spadajícího pod Říšský úřad pro zemské vyměřování \n(Reichsamt für Landesaufnahme) sídlící ve Vídni. Ten pak až do konce \nválky vydával generální mapy v měřítku 1:200 000, založené na listech, \nkteré vydával  bývalý rakouský Kartographisches Institut."
+   "cs": "Po obsazení Rakouska nacistickým Německem došlo v roce 1938 k vytvoření \nXIV oddělení  spadajícího pod Říšský úřad pro zemské vyměřování \n(Reichsamt für Landesaufnahme) sídlící ve Vídni. Ten pak až do konce \nválky vydával generální mapy v měřítku 1:200 000, založené na listech, \nkteré vydával  bývalý rakouský Kartographisches Institut.",
+   "en": "After annexation of Austria by Nazi Germany in 1938, the XIV Department under the Reichsamt für Landesaufnahme was established in Vienna. Until end of the war this office published sheets of General map 1: 200 000, based on sheets, which issued the former Austrian Kartographisches Institut."
   }
  },
  {

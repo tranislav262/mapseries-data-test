@@ -255,7 +255,7 @@
         "SHEET": "M-33-XVI",
         "TITLE": "Hradec Králové",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-li$$be-xr-st",
-        "N80": "$$913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245P": "Hradec Králové",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
@@ -296,7 +296,7 @@
         "SHEET": "M-33-XVII",
         "TITLE": "Náchod",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-ol$$ae-pl---",
-        "N80": "$$913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Náchod",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"

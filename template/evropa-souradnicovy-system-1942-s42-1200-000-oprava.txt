@@ -43,9 +43,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a581$$xObecná botanika$$2Konspekt$$92
+072 7 L $$a550$$xGeofyzika. Geochemie. Geobiologie. Užitá geologie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a581.52$$2MRF
+080   L $$a550.38$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -55,7 +55,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)581.52$$2MRF
+080   L $$a(084.3)550.3$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -195,7 +195,7 @@ LDR   L -----nem-a22--------4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání:
-650 7 L $$ageobotanika$$7ph114612$$2czenas
+650 7 L $$ageomagnetismus$$7ph120534$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -206,7 +206,7 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$ageobotanické mapy$$7fd808069
+655 7 L $$ageofyzikální mapy$$7fd132399
 710{
     "base":"corporation",
     "width": 1,
@@ -217,7 +217,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    "Ústřední správa geodézie a kartografie$$4ctg$$7kn20050506060",
     "",
     "Kartografie Praha (firma)$$4ctg$$4prt$$7kn20010724363"    
   ]
@@ -232,7 +232,7 @@ LDR   L -----nem-a22--------4500
   "title": "Bibliografický předchůdce2",
   "width": 100,
   "valuesByBaseIndex": [
-    "",
+    "Kartografický a reprodukčný ústav (Bratislava, Slovensko)$$4prt$$4ctg$$7ko2003164640",
     "Academia (nakladatelství)$$4pbl$$7ko2002101950",
     "Academia (nakladatelství)$$4pbl$$7ko2002101950"
   ]

@@ -992,8 +992,8 @@
         "SCALE": "200000",
         "SHEET": "M-33-XXIX",
         "TITLE": "Brno",
-        "N43": "$$ae-xo---$$ae-au---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$ae-xo---$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Brno",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
@@ -1033,8 +1033,8 @@
         "SCALE": "200000",
         "SHEET": "M-33-XXX",
         "TITLE": "Gottwaldov",
-        "N43": "$$ae-xo---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-jm$$be-xr-ol$$ae-xo---",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF",
         "N245P": "Gottwaldov",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
@@ -1074,8 +1074,8 @@
         "SCALE": "200000",
         "SHEET": "M-34-XXV",
         "TITLE": "Žilina",
-        "N43": "$$ae-xo---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
         "N245P": "Žilina",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
@@ -1279,8 +1279,8 @@
         "SCALE": "200000",
         "SHEET": "M-33-XXXIII",
         "TITLE": "Vyšší Brod",
-        "N43": "$$ae-au---",
-        "N80": "$$a913(436)$$2MRF",
+        "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Vyšší Brod",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
@@ -1321,7 +1321,7 @@
         "SHEET": "M-33-XXXV",
         "TITLE": "Wien",
         "N43": "$$ae-au---$$ae-xo---$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF|$$913(437.322)$$2MRF",
+        "N80": "$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$913(437.322)$$2MRF",
         "N245P": "Wien",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"

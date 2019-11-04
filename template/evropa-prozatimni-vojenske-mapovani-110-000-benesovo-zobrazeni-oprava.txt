@@ -26,21 +26,21 @@ LDR   L -----nem-a22--------4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun", "pol"]
   }
 043   L {
     "title": "Pole 043",
     "enabled": false,
     "width": 40,
     "value": {
-      "attr": "43"
+      "attr": "N43"
     }
   }
 072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
@@ -77,8 +77,9 @@ LDR   L -----nem-a22--------4500
   }
 24510 L $$a{
     "title": "Název listu",
+    "width": 30,
     "value": {
-      "attr": "N245a"
+      "attr": "N245A"
     }
   }.$$p{
     "id":"sheet",
@@ -86,15 +87,17 @@ LDR   L -----nem-a22--------4500
     "width": 10,
     "values": [
       {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
+      {"attr":"SHEET", "formatFunction":"addDegrees"},
+      {"attr":"ZONE_COL"},
+      {"attr":"ZONE_KOL"}
     ]
-  }$$h[kartografický dokument] /$$c{
+  } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "Vojenský zeměpisný ústav v Praze"
     ]
   }
 2463  L $$a{
@@ -111,20 +114,20 @@ LDR   L -----nem-a22--------4500
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:200 000{
+255   L $$aMěřítko 1:10 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
     "value": {
-      "formatFunction":"ms:marc21_255_bbox_czech"
+      "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
-260   L $$a{
+264 1 L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Wien :$$bMilitärgeographisches Institut,",
@@ -133,16 +136,32 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Prozatímní vojenské mapování 1:10 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -153,6 +172,19 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
+500   L $$a{
+    "id":"note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
+  }
+500   L $$aDalší údaje o vydání: Nové měření z r. 1930 ; Rok vydání 1933
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -166,16 +198,7 @@ LDR   L -----nem-a22--------4500
   }
 655 7 L $$atopografická mapová díla$$7fd688544
 655 7 L $$avojenské mapy$$7fd133817
-{
-  "base":"corporation",
-  "title": "Bibliografický předchůdce",
-  "width": 100,
-  "valuesByBaseIndex": [
-    "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
-  ]
-}
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+830 0 L $$aProzatímní vojenské mapování 1:10 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

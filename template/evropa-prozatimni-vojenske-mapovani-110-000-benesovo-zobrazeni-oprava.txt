@@ -86,10 +86,7 @@ LDR   L -----nem-a22--------4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"},
-      {"attr":"ZONE_COL"},
-      {"attr":"ZONE_KOL"}
+      {"attr":"SHEET"}
     ]
   } /$$c{
     "base":"corporation",
@@ -98,14 +95,6 @@ LDR   L -----nem-a22--------4500
     "valuesByBaseIndex": [
       "Militärgeographisches Institut",
       "Vojenský zeměpisný ústav v Praze"
-    ]
-  }
-2463  L $$a{
-    "base":"sheet",
-    "title": "Variantní název",
-    "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"}
     ]
   }
 24630 L $$a{

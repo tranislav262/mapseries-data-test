@@ -9,12 +9,12 @@ LDR   L -----nem-a22--------4500
     "base": "corporation",
     "width": 15,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
 0341  L $$b10000{
     "title": "Zeměpisné souřadnice",
@@ -61,19 +61,19 @@ LDR   L -----nem-a22--------4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Československý vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20030604013", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -93,7 +93,7 @@ LDR   L -----nem-a22--------4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
+      "Vojenský zeměpisný ústav v Praze",
       "Vojenský zeměpisný ústav v Praze"
     ]
   }
@@ -119,7 +119,7 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
+      "V Praze :$$bVojenský zeměpisný ústav v Praze,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{

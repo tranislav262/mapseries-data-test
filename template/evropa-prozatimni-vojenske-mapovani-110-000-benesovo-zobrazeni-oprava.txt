@@ -101,9 +101,13 @@ LDR   L -----nem-a22--------4500
     "base": "sheet",
     "title": "Název části"
   }
-24630 L $$a{
-    "base": "SEKCE",
-    "title": "Název části"
+2463  L $$a{
+    "base":"sheet",
+    "title": "Variantní název",
+    "valuesByBaseIndex": [
+      {"attr":"SHEET"},
+      {"attr":"SEKCE"}
+    ]                     
   }
 250   L $$a{
     "id":"poradi_vydani",

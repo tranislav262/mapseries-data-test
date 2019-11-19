@@ -86,7 +86,8 @@ LDR   L -----nem-a22--------4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"}
+      {"attr":"SHEET"},
+      {"attr":"SEKCE"}
     ]
   } /$$c{
     "base":"corporation",
@@ -106,7 +107,7 @@ LDR   L -----nem-a22--------4500
     "title": "Variantní název",
     "valuesByBaseIndex": [
       {"attr":"SHEET"},
-      {"attr":"SEKCE"}
+      {"attr":"SHEET"}
     ]                     
   }
 250   L $$a{

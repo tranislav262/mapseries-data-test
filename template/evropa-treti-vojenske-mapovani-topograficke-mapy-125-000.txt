@@ -9,12 +9,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw", "xr"]
-  }||||||||z|||||||||{
+    "valuesByBaseIndex": ["gw", "xr", "xr"]
+  }||||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze"]
   }-d
 0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
@@ -24,17 +24,22 @@ LDR   L -----nem-a22------i-4500
       "formatFunction": "ms:marc21_0341_bbox"
     }
   }
-040   L $$bcze$$erda
+040   L $$aBOA001$$bcze$$erda
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun", "pol"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun", "pol"]
+   }$$a{
+    "id":"langcode3",
+    "width":8,
+    "title":"Kód jazyka",
+    "values": ["ger", "hun", "pol", "ukr"]
   }
 043   L {
     "title": "Pole 043",
@@ -62,19 +67,20 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["1", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
       "Německo.$$bHeer.$$bGeneralstab",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav",
+      "Československý vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855", "kn20030604013"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -96,7 +102,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "[Generalstab des Heeres]",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
+      "Vojenský zeměpisný ústav v Praze"
     ]
   }
 24630 L $$a{
@@ -122,24 +129,38 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Německo] :$$b[Generalstab des Heeres],",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVojenský zeměpisný ústav,",
+      "V Praze :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarevná ;$$c  x  cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Topographische Karte der Tschechoslowakei 1:25 000] ; $$v{
+4901  L $$a[Topografická mapa 1:25 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -162,10 +183,16 @@ LDR   L -----nem-a22------i-4500
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
-    "id": "note",
+    "id":"note",
     "width": 20,
     "title": "Poznámka k barevnosti",
-    "values": ["Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
   }
 500   L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
@@ -187,10 +214,11 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "valuesByBaseIndex": [
     "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTopographische Karte der Tschechoslowakei 1:25 000 ; $$v{
+830 0 L $$aTopografická mapa 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

@@ -7,10 +7,10 @@ LDR   L -----nem-a22------i-4500
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 13,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["gw", "gw"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
@@ -26,12 +26,12 @@ LDR   L -----nem-a22------i-4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["ger", "fre", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["fre", "ita", "spa", "ger"]
   }
@@ -86,8 +86,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Označení listu",
     "width": 10,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
+      {"attr":"SHEET"}
     ]
 } /$$c{
     "base":"corporation",
@@ -99,21 +98,13 @@ LDR   L -----nem-a22------i-4500
       "[Reichsamt für Landesaufnahme]" 
     ]
   }
-2463  L $$a{
-    "base":"sheet",
-    "title": "Variantní název",
-    "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"}
-    ]
-  }
 24630 L $$a{
     "base": "sheet",
     "title": "Název části"
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:25 000{
@@ -144,19 +135,19 @@ LDR   L -----nem-a22------i-4500
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "mapWidth",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia

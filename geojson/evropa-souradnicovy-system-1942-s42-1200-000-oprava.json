@@ -10,9 +10,9 @@
         "TITLE": "Chabařovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245P": "Chabařovice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
-        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913"
+        "N245P": "Chabařovice|Chabařovice - Dresden",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
+        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913|$$aDrážďany (Německo : oblast)$$7ge129087"
       },
       "geometry": {
         "coordinates": [
@@ -51,9 +51,9 @@
         "TITLE": "Děčín",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245P": "Děčín",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
-        "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
+        "N245P": "Děčín|Děčín - Görlitz",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
+        "N651": "$$aDěčín (Česko : oblast)$$7ge128471|$$aGörlitz (Německo : oblast)$$7ge645771"
       },
       "geometry": {
         "coordinates": [
@@ -93,7 +93,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245P": "Liberec",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
@@ -133,9 +133,9 @@
         "TITLE": "Karlovy Vary",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245P": "Karlovy Vary",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
-        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
+        "N245P": "Karlovy Vary|Karlovy Vary - Plauen",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536|$$aPlauen (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -174,9 +174,9 @@
         "TITLE": "Teplice",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$be-xr-st$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245P": "Teplice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
-        "N651": "$$aTeplice (Česko : oblast)$$7ge131061"
+        "N245P": "Teplice|Teplice - Annaberg-Buchholz",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
+        "N651": "$$aTeplice (Česko : oblast)$$7ge131061|$$aAnnaberg-Buchholz (Německo : oblast)$$7ge904692"
       },
       "geometry": {
         "coordinates": [
@@ -216,7 +216,7 @@
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-us$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.318)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245P": "Praha",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -257,7 +257,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245P": "Hradec Králové",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
       "geometry": {
@@ -298,7 +298,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Náchod",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
       },
       "geometry": {
@@ -339,7 +339,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Jeseník",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aJeseník (Česko : oblast)$$7ge129454"
       },
       "geometry": {
@@ -380,7 +380,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Strahovice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aStrahovice (Česko : oblast)$$7ge981041"
       },
       "geometry": {
@@ -421,7 +421,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245P": "Mariánské Lázně",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aMariánské Lázně (Česko : oblast)$$7ge129965"
       },
       "geometry": {
@@ -462,7 +462,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-ka$$be-xr-st$$be-xr-jc",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.318)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.319)$$2MRF",
         "N245P": "Plzeň",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
@@ -503,7 +503,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pg$$be-xr-vy$$be-xr-st",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.311)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
         "N245P": "Tábor",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aTábor (Česko : oblast)$$7ge131165"
       },
       "geometry": {
@@ -544,7 +544,7 @@
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa$$be-xr-st",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.312)$$2MRF",
         "N245P": "Jihlava",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
       "geometry": {
@@ -585,7 +585,7 @@
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-ol$$be-xr-vy$$be-xr-jm",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
         "N245P": "Česká Třebová",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aČeská Třebová (Česko : oblast)$$7ge131696"
       },
       "geometry": {
@@ -626,7 +626,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$be-xr-jm$$be-xr-zl$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Olomouc",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -667,7 +667,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl$$ae-pl---$$ae-xo---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF|$$a913(438)$$2MRF|$$a913(437.6)$$2MRF",
         "N245P": "Ostrava",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
@@ -708,7 +708,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Trstená",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aTrstená (Slovensko : oblast)$$7ge981056"
       },
       "geometry": {
@@ -749,7 +749,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Spišská Stará Ves",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aSpišská Stará Ves (Slovensko : oblast)$$7ge981213"
       },
       "geometry": {
@@ -790,7 +790,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Zborov",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aZborov (Bardejov, Slovensko : oblast)"
       },
       "geometry": {
@@ -831,7 +831,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245P": "Švarcava",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aŠvarcava (Česko : zaniklá obec)$$7ge311483"
       },
       "geometry": {
@@ -872,7 +872,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl$$ae-au---$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245P": "Strakonice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
       "geometry": {
@@ -913,7 +913,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "České Budějovice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -954,7 +954,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Jindřichův Hradec",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
       "geometry": {
@@ -995,7 +995,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Brno",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
@@ -1036,7 +1036,7 @@
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-jm$$be-xr-ol$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF",
         "N245P": "Gottwaldov",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
@@ -1077,7 +1077,7 @@
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
         "N245P": "Žilina",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
@@ -1118,7 +1118,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Banská Bystrica",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
@@ -1159,7 +1159,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Vysoké Tatry",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aVysoké Tatry (Polsko a Slovensko : pohoří : oblast)$$7ge131356"
       },
       "geometry": {
@@ -1200,7 +1200,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Košice",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
@@ -1241,7 +1241,7 @@
         "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245P": "Snina",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aSnina (Slovensko : oblast)$$7ge981222"
       },
       "geometry": {
@@ -1282,7 +1282,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Vyšší Brod",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
       },
       "geometry": {
@@ -1323,7 +1323,7 @@
         "N43": "$$ae-au---$$ae-xo---$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(436)$$2MRF|$$a913(437.6)$$2MRF|$$913(437.322)$$2MRF",
         "N245P": "Wien",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
       "geometry": {
@@ -1364,7 +1364,7 @@
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Bratislava",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358"
       },
       "geometry": {
@@ -1405,7 +1405,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Nitra",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
@@ -1446,7 +1446,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Zvolen",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aZvolen (Slovensko : oblast)$$7ge132353"
       },
       "geometry": {
@@ -1487,7 +1487,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Rimavská Sobota",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aRimavská Sobota (Slovensko : oblast)$$7xx0127667"
       },
       "geometry": {
@@ -1528,7 +1528,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Trebišov",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aTrebišov (Slovensko : oblast)$$7ge844050"
       },
       "geometry": {
@@ -1569,7 +1569,7 @@
         "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
         "N245P": "Čierna",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aČierna nad Tisou (Slovensko : oblast)"
       },
       "geometry": {
@@ -1610,7 +1610,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Čalovo|Veľký Meder",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aVeľký Meder (Slovensko : oblast)"
       },
       "geometry": {
@@ -1651,7 +1651,7 @@
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245P": "Nové Zámky",
-        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR",
+        "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
         "N651": "$$aNové Zámky (Slovensko : oblast)$$7ge900871"
       },
       "geometry": {

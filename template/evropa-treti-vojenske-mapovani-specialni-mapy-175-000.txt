@@ -12,7 +12,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Rok vydání"
   }----{
     "base": "corporation",
-    "width": 13,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["au", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "xr", "gw", "ru", "hu"]
   }-|||||||a|||||||||{

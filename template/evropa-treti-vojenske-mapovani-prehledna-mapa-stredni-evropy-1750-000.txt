@@ -186,7 +186,7 @@ LDR   L -----nem-a22------i-4500
     "id": "note",
     "width": 20,
     "title": "Poznámka k barevnosti",
-    "values": ["Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$a{
     "id": "note2",

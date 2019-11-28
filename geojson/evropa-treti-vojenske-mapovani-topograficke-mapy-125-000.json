@@ -516,12 +516,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3560/3",
-        "TITLE": "",
+        "TITLE": "Wieruszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "[]",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieruszów]",
+        "N651": "$$aWieruszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

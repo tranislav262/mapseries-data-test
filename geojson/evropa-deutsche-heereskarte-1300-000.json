@@ -8493,11 +8493,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 45",
-        "TITLE": "",
+        "TITLE": "Kara-Tjulej",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
+        "N43": "$$aa-kz---$$aa-uz---",
+        "N80": "$$a913(574)$$2MRF|$$a913(575.1)$$2MRF",
+        "N245A": "Kara-Tjulej",
         "N651": ""
       },
       "geometry": {
@@ -8534,11 +8534,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 46",
-        "TITLE": "",
+        "TITLE": "Tschumyschty-Kul",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
+        "N43": "$$aa-kz---$$aa-uz---",
+        "N80": "$$a913(574)$$2MRF|$$a913(575.1)$$2MRF",
+        "N245A": "Tschumyschty-Kul",
         "N651": ""
       },
       "geometry": {
@@ -8575,11 +8575,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 47",
-        "TITLE": "",
+        "TITLE": "Kara-Kul",
         "SCALE": "300000",
         "N43": "$$aa-kz---",
         "N80": "$$a913(574)$$2MRF",
-        "N245A": "",
+        "N245A": "Kara-Kul",
         "N651": ""
       },
       "geometry": {
@@ -8616,11 +8616,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 48",
-        "TITLE": "",
+        "TITLE": "Shanbike",
         "SCALE": "300000",
         "N43": "$$aa-kz---",
         "N80": "$$a913(574)$$2MRF",
-        "N245A": "",
+        "N245A": "Shanbike (Emba)",
         "N651": ""
       },
       "geometry": {
@@ -8657,11 +8657,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 49",
-        "TITLE": "",
+        "TITLE": "Ssagis",
         "SCALE": "300000",
         "N43": "$$aa-kz---",
         "N80": "$$a913(574)$$2MRF",
-        "N245A": "",
+        "N245A": "Ssagis",
         "N651": ""
       },
       "geometry": {
@@ -8698,11 +8698,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 50",
-        "TITLE": "",
+        "TITLE": "Uil",
         "SCALE": "300000",
         "N43": "$$aa-kz---",
         "N80": "$$a913(574)$$2MRF",
-        "N245A": "",
+        "N245A": "Uil",
         "N651": ""
       },
       "geometry": {
@@ -8739,11 +8739,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 51",
-        "TITLE": "",
+        "TITLE": "Wassiljewskij ",
         "SCALE": "300000",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Wassiljewskij ",
         "N651": ""
       },
       "geometry": {
@@ -8780,11 +8780,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 52",
-        "TITLE": "",
+        "TITLE": "Tschakalow ",
         "SCALE": "300000",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tschakalow ",
         "N651": ""
       },
       "geometry": {
@@ -8821,11 +8821,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 53",
-        "TITLE": "",
+        "TITLE": "Scharlyk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Scharlyk",
         "N651": ""
       },
       "geometry": {
@@ -8862,11 +8862,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 54",
-        "TITLE": "",
+        "TITLE": "Sterlitamak",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Sterlitamak",
         "N651": ""
       },
       "geometry": {
@@ -8903,12 +8903,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 55",
-        "TITLE": "",
+        "TITLE": "Ufa",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ufa",
+        "N651": "$$aUfa (Rusko : oblast)$$7ge580539"
       },
       "geometry": {
         "type": "Polygon",
@@ -8944,11 +8944,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 56",
-        "TITLE": "",
+        "TITLE": "Birsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Birsk",
         "N651": ""
       },
       "geometry": {
@@ -8985,11 +8985,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 57",
-        "TITLE": "",
+        "TITLE": "Janaul",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Janaul",
         "N651": ""
       },
       "geometry": {
@@ -9026,11 +9026,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 58",
-        "TITLE": "",
+        "TITLE": "Ossa",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Ossa",
         "N651": ""
       },
       "geometry": {
@@ -9067,12 +9067,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 59",
-        "TITLE": "",
+        "TITLE": "Perm",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Molotow (früher Perm)",
+        "N651": "$$aPerm (Rusko : oblast)$$7ge116848"
       },
       "geometry": {
         "type": "Polygon",
@@ -9108,11 +9108,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 60",
-        "TITLE": "",
+        "TITLE": "Kudymkar",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Kudymkar",
         "N651": ""
       },
       "geometry": {
@@ -9149,11 +9149,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 61",
-        "TITLE": "",
+        "TITLE": "Gainskoje",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Gainskoje",
         "N651": ""
       },
       "geometry": {
@@ -9190,12 +9190,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 62",
-        "TITLE": "",
+        "TITLE": "Ust-Nem",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ust-Nem",
+        "N651": "$$aUst-Kulomsky (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9231,12 +9231,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 63",
-        "TITLE": "",
+        "TITLE": "Troizko-Petschorsk",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Troizko-Petschorsk",
+        "N651": "$$aTroicko-Pečorsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9272,12 +9272,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 64",
-        "TITLE": "",
+        "TITLE": "Mitrofanowskaja ",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Mitrofanowskaja ",
+        "N651": "$$aMitrofandikost (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9313,12 +9313,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 65",
-        "TITLE": "",
+        "TITLE": "Koshwa",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Koshwa",
+        "N651": "$$aKosva (Řeka : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9354,12 +9354,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 66",
-        "TITLE": "",
+        "TITLE": "Kipijewo",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kipijewo",
+        "N651": "$$aKipijevo (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9395,12 +9395,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 67",
-        "TITLE": "",
+        "TITLE": "Sachar-Wan",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sachar-Wan",
+        "N651": "$$aZacharvaň (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9436,12 +9436,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 68",
-        "TITLE": "",
+        "TITLE": "Ozero Beluga-To",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Beluga-To",
+        "N651": "$$aBeluga-To (Rusko : jezero : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9477,12 +9477,12 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "I 69",
-        "TITLE": "",
+        "TITLE": "Petchorski Liman",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Petchorski Liman",
+        "N651": "$$aPečorský záliv (Rusko)"
       },
       "geometry": {
         "type": "Polygon",

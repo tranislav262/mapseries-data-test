@@ -1,13 +1,18 @@
 FMT   L MP
 LDR   L -----nem-a22------i-4500
-007   L aj|ca|||
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 13,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["gw", "gw"]
   }||||||||a|||||||||{
@@ -102,7 +107,7 @@ LDR   L -----nem-a22------i-4500
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:100 000{

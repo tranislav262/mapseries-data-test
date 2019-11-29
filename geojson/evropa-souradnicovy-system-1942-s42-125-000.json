@@ -87,11 +87,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-30-C-c",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "TITLE": "Ebersbach",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ebersbach",
+        "N651": "$$aEbersbach (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [

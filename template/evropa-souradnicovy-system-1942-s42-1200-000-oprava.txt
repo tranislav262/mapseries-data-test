@@ -1,18 +1,23 @@
 FMT   L MP
 LDR   L -----nem-a22------i-4500
-007   L aj|ca|||
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 15,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
-    "width":8,
+    "width": 5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze", "cze"]
   }-d
@@ -26,17 +31,17 @@ LDR   L -----nem-a22------i-4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":10,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":10,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "slo", "ger", "hun", "pol"]
   }$$a{
     "id":"langcode3",
-    "width":10,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "slo", "ger", "hun", "pol"]
   }

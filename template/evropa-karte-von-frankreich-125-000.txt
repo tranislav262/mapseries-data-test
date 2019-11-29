@@ -1,18 +1,23 @@
 FMT   L MP
 LDR   L -----nem-a22------i-4500
-007   L aj|ca|||
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
     "width": 5,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 13,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["gw", "gw"]
   }||||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width":5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "ger"]
   }-d

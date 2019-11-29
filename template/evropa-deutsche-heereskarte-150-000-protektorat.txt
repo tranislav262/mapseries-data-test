@@ -1,13 +1,18 @@
 FMT   L MP
 LDR   L -----nem-a22------i-4500
-007   L aj|ca|||
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 13,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr"]
   }||||||||a|||||||||{
@@ -146,6 +151,9 @@ LDR   L -----nem-a22------i-4500
   "title": "Šířka",
   "width": 5
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$aDeutsche Heereskarte. Protektorat 1:50 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",

@@ -1,18 +1,23 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
-007   L aj|ca|||
+LDR   L -----nem-a22------i-4500
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
-    "width": 5,
+    "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["au", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width": 5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
@@ -114,21 +119,13 @@ LDR   L -----nem-a22--------4500
     "base": "N245P",
     "title": "Název části"
   }
-2463  L $$a{
-    "base":"sheet",
-    "title": "Variantní název",
-    "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
-      {"attr":"SHEET"}
-    ]
-  }
 24630 L $$a{
     "base": "sheet",
     "title": "Název části"
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width": 10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:200 000{
@@ -139,9 +136,9 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+264 1 L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Wien :$$bMilitärgeographisches Institut,",
@@ -150,15 +147,31 @@ LDR   L -----nem-a22--------4500
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
 4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
@@ -170,6 +183,19 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
+500   L $$a{
+    "id":"note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
+  }
+500 L $$aDalší údaje o vydání:
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",

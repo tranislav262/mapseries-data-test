@@ -161,7 +161,7 @@ LDR   L -----nem-a22------i-4500
       "Bratislava :$$bKartografický a reprodukční ústav v Bratislavě,",
       "Praha :$$bvytiskla Kartografie n. p. Praha,",
       "Praha :$$bvytiskla Kartografie n. p. Praha,",
-      "Praha :$$bReprodukcia a tlač: Kartografický a reprodukční ústav v Praze
+      "Praha :$$bReprodukcia a tlač: Kartografický a reprodukční ústav v Praze"
     ]
   }$$c{
     "base":"year"

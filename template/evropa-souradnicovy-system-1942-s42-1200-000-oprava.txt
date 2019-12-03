@@ -142,7 +142,7 @@ LDR   L -----nem-a22------i-4500
   }
 264   L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Praha :$$bVydal Ústřední ústav geologický,",
@@ -155,13 +155,13 @@ LDR   L -----nem-a22------i-4500
   }
 264   L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
       "Bratislava :$$bKartografický a reprodukční ústav v Bratislavě,",
       "Praha :$$bvytiskla Kartografie n. p. Praha,",
       "Praha :$$bvytiskla Kartografie n. p. Praha,",
-      "Praha :$$bReprodukcia a tlač: Kartografický a reprodukční ústav v Praze"
+      "Praha :$$bReprodukcia a tlač Kartografický a reprodukční ústav v Praze,"
     ]
   }$$c{
     "base":"year"

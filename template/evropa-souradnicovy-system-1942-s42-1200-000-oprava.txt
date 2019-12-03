@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xo"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width": 5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "slo"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -70,7 +70,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
@@ -78,12 +78,13 @@ LDR   L -----nem-a22------i-4500
     "values": [
       "Ústřední ústav geologický",
       "Kartografie Praha (firma)",
-      "Botanický ústav (Československá akademie věd)"]
+      "Botanický ústav (Československá akademie věd)",
+      "Geologický ústav Dionýza Štúra"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "kn20010724363", "ko2004231826"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724363", "ko2004231826", "ko2003195948"]
   }
 24510 L $$a{
     "title": "Název",
@@ -108,9 +109,10 @@ LDR   L -----nem-a22------i-4500
     "width": 180,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Vydal Ústřední ústav geologický",
+      "zpracoval Ústřední ústav geologický",
       "zpracovala Kartografie n. p. Praha",
-      "Československá akademie věd, Botanický ústav"
+      "Československá akademie věd, Botanický ústav",
+      "zostavil Geologický ústav Dionýza Štúra v Bratislave"
     ]
   }
 24630 L $$a{
@@ -145,7 +147,8 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": [
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,",
-      "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,"
+      "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,",
+      "Praha :$$bÚstredný ústav geologický,"
     ]
   }$$c{
     "base":"year"
@@ -157,7 +160,8 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": [
       "Bratislava :$$bKartografický a reprodukční ústav v Bratislavě,",
       "Praha :$$bvytiskla Kartografie n. p. Praha,",
-      "Praha :$$bvytiskla Kartografie n. p. Praha,"
+      "Praha :$$bvytiskla Kartografie n. p. Praha,",
+      "Praha :$$bReprodukcia a tlač: Kartografický a reprodukční ústav v Praze
     ]
   }$$c{
     "base":"year"
@@ -229,7 +233,8 @@ LDR   L -----nem-a22------i-4500
   "valuesByBaseIndex": [
     "Ústřední správa geodézie a kartografie$$4ctg$$7kn20050506060",
     "",
-    "Kartografie Praha (firma)$$4ctg$$4prt$$7kn20010724363"    
+    "Kartografie Praha (firma)$$4ctg$$4prt$$7kn20010724363",
+    "Kartografický a reprodukční ústav (Praha, Česko)$$4prt$$7ko2003164641"
   ]
 }
 710{
@@ -244,7 +249,8 @@ LDR   L -----nem-a22------i-4500
   "valuesByBaseIndex": [
     "Kartografický a reprodukčný ústav (Bratislava, Slovensko)$$4prt$$4ctg$$7ko2003164640",
     "Academia (nakladatelství)$$4pbl$$7ko2002101950",
-    "Academia (nakladatelství)$$4pbl$$7ko2002101950"
+    "Academia (nakladatelství)$$4pbl$$7ko2002101950",
+    "Ústřední správa geodézie a kartografie$$4ctg$$7kn20050506060"
   ]
 }
 830 0 L $$aSouřadnicový systém 1942 (S-42) 1:200 000 ;$$v{

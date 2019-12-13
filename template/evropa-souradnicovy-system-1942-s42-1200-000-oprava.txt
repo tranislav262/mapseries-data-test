@@ -88,10 +88,10 @@ LDR   L -----nem-a22------i-4500
   }
 24510 L $$a{
     "title": "Název",
-    "width": 30,
+    "width": 35,
     "value": {
       "attr": "N245A"
-    } :$$bMapa předčtvrtohorních útvarů
+    } 
   }.$$n{
     "id":"sheet",
     "title": "Označení listu",

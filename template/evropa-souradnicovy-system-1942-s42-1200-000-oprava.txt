@@ -91,7 +91,7 @@ LDR   L -----nem-a22------i-4500
     "width": 30,
     "value": {
       "attr": "N245A"
-    }
+    } :$$bMapa předčtvrtohorních útvarů
   }.$$n{
     "id":"sheet",
     "title": "Označení listu",
@@ -100,13 +100,13 @@ LDR   L -----nem-a22------i-4500
 },$$p{
   "id":"N245P",
   "title": "Název listu",
-    "width": 15,
+    "width": 20,
     "values": [
       {"attr":"N245P"}
       ]
       } /$$c{
     "base":"corporation",
-    "width": 180,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "zpracoval Ústřední ústav geologický",

@@ -39,7 +39,6 @@ LDR   L -----nem-a22------i-4500
     "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "slo", "ger", "hun", "pol"]
-  }
   }$$a{
     "id":"langcode3",
     "width":8,

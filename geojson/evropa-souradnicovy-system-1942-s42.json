@@ -1116,7 +1116,7 @@
         "SCALE": "50000",
         "SHEET": "M-33-53-B",
         "TITLE": "Úštěk",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$e-xr-st",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Úštěk",
         "N651": "$$Úštěk (Česko : oblast)$$7ge234327"
@@ -3740,7 +3740,7 @@
         "SCALE": "50000",
         "SHEET": "M-33-67-C",
         "TITLE": "Kolín",
-        "N43": "$$ae-xr---$$ae-xr-st",
+        "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Kolín",
         "N651": "$$aKolín (Česko : oblast)$$7ge129621"
@@ -11775,11 +11775,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-143-D",
-        "TITLE": "",
+        "TITLE": "Šamorín",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Šamorín",
+        "N651": "$$aŠamorín (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

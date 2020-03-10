@@ -108,7 +108,7 @@ LDR   L -----nem-a22------i-4500
       "Generální štáb Československé armády",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav",
-      "Vojenský zeměpisný ústav"
+      "[Vojenský zeměpisný ústav]"
     ]
   }
 2463  L $$a{
@@ -144,7 +144,7 @@ LDR   L -----nem-a22------i-4500
       "[Praha] :$$bGenerální štáb Československé armády,",
       "Praha :$$bVojenský zeměpisný ústav,",
       "[Praha] :$$bVojenský zeměpisný ústav,",
-      "[Praha] :$$bVojenský zeměpisný ústav,"
+      "[Praha] :$$b[Vojenský zeměpisný ústav],"
     ]
   }$$c{
     "base":"year"

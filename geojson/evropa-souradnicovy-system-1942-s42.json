@@ -298,7 +298,7 @@
         "TITLE": "Hrádek nad Nisou",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Hrádek n. Nisou",
+        "N245A": "Hrádek nad Nisou|Hrádek n. Nisou",
         "N651": "$$aHrádek nad Nisou (Česko : oblast)$$7ge242322"
       },
       "geometry": {
@@ -380,7 +380,7 @@
         "TITLE": "Jindřichovice pod Smrkem",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Jindřichovice p. Smrkem",
+        "N245A": "Jindřichovice pod Smrkem|Jindřichovice p. Smrkem",
         "N651": "$$aJindřichovice pod Smrkem (Česko : oblast)"
       },
       "geometry": {
@@ -954,7 +954,7 @@
         "TITLE": "Hora Svatého Šebestiána",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Hora Sv. Šebestiána",
+        "N245A": "Hora Svatého Šebestiána|Hora Sv. Šebestiána",
         "N651": "$$aHora Svatého Šebestiána (Česko : oblast)$$7ge725004"
       },
       "geometry": {
@@ -1077,7 +1077,7 @@
         "TITLE": "Ústí nad Labem",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Ústí n. Labem",
+        "N245A": "Ústí nad Labem|Ústí n. Labem|Ústí n. L.",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
@@ -1897,7 +1897,7 @@
         "TITLE": "Mladá Boleslav",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Mladá Boleslav",
+        "N245A": "Mladá Boleslav|Ml. Boleslav",
         "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
       "geometry": {
@@ -2061,7 +2061,7 @@
         "TITLE": "Dvůr Králové nad Labem",
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
-        "N245A": "Dvůr Králové n. L.",
+        "N245A": "Dvůr Králové nad Labem|Dvůr Králové n. L.",
         "N651": "$$aDvůr Králové nad Labem (Česko : oblast)$$7ge138285"
       },
       "geometry": {
@@ -2635,7 +2635,7 @@
         "TITLE": "Kralupy nad Vltavou",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Kralupy n. Vlt.",
+        "N245A": "Kralupy nad Vltavou|Kralupy n. Vlt.",
         "N651": "$$aKralupy nad Vltavou (Česko : oblast)$$7ge129671"
       },
       "geometry": {
@@ -3332,7 +3332,7 @@
         "TITLE": "Kynšperk nad Ohří",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF",
-        "N245A": "Kynšperk n.Ohří|Kynšperk n. Ohří",
+        "N245A": "Kynšperk nad Ohří|Kynšperk n.Ohří|Kynšperk n. Ohří",
         "N651": "$$aKynšperk nad Ohří (Česko : oblast)"
       },
       "geometry": {
@@ -3783,7 +3783,7 @@
         "TITLE": "Chlumec nad Cidlinou",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pa",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Chlumec n.Cidlinou|Chlumec n. Cidlinou",
+        "N245A": "Chlumec nad Cidlinou|Chlumec n.Cidlinou|Chlumec n. Cidlinou",
         "N651": "$$aChlumec nad Cidlinou (Česko : oblast)$$7ge128931"
       },
       "geometry": {
@@ -3988,7 +3988,7 @@
         "TITLE": "Jablonné nad Orlicí",
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Jablonné n. Orl.",
+        "N245A": "Jablonné nad Orlicí|Jablonné n. Orl.",
         "N651": "$$aJablonné nad Orlicí (Česko : oblast)"
       },
       "geometry": {
@@ -4644,7 +4644,7 @@
         "TITLE": "Kostelec nad Černými Lesy",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Kostelec n.Čer.Lesy|Kostelec n. Čer. Lesy",
+        "N245A": "Kostelec nad Černými Lesy|Kostelec n.Čer.Lesy|Kostelec n. Čer. Lesy",
         "N651": "$$aKostelec nad Černými lesy (Česko : oblast)$$7ge128434"
       },
       "geometry": {
@@ -5013,7 +5013,7 @@
         "TITLE": "Libina",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "Hor. Libina",
+        "N245A": "Libina|Hor. Libina",
         "N651": "$$aLibina (Česko : oblast)"
       },
       "geometry": {
@@ -5669,7 +5669,7 @@
         "TITLE": "Ledeč nad Sázavou",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-st",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Ledeč n.Sázavou|Ledeč n. Sázavou",
+        "N245A": "Ledeč nad Sázavou|Ledeč n.Sázavou|Ledeč n. Sázavou",
         "N651": "$$aLedeč nad Sázavou (Česko : oblast)$$7ge117929"
       },
       "geometry": {
@@ -6038,7 +6038,7 @@
         "TITLE": "Budišov nad Budišovkou",
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF",
-        "N245A": "Budišov n. Budišovkou",
+        "N245A": "Budišov nad Budišovkou|Budišov n. Budišovkou",
         "N651": "$$aBudišov nad Budišovkou (Česko : oblast)$$7ge171383"
       },
       "geometry": {
@@ -6161,7 +6161,7 @@
         "TITLE": "Horšovský Týn",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Horš. Týn",
+        "N245A": "Horšovský Týn|Horš. Týn",
         "N651": "$$aHoršovský Týn (Česko : oblast)$$7ge291082"
       },
       "geometry": {
@@ -6489,7 +6489,7 @@
         "TITLE": "Mladá Vožice",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-st$$be-xr-vy",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Ml. Vožice",
+        "N245A": "Mladá Vožice|Ml. Vožice",
         "N651": "$$aMladá Vožice (Česko : oblast)$$7ge291650"
       },
       "geometry": {
@@ -6694,7 +6694,7 @@
         "TITLE": "Nové Město na Moravě",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "N. Město na Mor.",
+        "N245A": "Nové Město na Moravě|N. Město na Mor.",
         "N651": "$$aNové Město na Moravě (Česko : oblast)$$7ge130227"
       },
       "geometry": {
@@ -6735,7 +6735,7 @@
         "TITLE": "Bystřice nad Pernštejnem",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Bystřice n. Pernšt.",
+        "N245A": "Bystřice nad Pernštejnem|Bystřice n. Pernšt.",
         "N651": "$$aBystřice nad Pernštejnem (Česko : oblast)$$7ge291802"
       },
       "geometry": {
@@ -6858,7 +6858,7 @@
         "TITLE": "Olomouc-západ",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MR",
-        "N245A": "Olomouc-západ",
+        "N245A": "Olomouc - západ",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -7596,7 +7596,7 @@
         "TITLE": "Velké Meziříčí",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Vel. Meziříčí",
+        "N245A": "Velké Meziříčí|Vel. Meziříčí",
         "N651": "$$aVelké Meziříčí (Česko : oblast)$$7ge131264"
       },
       "geometry": {
@@ -8293,7 +8293,7 @@
         "TITLE": "Kamenice nad Lipou",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Kamenice n. Lipou",
+        "N245A": "Kamenice nad Lipou|Kamenice n. Lipou",
         "N651": "$$aKamenice nad Lipou (Česko : oblast)$$7ge218497"
       },
       "geometry": {
@@ -8990,7 +8990,7 @@
         "TITLE": "Hluboká nad Vltavou",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Hluboká n. Vlt.",
+        "N245A": "Hluboká nad Vltavou|Hluboká n. Vlt.",
         "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
       },
       "geometry": {
@@ -9113,7 +9113,7 @@
         "TITLE": "Jindřichův Hradec",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Jindř. Hradec",
+        "N245A": "Jindřichův Hradec|Jindř. Hradec",
         "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
       "geometry": {
@@ -10627,11 +10627,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-117-C",
-        "TITLE": "",
+        "TITLE": "Jaroslavice",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Jaroslavice",
+        "N651": "$$aJaroslavice (Znojmo, Česko : oblast)$$7ge725616"
       },
       "geometry": {
         "type": "Polygon",
@@ -10668,11 +10668,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-117-D",
-        "TITLE": "",
+        "TITLE": "Hrušovany nad Jevišovkou",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hrušovany nad Jevišovkou|Hrušovany n. Jev.",
+        "N651": "$$aHrušovany nad Jevišovkou (Česko : oblast)$$7ge502887"
       },
       "geometry": {
         "type": "Polygon",
@@ -10709,11 +10709,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-118-C",
-        "TITLE": "",
+        "TITLE": "Mikulov",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Mikulov",
+        "N651": "$$aMikulov (Břeclav, Česko : oblast)$$7ge130006"
       },
       "geometry": {
         "type": "Polygon",
@@ -10750,11 +10750,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-118-D",
-        "TITLE": "",
+        "TITLE": "Břeclav",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---$$ae-xo---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Břeclav",
+        "N651": "$$aBřeclav (Česko : oblast)$$7ge128421"
       },
       "geometry": {
         "type": "Polygon",
@@ -13500,7 +13500,7 @@
         "TITLE": "Kysucké Nové Mesto",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Kys. N. Mesto",
+        "N245A": "Kysucké Nové Mesto|Kys. N. Mesto",
         "N651": "$$aKysucké Nové Mesto (Slovensko : oblast)$$7ge699985"
       },
       "geometry": {
@@ -14074,7 +14074,7 @@
         "TITLE": "Valašské Klobouky",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "Val. Klobouky",
+        "N245A": "Valašské Klobouky|Val. Klobouky",
         "N651": "$$aValašské Klobouky (Česko : oblast)$$7ge118076"
       },
       "geometry": {
@@ -14402,7 +14402,7 @@
         "TITLE": "Vysoké Tatry",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Vys. Tatry",
+        "N245A": "Vysoké Tatry|Vys. Tatry",
         "N651": "$$aVysoké Tatry (Slovensko : oblast)"
       },
       "geometry": {
@@ -16493,7 +16493,7 @@
         "TITLE": "Žiar nad Hronom",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Sv. Kríž n. Hronom",
+        "N245A": "Žiar nad Hronom|Sv. Kríž n. Hronom",
         "N651": "$$aŽiar nad Hronom (Slovensko : oblast)$$7xx0078637"
       },
       "geometry": {
@@ -17108,7 +17108,7 @@
         "TITLE": "Výčapy-Opatovce",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Výčapy-Opatovce",
+        "N245A": "Výčapy - Opatovce",
         "N651": "$$aVýčapy-Opatovce (Slovensko : oblast)"
       },
       "geometry": {
@@ -17190,7 +17190,7 @@
         "TITLE": "Nová Baňa",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "N. Baňa",
+        "N245A": "Nová Baňa|N. Baňa",
         "N651": "$$aNová Baňa (Slovensko : oblast)$$7ge893129"
       },
       "geometry": {
@@ -17436,7 +17436,7 @@
         "TITLE": "Rimavská Sobota",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Rim. Sobota",
+        "N245A": "Rimavská Sobota|Rim. Sobota",
         "N651": "$$aRimavská Sobota (Slovensko : oblast)$$7xx0127667"
       },
       "geometry": {
@@ -17641,7 +17641,7 @@
         "TITLE": "Kráľovský Chlmec",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Kráľ. Chlmec",
+        "N245A": "Kráľovský Chlmec|Kráľ. Chlmec",
         "N651": "$$aKráľovský Chlmec (Slovensko : oblast)$$7ge856420"
       },
       "geometry": {

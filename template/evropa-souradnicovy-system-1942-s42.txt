@@ -158,7 +158,7 @@ LDR   L -----nem-a22------i-4500
   "id": "mapHeight",
   "title": "Výška",
   "width": 5
-} x {
+} 37 x 36 {
   "id": "mapWidth",
   "title": "Šířka",
   "width": 5

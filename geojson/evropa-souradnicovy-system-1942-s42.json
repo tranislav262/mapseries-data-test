@@ -8417,7 +8417,7 @@
         "N43": "$$ae-xr---$$be-xr-vy",
         "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Třebíč",
-        "N651": "$$Třebíč (Česko : oblast)$$7ge131186"
+        "N651": "$$aTřebíč (Česko : oblast)$$7ge131186"
       },
       "geometry": {
         "type": "Polygon",
@@ -9807,11 +9807,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-114-A",
-        "TITLE": "",
+        "TITLE": "Trhové Sviny",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Trhové Sviny",
+        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119"
       },
       "geometry": {
         "type": "Polygon",

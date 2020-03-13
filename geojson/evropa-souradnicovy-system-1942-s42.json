@@ -13128,11 +13128,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-90-C",
-        "TITLE": "",
+        "TITLE": "Piwniczna",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Piwniczna",
+        "N651": "$$aPiwniczna-Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

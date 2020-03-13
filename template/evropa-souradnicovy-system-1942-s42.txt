@@ -108,7 +108,7 @@ LDR   L -----nem-a22------i-4500
       "Generální štáb Československé armády",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav",
-      "[Vojenský zeměpisný ústav]"
+      "[Vojenský zeměpisný ústav] ; Generální štáb československé armády ; Kartograf: ; Revidoval:"
     ]
   }
 2463  L $$a{

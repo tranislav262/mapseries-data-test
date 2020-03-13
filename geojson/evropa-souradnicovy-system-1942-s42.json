@@ -13005,11 +13005,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-88-D",
-        "TITLE": "",
+        "TITLE": "Czarny Dunajec",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Czarny Dunajec",
+        "N651": "$$aCzarny Dunajec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13046,11 +13046,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-34-89-C",
-        "TITLE": "",
+        "TITLE": "Nowy Targ",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nowy Targ",
+        "N651": "$$aNowy Targ (Polsko : oblast)$$7ge888977"
       },
       "geometry": {
         "type": "Polygon",

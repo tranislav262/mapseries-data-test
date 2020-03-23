@@ -15588,11 +15588,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-34-118-A",
-        "TITLE": "",
+        "TITLE": "Černohlava",
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Černohlava",
+        "N651": "$$aČernohlava (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",

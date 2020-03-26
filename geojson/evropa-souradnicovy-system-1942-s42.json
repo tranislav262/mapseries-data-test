@@ -17475,8 +17475,8 @@
         "SCALE": "50000",
         "SHEET": "M-34-125-D",
         "TITLE": "Tornaľa",
-        "N43": "$$ae-xo---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Šafárikovo",
         "N651": "$$aTornaľa (Slovensko : oblast)"
       },
@@ -17598,8 +17598,8 @@
         "SCALE": "50000",
         "SHEET": "M-34-128-C",
         "TITLE": "Borša",
-        "N43": "$$ae-xo---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Borša",
         "N651": "$$aBorša (Slovensko : oblast)"
       },

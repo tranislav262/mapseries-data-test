@@ -7567,11 +7567,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-B-a",
-        "TITLE": "",
+        "TITLE": "Markneukirchen",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Markneukirchen",
+        "N651": "$$aMarkneukirchen (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -7607,11 +7607,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-B-b",
-        "TITLE": "",
+        "TITLE": "Luby",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Luby",
+        "N651": "$$aLuby (Cheb, Česko : oblast)$$7ge467572"
       },
       "geometry": {
         "coordinates": [
@@ -7647,11 +7647,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-A-a",
-        "TITLE": "",
+        "TITLE": "Kraslice jih",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Kraslice jih|Kraslice-jih",
+        "N651": "$$aKraslice (Česko : oblast)$$7ge129674"
       },
       "geometry": {
         "coordinates": [
@@ -7687,11 +7687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-A-b",
-        "TITLE": "",
+        "TITLE": "Nejdek",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nejdek",
+        "N651": "$$aNejdek (Karlovy Vary, Česko : oblast)$$7ge306243"
       },
       "geometry": {
         "coordinates": [
@@ -7731,7 +7731,7 @@
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
         "N245A": "",
-        "N651": "$$a"
+        "N651": ""
       },
       "geometry": {
         "coordinates": [
@@ -9367,11 +9367,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-B-c",
-        "TITLE": "",
+        "TITLE": "Bad Brambach",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Bad Brambach",
+        "N651": "$$aBad Brambach (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -9407,11 +9407,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-B-d",
-        "TITLE": "",
+        "TITLE": "Nový Kostel",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nový Kostel",
+        "N651": "$$aNový Kostel (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -9447,11 +9447,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-A-c",
-        "TITLE": "",
+        "TITLE": "Habartov",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Habartov",
+        "N651": "$$aHabartov (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -9487,11 +9487,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-A-d",
-        "TITLE": "",
+        "TITLE": "Sokolov",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Sokolov",
+        "N651": "$$aSokolov (Česko : oblast)$$7ge130888"
       },
       "geometry": {
         "coordinates": [
@@ -9527,11 +9527,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-B-c",
-        "TITLE": "",
+        "TITLE": "Karlovy Vary západ",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Karlovy Vary západ|Karlovy Vary-západ",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
         "coordinates": [
@@ -9567,11 +9567,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-B-d",
-        "TITLE": "",
+        "TITLE": "Karlovy Vary východ",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Karlovy Vary východ|Karlovy Vary-východ",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
         "coordinates": [
@@ -11127,11 +11127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-C-b",
-        "TITLE": "",
+        "TITLE": "Selb jih|Selb-jih",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Selb jih|Selb-jih",
+        "N651": "$$aSelb (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -11167,11 +11167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-a",
-        "TITLE": "",
+        "TITLE": "Františkovy Lázně",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Františkovy Lázně",
+        "N651": "$$aFrantiškovy Lázně (Česko : oblast)$$7ge254976"
       },
       "geometry": {
         "coordinates": [
@@ -11207,11 +11207,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-b",
-        "TITLE": "",
+        "TITLE": "Cheb sever",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cheb sever|Cheb-sever",
+        "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
       "geometry": {
         "coordinates": [
@@ -12927,11 +12927,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-c",
-        "TITLE": "",
+        "TITLE": "Cheb západ",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cheb západ|Cheb-západ",
+        "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
       "geometry": {
         "coordinates": [
@@ -12967,11 +12967,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-d",
-        "TITLE": "",
+        "TITLE": "Cheb východ",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cheb východ|Cheb-východ",
+        "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
       "geometry": {
         "coordinates": [

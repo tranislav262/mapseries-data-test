@@ -35807,11 +35807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-A-c",
-        "TITLE": "",
+        "TITLE": "Lam",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Lam",
+        "N651": "$$aLam (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -35847,11 +35847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-A-d",
-        "TITLE": "",
+        "TITLE": "Zelená Lhota",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Zelená Lhota",
+        "N651": "$$aZelená Lhota (Nýrsko, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -35887,11 +35887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-B-c",
-        "TITLE": "",
+        "TITLE": "Javorná",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$913(437.317)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Javorná",
+        "N651": "$$aJavorná (Čachrov, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -35927,11 +35927,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-B-d",
-        "TITLE": "",
+        "TITLE": "Hartmanice",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$913(437.317)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hartmanice",
+        "N651": "$$aHartmanice (Klatovy, Česko : oblast)$$7ge277401"
       },
       "geometry": {
         "coordinates": [
@@ -38767,11 +38767,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-C-b",
-        "TITLE": "",
+        "TITLE": "Železná Ruda",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Železná Ruda",
+        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597"
       },
       "geometry": {
         "coordinates": [
@@ -38807,11 +38807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-D-a",
-        "TITLE": "",
+        "TITLE": "Nová Hůrka",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nová Hůrka",
+        "N651": "$$aNová Hůrka (Prášily, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -38847,11 +38847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-D-b",
-        "TITLE": "",
+        "TITLE": "Srní",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$913(437.317)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Srní",
+        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047"
       },
       "geometry": {
         "coordinates": [
@@ -41807,11 +41807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-D-c",
-        "TITLE": "",
+        "TITLE": "Lindberg",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Lindberg",
+        "N651": "$$aLindberg (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -41847,11 +41847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-99-D-d",
-        "TITLE": "",
+        "TITLE": "Modrava",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Modrava",
+        "N651": "$$aModrava (Česko : oblast)$$7ge130052"
       },
       "geometry": {
         "coordinates": [

@@ -10,8 +10,8 @@
         "TITLE": "Lipová",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Lipová",
-        "N651": "$$aLipová (Děčín, Česko : oblast)$$7ge736502"
+        "N245A": "Lipová|Steinigtwolmsdorf",
+        "N651": "$$aLipová (Děčín, Česko : oblast)$$7ge736502|$$aSteinigtwolmsdorf (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -127,11 +127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-30-D-d",
-        "TITLE": "",
+        "TITLE": "Ostritz",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ostritz",
+        "N651": "$$aOstritz (Německo : oblast)$$7ge450335"
       },
       "geometry": {
         "coordinates": [
@@ -167,11 +167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-31-C-c",
-        "TITLE": "",
+        "TITLE": "Zawidów",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Zawidów",
+        "N651": "$$aZawidów (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -207,11 +207,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-31-C-d",
-        "TITLE": "",
+        "TITLE": "Platerówka",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Platerówka",
+        "N651": "$$aPlaterówka (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -247,11 +247,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-B-a",
-        "TITLE": "",
+        "TITLE": "Sebnitz",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Sebnitz",
+        "N651": "$$aSebnitz (Německo : oblast)$$7ge807065"
       },
       "geometry": {
         "coordinates": [
@@ -287,11 +287,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-B-b",
-        "TITLE": "",
+        "TITLE": "Velký Šenov",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Velký Šenov",
+        "N651": "$$aVelký Šenov (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -327,11 +327,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-A-a",
-        "TITLE": "",
+        "TITLE": "Rumburk",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rumburk",
+        "N651": "$$aRumburk (Česko : oblast)$$7ge211875"
       },
       "geometry": {
         "coordinates": [
@@ -367,11 +367,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-A-b",
-        "TITLE": "",
+        "TITLE": "Eibau",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Eibau",
+        "N651": "$$aEibau (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -407,11 +407,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-B-b",
-        "TITLE": "",
+        "TITLE": "Hirschfelde",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hirschfelde",
+        "N651": "$$aHirschfelde (Žitava, Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -447,11 +447,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-43-A-a",
-        "TITLE": "",
+        "TITLE": "Frýdlant",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Frýdlant",
+        "N651": "$$aFrýdlant (Česko : oblast)$$7ge192269"
       },
       "geometry": {
         "coordinates": [
@@ -487,11 +487,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-43-A-b",
-        "TITLE": "",
+        "TITLE": "Nové Město pod Smrkem",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nové Město pod Smrkem",
+        "N651": "$$aNové Město pod Smrkem (Česko : oblast)$$7ge696790"
       },
       "geometry": {
         "coordinates": [
@@ -567,11 +567,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-A-c",
-        "TITLE": "",
+        "TITLE": "Königstein jih",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Königstein jih|Königstein-jih",
+        "N651": "$$aKönigstein (Německo : oblast)$$7ge807067"
       },
       "geometry": {
         "coordinates": [
@@ -607,11 +607,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-A-d",
-        "TITLE": "",
+        "TITLE": "Reinhardtsdorf-Schöna",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Reinhardtsdorf-Schöna",
+        "N651": "$$aReinhardtsdorf-Schöna (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -647,11 +647,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-B-c",
-        "TITLE": "",
+        "TITLE": "Růžová",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Růžová",
+        "N651": "$$aRůžová (Česko : oblast)$$7ge608285"
       },
       "geometry": {
         "coordinates": [
@@ -687,11 +687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-B-d",
-        "TITLE": "",
+        "TITLE": "Chřibská",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Chřibská",
+        "N651": "$$aChřibská (Česko : oblast)$$7ge574887"
       },
       "geometry": {
         "coordinates": [
@@ -727,11 +727,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-A-c",
-        "TITLE": "",
+        "TITLE": "Varnsdorf",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Varnsdorf",
+        "N651": "$$aVarnsdorf (Česko : oblast)$$7ge202249"
       },
       "geometry": {
         "coordinates": [
@@ -767,11 +767,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-A-d",
-        "TITLE": "",
+        "TITLE": "Großschönau",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Grossschönau|Großschönau",
+        "N651": "$$aGroßschönau (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -967,10 +967,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-43-B-c",
-        "TITLE": "Šwieradów Zdrój",
+        "TITLE": "Świeradów-Zdrój",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Šwieradów Zdrój",
+        "N245A": "Świeradów Zdrój|Świeradów-Zdrój",
         "N651": "$$aŠwieradów Zdrój (Polsko : oblast)"
       },
       "geometry": {
@@ -1007,11 +1007,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-b",
-        "TITLE": "",
+        "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Petrovice",
+        "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
       },
       "geometry": {
         "coordinates": [
@@ -1047,11 +1047,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-C-a",
-        "TITLE": "",
+        "TITLE": "Jílové",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jílové",
+        "N651": "$$aJílové (Děčín, Česko : oblast)$$7ge580952"
       },
       "geometry": {
         "coordinates": [
@@ -1087,11 +1087,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-C-b",
-        "TITLE": "",
+        "TITLE": "Děčín",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Děčín",
+        "N651": "$$aDěčín (Česko : oblast)$$7ge128471"
       },
       "geometry": {
         "coordinates": [
@@ -1127,11 +1127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-D-a",
-        "TITLE": "",
+        "TITLE": "Ludvíkovice",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ludvíkovice",
+        "N651": "$$aLudvíkovice (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1167,11 +1167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-D-b",
-        "TITLE": "",
+        "TITLE": "Česká Kamenice",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Česká Kamenice",
+        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435"
       },
       "geometry": {
         "coordinates": [
@@ -1207,11 +1207,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-C-a",
-        "TITLE": "",
+        "TITLE": "Nový Bor",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nový Bor",
+        "N651": "$$aNový Bor (Česko : oblast)$$7ge130240"
       },
       "geometry": {
         "coordinates": [
@@ -1247,11 +1247,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-C-b",
-        "TITLE": "",
+        "TITLE": "Cvikov",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Cvikov",
+        "N651": "$$aCvikov (Česko : oblast)$$7ge128982"
       },
       "geometry": {
         "coordinates": [
@@ -1287,11 +1287,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-D-a",
-        "TITLE": "",
+        "TITLE": "Jablonné v Podještědí",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jablonné v Podještědí",
+        "N651": "$$aJablonné v Podještědí (Česko : oblast)$$7ge138650"
       },
       "geometry": {
         "coordinates": [
@@ -1327,11 +1327,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-D-b",
-        "TITLE": "",
+        "TITLE": "Chrastava",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Chrastava",
+        "N651": "$$aChrastava (Liberec, Česko : oblast)$$7ge242321"
       },
       "geometry": {
         "coordinates": [
@@ -1367,10 +1367,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-43-C-a",
-        "TITLE": "Liberec-sever",
+        "TITLE": "Liberec sever",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "Liberec-sever",
+        "N245A": "Liberec sever|Liberec-sever",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
@@ -1647,11 +1647,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-C-c",
-        "TITLE": "",
+        "TITLE": "Rechenberg-Bienenmühle",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rechenberg-Bienenmühle",
+        "N651": "$$aRechenberg-Bienenmühle (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1687,11 +1687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-C-d",
-        "TITLE": "",
+        "TITLE": "Střelná",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Střelná",
+        "N651": "$$aStřelná (Košťany, Teplice, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1727,11 +1727,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-c",
-        "TITLE": "",
+        "TITLE": "Krupka",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Krupka",
+        "N651": "$$aKrupka (Česko : oblast)$$7ge129690"
       },
       "geometry": {
         "coordinates": [
@@ -1767,11 +1767,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-d",
-        "TITLE": "",
+        "TITLE": "Ústí nad Labem severozápad",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ústí nad Labem severozápad|Ústí nad Labem-severozápad",
+        "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
         "coordinates": [
@@ -1807,11 +1807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-C-c",
-        "TITLE": "",
+        "TITLE": "Ústí nad Labem sever",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ústí nad Labem sever|Ústí nad Labem-sever",
+        "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
         "coordinates": [
@@ -1847,11 +1847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-C-d",
-        "TITLE": "",
+        "TITLE": "Boletice nad Labem",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Boletice nad Labem",
+        "N651": "$$aBoletice nad Labem (Děčín, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1887,11 +1887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-D-c",
-        "TITLE": "",
+        "TITLE": "Benešov nad Ploučnicí",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Benešov nad Ploučnicí",
+        "N651": "$$aBenešov nad Ploučnicí (Česko : oblast)$$7ge496459"
       },
       "geometry": {
         "coordinates": [
@@ -1927,11 +1927,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-41-D-d",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
-        "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Žandov",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-us",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.315)$$2MRF",
+        "N245A": "Žandov",
+        "N651": "$$aŽandov (Česká Lípa, Česko : oblast)$$7ge617520"
       },
       "geometry": {
         "coordinates": [
@@ -1967,11 +1967,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-C-c",
-        "TITLE": "",
+        "TITLE": "Česká Lípa",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Česká Lípa",
+        "N651": "$$aČeská Lípa (Česko : oblast)$$7ge131693"
       },
       "geometry": {
         "coordinates": [
@@ -2007,11 +2007,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-C-d",
-        "TITLE": "",
+        "TITLE": "Zákupy",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Zákupy",
+        "N651": "$$aZákupy (Česko : oblast)$$7ge611969"
       },
       "geometry": {
         "coordinates": [
@@ -2047,11 +2047,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-D-c",
-        "TITLE": "",
+        "TITLE": "Stráž pod Ralskem",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Stráž pod Ralskem",
+        "N651": "$$aStráž pod Ralskem (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2087,11 +2087,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-42-D-d",
-        "TITLE": "",
+        "TITLE": "Křižany",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Křižany",
+        "N651": "$$aKřižany (Liberec, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2127,10 +2127,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-43-C-c",
-        "TITLE": "Liberec-jih",
+        "TITLE": "Liberec jih",
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
-        "N245A": "Liberec-jih",
+        "N245A": "Liberec jih|Liberec-jih",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
@@ -2770,7 +2770,7 @@
         "TITLE": "Předlice",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Předlice",
+        "N245A": "Předlice|Ústí nad Labem-jihozápad",
         "N651": "$$aPředlice (Ústí nad Labem, Česko : oblast)"
       },
       "geometry": {
@@ -2807,10 +2807,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-53-A-a",
-        "TITLE": "Ústí nad Labem",
+        "TITLE": "Ústí nad Labem jih",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Ústí nad Labem",
+        "N245A": "Ústí nad Labem jih|Ústí nad Labem-jih",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
@@ -3807,10 +3807,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-A-d",
-        "TITLE": "Most-sever",
+        "TITLE": "Most sever",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Most-sever",
+        "N245A": "Most sever|Most-sever",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
@@ -4847,11 +4847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-51-C-a",
-        "TITLE": "",
+        "TITLE": "Vejprty",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Vejprty",
+        "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
       },
       "geometry": {
         "coordinates": [
@@ -4887,11 +4887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-51-C-b",
-        "TITLE": "",
+        "TITLE": "Výsluní",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Výsluní",
+        "N651": "$$aVýsluní (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4927,11 +4927,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-51-D-a",
-        "TITLE": "",
+        "TITLE": "Málkov",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Málkov",
+        "N651": "$$aMálkov (Chomutov, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4967,11 +4967,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-51-D-b",
-        "TITLE": "",
+        "TITLE": "Chomutov",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Chomutov",
+        "N651": "$$aChomutov (Česko : oblast)$$7ge128940"
       },
       "geometry": {
         "coordinates": [
@@ -5047,10 +5047,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-C-b",
-        "TITLE": "Most-jih",
+        "TITLE": "Most jih",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Most-jih",
+        "N245A": "Most jih|Most-jih",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
@@ -6087,10 +6087,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-50-C-c",
-        "TITLE": "Kraslice-sever",
+        "TITLE": "Kraslice sever",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Kraslice-sever",
+        "N245A": "Kraslice-sever|Kraslice sever",
         "N651": "$$aKraslice (Česko : oblast)$$7ge129674"
       },
       "geometry": {
@@ -6407,10 +6407,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-C-c",
-        "TITLE": "Žatec-sever",
+        "TITLE": "Žatec sever",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Žatec-sever",
+        "N245A": "Žatec sever|Žatec-sever",
         "N651": "$$aŽatec (Louny, Česko : oblast)$$7ge131589"
       },
       "geometry": {
@@ -6687,10 +6687,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-53-D-d",
-        "TITLE": "Mělník-západ",
+        "TITLE": "Mělník západ",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-us",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Mělník-západ|Mělník",
+        "N245A": "Mělník-západ|Mělník západ",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
       },
       "geometry": {
@@ -6727,10 +6727,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-54-C-c",
-        "TITLE": "Mělník-východ",
+        "TITLE": "Mělník východ",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Mělník-východ",
+        "N245A": "Mělník-východ|Mělník východ",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
       },
       "geometry": {
@@ -7727,10 +7727,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-B-a",
-        "TITLE": "Karlovy Vary sever",
+        "TITLE": "Karlovy Vary severozápad",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "Karlovy Vary sever|Karlovy Vary-sever",
+        "N245A": "Karlovy Vary severozápad|Karlovy Vary-severozápad",
         "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
@@ -11127,7 +11127,7 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-C-b",
-        "TITLE": "Selb jih|Selb-jih",
+        "TITLE": "Selb jih",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Selb jih|Selb-jih",
@@ -11207,10 +11207,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-b",
-        "TITLE": "Cheb sever",
+        "TITLE": "Cheb severovýchod",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "Cheb sever|Cheb-sever",
+        "N245A": "Cheb severovýchod|Cheb-severovýchod",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
       "geometry": {
@@ -11770,7 +11770,7 @@
         "TITLE": "Unhošť",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
-        "N245A": "Unhošť",
+        "N245A": "Unhošť|Kladno východ|Kladno-východ",
         "N651": "$$aUnhošť (Česko : oblast)$$7ge131216"
       },
       "geometry": {
@@ -11890,7 +11890,7 @@
         "TITLE": "Praha severovýchod",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha severo-východ|Praha severovýchod",
+        "N245A": "Praha severovýchod|Praha-severovýchod",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13570,7 +13570,7 @@
         "TITLE": "Praha západ",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha západ",
+        "N245A": "Praha západ|Praha-západ",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13610,7 +13610,7 @@
         "TITLE": "Praha střed",
         "N43": "$$ae-xr---$$be-xr-pg",
         "N80": "$$a913(437.311)$$2MRF",
-        "N245A": "Praha střed",
+        "N245A": "Praha střed|Praha-střed",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13650,7 +13650,7 @@
         "TITLE": "Praha východ",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha východ",
+        "N245A": "Praha východ|Praha-východ",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -17527,10 +17527,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-78-A-c",
-        "TITLE": "Týnec nad Sázavou",
+        "TITLE": "Týnec nad Sázavou sever",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Týnec nad Sázavou",
+        "N245A": "Týnec nad Sázavou sever|Týnec nad Sázavou-sever",
         "N651": "$$aTýnec nad Sázavou (Česko : oblast)$$7ge128439"
       },
       "geometry": {
@@ -18250,7 +18250,7 @@
         "TITLE": "Zábřeh západ",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Zábřeh západ",
+        "N245A": "Zábřeh západ|Zábřeh-západ",
         "N651": "$$aZábřeh (Šumperk, Česko : oblast)$$7ge131469"
       },
       "geometry": {
@@ -19527,10 +19527,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-78-C-a",
-        "TITLE": "Týnec nad Sázavou",
+        "TITLE": "Týnec nad Sázavou jih",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Týnec nad Sázavou",
+        "N245A": "Týnec nad Sázavou jih|Týnec nad Sázavou-jih",
         "N651": "$$aTýnec nad Sázavou (Česko : oblast)$$7ge128439"
       },
       "geometry": {
@@ -20167,11 +20167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-82-C-a",
-        "TITLE": "Opatov",
+        "TITLE": "Koclířov",
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
-        "N245A": "Opatov",
-        "N651": "$$aOpatov (Svitavy, Česko : oblast)"
+        "N245A": "Koclířov|Opatov",
+        "N651": "$$aKoclířov (Česko : oblast)|$$aOpatov (Svitavy, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -21170,7 +21170,7 @@
         "TITLE": "Plzeň jihozápad",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$913(437.317)$$2MRF",
-        "N245A": "Plzeň jihozápad",
+        "N245A": "Plzeň jihozápad|Plzeň-jihozápad",
         "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
@@ -39490,7 +39490,7 @@
         "TITLE": "Dačice sever",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Dačice sever",
+        "N245A": "Dačice sever|Dačice-sever",
         "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
@@ -42490,7 +42490,7 @@
         "TITLE": "Dačice jih",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Dačice jih",
+        "N245A": "Dačice jih|Dačice-jih",
         "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
@@ -45127,10 +45127,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-113-B-b",
-        "TITLE": "České Budějovice",
+        "TITLE": "České Budějovice střed",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$913(437.319)$$2MRF",
-        "N245A": "České Budějovice",
+        "N245A": "České Budějovice střed|České Budějovice-střed",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -48210,7 +48210,7 @@
         "TITLE": "Drosendorf",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-jm$$ae-au---",
         "N80": "$$913(437.319)$$2MRF|$$913(437.322)$$2MRF|$$913(436)$$2MRF",
-        "N245A": "Drosendorf",
+        "N245A": "Drosendorf|Drosendorf-Stadt",
         "N651": "$$aDrosendorf (Rakousko : oblast)$$7ge888759"
       },
       "geometry": {
@@ -55450,7 +55450,7 @@
         "TITLE": "Windhaag",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$913(437.319)$$2MRF|$$913(436)$$2MRF",
-        "N245A": "Windhaag",
+        "N245A": "Windhaag|Windhaag bei Freistadt",
         "N651": "$$aWindhaag (Rakousko : oblast)"
       },
       "geometry": {

@@ -10,8 +10,8 @@
         "TITLE": "Lipová",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Lipová",
-        "N651": "$$aLipová (Děčín, Česko : oblast)$$7ge736502"
+        "N245A": "Lipová|Steinigtwolmsdorf",
+        "N651": "$$aLipová (Děčín, Česko : oblast)$$7ge736502|$$aSteinigtwolmsdorf (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -127,11 +127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-30-D-d",
-        "TITLE": "",
+        "TITLE": "Ostritz",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ostritz",
+        "N651": "$$aOstritz (Německo : oblast)$$7ge450335"
       },
       "geometry": {
         "coordinates": [
@@ -167,11 +167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-31-C-c",
-        "TITLE": "",
+        "TITLE": "Zawidów",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Zawidów",
+        "N651": "$$aZawidów (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -207,11 +207,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-31-C-d",
-        "TITLE": "",
+        "TITLE": "Platerówka",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Platerówka",
+        "N651": "$$aPlaterówka (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1007,11 +1007,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-b",
-        "TITLE": "",
+        "TITLE": "Petrovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Petrovice",
+        "N651": "$$aPetrovice (Ústí nad Labem, Česko : oblast)$$7ge491141"
       },
       "geometry": {
         "coordinates": [
@@ -1647,11 +1647,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-C-c",
-        "TITLE": "",
+        "TITLE": "Rechenberg-Bienenmühle",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rechenberg-Bienenmühle",
+        "N651": "$$aRechenberg-Bienenmühle (Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1687,11 +1687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-C-d",
-        "TITLE": "",
+        "TITLE": "Střelná",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Střelná",
+        "N651": "$$aStřelná (Košťany, Teplice, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1727,11 +1727,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-c",
-        "TITLE": "",
+        "TITLE": "Krupka",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Krupka",
+        "N651": "$$aKrupka (Česko : oblast)$$7ge129690"
       },
       "geometry": {
         "coordinates": [
@@ -1767,11 +1767,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-40-D-d",
-        "TITLE": "",
+        "TITLE": "Ústí nad Labem severozápad",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ústí nad Labem severozápad|Ústí nad Labem-severozápad",
+        "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
         "coordinates": [
@@ -2770,7 +2770,7 @@
         "TITLE": "Předlice",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Předlice",
+        "N245A": "Předlice|Ústí nad Labem-jihozápad",
         "N651": "$$aPředlice (Ústí nad Labem, Česko : oblast)"
       },
       "geometry": {
@@ -2807,10 +2807,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-53-A-a",
-        "TITLE": "Ústí nad Labem",
+        "TITLE": "Ústí nad Labem jih",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Ústí nad Labem",
+        "N245A": "Ústí nad Labem jih|Ústí nad Labem-jih",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
@@ -3807,10 +3807,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-A-d",
-        "TITLE": "Most-sever",
+        "TITLE": "Most sever",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Most-sever",
+        "N245A": "Most sever|Most-sever",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
@@ -5047,10 +5047,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-C-b",
-        "TITLE": "Most-jih",
+        "TITLE": "Most jih",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Most-jih",
+        "N245A": "Most jih|Most-jih",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
@@ -6407,10 +6407,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-52-C-c",
-        "TITLE": "Žatec-sever",
+        "TITLE": "Žatec sever",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Žatec-sever",
+        "N245A": "Žatec sever|Žatec-sever",
         "N651": "$$aŽatec (Louny, Česko : oblast)$$7ge131589"
       },
       "geometry": {
@@ -6687,10 +6687,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-53-D-d",
-        "TITLE": "Mělník-západ",
+        "TITLE": "Mělník západ",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-us",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Mělník-západ|Mělník",
+        "N245A": "Mělník-západ|Mělník západ",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
       },
       "geometry": {
@@ -6727,10 +6727,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-54-C-c",
-        "TITLE": "Mělník-východ",
+        "TITLE": "Mělník východ",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Mělník-východ",
+        "N245A": "Mělník-východ|Mělník východ",
         "N651": "$$aMělník (Česko : oblast)$$7ge130127"
       },
       "geometry": {

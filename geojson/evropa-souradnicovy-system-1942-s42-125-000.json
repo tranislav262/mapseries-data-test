@@ -7727,10 +7727,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-62-B-a",
-        "TITLE": "Karlovy Vary sever",
+        "TITLE": "Karlovy Vary severozápad",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "Karlovy Vary sever|Karlovy Vary-sever",
+        "N245A": "Karlovy Vary severozápad|Karlovy Vary-severozápad",
         "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
@@ -11127,7 +11127,7 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-C-b",
-        "TITLE": "Selb jih|Selb-jih",
+        "TITLE": "Selb jih",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Selb jih|Selb-jih",
@@ -11207,10 +11207,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-61-D-b",
-        "TITLE": "Cheb sever",
+        "TITLE": "Cheb severovýchod",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$913(437.318)$$2MRF",
-        "N245A": "Cheb sever|Cheb-sever",
+        "N245A": "Cheb severovýchod|Cheb-severovýchod",
         "N651": "$$aCheb (Česko : oblast)$$7ge128921"
       },
       "geometry": {
@@ -11770,7 +11770,7 @@
         "TITLE": "Unhošť",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
-        "N245A": "Unhošť",
+        "N245A": "Unhošť|Kladno východ|Kladno-východ",
         "N651": "$$aUnhošť (Česko : oblast)$$7ge131216"
       },
       "geometry": {
@@ -11890,7 +11890,7 @@
         "TITLE": "Praha severovýchod",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha severo-východ|Praha severovýchod",
+        "N245A": "Praha severovýchod|Praha-severovýchod",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13570,7 +13570,7 @@
         "TITLE": "Praha západ",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha západ",
+        "N245A": "Praha západ|Praha-západ",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13610,7 +13610,7 @@
         "TITLE": "Praha střed",
         "N43": "$$ae-xr---$$be-xr-pg",
         "N80": "$$a913(437.311)$$2MRF",
-        "N245A": "Praha střed",
+        "N245A": "Praha střed|Praha-střed",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -13650,7 +13650,7 @@
         "TITLE": "Praha východ",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Praha východ",
+        "N245A": "Praha východ|Praha-východ",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -17527,10 +17527,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-78-A-c",
-        "TITLE": "Týnec nad Sázavou",
+        "TITLE": "Týnec nad Sázavou sever",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Týnec nad Sázavou",
+        "N245A": "Týnec nad Sázavou sever|Týnec nad Sázavou-sever",
         "N651": "$$aTýnec nad Sázavou (Česko : oblast)$$7ge128439"
       },
       "geometry": {
@@ -18250,7 +18250,7 @@
         "TITLE": "Zábřeh západ",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Zábřeh západ",
+        "N245A": "Zábřeh západ|Zábřeh-západ",
         "N651": "$$aZábřeh (Šumperk, Česko : oblast)$$7ge131469"
       },
       "geometry": {
@@ -19527,10 +19527,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-78-C-a",
-        "TITLE": "Týnec nad Sázavou",
+        "TITLE": "Týnec nad Sázavou jih",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Týnec nad Sázavou",
+        "N245A": "Týnec nad Sázavou jih|Týnec nad Sázavou-jih",
         "N651": "$$aTýnec nad Sázavou (Česko : oblast)$$7ge128439"
       },
       "geometry": {
@@ -20167,11 +20167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-82-C-a",
-        "TITLE": "Opatov",
+        "TITLE": "Koclířov",
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
-        "N245A": "Opatov",
-        "N651": "$$aOpatov (Svitavy, Česko : oblast)"
+        "N245A": "Koclířov|Opatov",
+        "N651": "$$aKoclířov (Česko : oblast)|$$aOpatov (Svitavy, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -21170,7 +21170,7 @@
         "TITLE": "Plzeň jihozápad",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$913(437.317)$$2MRF",
-        "N245A": "Plzeň jihozápad",
+        "N245A": "Plzeň jihozápad|Plzeň-jihozápad",
         "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
@@ -39490,7 +39490,7 @@
         "TITLE": "Dačice sever",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Dačice sever",
+        "N245A": "Dačice sever|Dačice-sever",
         "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
@@ -42490,7 +42490,7 @@
         "TITLE": "Dačice jih",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Dačice jih",
+        "N245A": "Dačice jih|Dačice-jih",
         "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
@@ -45127,10 +45127,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-113-B-b",
-        "TITLE": "České Budějovice",
+        "TITLE": "České Budějovice střed",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$913(437.319)$$2MRF",
-        "N245A": "České Budějovice",
+        "N245A": "České Budějovice střed|České Budějovice-střed",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -48210,7 +48210,7 @@
         "TITLE": "Drosendorf",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-jm$$ae-au---",
         "N80": "$$913(437.319)$$2MRF|$$913(437.322)$$2MRF|$$913(436)$$2MRF",
-        "N245A": "Drosendorf",
+        "N245A": "Drosendorf|Drosendorf-Stadt",
         "N651": "$$aDrosendorf (Rakousko : oblast)$$7ge888759"
       },
       "geometry": {
@@ -55450,7 +55450,7 @@
         "TITLE": "Windhaag",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$913(437.319)$$2MRF|$$913(436)$$2MRF",
-        "N245A": "Windhaag",
+        "N245A": "Windhaag|Windhaag bei Freistadt",
         "N651": "$$aWindhaag (Rakousko : oblast)"
       },
       "geometry": {

@@ -134,8 +134,8 @@
         "TITLE": "Habartice",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Habartice",
-        "N651": "$$aHabartice (Liberec, Česko : oblast)"
+        "N245A": "Habartice|Zgorzelec",
+        "N651": "$$aHabartice (Liberec, Česko : oblast)|$$aZgorzelec (Polsko : oblast)$$7xx0117472"
       },
       "geometry": {
         "type": "Polygon",
@@ -544,8 +544,8 @@
         "TITLE": "Chabařovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Chabařovice",
-        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913"
+        "N245A": "Chabařovice|Krupka",
+        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913|$$aKrupka (Česko : oblast)$$7ge129690"
       },
       "geometry": {
         "type": "Polygon",
@@ -1569,8 +1569,8 @@
         "TITLE": "Krásná",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Krásná",
-        "N651": "$$aKrásná (Kraslice, Česko : oblast)"
+        "N245A": "Krásná|Klingenthal",
+        "N651": "$$aKrásná (Kraslice, Česko : oblast)|$$aKlingenthal (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2102,8 +2102,8 @@
         "TITLE": "Hořice",
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
-        "N245A": "Hořice",
-        "N651": "$$aHořice (Jičín, Česko : oblast)$$7ge291194"
+        "N245A": "Hořice|Nová Paka",
+        "N651": "$$aHořice (Jičín, Česko : oblast)$$7ge291194|$$aNová Paka (Česko : oblast)$$7ge130212"
       },
       "geometry": {
         "type": "Polygon",
@@ -6202,8 +6202,8 @@
         "TITLE": "Bělá nad Radbuzou",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Bělá nad Radbuzou",
-        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
+        "N245A": "Bělá nad Radbuzou|Schönsee",
+        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885|$$aSchönsee (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6612,7 +6612,7 @@
         "TITLE": "Červená Řečice",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-st",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Červ. Řečice",
+        "N245A": "Červ. Řečice|Červená Řečice",
         "N651": "$$aČervená Řečice (Česko : oblast)"
       },
       "geometry": {
@@ -10015,7 +10015,7 @@
         "TITLE": "České Budějovice",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "České Budějovice",
+        "N245A": "České Budějovice|České Budějovice-západ",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -10056,8 +10056,8 @@
         "TITLE": "Trhové Sviny",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Trhové Sviny",
-        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119"
+        "N245A": "Trhové Sviny|České Budějovice-východ",
+        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119|$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -10138,8 +10138,8 @@
         "TITLE": "Veclov",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Veclov",
-        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)"
+        "N245A": "Veclov|Heidenreichstein",
+        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)|$$aHeidenreichstein (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10179,8 +10179,8 @@
         "TITLE": "Slavonice",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Slavonice",
-        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846"
+        "N245A": "Slavonice|Raabs an der Thaya",
+        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846|$$aRaabs an der Thaya (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10794,8 +10794,8 @@
         "TITLE": "České Velenice",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "České Velenice|Č. Velenice",
-        "N651": "$$aČeské Velenice (Česko : oblast)$$7ge132313"
+        "N245A": "České Velenice|Č. Velenice|Gmünd",
+        "N651": "$$aČeské Velenice (Česko : oblast)$$7ge132313|$$aGmünd (Rakousko : oblast)$$7ge132314"
       },
       "geometry": {
         "type": "Polygon",

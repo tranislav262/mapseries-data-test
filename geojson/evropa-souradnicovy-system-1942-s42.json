@@ -500,7 +500,7 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-40-C",
-        "TITLE": "Fláje|Frauenstein",
+        "TITLE": "Fláje",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Fláje|Frauenstein",
@@ -910,11 +910,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-45-C",
-        "TITLE": "",
+        "TITLE": "Kamienna Góra",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kamienna Góra",
+        "N651": "$$aKamienna Góra (Polsko : oblast)$$7ge587670"
       },
       "geometry": {
         "type": "Polygon",
@@ -951,11 +951,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-45-D",
-        "TITLE": "",
+        "TITLE": "Wałbrzych",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Wałbrzych",
+        "N651": "$$aWałbrzych (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -995,8 +995,8 @@
         "TITLE": "Kryštofovy Hamry",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Kryštofovy Hamry",
-        "N651": "$$aKryštofovy Hamry (Česko : oblast)"
+        "N245A": "Kryštofovy Hamry|Annaberg-Buchholz",
+        "N651": "$$aKryštofovy Hamry (Česko : oblast)|$$aAnnaberg-Buchholz (Německo : oblast)$$7ge904692"
       },
       "geometry": {
         "type": "Polygon",
@@ -1036,8 +1036,8 @@
         "TITLE": "Hora Svatého Šebestiána",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Hora Svatého Šebestiána|Hora Sv. Šebestiána",
-        "N651": "$$aHora Svatého Šebestiána (Česko : oblast)$$7ge725004"
+        "N245A": "Hora Svatého Šebestiána|Hora Sv. Šebestiána|Olbernhau",
+        "N651": "$$aHora Svatého Šebestiána (Česko : oblast)$$7ge725004|$$aOlbernhau (Německo : oblast)$$7ge499131"
       },
       "geometry": {
         "type": "Polygon",
@@ -1077,7 +1077,7 @@
         "TITLE": "Most",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Most",
+        "N245A": "Most|Most-sever",
         "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
@@ -1610,8 +1610,8 @@
         "TITLE": "Bublava",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Bublava",
-        "N651": "$$aBublava (Česko : oblast)"
+        "N245A": "Bublava|Johanngeorgenstadt",
+        "N651": "$$aBublava (Česko : oblast)|$$aJohanngeorgenstadt (Německo : oblast)$$7ge452914"
       },
       "geometry": {
         "type": "Polygon",
@@ -1692,8 +1692,8 @@
         "TITLE": "Vejprty",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Vejprty",
-        "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
+        "N245A": "Vejprty|Klášterec nad Ohří",
+        "N651": "$$aVejprty (Česko : oblast)$$7ge223780|$$aKlášterec nad Ohří (Česko : oblast)$$7ge192235"
       },
       "geometry": {
         "type": "Polygon",
@@ -1774,8 +1774,8 @@
         "TITLE": "Postoloprty",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245A": "Postoloprty",
-        "N651": "$$aPostoloprty (Česko : oblast)$$7xx0124526"
+        "N245A": "Postoloprty|Most-jih",
+        "N651": "$$aPostoloprty (Česko : oblast)$$7xx0124526|$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
         "type": "Polygon",
@@ -2225,8 +2225,8 @@
         "TITLE": "Olešnice",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Olešnice",
-        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)"
+        "N245A": "Olešnice|Duszniki Zdrój",
+        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)|$$a \tDuszniki Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2348,8 +2348,8 @@
         "TITLE": "Aš",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Aš",
-        "N651": "$$aAš (Česko : oblast)$$7ge128700"
+        "N245A": "Aš|Selb",
+        "N651": "$$aAš (Česko : oblast)$$7ge128700|$$aSelb (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2389,8 +2389,8 @@
         "TITLE": "Luby",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Luby",
-        "N651": "$$aLuby (Cheb, Česko : oblast)$$7ge467572"
+        "N245A": "Luby|Markneukirchen",
+        "N651": "$$aLuby (Cheb, Česko : oblast)$$7ge467572|$$aMarkneukirchen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2512,8 +2512,8 @@
         "TITLE": "Doupov",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Doupov",
-        "N651": "$$aDoupov (Česko : zaniklá obec)$$7ge318671"
+        "N245A": "Doupov|Vojkovice",
+        "N651": "$$aDoupov (Česko : zaniklá obec)$$7ge318671|$$aVojkovice (Karlovy Vary, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3045,8 +3045,8 @@
         "TITLE": "Javornice",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Javornice",
-        "N651": "$$aJavornice (Rychnov nad Kněžnou, Česko : oblast)"
+        "N245A": "Javornice|Kvasiny",
+        "N651": "$$aJavornice (Rychnov nad Kněžnou, Česko : oblast)|$$aKvasiny (Česko : oblast)$$7ge1001374"
       },
       "geometry": {
         "type": "Polygon",
@@ -3086,8 +3086,8 @@
         "TITLE": "Neratov",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Neratov",
-        "N651": "$$aNeratov (Bartošovice v Orlických horách, Česko : oblast)"
+        "N245A": "Neratov|Bystrzyca Kłodzka",
+        "N651": "$$aNeratov (Bartošovice v Orlických horách, Česko : oblast)|$$aKladská Bystřice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3127,8 +3127,8 @@
         "TITLE": "Kunčice",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Kunčice",
-        "N651": "$$aKunčice (Staré Město, Česko : oblast)"
+        "N245A": "Kunčice|Stronie Śląskie",
+        "N651": "$$aKunčice (Staré Město, Česko : oblast)|$$aStronie Śląskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3332,8 +3332,8 @@
         "TITLE": "Libá",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Libá",
-        "N651": "$$aLibá (Česko : oblast)"
+        "N245A": "Libá|Marktredwitz",
+        "N651": "$$aLibá (Česko : oblast)|$$aMarktredwitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3455,8 +3455,8 @@
         "TITLE": "Toužim",
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF",
-        "N245A": "Toužim",
-        "N651": "$$aToužim (Česko : oblast)$$7ge285981"
+        "N245A": "Toužim|Horní Slavkov",
+        "N651": "$$aToužim (Česko : oblast)$$7ge285981|$$aHorní Slavkov (Česko : oblast)$$7ge290779"
       },
       "geometry": {
         "type": "Polygon",
@@ -3619,8 +3619,8 @@
         "TITLE": "Nové Strašecí",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Nové Strašecí",
-        "N651": "$$aNové Strašecí (Česko : oblast)$$7ge189002"
+        "N245A": "Nové Strašecí|Stochov",
+        "N651": "$$aNové Strašecí (Česko : oblast)$$7ge189002|$$aStochov (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4029,8 +4029,8 @@
         "TITLE": "Žamberk",
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF",
-        "N245A": "Žamberk",
-        "N651": "$$aŽamberk (Česko : oblast)$$7ge131583"
+        "N245A": "Žamberk|Rychnov nad Kněžnou",
+        "N651": "$$aŽamberk (Česko : oblast)$$7ge131583|$$aRychnov nad Kněžnou (Česko : oblast)$$7ge130706"
       },
       "geometry": {
         "type": "Polygon",
@@ -4070,8 +4070,8 @@
         "TITLE": "Jablonné nad Orlicí",
         "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Jablonné nad Orlicí|Jablonné n. Orl.",
-        "N651": "$$aJablonné nad Orlicí (Česko : oblast)"
+        "N245A": "Jablonné nad Orlicí|Jablonné n. Orl.|Letohrad",
+        "N651": "$$aJablonné nad Orlicí (Česko : oblast)|$$aLetohrad (Česko : oblast)$$7ge117889"
       },
       "geometry": {
         "type": "Polygon",
@@ -4316,8 +4316,8 @@
         "TITLE": "Čupřina",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Čupřina",
-        "N651": "$$aČupřina (Český les, Česko : hora)"
+        "N245A": "Čupřina|Tirschenreuth",
+        "N651": "$$aČupřina (Český les, Česko : hora)|$$aTirschenreuth (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5341,8 +5341,8 @@
         "TITLE": "Stříbro",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Stříbro",
-        "N651": "$$aStříbro (Česko : oblast)$$7ge130995"
+        "N245A": "Stříbro|Bor",
+        "N651": "$$aStříbro (Česko : oblast)$$7ge130995|$$aBor (Tachov, Česko : oblast)$$7ge128787"
       },
       "geometry": {
         "type": "Polygon",
@@ -5505,8 +5505,8 @@
         "TITLE": "Březové Hory",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pl",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
-        "N245A": "Březové Hory",
-        "N651": "$$aBřezové Hory (Příbram, Česko : oblast)"
+        "N245A": "Březové Hory|Příbram-západ",
+        "N651": "$$aBřezové Hory (Příbram, Česko : oblast)|$$aPříbram (Česko : oblast)$$7ge130587"
       },
       "geometry": {
         "type": "Polygon",
@@ -5874,8 +5874,8 @@
         "TITLE": "Svratka",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Svratka",
-        "N651": "$$aSvratka (Česko : oblast)$$7ge800480"
+        "N245A": "Svratka|Proseč",
+        "N651": "$$aSvratka (Česko : oblast)$$7ge800480|$$aProseč (Chrudim, Česko : oblast)$$7ge506673"
       },
       "geometry": {
         "type": "Polygon",
@@ -6407,8 +6407,8 @@
         "TITLE": "Březnice",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-jc$$be-xr-pl",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF",
-        "N245A": "Březnice",
-        "N651": "$$aBřeznice (Příbram, Česko : oblast)$$7ge279879"
+        "N245A": "Březnice|Rožmitál pod Třemšínem",
+        "N651": "$$aBřeznice (Příbram, Česko : oblast)$$7ge279879|$$aRožmitál pod Třemšínem (Česko : oblast)$$7ge130681"
       },
       "geometry": {
         "type": "Polygon",

@@ -8498,8 +8498,8 @@
         "TITLE": "Třešť",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "Třešť",
-        "N651": "$$aTřešť (Česko : oblast)$$7ge348174"
+        "N245A": "Třešť|Telč",
+        "N651": "$$aTřešť (Česko : oblast)$$7ge348174|$$aTelč (Česko : oblast)$$7ge131053"
       },
       "geometry": {
         "type": "Polygon",
@@ -8621,8 +8621,8 @@
         "TITLE": "Velká Bíteš",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Velká Bíteš",
-        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548"
+        "N245A": "Velká Bíteš|Náměšť nad Oslavou",
+        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548|$$aNáměšť nad Oslavou (Česko : oblast)$$7ge130271"
       },
       "geometry": {
         "type": "Polygon",
@@ -8703,7 +8703,7 @@
         "TITLE": "Brno",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Brno",
+        "N245A": "Brno|Brno-sever",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
@@ -8867,7 +8867,7 @@
         "TITLE": "Gottwaldov",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Gottwaldov",
+        "N245A": "Gottwaldov|Zlín",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
@@ -9605,8 +9605,8 @@
         "TITLE": "Židlochovice",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Židlochovice",
-        "N651": "$$aŽidlochovice (Česko : oblast)$$7ge134635"
+        "N245A": "Židlochovice|Brno-jih",
+        "N651": "$$aŽidlochovice (Česko : oblast)$$7ge134635|$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
         "type": "Polygon",
@@ -9810,8 +9810,8 @@
         "TITLE": "Luhačovice",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Luhačovice",
-        "N651": "$$aLuhačovice (Česko : oblast)$$7ge129897"
+        "N245A": "Luhačovice|Slavičín",
+        "N651": "$$aLuhačovice (Česko : oblast)$$7ge129897|$$aSlavičín (Česko : oblast)$$7ge130840"
       },
       "geometry": {
         "type": "Polygon",
@@ -10261,8 +10261,8 @@
         "TITLE": "Vratěnín",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Vratěnín",
-        "N651": "$$aVratěnín (Česko : oblast)|$$aDrosendorf (Rakousko : oblast)$$7ge888759"
+        "N245A": "Vratěnín|Drosendorf-Stadt",
+        "N651": "$$aVratěnín (Česko : oblast)|$$aDrosendorf (Rakousko : oblast)$$7ge888759|$$aDrosendorf (Rakousko : oblast)$$7ge888759"
       },
       "geometry": {
         "type": "Polygon",

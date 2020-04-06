@@ -134,8 +134,8 @@
         "TITLE": "Habartice",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Habartice",
-        "N651": "$$aHabartice (Liberec, Česko : oblast)"
+        "N245A": "Habartice|Zgorzelec",
+        "N651": "$$aHabartice (Liberec, Česko : oblast)|$$aZgorzelec (Polsko : oblast)$$7xx0117472"
       },
       "geometry": {
         "type": "Polygon",
@@ -544,8 +544,8 @@
         "TITLE": "Chabařovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Chabařovice",
-        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913"
+        "N245A": "Chabařovice|Krupka",
+        "N651": "$$aChabařovice (Česko : oblast)$$7ge128913|$$aKrupka (Česko : oblast)$$7ge129690"
       },
       "geometry": {
         "type": "Polygon",
@@ -1569,8 +1569,8 @@
         "TITLE": "Krásná",
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Krásná",
-        "N651": "$$aKrásná (Kraslice, Česko : oblast)"
+        "N245A": "Krásná|Klingenthal",
+        "N651": "$$aKrásná (Kraslice, Česko : oblast)|$$aKlingenthal (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2102,8 +2102,8 @@
         "TITLE": "Hořice",
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
-        "N245A": "Hořice",
-        "N651": "$$aHořice (Jičín, Česko : oblast)$$7ge291194"
+        "N245A": "Hořice|Nová Paka",
+        "N651": "$$aHořice (Jičín, Česko : oblast)$$7ge291194|$$aNová Paka (Česko : oblast)$$7ge130212"
       },
       "geometry": {
         "type": "Polygon",
@@ -6202,8 +6202,8 @@
         "TITLE": "Bělá nad Radbuzou",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Bělá nad Radbuzou",
-        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
+        "N245A": "Bělá nad Radbuzou|Schönsee",
+        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885|$$aSchönsee (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6612,7 +6612,7 @@
         "TITLE": "Červená Řečice",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-st",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Červ. Řečice",
+        "N245A": "Červ. Řečice|Červená Řečice",
         "N651": "$$aČervená Řečice (Česko : oblast)"
       },
       "geometry": {
@@ -6940,7 +6940,7 @@
         "TITLE": "Olomouc-západ",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MR",
-        "N245A": "Olomouc - západ",
+        "N245A": "Olomouc - západ|Olomouc-západ",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -6981,7 +6981,7 @@
         "TITLE": "Olomouc",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MR",
-        "N245A": "Olomouc",
+        "N245A": "Olomouc|Olomouc-východ",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -7760,8 +7760,8 @@
         "TITLE": "Boskovice",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Boskovice",
-        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
+        "N245A": "Boskovice|Blansko",
+        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801|$$aBlansko (Česko : oblast)$$7ge128768"
       },
       "geometry": {
         "type": "Polygon",
@@ -7965,8 +7965,8 @@
         "TITLE": "Valašské Meziříčí",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
-        "N245A": "Valašské Meziříčí",
-        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232"
+        "N245A": "Valašské Meziříčí|Vsetín",
+        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232|$$aVsetín (Česko : oblast)$$7ge131348"
       },
       "geometry": {
         "type": "Polygon",
@@ -7991,6 +7991,47 @@
             [
               18.000000000472255,
               49.33333333300362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shape_Leng": "0.83333333295",
+        "Shape_Area": "0.041666666645",
+        "SCALE": "50000",
+        "SHEET": "M-33-97-B",
+        "TITLE": "Nittenau",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Nittenau",
+        "N651": "$$aNittenau (Německo : oblast)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.500000000400235,
+              49.16666666621359
+            ],
+            [
+              12.249999999715158,
+              49.16666666621359
+            ],
+            [
+              12.249999999715158,
+              49.33333333300362
+            ],
+            [
+              12.500000000400235,
+              49.33333333300362
+            ],
+            [
+              12.500000000400235,
+              49.16666666621359
             ]
           ]
         ]
@@ -8457,8 +8498,8 @@
         "TITLE": "Třešť",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "Třešť",
-        "N651": "$$aTřešť (Česko : oblast)$$7ge348174"
+        "N245A": "Třešť|Telč",
+        "N651": "$$aTřešť (Česko : oblast)$$7ge348174|$$aTelč (Česko : oblast)$$7ge131053"
       },
       "geometry": {
         "type": "Polygon",
@@ -8580,8 +8621,8 @@
         "TITLE": "Velká Bíteš",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Velká Bíteš",
-        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548"
+        "N245A": "Velká Bíteš|Náměšť nad Oslavou",
+        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548|$$aNáměšť nad Oslavou (Česko : oblast)$$7ge130271"
       },
       "geometry": {
         "type": "Polygon",
@@ -8662,7 +8703,7 @@
         "TITLE": "Brno",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Brno",
+        "N245A": "Brno|Brno-sever",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
@@ -8826,7 +8867,7 @@
         "TITLE": "Gottwaldov",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Gottwaldov",
+        "N245A": "Gottwaldov|Zlín",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
@@ -8904,6 +8945,47 @@
         "Shape_Leng": "0.83333333295",
         "Shape_Area": "0.0416666665617",
         "SCALE": "50000",
+        "SHEET": "M-33-98-C",
+        "TITLE": "Traitsching",
+        "N43": "$$gx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Traitsching",
+        "N651": "$$aTraitsching (Německo : oblast)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.750000000085322,
+              49.00000000042354
+            ],
+            [
+              12.500000000400235,
+              49.00000000042354
+            ],
+            [
+              12.500000000400235,
+              49.16666666621359
+            ],
+            [
+              12.750000000085322,
+              49.16666666621359
+            ],
+            [
+              12.750000000085322,
+              49.00000000042354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shape_Leng": "0.83333333295",
+        "Shape_Area": "0.0416666665617",
+        "SCALE": "50000",
         "SHEET": "M-33-98-D",
         "TITLE": "Viechtach",
         "N43": "$$gx---",
@@ -8949,8 +9031,8 @@
         "TITLE": "Železná Ruda",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Železná Ruda",
-        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597"
+        "N245A": "Železná Ruda|Zwiesel",
+        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597|$$aZwiesel (Německo : oblast)$$7ge922740"
       },
       "geometry": {
         "type": "Polygon",
@@ -8990,8 +9072,8 @@
         "TITLE": "Srní",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Srní",
-        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047"
+        "N245A": "Srní|Lindberg",
+        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047|Lindberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9113,8 +9195,8 @@
         "TITLE": "Vodňany",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Vodňany",
-        "N651": "$$aVodňany (Česko : oblast)$$7ge131320"
+        "N245A": "Vodňany|Prachatice",
+        "N651": "$$aVodňany (Česko : oblast)$$7ge131320|$$aPrachatice (Česko : oblast)$$7ge130508"
       },
       "geometry": {
         "type": "Polygon",
@@ -9154,8 +9236,8 @@
         "TITLE": "Hluboká nad Vltavou",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Hluboká nad Vltavou|Hluboká n. Vlt.",
-        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
+        "N245A": "Hluboká nad Vltavou|Hluboká n. Vlt.|České Budějovice-sever",
+        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736|$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -9523,8 +9605,8 @@
         "TITLE": "Židlochovice",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Židlochovice",
-        "N651": "$$aŽidlochovice (Česko : oblast)$$7ge134635"
+        "N245A": "Židlochovice|Brno-jih",
+        "N651": "$$aŽidlochovice (Česko : oblast)$$7ge134635|$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
         "type": "Polygon",
@@ -9728,8 +9810,8 @@
         "TITLE": "Luhačovice",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Luhačovice",
-        "N651": "$$aLuhačovice (Česko : oblast)$$7ge129897"
+        "N245A": "Luhačovice|Slavičín",
+        "N651": "$$aLuhačovice (Česko : oblast)$$7ge129897|$$aSlavičín (Česko : oblast)$$7ge130840"
       },
       "geometry": {
         "type": "Polygon",
@@ -9765,12 +9847,53 @@
         "Shape_Leng": "0.83333333295",
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
+        "SHEET": "M-33-111-A",
+        "TITLE": "Regen",
+        "N43": "$$aegx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Regen",
+        "N651": "$$aRegen (Německo : oblast)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.250000000455486,
+              48.83333333363345
+            ],
+            [
+              12.99999999977041,
+              48.83333333363345
+            ],
+            [
+              12.99999999977041,
+              49.00000000042354
+            ],
+            [
+              13.250000000455486,
+              49.00000000042354
+            ],
+            [
+              13.250000000455486,
+              48.83333333363345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shape_Leng": "0.83333333295",
+        "Shape_Area": "0.041666666645",
+        "SCALE": "50000",
         "SHEET": "M-33-111-B",
         "TITLE": "Březník",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Březník",
-        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889"
+        "N245A": "Březník|Grafenau",
+        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889|$$aGrafenau Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9810,8 +9933,8 @@
         "TITLE": "Strážný",
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Strážný",
-        "N651": "$$aStrážný (Česko : oblast)$$7ge829181"
+        "N245A": "Strážný|Mauth",
+        "N651": "$$aStrážný (Česko : oblast)$$7ge829181|$$aMauth (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9933,7 +10056,7 @@
         "TITLE": "České Budějovice",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "České Budějovice",
+        "N245A": "České Budějovice|České Budějovice-západ",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -9974,8 +10097,8 @@
         "TITLE": "Trhové Sviny",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Trhové Sviny",
-        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119"
+        "N245A": "Trhové Sviny|České Budějovice-východ",
+        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119|$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -10056,8 +10179,8 @@
         "TITLE": "Veclov",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Veclov",
-        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)"
+        "N245A": "Veclov|Heidenreichstein",
+        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)|$$aHeidenreichstein (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10097,8 +10220,8 @@
         "TITLE": "Slavonice",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Slavonice",
-        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846"
+        "N245A": "Slavonice|Raabs an der Thaya",
+        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846|$$aRaabs an der Thaya (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10138,8 +10261,8 @@
         "TITLE": "Vratěnín",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Vratěnín",
-        "N651": "$$aVratěnín (Česko : oblast)|$$aDrosendorf (Rakousko : oblast)$$7ge888759"
+        "N245A": "Vratěnín|Drosendorf-Stadt",
+        "N651": "$$aVratěnín (Česko : oblast)|$$aDrosendorf (Rakousko : oblast)$$7ge888759|$$aDrosendorf (Rakousko : oblast)$$7ge888759"
       },
       "geometry": {
         "type": "Polygon",
@@ -10548,8 +10671,8 @@
         "TITLE": "Pernek",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Pernek",
-        "N651": "$$aPernek (Horní Planá, Česko : oblast)"
+        "N245A": "Pernek|Haidmühle",
+        "N651": "$$aPernek (Horní Planá, Česko : oblast)|$$aHaidmühle Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10712,8 +10835,8 @@
         "TITLE": "České Velenice",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "České Velenice|Č. Velenice",
-        "N651": "$$aČeské Velenice (Česko : oblast)$$7ge132313"
+        "N245A": "České Velenice|Č. Velenice|Gmünd",
+        "N651": "$$aČeské Velenice (Česko : oblast)$$7ge132313|$$aGmünd (Rakousko : oblast)$$7ge132314"
       },
       "geometry": {
         "type": "Polygon",

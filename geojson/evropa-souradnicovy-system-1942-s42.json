@@ -52,8 +52,8 @@
         "TITLE": "Fukov",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Fukov",
-        "N651": "$$aFukov (Česko : zaniklá obec)$$7xx0068023"
+        "N245A": "Fukov|Löbau",
+        "N651": "$$aFukov (Česko : zaniklá obec)$$7xx0068023|$$aLöbau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -257,8 +257,8 @@
         "TITLE": "Hřensko",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Hřensko",
-        "N651": "$$aHřensko (Česko : oblast)$$7ge401731"
+        "N245A": "Hřensko|Bad Schandau",
+        "N651": "$$aHřensko (Česko : oblast)$$7ge401731|$$aBad Schandau (Ňěmecko : oblast)$$7ge807063"
       },
       "geometry": {
         "type": "Polygon",
@@ -298,8 +298,8 @@
         "TITLE": "Mikulášovice",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mikulášovice",
-        "N651": "$$aMikulášovice (Česko : oblast)$$7ge574888"
+        "N245A": "Mikulášovice|Sebnitz",
+        "N651": "$$aMikulášovice (Česko : oblast)$$7ge574888|$$aSebnitz (Německo : oblast)$$7ge807065"
       },
       "geometry": {
         "type": "Polygon",
@@ -380,8 +380,8 @@
         "TITLE": "Hrádek nad Nisou",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Hrádek nad Nisou|Hrádek n. Nisou",
-        "N651": "$$aHrádek nad Nisou (Česko : oblast)$$7ge242322"
+        "N245A": "Hrádek nad Nisou|Hrádek n. Nisou|Zittau",
+        "N651": "$$aHrádek nad Nisou (Česko : oblast)$$7ge242322|$$aŽitava (Německo : oblast)$$7ge561499"
       },
       "geometry": {
         "type": "Polygon",
@@ -462,8 +462,8 @@
         "TITLE": "Jindřichovice pod Smrkem",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Jindřichovice pod Smrkem|Jindřichovice p. Smrkem",
-        "N651": "$$aJindřichovice pod Smrkem (Česko : oblast)"
+        "N245A": "Jindřichovice pod Smrkem|Jindřichovice p. Smrkem|Mirsk",
+        "N651": "$$aJindřichovice pod Smrkem (Česko : oblast)|$$aMirsk (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -626,8 +626,8 @@
         "TITLE": "Česká Kamenice",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N245A": "Česká Kamenice",
-        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435"
+        "N245A": "Česká Kamenice|Benešov nad Ploučnicí",
+        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435|$$aBenešov nad Ploučnicí (Česko : oblast)$$7ge496459"
       },
       "geometry": {
         "type": "Polygon",
@@ -831,8 +831,8 @@
         "TITLE": "Špindlerův Mlýn",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Špindlerův Mlýn",
-        "N651": "$$aŠpindlerův Mlýn (Česko : oblast)$$7ge418952"
+        "N245A": "Špindlerův Mlýn|Szklarska Poręba",
+        "N651": "$$aŠpindlerův Mlýn (Česko : oblast)$$7ge418952|$$aSzklarska Poręba (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -872,8 +872,8 @@
         "TITLE": "Velká Úpa",
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Velká Úpa",
-        "N651": "$$aVelká Úpa (Pec pod Sněžkou, Česko : oblast)"
+        "N245A": "Velká Úpa|Kowary",
+        "N651": "$$aVelká Úpa (Pec pod Sněžkou, Česko : oblast)|$$aKowary (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1241,8 +1241,8 @@
         "TITLE": "Doksy",
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Doksy|Doxy",
-        "N651": "$$aDoksy (Česká Lípa, Česko : oblast)$$7ge173100"
+        "N245A": "Doksy|Doxy|Mimoň",
+        "N651": "$$aDoksy (Česká Lípa, Česko : oblast)$$7ge173100|$$aMimoň (Česko : oblast)$$7ge562705"
       },
       "geometry": {
         "type": "Polygon",
@@ -2758,7 +2758,7 @@
         "TITLE": "Brandýs nad Labem",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Brandýs nad Labem",
+        "N245A": "Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav",
         "N651": "$$aBrandýs nad Labem-Stará Boleslav (Česko : oblast)$$7ge128811"
       },
       "geometry": {
@@ -3701,7 +3701,7 @@
         "TITLE": "Praha",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF",
-        "N245A": "Praha",
+        "N245A": "Praha|Praha-západ",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -3742,7 +3742,7 @@
         "TITLE": "Praha - východ",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311-11)$$2MRF",
-        "N245A": "Praha - východ",
+        "N245A": "Praha - východ|Praha-východ",
         "N651": "$$aPraha (Česko : východní oblast)$$7ge386499"
       },
       "geometry": {
@@ -4480,8 +4480,8 @@
         "TITLE": "Plasy",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Plasy",
-        "N651": "$$aPlasy (Česko : oblast)$$7ge130432"
+        "N245A": "Plasy|Kralovice",
+        "N651": "$$aPlasy (Česko : oblast)$$7ge130432|$$aKralovice (Plzeň-sever, Česko : oblast)$$7ge205764"
       },
       "geometry": {
         "type": "Polygon",
@@ -4644,8 +4644,8 @@
         "TITLE": "Zbraslav",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Zbraslav",
-        "N651": "$$aZbraslav (Praha, Česko : oblast)$$7ge729935"
+        "N245A": "Zbraslav|Praha-jih",
+        "N651": "$$aZbraslav (Praha, Česko : oblast)$$7ge729935|$$aPraha (Česko : jižní oblast)$$7ge386504"
       },
       "geometry": {
         "type": "Polygon",
@@ -5259,8 +5259,8 @@
         "TITLE": "Stará Knížecí Huť",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Stará Knížecí Huť",
-        "N651": "$$aStará Knížecí Huť (Lesná, Tachov, Česko)$$7ge277370"
+        "N245A": "Stará Knížecí Huť|Bärnau",
+        "N651": "$$aStará Knížecí Huť (Lesná, Tachov, Česko)$$7ge277370|$$aBärnau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5382,8 +5382,8 @@
         "TITLE": "Nýřany",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Nýřany",
-        "N651": "$$aNýřany (Česko : oblast)$$7ge327462"
+        "N245A": "Nýřany|Stříbro",
+        "N651": "$$aNýřany (Česko : oblast)$$7ge327462|$$aStříbro (Česko : oblast)$$7ge130995"
       },
       "geometry": {
         "type": "Polygon",
@@ -5546,7 +5546,7 @@
         "TITLE": "Příbram",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "Příbram",
+        "N245A": "Příbram|Příbram-východ",
         "N651": "$$aPříbram (Česko : oblast)$$7ge130587"
       },
       "geometry": {
@@ -6284,8 +6284,8 @@
         "TITLE": "Stod",
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
-        "N245A": "Stod",
-        "N651": "$$aStod (Česko : oblast)$$7ge423226"
+        "N245A": "Stod|Holýšov",
+        "N651": "$$aStod (Česko : oblast)$$7ge423226|$$aHolýšov (Domažlice, Česko : oblast)$$7ge299074"
       },
       "geometry": {
         "type": "Polygon",
@@ -6448,8 +6448,8 @@
         "TITLE": "Mirovice",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-st",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Mirovice",
-        "N651": "$$aMirovice (Česko : oblast)$$7ge205498"
+        "N245A": "Mirovice|Milín",
+        "N651": "$$aMirovice (Česko : oblast)$$7ge205498|$$aMilín (Česko : oblast)$$7ge130018"
       },
       "geometry": {
         "type": "Polygon",
@@ -7104,8 +7104,8 @@
         "TITLE": "Nemanice",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Nemanice",
-        "N651": "$$aNemanice (Domažlice, Česko : oblast)$$7ge692544"
+        "N245A": "Nemanice|Waldmünchen",
+        "N651": "$$aNemanice (Domažlice, Česko : oblast)$$7ge692544|$$aWaldmünchen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7473,8 +7473,8 @@
         "TITLE": "Černovice",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "Černovice",
-        "N651": "$$aČernovice (Pelhřimov, Česko : oblast)$$7xx0128350"
+        "N245A": "Černovice|Chýnov",
+        "N651": "$$aČernovice (Pelhřimov, Česko : oblast)$$7xx0128350|$$aChýnov (Česko : oblast)$$7ge494137"
       },
       "geometry": {
         "type": "Polygon",

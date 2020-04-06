@@ -8990,8 +8990,8 @@
         "TITLE": "Železná Ruda",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Železná Ruda",
-        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597"
+        "N245A": "Železná Ruda|Zwiesel",
+        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597|$$aZwiesel (Německo : oblast)$$7ge922740"
       },
       "geometry": {
         "type": "Polygon",
@@ -9031,8 +9031,8 @@
         "TITLE": "Srní",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Srní",
-        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047"
+        "N245A": "Srní|Lindberg",
+        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047|Lindberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9154,8 +9154,8 @@
         "TITLE": "Vodňany",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Vodňany",
-        "N651": "$$aVodňany (Česko : oblast)$$7ge131320"
+        "N245A": "Vodňany|Prachatice",
+        "N651": "$$aVodňany (Česko : oblast)$$7ge131320|$$aPrachatice (Česko : oblast)$$7ge130508"
       },
       "geometry": {
         "type": "Polygon",
@@ -9195,8 +9195,8 @@
         "TITLE": "Hluboká nad Vltavou",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
-        "N245A": "Hluboká nad Vltavou|Hluboká n. Vlt.",
-        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
+        "N245A": "Hluboká nad Vltavou|Hluboká n. Vlt.|České Budějovice-sever",
+        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736|$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -9806,12 +9806,53 @@
         "Shape_Leng": "0.83333333295",
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
+        "SHEET": "M-33-111-A",
+        "TITLE": "Regen",
+        "N43": "$$aegx---",
+        "N80": "$$a913(430)$$2MRF",
+        "N245A": "Regen",
+        "N651": "$$aRegen (Německo : oblast)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.250000000455486,
+              48.83333333363345
+            ],
+            [
+              12.99999999977041,
+              48.83333333363345
+            ],
+            [
+              12.99999999977041,
+              49.00000000042354
+            ],
+            [
+              13.250000000455486,
+              49.00000000042354
+            ],
+            [
+              13.250000000455486,
+              48.83333333363345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shape_Leng": "0.83333333295",
+        "Shape_Area": "0.041666666645",
+        "SCALE": "50000",
         "SHEET": "M-33-111-B",
         "TITLE": "Březník",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Březník",
-        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889"
+        "N245A": "Březník|Grafenau",
+        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889|$$aGrafenau Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9851,8 +9892,8 @@
         "TITLE": "Strážný",
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Strážný",
-        "N651": "$$aStrážný (Česko : oblast)$$7ge829181"
+        "N245A": "Strážný|Mauth",
+        "N651": "$$aStrážný (Česko : oblast)$$7ge829181|$$aMauth (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10589,8 +10630,8 @@
         "TITLE": "Pernek",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Pernek",
-        "N651": "$$aPernek (Horní Planá, Česko : oblast)"
+        "N245A": "Pernek|Haidmühle",
+        "N651": "$$aPernek (Horní Planá, Česko : oblast)|$$aHaidmühle Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",

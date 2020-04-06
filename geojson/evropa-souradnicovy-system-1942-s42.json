@@ -459,11 +459,11 @@
         "Shape_Area": "0.041666666645",
         "SCALE": "50000",
         "SHEET": "M-33-40-C",
-        "TITLE": "Fláje",
+        "TITLE": "Fláje|Frauenstein",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Fláje",
-        "N651": "$$aFláje (Český Jiřetín, Česko : oblast)$$7ge168786"
+        "N245A": "Fláje|Frauenstein",
+        "N651": "$$aFláje (Český Jiřetín, Česko : oblast)$$7ge168786|$$aFrauenstein (Německo : oblast)$$7ge807089"
       },
       "geometry": {
         "type": "Polygon",

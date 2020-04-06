@@ -6940,7 +6940,7 @@
         "TITLE": "Olomouc-západ",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MR",
-        "N245A": "Olomouc - západ",
+        "N245A": "Olomouc - západ|Olomouc-západ",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -6981,7 +6981,7 @@
         "TITLE": "Olomouc",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MR",
-        "N245A": "Olomouc",
+        "N245A": "Olomouc|Olomouc-východ",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -7760,8 +7760,8 @@
         "TITLE": "Boskovice",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Boskovice",
-        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
+        "N245A": "Boskovice|Blansko",
+        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801|$$aBlansko (Česko : oblast)$$7ge128768"
       },
       "geometry": {
         "type": "Polygon",
@@ -7965,8 +7965,8 @@
         "TITLE": "Valašské Meziříčí",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
-        "N245A": "Valašské Meziříčí",
-        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232"
+        "N245A": "Valašské Meziříčí|Vsetín",
+        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232|$$aVsetín (Česko : oblast)$$7ge131348"
       },
       "geometry": {
         "type": "Polygon",

@@ -27,7 +27,7 @@ mapseries.config = {
     {
       title: "Evropa: Třetí vojenské mapování, generální mapy 1:200 000",
       layer: "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
-      template: "evropa-geologicka-specialni-mapa-175-000.txt",
+      template: "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';

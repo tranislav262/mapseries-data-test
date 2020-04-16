@@ -28086,7 +28086,7 @@
         "N651": "$$aConegliano (Itálie : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. VI",
-        "ZONE_COL": "Zone Col. VI",
+        "ZONE_COL": "Zone 22 Col. VI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28130,7 +28130,7 @@
         "N651": "$$aPordenone (Itálie : oblast)$$7ge981832",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. VII",
-        "ZONE_COL": "Zone Col. VII",
+        "ZONE_COL": "Zone 22 Col. VII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28174,7 +28174,7 @@
         "N651": "$$aStrassoldo (Itálie : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. VIII",
-        "ZONE_COL": "Zone Col. VIII",
+        "ZONE_COL": "Zone 22 Col. VIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28218,7 +28218,7 @@
         "N651": "$$aGorizia (Itálie : oblast)|$$aGradisca d’Isonzo (Itálie : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. IX",
-        "ZONE_COL": "Zone Col. IX",
+        "ZONE_COL": "Zone 22 Col. IX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28262,7 +28262,7 @@
         "N651": "$$aAjdovščina (Slovinsko : oblast)|$$aPostojna (Slovinsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. X",
-        "ZONE_COL": "Zone Col. X",
+        "ZONE_COL": "Zone 22 Col. X",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28306,7 +28306,7 @@
         "N651": "$$aVišnja Gora (Slovinsko : oblast)|$$aCerknica (Slovinsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XI",
-        "ZONE_COL": "Zone Col. XI",
+        "ZONE_COL": "Zone 22 Col. XI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28350,7 +28350,7 @@
         "N651": "$$aNovo Mesto (Slovinsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XII",
-        "ZONE_COL": "Zone Col. XII",
+        "ZONE_COL": "Zone 22 Col. XII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28394,7 +28394,7 @@
         "N651": "$$aKrško (Slovinsko : oblast)|$$aBrežice (Slovinsko : oblast)|$$aSamobor (Chorvatsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XIII",
-        "ZONE_COL": "Zone Col. XIII",
+        "ZONE_COL": "Zone 22 Col. XIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28438,7 +28438,7 @@
         "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XIV",
-        "ZONE_COL": "Zone Col. XIV",
+        "ZONE_COL": "Zone 22 Col. XIV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28482,7 +28482,7 @@
         "N651": "$$aDubrava (Chorvatsko : oblast)|$$aGradec (Chorvatsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XV",
-        "ZONE_COL": "Zone Col. XV",
+        "ZONE_COL": "Zone 22 Col. XV",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28526,7 +28526,7 @@
         "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aVeliki Grđevac (Chorvatsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XVI",
-        "ZONE_COL": "Zone Col. XVI",
+        "ZONE_COL": "Zone 22 Col. XVI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28570,7 +28570,7 @@
         "N651": "$$aBarcs (Maďarsko : oblast)|$$aVirovitica (Chorvatsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XVII",
-        "ZONE_COL": "Zone Col. XVII",
+        "ZONE_COL": "Zone 22 Col. XVII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28614,7 +28614,7 @@
         "N651": "$$aHarkány (Maďarsko : oblast)|$$aDonji Miholjac (Chorvatsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XVIII",
-        "ZONE_COL": "Zone Col. XVIII",
+        "ZONE_COL": "Zone 22 Col. XVIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28658,7 +28658,7 @@
         "N651": "$$aMohács (Maďarsko : oblast)|$$aVillány (Maďarsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XIX",
-        "ZONE_COL": "Zone Col. XIX",
+        "ZONE_COL": "Zone 22 Col. XIX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28702,7 +28702,7 @@
         "N651": "$$aSombor (Srbsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XX",
-        "ZONE_COL": "Zone Col. XX",
+        "ZONE_COL": "Zone 22 Col. XX",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28746,7 +28746,7 @@
         "N651": "$$aBajmok (Srbsko : oblast)|$$aBačka Topola (Srbsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXI",
-        "ZONE_COL": "Zone Col. XXI",
+        "ZONE_COL": "Zone 22 Col. XXI",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28790,7 +28790,7 @@
         "N651": "$$aSenta (Srbsko : oblast)|$$aAda (Srbsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXII",
-        "ZONE_COL": "Zone Col. XXII",
+        "ZONE_COL": "Zone 22 Col. XXII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28834,7 +28834,7 @@
         "N651": "$$aKikinda (Srbsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXIII",
-        "ZONE_COL": "Zone Col. XXIII",
+        "ZONE_COL": "Zone 22 Col. XXIII",
         "ZONE_CSR": ""
       },
       "geometry": {
@@ -28878,7 +28878,7 @@
         "N651": "$$aTemešvár (Rumunsko : oblast)|$$aȘandra (Timiș, Rumunsko : oblast)",
         "POZNAMKA": "",
         "ZONE_KOL": "Zone 22 Kol. XXIV",
-        "ZONE_COL": "Zone Col. XXIV",
+        "ZONE_COL": "Zone 22 Col. XXIV",
         "ZONE_CSR": ""
       },
       "geometry": {

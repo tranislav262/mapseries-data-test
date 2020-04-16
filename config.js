@@ -68,7 +68,7 @@ mapseries.config = {
     },
     {
       title: "Evropa: Geologická speciální mapa 1:75 000",
-      layer: "evropa-geologicka-specialni-mapa-175-000",
+      layer: "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
       template: "evropa-geologicka-specialni-mapa-175-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {

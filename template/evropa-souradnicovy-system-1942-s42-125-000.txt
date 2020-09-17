@@ -141,7 +141,7 @@ LDR   L -----nem-a22------i-4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "[Praha] :$$bGenerální štáb Československé armády,",
       "Kolín :$$bReprodukční zpracování a tisk OT,"
     ]
   }$$c{

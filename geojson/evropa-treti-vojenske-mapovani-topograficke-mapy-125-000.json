@@ -419,7 +419,7 @@
         "TITLE": "Šluknov",
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.315)$$2MRF|$$$a913(437.15)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$$a913(430)$$2MRF",
         "N245A": "[Šluknov]",
         "N651": "$$aŠluknov (Česko : oblast)$$7ge131540"
       },
@@ -47669,7 +47669,7 @@
         "TITLE": "Liberec",
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
-        "N80": "$$a913(437.316)$$2MRF|$$$a913(437.16)$$2MRF",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "[Liberec]",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },

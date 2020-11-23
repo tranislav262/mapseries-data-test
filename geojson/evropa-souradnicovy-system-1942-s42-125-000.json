@@ -15447,11 +15447,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-77-A-b",
-        "TITLE": "",
+        "TITLE": "Loděnice",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Loděnice",
+        "N651": "$$aLoděnice (Beroun, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -17447,11 +17447,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-77-A-d",
-        "TITLE": "",
+        "TITLE": "Řevnice",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Řevnice",
+        "N651": "$$aŘevnice (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [

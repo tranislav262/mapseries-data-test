@@ -97,7 +97,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Herausgegeben vom OKH/Gen St d H",
+      "Herausgegeben vom OKH/GenStdH",
       "Generalstab der Luftwaffe"
     ]
   }
@@ -123,7 +123,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Prag :$$bHerausgegeben vom OKH / Gen St d H,",
+      "Prag :$$bHerausgegeben vom OKH/GenStdH,",
       "Prag :$$bGeneralstab der Luftwaffe,"
     ]
   }$$c{

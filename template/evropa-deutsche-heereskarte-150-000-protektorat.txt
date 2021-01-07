@@ -15,7 +15,7 @@ LDR   L -----nem-a22------i-4500
     "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr"]
-  }||||||||a|||||||||{
+  }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",

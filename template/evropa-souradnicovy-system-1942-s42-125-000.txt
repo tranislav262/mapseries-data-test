@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr", "xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xr", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze", "cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "cze", "cze"]
   }-d
 0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
@@ -71,13 +71,14 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "2", "2"]
+    "valuesByBaseIndex": ["1", "1", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
       "Československo. Armáda. Generální štáb",
+      "Česko. Armáda. Generální štáb",
       "Vojenský zeměpisný ústav",
       "1. vojenský zeměpisný ústav Praha",
       "1. vojenský kartografický ústav"]
@@ -85,7 +86,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko2005275364", "ko2005263855", "ko2013750243", "ko2013750246"]
+    "valuesByBaseIndex": ["ko2005275364", "ko2003196056", "ko2005263855", "ko2013750243", "ko2013750246"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -106,6 +107,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Generální štáb Československé lidové armády",
+      "Generální štáb České armády",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav",
       "[Vojenský zeměpisný ústav] ; Generální štáb československé armády ; Kartograf: ; Revidoval:"
@@ -142,6 +144,9 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Praha] :$$bGenerální štáb Československé lidové armády,",
+      "[Praha] :$$bGenerální štáb České armády,",
+      "[Praha] :$$bVojenský zeměpisný ústav,",
+      "[Praha] :$$bVojenský zeměpisný ústav,",
       "Kolín :$$bReprodukční zpracování a tisk OT,"
     ]
   }$$c{

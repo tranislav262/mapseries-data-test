@@ -6,16 +6,16 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L  ||||s{
+008   L ------s{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
-  }||||{
+  }----{
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr", "xr", "xr", "xr"]
-  }||||||||a|||||||||{
+  }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",
@@ -107,7 +107,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Generální štáb Československé lidové armády",
-      "Generální štáb České armády",
+      "Generální štáb Armády České republiky",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav",
       "[Vojenský zeměpisný ústav] ; Generální štáb československé armády ; Kartograf: ; Revidoval:"
@@ -144,7 +144,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Praha] :$$bGenerální štáb Československé lidové armády,",
-      "[Praha] :$$bGenerální štáb České armády,",
+      "[Praha] :$$bGenerální štáb Armády České republiky,",
       "[Praha] :$$bVojenský zeměpisný ústav,",
       "[Praha] :$$bVojenský zeměpisný ústav,",
       "Kolín :$$bReprodukční zpracování a tisk OT,"

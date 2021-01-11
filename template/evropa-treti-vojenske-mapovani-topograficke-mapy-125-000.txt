@@ -6,16 +6,16 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L  ||||s{
+008   L ------s{
     "id": "year",
     "width": 5,
     "title": "Rok vydání"
-  }||||{
+  }----{
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["gw", "xr", "xr"]
-  }||||||||a|||||||||{
+  }-|||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",

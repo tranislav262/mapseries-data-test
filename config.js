@@ -53,7 +53,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa: Třetí vojenské mapování, topografické mapy 1:25 000",
+      title: "Evropa: Třetí vojenské mapování, topografické sekce 1:25 000",
       layer: "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
       template: "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000.txt",
       formatFunctions: {

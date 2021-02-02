@@ -3167,10 +3167,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-55-A-a",
-        "TITLE": "Hodkovice",
+        "TITLE": " Hodkovice nad Mohelkou",
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
-        "N245A": "Hodkovice",
+        "N245A": "Hodkovice|Hodkovice nad Mohelkou",
         "N651": "$$aHodkovice nad Mohelkou (Česko : oblast)$$7ge290738"
       },
       "geometry": {
@@ -13851,7 +13851,7 @@
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Velim",
-        "N651": "$$aVelim (Česko : oblast)"
+        "N651": "$$aVelim (Česko : oblast)$$7ge1076152"
       },
       "geometry": {
         "coordinates": [
@@ -15967,11 +15967,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-80-B-a",
-        "TITLE": "Slatiňany",
+        "TITLE": "Chrudim ",
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
-        "N245A": "Slatiňany",
-        "N651": "$$aSlatiňany (Česko : oblast)"
+        "N245A": "Chrudim|Slatiňany",
+        "N651": "$$aSlatiňany (Česko : oblast)|$$aChrudim (Česko : oblast)$$7ge128953"
       },
       "geometry": {
         "coordinates": [

@@ -9127,11 +9127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-B-a",
-        "TITLE": "",
+        "TITLE": "Mikulovice",
         "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mikulovice",
+        "N651": "$$aMikulovice (Jeseník, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -9167,11 +9167,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-B-b",
-        "TITLE": "",
-        "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$ae-pl---",
-        "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Glucholazy",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol$$be-xr-mo",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
+        "N245A": "Glucholazy|Zlaté Hory",
+        "N651": "$$aGłuchołazy (Polsko : oblast)|$$aZlaté Hory (Česko : oblast)$$7ge171398"
       },
       "geometry": {
         "coordinates": [
@@ -9207,11 +9207,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-A-a",
-        "TITLE": "",
+        "TITLE": "Jindřichov",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jindřichov",
+        "N651": "$$aJindřichov (Bruntál, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -9247,11 +9247,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-A-b",
-        "TITLE": "",
+        "TITLE": "Osoblaha",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Osoblaha",
+        "N651": "$$aOsoblaha (Česko : oblast)$$7ge130337"
       },
       "geometry": {
         "coordinates": [
@@ -10967,11 +10967,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-B-c",
-        "TITLE": "",
+        "TITLE": "Rejvíz",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Rejvíz",
+        "N651": "$$aRejvíz (Zlaté Hory, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -11007,11 +11007,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-B-d",
-        "TITLE": "",
+        "TITLE": "Janov",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Janov",
+        "N651": "$$aJanov (Bruntál, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -11047,11 +11047,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-A-c",
-        "TITLE": "",
+        "TITLE": "Třemešná",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Třemešná",
+        "N651": "$$aTřemešná (Bruntál, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -11087,11 +11087,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-A-d",
-        "TITLE": "",
+        "TITLE": "Slezské Rudoltice",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Slezské Rudoltice",
+        "N651": "$$aSlezské Rudoltice (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -11127,11 +11127,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-B-c",
-        "TITLE": "",
+        "TITLE": "Matějovice",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Matějovice",
+        "N651": "$$aMatějovice (Rusín, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -12727,10 +12727,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-C-a",
-        "TITLE": "",
+        "TITLE": "Branná",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "",
+        "N245A": "Branná",
         "N651": "$$a"
       },
       "geometry": {
@@ -12767,10 +12767,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-C-b",
-        "TITLE": "",
+        "TITLE": "Praděd",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "",
+        "N245A": "Praděd",
         "N651": "$$a"
       },
       "geometry": {
@@ -12807,11 +12807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-D-a",
-        "TITLE": "",
+        "TITLE": "Ludvíkov",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Ludvíkov",
+        "N651": "$$aLudvíkov (Česko : oblast)$$7"
       },
       "geometry": {
         "coordinates": [
@@ -12847,11 +12847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-71-D-b",
-        "TITLE": "",
+        "TITLE": "Vrbno pod Pradědem",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Vrbno pod Pradědem",
+        "N651": "$$aVrbno pod Pradědem (Česko : oblast)$$7"
       },
       "geometry": {
         "coordinates": [
@@ -12887,11 +12887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-C-a",
-        "TITLE": "",
+        "TITLE": "Město Albrechtice",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Město Albrechtice",
+        "N651": "$$aMěsto Albrechtice (Česko : oblast)$$7"
       },
       "geometry": {
         "coordinates": [
@@ -12927,11 +12927,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-72-C-b",
-        "TITLE": "",
+        "TITLE": "Krnov",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Krnov",
+        "N651": "$$aKrnov (Česko : oblast)$$7"
       },
       "geometry": {
         "coordinates": [

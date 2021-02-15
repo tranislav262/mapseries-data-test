@@ -77,13 +77,13 @@ LDR   L -----nem-a22------i-4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Zeměměřičský úřad Čechy a Morava",,
-      "Vojenský zeměpisný ústav"]
+      "Zeměměřičský úřad Čechy a Morava",
+      "Zeměměřičský úřad Čechy a Morava"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2015875170", "ko2005263855"]
+    "valuesByBaseIndex": ["mzk2015875170", "mzk2015875170"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -103,7 +103,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Herausgegeben vom Landesvermmessungsamt Böhmen und Mähren",
-      "Vojenský zeměpisný ústav"
+      "Zeměměřický úřad"
     ]
   }
 24630 L $$a{
@@ -129,7 +129,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Prag] :$$bLandesvermmessungsamt Böhmen und Mähren,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bZeměměřický úřad,"
     ]
   }$$c{
     "base":"year"

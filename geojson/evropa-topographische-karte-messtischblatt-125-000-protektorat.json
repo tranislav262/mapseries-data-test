@@ -16269,11 +16269,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6462",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Neustadtl",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245A": "Neustadtl",
+        "N651": "$$aNové Město na Moravě (Česko : oblast)$$7ge130227"
       },
       "geometry": {
         "type": "Polygon",
@@ -16308,11 +16308,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6463",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bistritz ob Pernstein",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245A": "Bistritz ob Pernstein",
+        "N651": "$$aBystřice nad Pernštejnem (Česko : oblast)$$7ge291802"
       },
       "geometry": {
         "type": "Polygon",

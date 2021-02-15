@@ -77,7 +77,7 @@ LDR   L -----nem-a22------i-4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Zeměměřičský úřad Čechy a Morava",
+      "Landesvermessungsamt Böhmen und Mähren",
       "Zeměměřičský úřad Čechy a Morava"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",

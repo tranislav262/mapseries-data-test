@@ -15099,11 +15099,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6370",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Velká Střelná",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245A": "Velká Střelná",
+        "N651": "$$aVelká Střelná (Česko : zaniklá obec)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22119,11 +22119,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6871",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Napajedl",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245A": "Napajedl",
+        "N651": "$$aNapajedla (Česko : oblast)$$7ge727967"
       },
       "geometry": {
         "type": "Polygon",

@@ -16527,11 +16527,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-84-A-a",
-        "TITLE": "",
+        "TITLE": "Horní Benešov",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Horní Benešov",
+        "N651": "$$aHorní Benešov (Česko : oblast)$$7ge517980"
       },
       "geometry": {
         "coordinates": [
@@ -16567,11 +16567,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-84-A-b",
-        "TITLE": "",
+        "TITLE": "Velké Heraltice",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Velké Heraltice",
+        "N651": "$$aVelké Heraltice (Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -16607,11 +16607,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-84-B-a",
-        "TITLE": "",
+        "TITLE": "Slavkov",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Slavkov",
+        "N651": "$$aSlavkov (Opava, Česko : oblast)$$7ge635773"
       },
       "geometry": {
         "coordinates": [
@@ -16647,11 +16647,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-33-84-B-b",
-        "TITLE": "",
+        "TITLE": "Opava",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Opava",
+        "N651": "$$aOpava (Česko : oblast)$$7ge128535"
       },
       "geometry": {
         "coordinates": [
@@ -16727,11 +16727,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-34-73-A-b",
-        "TITLE": "",
+        "TITLE": "Píšť",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Píšť",
+        "N651": "$$aPíšť (Opava, Česko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -16767,11 +16767,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-34-73-B-a",
-        "TITLE": "",
+        "TITLE": "Starý Bohumín",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Starý Bohumín",
+        "N651": "$$aBohumín (Česko : oblast)$$7ge212772"
       },
       "geometry": {
         "coordinates": [
@@ -16807,11 +16807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-34-73-B-b",
-        "TITLE": "",
+        "TITLE": "Czyžowice",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Czyžowice",
+        "N651": "$$aCzyžowice (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -16847,11 +16847,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "M-34-74-A-a",
-        "TITLE": "",
+        "TITLE": "Jastrzebie Zdrój",
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Jastrzebie Zdrój",
+        "N651": "$$aJastrzębie-Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "coordinates": [

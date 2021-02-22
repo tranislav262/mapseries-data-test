@@ -90,11 +90,11 @@
         "Shape_Area": "0.0416666668117",
         "SCALE": "50000",
         "SHEET": "M-33-30-D",
-        "TITLE": "Andělka",
+        "TITLE": "Görlitz",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Andělka",
-        "N651": "$$aAndělka (Višňová, Liberec, Česko : oblast)"
+        "N245A": "Andělka|Görlitz",
+        "N651": "$$aAndělka (Višňová, Liberec, Česko : oblast)|$$aGörlitz (Německo : oblast)$$7ge645771"
       },
       "geometry": {
         "type": "Polygon",

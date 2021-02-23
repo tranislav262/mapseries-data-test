@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "gw"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "ger"]
   }-d
 0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
@@ -78,12 +78,13 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Landesvermessungsamt Böhmen und Mähren",
-      "Zeměměřičský úřad Čechy a Morava"]
+      "Zeměměřičský úřad Čechy a Morava",
+      "Německo.$$bReichsamt für Landesaufnahme"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2015875170", "mzk2015875170"]
+    "valuesByBaseIndex": ["mzk2015875170", "mzk2015875170", "ko2015890165"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -103,7 +104,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Herausgegeben vom Landesvermmessungsamt Böhmen und Mähren",
-      "Zeměměřický úřad"
+      "Zeměměřický úřad",
+      "Reichsamt für Landesaufnahme, Landesaufnahme Sachsen"
     ]
   }
 24630 L $$a{
@@ -129,7 +131,20 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Prag] :$$bLandesvermmessungsamt Böhmen und Mähren,",
-      "Praha :$$bZeměměřický úřad,"
+      "Praha :$$bZeměměřický úřad,",
+      "[Dresden] :$$bReichsamt für Landesaufnahme, Landesaufnahme Sachsen"
+    ]
+  }$$c{
+    "base":"year"
+  }
+264 3 L $$a{
+    "base":"corporation",
+    "width": 60,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "",
+      "",
+      "Leipzig :$$bGiesecke & Devrient"
     ]
   }$$c{
     "base":"year"
@@ -159,7 +174,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$aTopographische karte 1:25 000 (4-cm-Karte) ; $$v{
+4901  L $$aTopographische Karte 1:25 000 (4-cm-Karte) ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -209,11 +224,12 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce",
   "width": 100,
   "valuesByBaseIndex": [
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "",
+    "",
+    "7102  L $$aGiesecke & Devrient$$4prt"
   ]
 }
-830 0 L $$aTopographische karte 1:25 000 (4-cm-Karte);$$v{
+830 0 L $$aTopographische Karte 1:25 000 (4-cm-Karte) ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

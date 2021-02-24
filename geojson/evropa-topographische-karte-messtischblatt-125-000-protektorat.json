@@ -162,11 +162,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "4956",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Seidenberg",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N245A": "Seidenberg",
+        "N651": "$$aZawidów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -201,11 +201,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "4957",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Marklissa",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N245A": "Marklissa",
+        "N651": "$$aLeśna (Polsko : oblast)$$7ge293427"
       },
       "geometry": {
         "type": "Polygon",
@@ -10809,11 +10809,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6075",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Haatsch",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Haatsch",
+        "N651": "$$aHať (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10887,11 +10887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6077",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Jastrzemb",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
+        "N245A": "Jastrzemb",
+        "N651": "$$aJastrzębie-Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12291,11 +12291,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6175",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Hultschin",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Hultschin",
+        "N651": "$$aHlučín (Česko : oblast)$$7ge134215"
       },
       "geometry": {
         "type": "Polygon",
@@ -12330,11 +12330,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6176",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Reichwaldau",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Reichwaldau",
+        "N651": "$$aRychvald (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13695,11 +13695,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6273",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Fulnek",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Fulnek",
+        "N651": "$$aFulnek (Česko : oblast)$$7ge356232"
       },
       "geometry": {
         "type": "Polygon",

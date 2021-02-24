@@ -6,11 +6,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "4951",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Neustadt in Sachsen",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
+        "N245A": "Neustadt in Sachsen|Neustadt",
+        "N651": "$$aNeustadt in Sachsen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -84,11 +84,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "4953",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ebersbach",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
+        "N245A": "Ebersbach",
+        "N651": "$$aEbersbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -123,11 +123,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "4955",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Ostritz",
+        "N43": "$$ae-gx---$$ae-pl---$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N245A": "Ostritz",
+        "N651": "$$aOstritz (Německo : oblast)$$7ge450335"
       },
       "geometry": {
         "type": "Polygon",
@@ -240,11 +240,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5051",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Sebnitz ",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
+        "N245A": "Sebnitz ",
+        "N651": "$$aSebnitz (Německo : oblast)$$7ge807065"
       },
       "geometry": {
         "type": "Polygon",
@@ -357,11 +357,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5055",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Hirschfelde",
+        "N43": "$$ae-gx---$$ae-pl---$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N245A": "Hirschfelde",
+        "N651": "$$aHirschfelde (Žitava, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -396,11 +396,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5056",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Weigsdorf",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Weigsdorf",
+        "N651": "$$aVišňová (Liberec, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13500,10 +13500,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6268",
-        "TITLE": "Mährish Neustadt",
+        "TITLE": "Mährisch Neustadt",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Mährish Neustadt|Mähr. Neustadt",
+        "N245A": "Mährisch Neustadt|Mähr. Neustadt",
         "N651": "$$aUničov (Česko : oblast)$$7ge192252"
       },
       "geometry": {
@@ -13734,11 +13734,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6274",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Königsberg ",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Königsberg ",
+        "N651": "$$aKlimkovice (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13773,11 +13773,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6275",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Mährisch Ostrau",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Mährisch Ostrau|Mähr.  Ostrau",
+        "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
         "type": "Polygon",
@@ -13812,11 +13812,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6276",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Bludowitz",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Bludowitz",
+        "N651": "$$aBludovice (Havířov, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -13851,11 +13851,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6277",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "TITLE": "Teschen",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Teschen",
+        "N651": "$$aČeský Těšín (Česko : oblast)$$7ge131717"
       },
       "geometry": {
         "type": "Polygon",

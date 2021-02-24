@@ -71,7 +71,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2"]
+    "valuesByBaseIndex": ["2", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,

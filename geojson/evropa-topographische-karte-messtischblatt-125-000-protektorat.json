@@ -435,11 +435,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5057",
-        "TITLE": "",
+        "TITLE": "Neustadt an der Tafelfichte",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Neustadt an der Tafelfichte|Neustadt a.d. Tefelfichte|Wigandsthal",
+        "N651": "$$aNové Město pod Smrkem (Česko : oblast)$$7ge696790"
       },
       "geometry": {
         "type": "Polygon",

@@ -474,11 +474,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5149",
-        "TITLE": "",
+        "TITLE": "Bad Gottleuba",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bad Gottleuba",
+        "N651": "$$aBad Gottleuba (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -513,11 +513,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5150",
-        "TITLE": "",
+        "TITLE": "Bielatal",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bielatal",
+        "N651": "$$aRosenthal-Bielatal (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -552,11 +552,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5151",
-        "TITLE": "",
+        "TITLE": "Reinhartsdorf",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Reinhartsdorf",
+        "N651": "$$aReinhardtsdorf-Schöna (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -591,11 +591,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5152",
-        "TITLE": "",
+        "TITLE": "Raumberg",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Raumberg",
+        "N651": "$$aRaumberg (Saské Švýcarsko, Německo : hora)"
       },
       "geometry": {
         "type": "Polygon",
@@ -630,11 +630,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5153",
-        "TITLE": "",
+        "TITLE": "Sankt Georgenthal",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sankt Georgenthal",
+        "N651": "$$aJiřetín pod Jedlovou (Česko : oblast)$$7ge588922"
       },
       "geometry": {
         "type": "Polygon",
@@ -708,11 +708,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5155",
-        "TITLE": "",
+        "TITLE": "Oberullersdorft und Markersdorf",
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Oberullersdorft und Markersdorf",
+        "N651": "$$aKopaczów (Polsko : oblast)|$$aMarkocice (Bogatynia, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

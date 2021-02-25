@@ -226,7 +226,7 @@ LDR   L -----nem-a22------i-4500
   "valuesByBaseIndex": [
     "",
     "",
-    "7102  L $$aGiesecke & Devrient$$4prt"
+    "7102  L $$aGiesecke & Devrient (Lipsko, Německo)$$4prt"
   ]
 }
 830 0 L $$aTopographische Karte 1:25 000 (4-cm-Karte) ;$$v{

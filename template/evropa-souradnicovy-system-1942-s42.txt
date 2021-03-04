@@ -174,7 +174,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Souřadnicový systém S-52 1:50 000] ; $$v{
+4901  L $$a[Souřadnicový systém S-42 1:50 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -191,7 +191,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání:
+500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená podle topografických map 1:25 000 z r. 1990
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -205,7 +205,7 @@ LDR   L -----nem-a22------i-4500
   }
 655 7 L $$atopografické mapy$$7fd809173
 655 7 L $$avojenské mapy$$7fd133817
-830 0 L $$aSouřadnicový systém S-52 1:50 000 ;$$v{
+830 0 L $$aSouřadnicový systém S-42 1:50 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

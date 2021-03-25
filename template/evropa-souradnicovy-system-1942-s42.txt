@@ -105,7 +105,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Generální štáb Československé armády",
+      "Generální štáb Československé lidové armády",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav",
       "[Vojenský zeměpisný ústav] ; Generální štáb československé armády ; Kartograf: ; Revidoval:"
@@ -141,7 +141,7 @@ LDR   L -----nem-a22------i-4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Praha] :$$bGenerální štáb Československé armády,",
+      "[Praha] :$$bGenerální štáb Československé lidové armády,",
       "Praha :$$bVojenský zeměpisný ústav,",
       "[Praha] :$$bVojenský zeměpisný ústav,",
       "[Praha] :$$b[Vojenský zeměpisný ústav],"
@@ -191,9 +191,13 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená v r. 1987, zahraniční území podle tiskových podkladů topografické mapy PLR 1:50 000 se stavem k r. 1986
+500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená v r. 1987, zahraniční území podle tiskových podkladů topografické mapy PLR 1:50 000 se stavem k r. 1986 ; Magnetická deklinace je vypočtena k 1. 7. 1989
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
-651 7 L {
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
     "multipleValues": true,

@@ -1611,7 +1611,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Bublava|Johanngeorgenstadt",
-        "N651": "$$aBublava (Česko : oblast)|$$aJohanngeorgenstadt (Německo : oblast)$$7ge452914"
+        "N651": "$$aBublava (Česko : oblast)$$7ge1059135|$$aJohanngeorgenstadt (Německo : oblast)$$7ge452914"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2226,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Olešnice|Duszniki Zdrój",
-        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)|$$a \tDuszniki Zdrój (Polsko : oblast)"
+        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)|$$aDuszniki Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

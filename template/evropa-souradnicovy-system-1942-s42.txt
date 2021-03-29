@@ -191,7 +191,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená v r. 1987, zahraniční území podle tiskových podkladů topografické mapy PLR 1:50 000 se stavem k r. 1986 ; Magnetická deklinace je vypočtena k 1. 7. 1989
+500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená podle topografických map 1:25 000 z r. 1989
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
     "id":"identifikator",

@@ -142,5 +142,17 @@
    "cs": "Generální mapa Rakousko-Uherska v měřítku 1:200 000 vycházela z topografických sekcí vytvořených na základě třetího vojenského mapování z let 1869 až 1885. Jednotlivé listy Generalkarte pokrývající oblast střední Evropy a Balkánu vznikly spojením osmi sousedních listů speciální mapy. Toto mapové dílo vydával vídeňský Militär-Geographisches Institut od roku 1887. Po roce 1918 vycházely při vydávání vlastních generálních map z podkladů rakouské Generalkarte i nástupnické státy monarchie včetně Československa.",
    "en": "General Map of Austria-Hungary with a scale of 1: 200,000 was based on topographic sections created on the basis of the Third Military Survey from 1869 to 1885. Each sheet of Generalkarte covering the Central Europe and the Balkans were created by joining eight bordering sheets of a Special map. This map work has been published by Military Geographical Institute i nVienna since 1887. After 1918, the successor states of the monarchy, including Czechoslovakia, were also publishing their own general maps from the Austrian Generalkarte."
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Speciální mapa Československé republiky v měřítku 1:75 000 - přetisky hranic 1938] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:02ac1abe-c9af-463f-8626-74e1689d8404/233,239,14434,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

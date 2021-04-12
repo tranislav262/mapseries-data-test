@@ -1690,7 +1690,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Lugos",
-        "N651": "$$aLugoj (Rumunsko : oblast)",
+        "N651": "$$aLugoj (Rumunsko : oblast)$$7ge1096341",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1769,7 +1769,7 @@
         "SHEET": "4048",
         "N43": "$$ae-un---$$ae-rm---$$ae-xo---$$ae-hu---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Munkács|Munkačevo|Mukačevo|Mukačevo, Carăii Mari|Král. Chlumec, Munkács|Král. Chlmec",
+        "N245A": "Král. Chlmec|Král. Chlumec|Král. Chlumec, Munkács|Mukačevo|Mukačevo, Carăii Mari|Munkačevo|Munkács",
         "N651": "$$aMukačevo (Ukrajina : oblast)$$7ge784149|$$aCarei (Rumunsko : oblast)$$7ge828883|$$aKráľovský Chlmec (Slovensko : oblast)$$7ge856420",
         "POZNAMKA": ""
       },
@@ -1849,7 +1849,7 @@
         "SHEET": "4043",
         "N43": "$$ae-rb---$$ae-bu---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "Niš|Nis",
+        "N245A": "Nis|Niš",
         "N651": "$$aNiš (Srbsko : oblast)$$7ge586329",
         "POZNAMKA": ""
       },
@@ -1969,7 +1969,7 @@
         "SHEET": "4044",
         "N43": "$$ae-rb---$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "Zaječar|Zajecar",
+        "N245A": "Zajecar|Zaječar",
         "N651": "$$aZaječar (Srbsko : oblast)$$7ge856418",
         "POZNAMKA": ""
       },
@@ -2009,7 +2009,7 @@
         "SHEET": "4053",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Łomźa|Lomza",
+        "N245A": "Lomza|Łomźa",
         "N651": "$$aŁomża (Polsko : oblast)$$7ge191172",
         "POZNAMKA": ""
       },
@@ -2249,7 +2249,7 @@
         "SHEET": "2946",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Trient|Trento",
+        "N245A": "Trento|Trient",
         "N651": "$$Trident (Itálie : oblast)$$7ge856350",
         "POZNAMKA": ""
       },
@@ -2849,7 +2849,7 @@
         "SHEET": "4650",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "Żytomir|Zytomir",
+        "N245A": "Zytomir|Żytomir",
         "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901",
         "POZNAMKA": ""
       },
@@ -3049,7 +3049,7 @@
         "SHEET": "3547",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "Pápa|Papa, Pápa",
+        "N245A": "Papa, Pápa|Pápa",
         "N651": "$$aPápa (Maďarsko : oblast)$$7ge828935\n",
         "POZNAMKA": ""
       },
@@ -3089,7 +3089,7 @@
         "SHEET": "3549",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol$$be-xr-zl$$be-xr-ol$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Göding (Hodonín)|Hodonín|Břeclav|Lundenburg|Přerov, Hodonín|Přerov a Hodonín|Gottwaldov, Břeclav|Gottwaldov",
+        "N245A": "Břeclav|Göding (Hodonín)|Gottwaldov, Břeclav|Gottwaldov|Hodonín|Lundenburg|Přerov, Hodonín|Přerov a Hodonín",
         "N651": "$$aHodonín (Česko : oblast)$$7ge134218|$$aBřeclav (Česko : oblast)$$7ge128421|$$aPřerov (Česko : oblast)$$7ge130578|$$aZlín (Česko : oblast)$$7ge131454",
         "POZNAMKA": ""
       },
@@ -3289,7 +3289,7 @@
         "SHEET": "3550",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Olmütz|Olmütz (Olomouc)|Olomouc",
+        "N245A": "Olomouc|Olmütz|Olmütz (Olomouc)",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534",
         "POZNAMKA": ""
       },
@@ -3329,9 +3329,9 @@
         "SHEET": "3551",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Breslau",
+        "N245A": "Breslau|Vratislav",
         "N651": "$$aVratislav (Polsko : oblast)$$7ge191392",
-        "POZNAMKA": "Breslau|Vratislav"
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3529,7 +3529,7 @@
         "SHEET": "3249",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Budweis|Č. Budějovice|Budweis (Budějovice)|Budweis Č. Budějovice, Budweis",
+        "N245A": "Budweis|Budweis (Budějovice)|Budweis Č. Budějovice, Budweis|Č. Budějovice",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833",
         "POZNAMKA": ""
       },
@@ -3649,9 +3649,9 @@
         "SHEET": "3248",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "Linz",
+        "N245A": "Linz|Linec",
         "N651": "$$aLinec (Rakousko : oblast)$$7ge494546",
-        "POZNAMKA": "Linz|Linec"
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3689,7 +3689,7 @@
         "SHEET": "3250",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st$$be-xr-us$$be-xr-li$$be-xr-jc",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.319)$$2MRF",
-        "N245A": "Prag|Praha|Prag (Praha), Prag",
+        "N245A": "Praha|Prag|Prag (Praha), Prag",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513",
         "POZNAMKA": ""
       },
@@ -3729,7 +3729,7 @@
         "SHEET": "3251",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us$$be-xr-li$$ae-pl---",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Bautzen|Litoměřice|Č. Lípa, Bautzen|Terezín, Bautzen|Ústí n. L.",
+        "N245A": "Bautzen|Č. Lípa, Bautzen|Litoměřice|Terezín, Bautzen|Ústí n. L.",
         "N651": "$$aBudyšín (Německo : oblast)$$7ge807051|$$aLitoměřice (Česko : oblast)$$7ge129847|$$aČeská Lípa (Česko : oblast)$$7ge131693|$$aTerezín (Litoměřice, Česko : oblast)$$7ge131067",
         "POZNAMKA": "Č. Lípa"
       },
@@ -4209,7 +4209,7 @@
         "SHEET": "3447",
         "N43": "$$ae-hu---$$ae-au---$$ae-xv---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "Steinamanger, Szombathely",
+        "N245A": "Steinamanger, Szombathely|Szombathely",
         "N651": "$$aSzombathely (Maďarsko : oblast)$$7ge856366",
         "POZNAMKA": ""
       },
@@ -4290,7 +4290,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Kostajnica",
-        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)",
+        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)$$7ge1087296",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4369,7 +4369,7 @@
         "SHEET": "3448",
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436.1)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Vídeň|Wien, Becs",
+        "N245A": "Vídeň|Wien|Wien, Becs",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468",
         "POZNAMKA": ""
       },
@@ -4449,7 +4449,7 @@
         "SHEET": "3450",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-jm$$be-xr-ol$$be-xr-vy$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.324)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Josefstadt|Josefov|Vysoké Mýto|Glatz, Josefstadt|Náchod",
+        "N245A": "Glatz, Josefstadt|Josefov|Josefstadt|Náchod|Vysoké Mýto",
         "N651": "$$aJosefov (Jaroměř, Česko : oblast)$$7ge884444|$$aVysoké Mýto (Česko : oblast)$$7ge131354|$$aKladsko (Polsko : oblast)$$7ge129579",
         "POZNAMKA": ""
       },
@@ -4689,7 +4689,7 @@
         "SHEET": "3149",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430.129)$$2MRF",
-        "N245A": "Klatovy|Passau|Klatovy, Passau",
+        "N245A": "Klatovy|Klatovy, Passau|Passau",
         "N651": "$$aKlatovy (Česko : oblast)$$7ge128500|$$aPasov (Německo : oblast)$$7ge114414",
         "POZNAMKA": ""
       },
@@ -4730,7 +4730,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Rovigno",
-        "N651": "$$aRovinj (Chorvatsko : oblast)",
+        "N651": "$$aRovinj (Chorvatsko : oblast)$$7ge1087259",
         "POZNAMKA": "Rovigno"
       },
       "geometry": {
@@ -4889,7 +4889,7 @@
         "SHEET": "3150",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Pilsen|Plzeň|Pilsen (Plzeň), Pilsen|Pilsen (Plzeň)",
+        "N245A": "Pilsen|Pilsen (Plzeň), Pilsen|Pilsen (Plzeň)|Plzeň",
         "N651": "$$aPlzeň (Česko : oblast)\n$$7ge130440",
         "POZNAMKA": ""
       },
@@ -4929,7 +4929,7 @@
         "SHEET": "3151",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Dresden|Teplice-Šanov, Dresden|Teplice-Šanov|Teplice-Šanov, Dresden, Dresen|Teplice",
+        "N245A": "Dresden|Teplice|Teplice-Šanov, Dresden|Teplice-Šanov|Teplice-Šanov, Dresden, Dresen",
         "N651": "$$aDrážďany (Německo : oblast)$$7ge129087|$$aTeplice (Česko : oblast)$$7ge131061",
         "POZNAMKA": "Drážďany"
       },
@@ -5129,7 +5129,7 @@
         "SHEET": "3049",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF",
-        "N245A": "Kleneč pod Čerchovem|Kleneč, Regensburg|Klenčí pod Čerchovem|Regensburg|Kleneč pod Čerchovem, Regensburg|Klenčí p. Čerchovem",
+        "N245A": "Kleneč pod Čerchovem|Kleneč, Regensburg|Kleneč pod Čerchovem, Regensburg|Klenčí pod Čerchovem|Klenčí p. Čerchovem|Regensburg",
         "N651": "$$aKlenčí pod Čerchovem (Česko : oblast)$$7ge500297|$$aŘezno (Německo : oblast)$$7ge391146",
         "POZNAMKA": "Kleneč p. Čerchovem, Regensburg|Kleneč p. Čerch."
       },
@@ -5170,7 +5170,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Rom",
-        "N651": "$$aŘím (Itálie : oblast)",
+        "N651": "$$aŘím (Itálie : oblast)$$7ge1087247",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5929,7 +5929,7 @@
         "SHEET": "3849",
         "N43": "$$ae-xo---$$ae-pl---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Leutschau|Spiš. N. Ves|Levoča (Löcse)|Levoča|Lőcse|Spišská Nová Ves|Spišská N. Ves, Locse",
+        "N245A": "Leutschau|Levoča|Levoča (Löcse)|Lőcse|Spišská Nová Ves|Spiš. N. Ves|Spišská N. Ves, Locse",
         "N651": "$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aSpišská Nová Ves (Slovensko : oblast)$$7ge784155",
         "POZNAMKA": ""
       },
@@ -6089,7 +6089,7 @@
         "SHEET": "3840",
         "N43": "$$ae-gr---$$ae-aa---",
         "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
-        "N245A": "Korfu (Kerkira)|Korfu",
+        "N245A": "Korfu|Korfu (Kerkira)",
         "N651": "$$aKorfu (Řecko : oblast)$$7ge856399",
         "POZNAMKA": ""
       },
@@ -6249,7 +6249,7 @@
         "SHEET": "3850",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Krakau|Krakov|Kraków, Krakkó",
+        "N245A": "Krakau|Krakov|Kraków, Krakkó|Kraków",
         "N651": "$$aKrakov (Polsko : oblast)$$7ge116258",
         "POZNAMKA": ""
       },
@@ -6450,7 +6450,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Békéscsaba",
-        "N651": "$$aBékéscsaba (Maďarsko : oblast)",
+        "N651": "$$aBékéscsaba (Maďarsko : oblast)$$7ge1098202",
         "POZNAMKA": "Békés-Csaba"
       },
       "geometry": {
@@ -6650,7 +6650,7 @@
         "N43": "$$ae-rm---$$ae-hu---",
         "N80": "$$a913(498)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Temesvár",
-        "N651": "$$aTemešvár (Rumunsko : oblast)",
+        "N651": "$$aTemešvár (Rumunsko : oblast)$$7ge1091546",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9849,8 +9849,8 @@
         "SHEET": "3647",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "Székesfehérvár",
-        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)",
+        "N245A": "Székesfehérvár|Székesfehérvár, Stolný Bělehrad|Stoličný Bělehrad",
+        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)$$7ge1087377",
         "POZNAMKA": "Székesfehérvár, Stolný Bělehrad|Stoličný Bělehrad"
       },
       "geometry": {
@@ -9930,7 +9930,7 @@
         "N43": "$$ae-mo---$$ae-ci---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Cattaro",
-        "N651": "$$aKotor (Černá Hora : oblast",
+        "N651": "$$aKotor (Černá Hora : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10169,9 +10169,9 @@
         "SHEET": "3651",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "Oppeln",
-        "N651": "$$aOpolsko (Polsko : oblast)",
-        "POZNAMKA": "Oppeln|Opolí"
+        "N245A": "Oppeln|Opolí",
+        "N651": "$$aOpole (Polsko : oblast)",
+        "POZNAMKA": ""
       },
       "geometry": {
         "type": "Polygon",

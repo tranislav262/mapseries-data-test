@@ -157,7 +157,7 @@
  },
  {
   "field": "490a",
-  "name": "[Generální mapa Československé republiky 1:200 000 - přetisky hranic 1938]",
+  "name": "[Generální mapa Československé republiky 1:200 000 - přetisky hranic 1938] ;",
   "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",

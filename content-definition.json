@@ -163,7 +163,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:9b7b2f27-f93c-434e-9721-5c9c09fb0056/276,185,10734,15387/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Série obsahuje listy Generální mapy 1:200 000 vydávané Vojenským zeměpisným ústavem v závěru roku 1938, kdy došlo k odstoupení pohraničí na základě mnichovské dohody a první vídeňské arbitráže. Listy jsou doplněny o přitištěné linie nových hranic okleštěné Česko-Slovenské republiky. Slovenské území je doplněno o modré linie zachycující oblasti postupně vyklizované na základě vídeňské arbitráže od 5. do 10. listopadu 1938. ",
    "en": null
   }
  }

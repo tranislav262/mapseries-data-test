@@ -154,5 +154,17 @@
    "cs": "Po odstoupení pohraničí, ke kterému došlo na základě mnichovské dohody a první vídeňské arbitráže v říjnu a listopadu 1938, vydával Vojenský zeměpisný ústav v závěru roku 1938 listy speciální mapy 1:75 000 doplněné o přitištěné hranice druhé Česko-Slovenské republiky. Jsou zde zastoupeny i dříve vydané listy doplněné o návrhy a konečné demarkační čáry z roku 1938. Některé mapové listy obsahují i dotištěné údaje o národnostním složení obyvatel příhraničních obcí. \n",
    "en": "After withdrawal from Interwar period borders, which took place on the basis of the Munich Agreement and the First Vienna Award in October and November 1938, the Military Geographical Institute published sheets of a Special Map 1:75 000, supplemented by borders of the Second Czecho-Slovak Republic. There are also previously published sheets supplemented by proposals and final demarcation lines from 1938. Some map sheets also contain printed data of ethnic composition of border municipalities inhabitants. "
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Generální mapa Československé republiky 1:200 000 - přetisky hranic 1938]",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:9b7b2f27-f93c-434e-9721-5c9c09fb0056/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

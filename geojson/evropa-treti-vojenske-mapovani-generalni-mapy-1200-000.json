@@ -1650,7 +1650,7 @@
         "N43": "$$ae-rm---$$ae-rb---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Orsova",
-        "N651": "$$aOršava (Rumunsko : oblast",
+        "N651": "$$aOršava (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2250,7 +2250,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Trento|Trient",
-        "N651": "$$Trident (Itálie : oblast)$$7ge856350",
+        "N651": "$$aTrident (Itálie : oblast)$$7ge856350",
         "POZNAMKA": ""
       },
       "geometry": {

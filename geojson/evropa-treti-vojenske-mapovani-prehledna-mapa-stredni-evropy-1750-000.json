@@ -450,7 +450,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Kolozsvár (Klausenburg), Máramaros-Sziget, Tölgyes.|Veliký Bočkov",
-        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aTulgheș (Rumunsko : oblast)|$$aVelký Bočkov (Ukrajina : oblast)$$7ge909723",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442|$$aMarmarošská Sihoť (Rumunsko : oblast)$$7ge784176|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aVelký Bočkov (Ukrajina : oblast)$$7ge909723",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -490,7 +490,7 @@
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---$$ae-pl---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Tarnopol, Brody, Stryj, Czernowitz.|Chust",
-        "N651": "$$aTarnopol (Ukrajina : oblast)|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
+        "N651": "$$aTernopil (Ukrajina : oblast)$$7ge1019128|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -610,7 +610,7 @@
         "N43": "$$ae-it---$$ae-ci---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Rom, Ancona, Pescara, Velletri.",
-        "N651": "$$aŘím (Itálie : oblast)|$$aAncona (Itálie : oblast)|$$aPescara (Itálie : oblast)|$$aVelletri (Itálie : oblast)",
+        "N651": "$$aŘím (Itálie : oblast)$$7ge1087247|$$aAncona (Itálie : oblast)|$$aPescara (Itálie : oblast)|$$aVelletri (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -690,7 +690,7 @@
         "N43": "$$ae-it---$$ae-xv---$$ae-au---$$ae-gx---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Laibach Villach, Kufstein, Belluno.",
-        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052|$$aVillach (Rakousko : oblast)|$$aKufstein (Rakousko : oblast)$$7ge560468|$$aBelluno (Itálie : oblast)",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052|$$aVillach (Rakousko : oblast)$$7ge1093503|$$aKufstein (Rakousko : oblast)$$7ge560468|$$aBelluno (Itálie : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1370,7 +1370,7 @@
         "N43": "$$ae-it---$$ae-ci---$$ae-bn---$$ae-mo---",
         "N80": "$$a913 (450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Ragusa, Mostar.",
-        "N651": "$$aDubrovník (Chorvatsko : oblast)|$$aMostar (Bosna a Hercegovina : oblast)",
+        "N651": "$$aDubrovník (Chorvatsko : oblast)$$7ge258347|$$aMostar (Bosna a Hercegovina : oblast)$$7ge1114722",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1410,7 +1410,7 @@
         "N43": "$$ae-rb---$$ae-bn---$$ae-ci---$$ae-hu---$$ae-rm---$$ae-bu---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Zemun, Orsova, Belgrad, Užice.",
-        "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990|$$aOršava (Rumunsko : oblast)|$$aUžice (Srbsko : oblast)$$7ge856404",
+        "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990|$$aOršava (Rumunsko : oblast)$$7ge1094672|$$aUžice (Srbsko : oblast)$$7ge856404",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1490,7 +1490,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---$$ae-xo---$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Szeged, Nagyvárad, Arad, Erlau, Szolnok.|Sklabiná",
-        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aOradea (Rumunsko : oblast)$$7ge856419|$$aArad (Rumunsko : oblast)|$$aEger (Maďarsko : oblast)|$$aSzolnok (Maďarsko : oblast)$$7ge459428|$$aSklabiná (Slovensko : oblast)$$7ge909711",
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aOradea (Rumunsko : oblast)$$7ge856419|$$aArad (Rumunsko : oblast)$$7ge1100894|$$aEger (Maďarsko : oblast)$$7ge1101071|$$aSzolnok (Maďarsko : oblast)$$7ge459428|$$aSklabiná (Slovensko : oblast)$$7ge909711",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1730,7 +1730,7 @@
         "N43": "$$ae-pl---$$ae-ru---$$ae-bw---$$ae-li---",
         "N80": "$$a913(438)$$2MRF|$$a913(470-15)$$2MRF|$$a913(476)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "Königsberg, Guttstadt, Biełostok, Suwałki.",
-        "N651": "$$aKaliningrad (Rusko : oblast)|$$aDobre Miasto (Polsko : oblast)|$$aBiałystok (Polsko : oblast)$$7ge189073|$$aSuwałki (Polsko : oblast)$$7ge135739",
+        "N651": "$$aKaliningrad (Rusko : oblast)$$7ge161928|$$aDobre Miasto (Polsko : oblast)|$$aBiałystok (Polsko : oblast)$$7ge189073|$$aSuwałki (Polsko : oblast)$$7ge135739",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1850,7 +1850,7 @@
         "N43": "$$ae-ru---$$ae-li---$$ae-lv---",
         "N80": "$$a913(470-15)$$2MRF|$$a913(474.5)$$2MRF|$$a913(474.3)$$2MRF",
         "N245A": "Riga, Libau, Memel, Kowno.",
-        "N651": "$$aRiga (Lotyšsko : oblast)|$$aLiepāja (Lotyšsko : oblast)|$$aKlajpeda (Litva : oblast)|$$aKaunas (Litva : oblast)$$7ge624716",
+        "N651": "$$aRiga (Lotyšsko : oblast)|$$aLiepāja (Lotyšsko : oblast)|$$aKlajpeda (Litva : oblast)$$7ge187278|$$aKaunas (Litva : oblast)$$7ge624716",
         "POZNAMKA": ""
       },
       "geometry": {

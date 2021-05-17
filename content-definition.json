@@ -166,5 +166,17 @@
    "cs": "Série obsahuje listy Generální mapy 1:200 000 vydávané Vojenským zeměpisným ústavem v závěru roku 1938, kdy došlo k odstoupení pohraničí na základě mnichovské dohody a první vídeňské arbitráže. Listy jsou doplněny o přitištěné linie nových hranic okleštěné Česko-Slovenské republiky. Část listů zachycujících slovenské území je doplněno o modré linie vymezující oblasti vyklizované na základě vídeňské arbitráže od 5. do 10. listopadu 1938. ",
    "en": "The series contains sheets of the General Map 1: 200 000 published by the Military Geographical Institute at the end of 1938, when new czechoslovak borders were created based on the Munich Agreement and The First Vienna Award. Part of the sheets depicting Slovak territory is supplemented by blue lines delimiting the areas evacuated according to the Vienna Award between November 5 and 10, 1938."
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Befestigungskarte Tschechoslowakei 1:25 000] ;",
+  "grid": "evropa-befestigungskarte-tschechoslowakei-125-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,6)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:0258d3b3-5cbf-42c8-80a8-4f05533047dc/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

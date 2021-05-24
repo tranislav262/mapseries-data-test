@@ -16416,12 +16416,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4765/3",
-        "TITLE": "",
+        "TITLE": "Miscolc",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Miscolc]",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146"
       },
       "geometry": {
         "type": "Polygon",
@@ -16463,12 +16463,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4766/3",
-        "TITLE": "",
+        "TITLE": "Szikszó",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szikszó]",
+        "N651": "$$aSzikszó (Maďarsko : oblast)$$7ge1033145"
       },
       "geometry": {
         "type": "Polygon",
@@ -16510,12 +16510,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4767/3",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tokaj]",
+        "N651": "$$aTokaj (Maďarsko : oblast)$$7ge1033151"
       },
       "geometry": {
         "type": "Polygon",
@@ -16557,12 +16557,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4768/3",
-        "TITLE": "",
+        "TITLE": "Kisvárda",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kisvárda]",
+        "N651": "$$aKisvárda (Maďarsko : oblast)$$7ge1086440"
       },
       "geometry": {
         "type": "Polygon",
@@ -17403,12 +17403,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4858/3",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-hu---",
-        "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "[Mosonmagyaróvár]",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
         "type": "Polygon",
@@ -103554,12 +103554,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4765/2",
-        "TITLE": "",
+        "TITLE": "Miskolc",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Miskolc]",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146"
       },
       "geometry": {
         "type": "Polygon",
@@ -103601,12 +103601,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4765/1",
-        "TITLE": "",
+        "TITLE": "Miskolc",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Miskolc]",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146"
       },
       "geometry": {
         "type": "Polygon",
@@ -103648,12 +103648,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4765/4",
-        "TITLE": "",
+        "TITLE": "Miskolc",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Miskolc]",
+        "N651": "$$aMiskolc (Maďarsko : oblast)$$7ge900146"
       },
       "geometry": {
         "type": "Polygon",
@@ -103695,12 +103695,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4766/2",
-        "TITLE": "",
+        "TITLE": "Szikszó",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Szikszó]",
+        "N651": "$$aSzikszó (Maďarsko : oblast)$$7ge1033145"
       },
       "geometry": {
         "type": "Polygon",
@@ -103742,12 +103742,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4766/1",
-        "TITLE": "",
+        "TITLE": "Szikszó",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Szikszó]",
+        "N651": "$$aSzikszó (Maďarsko : oblast)$$7ge1033145"
       },
       "geometry": {
         "type": "Polygon",
@@ -103789,12 +103789,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4766/4",
-        "TITLE": "",
+        "TITLE": "Szikszó",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Szikszó]",
+        "N651": "$$aSzikszó (Maďarsko : oblast)$$7ge1033145"
       },
       "geometry": {
         "type": "Polygon",
@@ -103836,12 +103836,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4767/2",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Tokaj]",
+        "N651": "$$aTokaj (Maďarsko : oblast)$$7ge1033151"
       },
       "geometry": {
         "type": "Polygon",
@@ -103883,12 +103883,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4767/1",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Tokaj]",
+        "N651": "$$aTokaj (Maďarsko : oblast)$$7ge1033151"
       },
       "geometry": {
         "type": "Polygon",
@@ -103930,12 +103930,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4767/4",
-        "TITLE": "",
+        "TITLE": "Tokaj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Tokaj]",
+        "N651": "$$aTokaj (Maďarsko : oblast)$$7ge1033151"
       },
       "geometry": {
         "type": "Polygon",
@@ -103977,12 +103977,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4768/2",
-        "TITLE": "",
+        "TITLE": "Kisvárda",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Kisvárda]",
+        "N651": "$$aKisvárda (Maďarsko : oblast)$$7ge1086440"
       },
       "geometry": {
         "type": "Polygon",
@@ -104024,12 +104024,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4768/1",
-        "TITLE": "",
+        "TITLE": "Kisvárda",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Kisvárda]",
+        "N651": "$$aKisvárda (Maďarsko : oblast)$$7ge1086440"
       },
       "geometry": {
         "type": "Polygon",
@@ -104071,12 +104071,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4768/4",
-        "TITLE": "",
+        "TITLE": "Kisvárda",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---",
+        "N80": "$$a913(439)$$2MRF",
+        "N245A": "[Kisvárda]",
+        "N651": "$$aKisvárda (Maďarsko : oblast)$$7ge1086440"
       },
       "geometry": {
         "type": "Polygon",
@@ -104682,12 +104682,12 @@
         "Vznik": "1882",
         "Reambulace": "1934",
         "SHEET": "4858/2",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár ",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-au---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "[Mosonmagyaróvár]",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
         "type": "Polygon",
@@ -104729,12 +104729,12 @@
         "Vznik": "1882",
         "Reambulace": "0",
         "SHEET": "4858/1",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár ",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
+        "N245A": "[Mosonmagyaróvár]",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
         "type": "Polygon",
@@ -104776,12 +104776,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4858/4",
-        "TITLE": "",
+        "TITLE": "Mosonmagyaróvár ",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-hu---$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245A": "[Mosonmagyaróvár]",
+        "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
         "type": "Polygon",

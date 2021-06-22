@@ -650,7 +650,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Alessandria",
-        "N651": "$$aAlessandria (Itálie : oblast)",
+        "N651": "$$aAlessandria (Itálie : oblast)$$7ge1117919",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -690,7 +690,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494.34)$$2MRF",
         "N245A": "Varese",
-        "N651": "$$aVarese (Itálie : oblast)",
+        "N651": "$$aVarese (Itálie : oblast)$$7ge1117905",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -850,7 +850,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Savona",
-        "N651": "$$aSavona (Itálie : oblast)",
+        "N651": "$$aSavona (Itálie : oblast)$$7ge1117947",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1130,7 +1130,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Brassó (Kronstadt)|Brassó",
-        "N651": "$$aBrašov-oblast (Rumunsko)$$7ge385110",
+        "N651": "$$aBrašov (Rumunsko : oblast)$$7ge385110",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1650,7 +1650,7 @@
         "N43": "$$ae-rm---$$ae-rb---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Orsova",
-        "N651": "$$aOršava (Rumunsko : oblast)",
+        "N651": "$$aOršava (Rumunsko : oblast)$$7ge1094672",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2170,7 +2170,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Civitavecchia",
-        "N651": "$$aCivitavecchia (Itálie : oblast)",
+        "N651": "$$aCivitavecchia (Itálie : oblast)$$7ge1118400",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2450,7 +2450,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Firenze",
-        "N651": "$$aFlorencie (Itálie : oblast)",
+        "N651": "$$aFlorencie (Itálie : oblast)$$7ge1117881",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4530,7 +4530,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Spalato|Split",
-        "N651": "$$aSplit (Chorvatsko : oblast)\n$$7ge856365",
+        "N651": "$$aSplit (Chorvatsko : oblast)$$7ge856365",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4610,7 +4610,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Torgau",
-        "N651": "$$aTorgau (Německo : oblast)",
+        "N651": "$$aTorgau (Německo : oblast)$$7ge1117949",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4890,7 +4890,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Pilsen|Pilsen (Plzeň), Pilsen|Pilsen (Plzeň)|Plzeň",
-        "N651": "$$aPlzeň (Česko : oblast)\n$$7ge130440",
+        "N651": "$$aPlzeň (Česko : oblast)$$7ge130440",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4970,7 +4970,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ancona",
-        "N651": "$$aAncona (Itálie : oblast)",
+        "N651": "$$aAncona (Itálie : oblast)$$7ge1117950",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5250,7 +5250,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Belluno",
-        "N651": "$$aBelluno (Itálie : oblast)",
+        "N651": "$$aBelluno (Itálie : oblast)$$7ge1117952",
         "POZNAMKA": "Belluno"
       },
       "geometry": {
@@ -5330,7 +5330,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Perugia",
-        "N651": "$$aPerugia (Itálie : oblast)",
+        "N651": "$$aPerugia (Itálie : oblast)$$7ge1117954",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5450,7 +5450,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ravenna",
-        "N651": "$$aRavenna (Itálie : oblast)",
+        "N651": "$$aRavenna (Itálie : oblast)$$7ge1117955",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5530,7 +5530,7 @@
         "N43": "$$ae-fr---$$ae-gx---",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Strassbourg",
-        "N651": "$$aŠtrasburk (Francie : oblast)",
+        "N651": "$$aŠtrasburk (Francie : oblast)$$7ge1117957",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5610,7 +5610,7 @@
         "N43": "$$ae-it---$$ae-fr---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Aosta",
-        "N651": "$$aAosta (Itálie : oblast)",
+        "N651": "$$aAosta (Itálie : oblast)$$7ge1117959",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5690,7 +5690,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Koblenz",
-        "N651": "$$aKoblenz (Německo : oblast)",
+        "N651": "$$aKoblenz (Německo : oblast)$$7ge1117961",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5770,7 +5770,7 @@
         "N43": "$$ae-fr---$$ae-it---$$ae-mc---",
         "N80": "$$a913(44)$$2MRF|$$a913(450)$$2MRF|$$a913(449.49)$$2MRF",
         "N245A": "Nizza",
-        "N651": "$$aNice (Francie : oblast)",
+        "N651": "$$aNice (Francie : oblast)$$7ge1117958",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6210,7 +6210,7 @@
         "N43": "$$ae-rb---$$ae-aa---$$ae-xn---$$ae-mo---$$ae-kv---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.115)$$2MRF",
         "N245A": "Novipazar",
-        "N651": "$$aNovi Pazar (Srbsko : oblast)",
+        "N651": "$$aNovi Pazar (Srbsko : oblast)$$7ge1114768",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7210,7 +7210,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Ulm",
-        "N651": "$$aUlm (Německo : oblast)",
+        "N651": "$$aUlm (Německo : oblast)$$7ge1118550",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8530,7 +8530,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Como",
-        "N651": "$$aComo (Itálie : oblast)",
+        "N651": "$$aComo (Itálie : oblast)$$7ge1117972",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8650,7 +8650,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Kassel",
-        "N651": "$$aKassel (Německo : oblast)",
+        "N651": "$$aKassel (Německo : oblast)$$7ge1118553",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9330,7 +9330,7 @@
         "N43": "$$ae-rm---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Iasi",
-        "N651": "$$aJasy (Rumunsko : oblast",
+        "N651": "$$aJasy (Rumunsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10170,7 +10170,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Oppeln|Opolí",
-        "N651": "$$aOpole (Polsko : oblast)",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10410,7 +10410,7 @@
         "N43": "$$ae-ci---$$ae-xv---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Senj|Zengg",
-        "N651": "$$aSenj (Chorvatsko : oblast)\n$$7ge856358",
+        "N651": "$$aSenj (Chorvatsko : oblast)$$7ge856358",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10450,7 +10450,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Cilli|Celje",
-        "N651": "$$aCelje (Slovinsko : oblast)\n$$7ge856361",
+        "N651": "$$aCelje (Slovinsko : oblast)$$7ge856361",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10610,7 +10610,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "Zara|Zára",
-        "N651": "$$aZadar (Chorvatsko : oblast)\n$$7xx0160293",
+        "N651": "$$aZadar (Chorvatsko : oblast)$$7xx0160293",
         "POZNAMKA": ""
       },
       "geometry": {

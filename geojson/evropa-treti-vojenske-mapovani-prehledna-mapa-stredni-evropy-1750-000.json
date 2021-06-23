@@ -10,7 +10,7 @@
         "N43": "$$ae-gr---$$aa-tu---",
         "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Gallipoli, Brussa.",
-        "N651": "$$aGallipoli (Turecko : oblast)|$$aBursa (Turecko : oblast)",
+        "N651": "$$aGallipoli (Turecko : oblast)$$7ge1118678|$$aBursa (Turecko : oblast)$$7ge1118677",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -88,9 +88,9 @@
         "SHEET": "F.4.",
         "TITLE": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
         "N43": "$$ae-rm---$$ae-un---",
-        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
+        "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
-        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)",
+        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)$$7ge1118695|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -130,7 +130,7 @@
         "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Bielcy, Kisziniew, Jassi.",
-        "N651": "$$aBălți (Moldavsko : oblast)|$$aKišiněv (Moldavsko : oblast)|$$aJasy (Rumunsko : oblast)",
+        "N651": "$$aBălți (Moldavsko : oblast)|$$aKišiněv (Moldavsko : oblast)$$7ge1118686|$$aJasy (Rumunsko : oblast)$$7ge1118703",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -170,7 +170,7 @@
         "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Bałta, Umań, Bracław.",
-        "N651": "$$aBalta (Ukrajina : oblast)|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)",
+        "N651": "$$aBalta (Ukrajina : oblast)|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)$$7ge1118697",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -210,7 +210,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew.",
-        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658|$$aŽytomyr (Ukrajina : oblast)$$7ge413901|$$aOvruč (Ukrajina : oblast)|$$aČernobyl (Ukrajina : oblast)|$$aMazyr (Bělorusko : oblast)$$7ge577267|$$aLojeŭ (Bělorusko : oblast)",
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658|$$aŽytomyr (Ukrajina : oblast)$$7ge413901|$$aOvruč (Ukrajina : oblast)$$7ge1118728|$$aČernobyl (Ukrajina : oblast)$$7ge1118729|$$aMazyr (Bělorusko : oblast)$$7ge577267|$$aLojeŭ (Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -410,7 +410,7 @@
         "N43": "$$ae-rm---$$ae-bu---$$ae-rb---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Nagyszeben (Hermannstadt), Brassó (Kronstadt), Bukarest, Craiova, Vidin, Ruščuk.",
-        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458|$$aBrašov (Rumunsko : oblast)$$7ge385110|$$aBukurešť (Rumunsko : oblast)$$7ge856669|$$aKrajova (Rumunsko : oblast)|$$aVidin (Bulharsko : oblast)$$7ge749570|$$aRuse (Bulharsko : oblast)$$7ge681740",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458|$$aBrašov (Rumunsko : oblast)$$7ge385110|$$aBukurešť (Rumunsko : oblast)$$7ge856669|$$aKrajova (Rumunsko : oblast)$$7ge1118730|$$aVidin (Bulharsko : oblast)$$7ge749570|$$aRuse (Bulharsko : oblast)$$7ge681740",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -490,7 +490,7 @@
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---$$ae-pl---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Tarnopol, Brody, Stryj, Czernowitz.|Chust",
-        "N651": "$$aTernopil (Ukrajina : oblast)$$7ge1019128|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
+        "N651": "$$aTernopil (Ukrajina : oblast)$$7ge1019128|$$aBrody (Ukrajina : oblast)$$7ge828841|$$aStryj (Ukrajina : oblast)$$7ge1118731|$$aČernìvcì (Ukrajina : oblast)$$7ge828845|$$aChust (Ukrajina : oblast)$$7ge828869",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -570,7 +570,7 @@
         "N43": "$$ae-bw---$$ae-pl---$$ae-li---",
         "N80": "$$a913 (476)$$2MRF|$$a913(438)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "Wilna, Minsk, Grodno, Słonim.",
-        "N651": "$$aVilnius (Litva : oblast)$$7ge565125|$$aMinsk (Bělorusko : oblast)$$7ge492465|$$aGrodno (Bělorusko : oblast)$$7ge290473|$$aSlonim (Bělorusko : oblast)",
+        "N651": "$$aVilnius (Litva : oblast)$$7ge565125|$$aMinsk (Bělorusko : oblast)$$7ge492465|$$aGrodno (Bělorusko : oblast)$$7ge290473|$$aSlonim (Bělorusko : oblast)$$7ge1118732",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1250,7 +1250,7 @@
         "N43": "$$ae-ne---$$ae-dk---$$ae-gx---",
         "N80": "$$a913(492)$$2MRF|$$a913(489)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Amsterdam, Haag, Flensburg, Memel.",
-        "N651": "$$aAmsterdam (Nizozemsko : oblast)|$$aHaag (Nizozemsko : oblast)|$$aFlensburg (Německo : oblast)|$$aKlajpeda (Litva : oblast)$$7ge187278",
+        "N651": "$$aAmsterdam (Nizozemsko : oblast)$$7ge1118584|$$aHaag (Nizozemsko : oblast)$$7ge1118585|$$aFlensburg (Německo : oblast)$$7ge1118586|$$aKlajpeda (Litva : oblast)$$7ge187278",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1290,7 +1290,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Hamburg, Wilhelmshaven, Schleswig.",
-        "N651": "$$aHamburk (Německo : oblast)$$7ge679598|$$aWilhelmshaven (Německo : oblast)|$$aSchleswig (Německo : oblast)",
+        "N651": "$$aHamburk (Německo : oblast)$$7ge679598|$$aWilhelmshaven (Německo : oblast)$$7ge1118587|$$aSchleswig (Německo : oblast)$$7ge1118589",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1690,7 +1690,7 @@
         "N43": "$$ae-pl---$$ae-xr---",
         "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
         "N245A": "Posen, Glogau, Schweidnitz, Oppeln, Kalisz.|Trutnov|Poznaň, Hlohov, Svídnice, Opolí, Kalisz. (Posen, Glogau, Schweidnitz, Oppeln, Kalisz).",
-        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpole (Polsko : oblast)|$$aKalisz (Polsko : oblast)$$7ge367358|$$aTrutnov (Česko : oblast)$$7ge131134",
+        "N651": "$$aPoznaň (Polsko : oblast)$$7ge702209|$$aGłogów (Polsko : oblast)$$7ge117372|$$aSvídnice (Polsko : oblast)$$7ge343761|$$aOpolsko (Polsko)$$7ge130544|$$aKalisz (Polsko : oblast)$$7ge367358|$$aTrutnov (Česko : oblast)$$7ge131134",
         "POZNAMKA": ""
       },
       "geometry": {

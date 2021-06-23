@@ -610,7 +610,7 @@
         "N43": "$$ae-gx---$$ae-fr---",
         "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Karlsruhe",
-        "N651": "$$aKarlsruhe (Německo : oblast)",
+        "N651": "$$aKarlsruhe (Německo : oblast)$$7ge1117900",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -810,7 +810,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Giessen",
-        "N651": "$$aGiessen (Německo : oblast)",
+        "N651": "$$aGiessen (Německo : oblast)$$7ge1118602",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1410,7 +1410,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Slonim",
-        "N651": "$$aSlonim (Bělorusko : oblast)",
+        "N651": "$$aSlonim (Bělorusko : oblast)$$7ge1118732",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2130,7 +2130,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Ingolstadt",
-        "N651": "$$aIngolstadt (Německo : oblast)",
+        "N651": "$$aIngolstadt (Německo : oblast)$$7ge1118600",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2410,7 +2410,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Erfurt",
-        "N651": "$$aErfurt (Německo : oblast)",
+        "N651": "$$aErfurt (Německo : oblast)$$7ge1118601",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2530,7 +2530,7 @@
         "N43": "$$ae-mv---$$ae-rm---",
         "N80": "$$a913(478)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Kiszyniew",
-        "N651": "$$aKišiněv (Moldavsko : oblast)",
+        "N651": "$$aKišiněv (Moldavsko : oblast)$$7ge1118686",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2890,7 +2890,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Owrucz",
-        "N651": "$$aOvruč (Ukrajina : oblast)",
+        "N651": "$$aOvruč (Ukrajina : oblast)$$7ge1118728",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3450,7 +3450,7 @@
         "N43": "$$ae-gx---$$ae-pl---",
         "N80": "$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Frankfurt",
-        "N651": "$$aFrankfurt nad Odrou (Německo : oblast)",
+        "N651": "$$aFrankfurt nad Odrou (Německo : oblast)$$7ge1118605",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3570,7 +3570,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Pola|Pula",
-        "N651": "$$aPula (Chorvatsko : oblast)\n$$7ge828495",
+        "N651": "$$aPula (Chorvatsko : oblast)$$7ge828495",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3610,7 +3610,7 @@
         "N43": "$$ae-xv---$$ae-ci---$$ae-au---$$ae-it---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Laibach|Ljubljana",
-        "N651": "$$aLublaň (Slovinsko : oblast)\n$$7ge582052",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4090,7 +4090,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Czernobyl",
-        "N651": "$$aČernobyl (Ukrajina : oblast)",
+        "N651": "$$aČernobyl (Ukrajina : oblast)$$7ge1118729",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4330,7 +4330,7 @@
         "N43": "$$ae-ci---$$ae-xv---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Zagreb|Zágráb",
-        "N651": "$$aZáhřeb (Chorvatsko : oblast)\n$$7ge445597",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4850,7 +4850,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ascoli",
-        "N651": "$$aAscoli Piceno (Itálie : oblast)",
+        "N651": "$$aAscoli Piceno (Itálie : oblast)$$7ge1118675",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5050,7 +5050,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Wittenberge",
-        "N651": "$$aWittenberge (Německo : oblast)",
+        "N651": "$$aWittenberge (Německo : oblast)$$7ge1118741",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7010,7 +7010,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Braunschweig",
-        "N651": "$$aBraunschweig (Německo : oblast)",
+        "N651": "$$aBraunschweig (Německo : oblast)$$7ge1118608",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7090,7 +7090,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Ansbach",
-        "N651": "$$aAnsbach (Německo : oblast)",
+        "N651": "$$aAnsbach (Německo : oblast)$$7ge1118610",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7330,7 +7330,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Meiningen",
-        "N651": "$$aMeiningen (Německo : oblast)",
+        "N651": "$$aMeiningen (Německo : oblast)$$7ge1118611",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7530,7 +7530,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Braclaw",
-        "N651": "$$aBraclav (Ukrajina : oblast)",
+        "N651": "$$aBraclav (Ukrajina : oblast)$$7ge1118697",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8410,7 +8410,7 @@
         "N43": "$$ae-sz---$$ae-it---$$ae-lh---",
         "N80": "$$a913(494)$$2MRF|$$a913(450)$$2MRF|$$a913(494.9)$$2MRF",
         "N245A": "Chur",
-        "N651": "$$aChur (Švýcarsko : oblast)",
+        "N651": "$$aChur (Švýcarsko : oblast)$$7ge1118683",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8570,7 +8570,7 @@
         "N43": "$$ae-gx---$$ae-au---$$ae-sz---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Konstanz",
-        "N651": "$$aKostnice (Německo : oblast)",
+        "N651": "$$aKostnice (Německo : oblast)$$7ge1118592",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8610,7 +8610,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Aschaffenburg",
-        "N651": "$$aAschaffenburg (Německo : oblast)",
+        "N651": "$$aAschaffenburg (Německo : oblast)$$7ge1118599",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9010,7 +9010,7 @@
         "N43": "$$ae-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Gelibolu",
-        "N651": "$$aGallipoli (Turecko : oblast)",
+        "N651": "$$aGallipoli (Turecko : oblast)$$7ge1118678",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9330,7 +9330,7 @@
         "N43": "$$ae-rm---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Iasi",
-        "N651": "$$aJasy (Rumunsko : oblast)",
+        "N651": "$$aJasy (Rumunsko : oblast)$$7ge1118703",
         "POZNAMKA": ""
       },
       "geometry": {

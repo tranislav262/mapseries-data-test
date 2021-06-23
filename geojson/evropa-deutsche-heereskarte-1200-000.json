@@ -1441,7 +1441,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Meiningen",
-        "N651": "$$aMeiningen (Německo : oblast)"
+        "N651": "$$aMeiningen (Německo : oblast)$$7ge1118611"
       },
       "geometry": {
         "coordinates": [
@@ -2155,7 +2155,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Owrucz",
-        "N651": "$$aOvruč (Ukrajina : oblast)"
+        "N651": "$$aOvruč (Ukrajina : oblast)$$7ge1118728"
       },
       "geometry": {
         "coordinates": [
@@ -2239,7 +2239,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Czernobyl",
-        "N651": "$$aČernobyl (Ukrajina : oblast)"
+        "N651": "$$aČernobyl (Ukrajina : oblast)$$7ge1118729"
       },
       "geometry": {
         "coordinates": [
@@ -2323,7 +2323,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Aschaffenburg",
-        "N651": "$$aAschaffenburg (Německo : oblast)"
+        "N651": "$$aAschaffenburg (Německo : oblast)$$7ge1118599"
       },
       "geometry": {
         "coordinates": [
@@ -3331,7 +3331,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Ansbach",
-        "N651": "$$aAnsbach (Německo : oblast)"
+        "N651": "$$aAnsbach (Německo : oblast)$$7ge1118610"
       },
       "geometry": {
         "coordinates": [
@@ -3373,7 +3373,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Ingolstadt",
-        "N651": "$$aIngolstadt (Německo : oblast)"
+        "N651": "$$aIngolstadt (Německo : oblast)$$7ge1118600"
       },
       "geometry": {
         "coordinates": [
@@ -4129,7 +4129,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Braclaw",
-        "N651": "$$aBraclav (Ukrajina : oblast)"
+        "N651": "$$aBraclav (Ukrajina : oblast)$$7ge1118697"
       },
       "geometry": {
         "coordinates": [
@@ -4255,7 +4255,7 @@
         "N43": "$$ae-gx---$$ae-au---$$ae-sz---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF|$$a913(494.34)$$2MRF",
         "N245A": "Konstanz",
-        "N651": "$$aKostnice (Německo : oblast)"
+        "N651": "$$aKostnice (Německo : oblast)$$7ge1118592"
       },
       "geometry": {
         "coordinates": [
@@ -5221,7 +5221,7 @@
         "N43": "$$ae-sz---$$ae-au---$$ae-it---$$ae-lh---",
         "N80": "$$a913(494.34)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF|$$a913(494.9)$$2MRF",
         "N245A": "Chur",
-        "N651": "$$aChur (Švýcarsko : oblast)"
+        "N651": "$$aChur (Švýcarsko : oblast)$$7ge1118683"
       },
       "geometry": {
         "coordinates": [
@@ -5977,7 +5977,7 @@
         "N43": "$$ae-rm---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Iaşi ",
-        "N651": "$$aJasy (Rumunsko : oblast"
+        "N651": "$$aJasy (Rumunsko : oblast)$$7ge1118703"
       },
       "geometry": {
         "coordinates": [
@@ -6019,7 +6019,7 @@
         "N43": "$$ae-mv---$$ae-rm---",
         "N80": "$$a913(478)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Kiszyniew|Chişinău (Kischineff)",
-        "N651": "$$aKišiněv (Moldavsko : oblast)"
+        "N651": "$$aKišiněv (Moldavsko : oblast)$$7ge1118686"
       },
       "geometry": {
         "coordinates": [
@@ -6397,7 +6397,7 @@
         "N43": "$$ae-xv---$$ae-ci---$$ae-au---$$ae-it---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Ljubljana (Laibach)",
-        "N651": "$$aLublaň (Slovinsko : oblast)\n$$7ge582052"
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052"
       },
       "geometry": {
         "coordinates": [
@@ -6439,7 +6439,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Cilli",
-        "N651": "$$aCelje (Slovinsko : oblast)\n$$7ge856361"
+        "N651": "$$aCelje (Slovinsko : oblast)$$7ge856361"
       },
       "geometry": {
         "coordinates": [
@@ -6481,7 +6481,7 @@
         "N43": "$$ae-ci---$$ae-xv---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Zagreb (Agram)",
-        "N651": "$$aZáhřeb (Chorvatsko : oblast)\n$$7ge445597"
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
       "geometry": {
         "coordinates": [
@@ -7405,7 +7405,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Pola",
-        "N651": "$$aPula (Chorvatsko : oblast)\n$$7ge828495"
+        "N651": "$$aPula (Chorvatsko : oblast)$$7ge828495"
       },
       "geometry": {
         "coordinates": [
@@ -7447,7 +7447,7 @@
         "N43": "$$ae-ci---$$ae-xv---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Senj",
-        "N651": "$$aSenj (Chorvatsko : oblast)\n$$7ge856358"
+        "N651": "$$aSenj (Chorvatsko : oblast)$$7ge856358"
       },
       "geometry": {
         "coordinates": [
@@ -8413,7 +8413,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "Zara",
-        "N651": "$$aZadar (Chorvatsko : oblast)\n$$7xx0160293"
+        "N651": "$$aZadar (Chorvatsko : oblast)$$7xx0160293"
       },
       "geometry": {
         "coordinates": [
@@ -8455,7 +8455,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Spalato",
-        "N651": "$$aSplit (Chorvatsko : oblast)\n$$7ge856365"
+        "N651": "$$aSplit (Chorvatsko : oblast)$$7ge856365"
       },
       "geometry": {
         "coordinates": [
@@ -9127,7 +9127,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ascoli",
-        "N651": "$$aAscoli Piceno (Itálie : oblast)"
+        "N651": "$$aAscoli Piceno (Itálie : oblast)$$7ge1118675"
       },
       "geometry": {
         "coordinates": [

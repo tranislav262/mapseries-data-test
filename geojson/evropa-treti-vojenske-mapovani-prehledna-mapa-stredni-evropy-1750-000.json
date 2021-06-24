@@ -50,7 +50,7 @@
         "N43": "$$ae-gr---$$aa-tu---$$ae-bu---",
         "N80": "$$a913(495)\n$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Konstantinopel, Šumla, Adrianopel, Dimotika.",
-        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578|$$aŠumen (Bulharsko : oblast)$$7ge746648|$$aEdirne (Turecko : oblast)$$7ge746652|$$aDidymoteicho (Řecko : oblast)",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578|$$aŠumen (Bulharsko : oblast)$$7ge746648|$$aEdirne (Turecko : oblast)$$7ge746652|$$aDidymoteicho (Řecko : oblast)$$7ge1118768",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -90,7 +90,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
-        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)$$7ge1118695|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)",
+        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)$$7ge1118695|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)$$7ge1118754",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -330,7 +330,7 @@
         "N43": "$$ae-gr---$$ae-xn---$$ae-bu---$$aa-tu---",
         "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Saloniki, Seres, Xanthi, Kastro, Pharsalos.",
-        "N651": "$$aSoluň (Řecko : oblast)$$7ge826145|$$aSérrai (Řecko : oblast)|$$aXanthé (Řecko : oblast)|$$a$$7|$$aMyrina (Řecko : oblast)|$$aFársala (Řecko : oblast)",
+        "N651": "$$aSoluň (Řecko : oblast)$$7ge826145|$$aSérrai (Řecko : oblast)|$$aXanthé (Řecko : oblast)$$7ge1118790|$$aMyrina (Řecko : oblast)|$$aFársala (Řecko : oblast)$$7ge1118843",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1330,7 +1330,7 @@
         "N43": "$$ae-aa---$$ae-mo---$$ae-rb---$$ae-xn---$$ae-bu---$$ae-bn---$$ae-kv---",
         "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.115)$$2MRF",
         "N245A": "Veles, Priština, Scutari.",
-        "N651": "$$aVeles (Makedonie : oblast)|$$aPriština (Kosovo : oblast)$$7ge856412|$$aShkodër (Albánie : oblast)",
+        "N651": "$$aVeles (Makedonie : oblast)$$7ge1118782|$$aPriština (Kosovo : oblast)$$7ge856412|$$aShkodër (Albánie : oblast)$$7ge1118777",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1450,7 +1450,7 @@
         "N43": "$$ae-bn---$$ae-ci---$$ae-xv---$$ae-hu---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Zagreb, Brod, Osijek, Glina, Knin, Sarajevo.",
-        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)|$$aGlina (Chorvatsko : oblast)|$$aKnin (Chorvatsko : oblast)$$7ge336617|$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597|$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044|$$aOsijek (Chorvatsko : oblast)$$7ge1118845|$$aGlina (Chorvatsko : oblast)$$7ge1118847|$$aKnin (Chorvatsko : oblast)$$7ge336617|$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1570,7 +1570,7 @@
         "N43": "$$ae-hu---$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Krakau, Przemyśl, Jaroslau, Kaschau, Leutschau|Užhorod|Krakau, Przemyśl, Jaroslau, Kassa, Lőcse.",
-        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258|$$aPrzemyśl (Polsko : oblast)$$7ge130543|$$aJarosław (Polsko : oblast)|$$aKošice (Slovensko : oblast)$$7ge189287|$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aUžhorod (Ukrajina : oblast)$$7ge784174",
+        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258|$$aPrzemyśl (Polsko : oblast)$$7ge130543|$$aJarosław (Polsko : oblast)$$7ge1118786|$$aKošice (Slovensko : oblast)$$7ge189287|$$aLevoča (Slovensko : oblast)$$7xx0092932|$$aUžhorod (Ukrajina : oblast)$$7ge784174",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1850,7 +1850,7 @@
         "N43": "$$ae-ru---$$ae-li---$$ae-lv---",
         "N80": "$$a913(470-15)$$2MRF|$$a913(474.5)$$2MRF|$$a913(474.3)$$2MRF",
         "N245A": "Riga, Libau, Memel, Kowno.",
-        "N651": "$$aRiga (Lotyšsko : oblast)|$$aLiepāja (Lotyšsko : oblast)|$$aKlajpeda (Litva : oblast)$$7ge187278|$$aKaunas (Litva : oblast)$$7ge624716",
+        "N651": "$$aRiga (Lotyšsko : oblast)$$7ge1118766|$$aLiepāja (Lotyšsko : oblast)$$7ge1118775|$$aKlajpeda (Litva : oblast)$$7ge187278|$$aKaunas (Litva : oblast)$$7ge624716",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1890,7 +1890,7 @@
         "N43": "$$ae-lv---$$ae-ru---$$ae-er---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(470-15)$$2MRF|$$a913(474.2)$$2MRF",
         "N245A": "Dorpat, Pskow, Ostrow.",
-        "N651": "$$aTartu (Estonsko : oblast)|$$aPskov (Rusko : oblast)$$7ge327454|$$aOstrov (Pskovská oblast, Rusko : oblast)",
+        "N651": "$$aTartu (Estonsko : oblast)$$7ge1118765|$$aPskov (Rusko : oblast)$$7ge327454|$$aOstrov (Pskovská oblast, Rusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1930,7 +1930,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470-15)$$2MRF",
         "N245A": "Nowgorod, Str. Russa, Ostaszkow.",
-        "N651": "$$aNovgorod (Rusko : oblast)$$7ge590304|$$aStaraja Russa (Rusko : oblast)|$$aOstashkov (Rusko : oblast)",
+        "N651": "$$aNovgorod (Rusko : oblast)$$7ge590304|$$aStaraja Russa (Rusko : oblast)$$7ge1118850|$$aOstashkov (Rusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1970,7 +1970,7 @@
         "N43": "$$ae-lv---$$ae-li---$$ae-bw---$$ae-ru---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
         "N245A": "Dwinsk (Dünaburg), Friedrichstadt.",
-        "N651": "$$aDaugavpils (Lotyšsko : oblast)|$$aJaunjelgava (Lotyšsko : oblast)",
+        "N651": "$$aDaugavpils (Lotyšsko : oblast)$$7ge1118756|$$aJaunjelgava (Lotyšsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2050,7 +2050,7 @@
         "N43": "$$ae-er---$$ae-fi---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Tammerfors, Helsingfors, Reval.",
-        "N651": "$$aTampere (Finsko : oblast)|$$aHelsinky (Finsko : oblast)|$$aTallinn (Estonsko : oblast)",
+        "N651": "$$aTampere (Finsko : oblast)$$7ge1118758|$$aHelsinky (Finsko : oblast)$$7ge1118759|$$aTallinn (Estonsko : oblast)$$7ge1118760",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2090,7 +2090,7 @@
         "N43": "$$ae-er---$$ae-fi---$$ae-ru---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF|$$a913(470-15)$$2MRF",
         "N245A": "Kronstadt, Wiborg, Wesenberg.",
-        "N651": "$$aKronštadt (Rusko : oblast)|$$aVyborg (Rusko : oblast)|$$aRakvere (Estonsko : oblast)",
+        "N651": "$$aKronštadt (Rusko : oblast)$$7ge1118767|$$aVyborg (Rusko : oblast)|$$aRakvere (Estonsko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {

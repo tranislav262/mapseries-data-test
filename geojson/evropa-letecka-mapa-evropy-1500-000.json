@@ -2688,10 +2688,10 @@
         "SHEET": "NE 36/26",
         "TITLE": "Rodi (Rhodes)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Rodi (Rhodes)",
-        "N651": ""
+        "N651": "$$aRhodos (Řecko : ostrov)$$7ge128562"
       },
       "geometry": {
         "coordinates": [
@@ -2728,10 +2728,10 @@
         "SHEET": "NE 38/26",
         "TITLE": "Izmir",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Izmir|Smyrna",
-        "N651": ""
+        "N651": "$$aIzmir (Turecko : oblast)$$7ge619422"
       },
       "geometry": {
         "coordinates": [
@@ -2768,10 +2768,10 @@
         "SHEET": "NE 40/26",
         "TITLE": "Istanbul",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Istanbul",
-        "N651": ""
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578"
       },
       "geometry": {
         "coordinates": [
@@ -2848,10 +2848,10 @@
         "SHEET": "NE 44/26",
         "TITLE": "Bucurest",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Bucurest",
-        "N651": ""
+        "N651": "$$aBukurešť (Rumunsko : oblast)$$7ge856669"
       },
       "geometry": {
         "coordinates": [
@@ -2888,10 +2888,10 @@
         "SHEET": "NE 46/26",
         "TITLE": "Chisinau",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-mv---",
+        "N80": "$$a913(478)$$2MRF",
         "N245A": "Chisinau",
-        "N651": ""
+        "N651": "$$aKišiněv (Moldavsko : oblast)$$7ge1118686"
       },
       "geometry": {
         "coordinates": [
@@ -2928,10 +2928,10 @@
         "SHEET": "NE 48/26",
         "TITLE": "Vinnitsa",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Vinnitsa",
-        "N651": ""
+        "N651": "$$aVìnnycja (Ukrajina : oblast)$$7ge553113"
       },
       "geometry": {
         "coordinates": [
@@ -2968,10 +2968,10 @@
         "SHEET": "NE 50/26",
         "TITLE": "Zhitomir",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Zhitomir",
-        "N651": ""
+        "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901"
       },
       "geometry": {
         "coordinates": [
@@ -3008,10 +3008,10 @@
         "SHEET": "NE 52/26",
         "TITLE": "Minsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Minsk",
-        "N651": ""
+        "N651": "$$aMinsk (Bělorusko : oblast)$$7ge492465"
       },
       "geometry": {
         "coordinates": [
@@ -3048,10 +3048,10 @@
         "SHEET": "NE 54/26",
         "TITLE": "Polotsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Polotsk",
-        "N651": ""
+        "N651": "$$aPolack (Bělorusko : oblast)$$7ge579982"
       },
       "geometry": {
         "coordinates": [
@@ -3088,10 +3088,10 @@
         "SHEET": "NE 44/30",
         "TITLE": "Sevastopol",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Sevastopol",
-        "N651": ""
+        "N651": "$$aSevastopol (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3128,10 +3128,10 @@
         "SHEET": "NE 46/30",
         "TITLE": "Odessa",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Odessa",
-        "N651": ""
+        "N651": "$$aOděsa (Ukrajina : oblast)$$7ge491047"
       },
       "geometry": {
         "coordinates": [
@@ -3168,10 +3168,10 @@
         "SHEET": "NE 48/30",
         "TITLE": "Kirovograd",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kirovograd",
-        "N651": ""
+        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3208,10 +3208,10 @@
         "SHEET": "NE 50/30",
         "TITLE": "Kiev",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kiev",
-        "N651": ""
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658"
       },
       "geometry": {
         "coordinates": [
@@ -3248,10 +3248,10 @@
         "SHEET": "NE 52/30",
         "TITLE": "Gomel",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Gomel",
-        "N651": ""
+        "N651": "$$aHomel (Bělorusko : oblast)$$7ge563483"
       },
       "geometry": {
         "coordinates": [
@@ -3288,10 +3288,10 @@
         "SHEET": "NE 54/30",
         "TITLE": "Vitebsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Vitebsk",
-        "N651": ""
+        "N651": "$$aVitebsk (Bělorusko : oblast)$$7ge424527"
       },
       "geometry": {
         "coordinates": [
@@ -3328,10 +3328,10 @@
         "SHEET": "NE 44/34",
         "TITLE": "Kerch",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kerch",
-        "N651": ""
+        "N651": "$$aKerč (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3368,10 +3368,10 @@
         "SHEET": "NE 46/34",
         "TITLE": "Stalino",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Stalino",
-        "N651": ""
+        "N651": "$$aDoněck (Ukrajina : oblast)$$7ge1031560"
       },
       "geometry": {
         "coordinates": [
@@ -3408,10 +3408,10 @@
         "SHEET": "NE 48/34",
         "TITLE": "Kharkov",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kharkov",
-        "N651": ""
+        "N651": "$$aCharkov (Ukrajina : oblast)$$7ge560253"
       },
       "geometry": {
         "coordinates": [
@@ -3448,10 +3448,10 @@
         "SHEET": "NE 50/34",
         "TITLE": "Kursk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Kursk",
-        "N651": ""
+        "N651": "$$aKursk (Rusko : oblast)$$7ge129715"
       },
       "geometry": {
         "coordinates": [
@@ -3488,10 +3488,10 @@
         "SHEET": "NE 52/34",
         "TITLE": "Bryansk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Bryansk",
-        "N651": ""
+        "N651": "$$aBrjansk (Rusko : oblast)$$7ge128621"
       },
       "geometry": {
         "coordinates": [
@@ -3528,10 +3528,10 @@
         "SHEET": "NE 54/34",
         "TITLE": "Moscow",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Moscow",
-        "N651": ""
+        "N651": "$$aMoskva (Rusko : oblast)$$7ge130102"
       },
       "geometry": {
         "coordinates": [
@@ -3568,10 +3568,10 @@
         "SHEET": "NE 36/12",
         "TITLE": "Sicilia",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Sicilia",
-        "N651": ""
+        "N651": "$$aSicílie (Itálie)$$7ge130805"
       },
       "geometry": {
         "coordinates": [
@@ -3608,10 +3608,10 @@
         "SHEET": "NE 34/23,33333",
         "TITLE": "Crete",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Crete",
-        "N651": ""
+        "N651": "$$aKréta (Řecko : ostrov)$$7ge134296"
       },
       "geometry": {
         "coordinates": [
@@ -3648,10 +3648,10 @@
         "SHEET": "NW 46,33333/5,5",
         "TITLE": "Brest",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Brest",
-        "N651": ""
+        "N651": "$$aBrest (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3688,10 +3688,10 @@
         "SHEET": "NW 51,5/11",
         "TITLE": "Ireland South",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ie---",
+        "N80": "$$a913(417)$$2MRF",
         "N245A": "Ireland South",
-        "N651": ""
+        "N651": "$$aIrsko$$7ge130752"
       },
       "geometry": {
         "coordinates": [
@@ -3728,10 +3728,10 @@
         "SHEET": "NW 53,5/11",
         "TITLE": "Ireland North",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ie---",
+        "N80": "$$a913(417)$$2MRF",
         "N245A": "Ireland North",
-        "N651": ""
+        "N651": "$$aIrsko$$7ge130752"
       },
       "geometry": {
         "coordinates": [
@@ -3768,10 +3768,10 @@
         "SHEET": "NE 56/8",
         "TITLE": "Aalborg",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
         "N245A": "Aalborg",
-        "N651": ""
+        "N651": "$$a Aalborg (Dánsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3808,10 +3808,10 @@
         "SHEET": "NE 56/14",
         "TITLE": "Karlskrona",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Karlskrona",
-        "N651": ""
+        "N651": "$$aKarlskrona (Švédsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3848,10 +3848,10 @@
         "SHEET": "NE 56/20",
         "TITLE": "Riga",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-lv---",
+        "N80": "$$a913(474.3)$$2MRF",
         "N245A": "Riga",
-        "N651": ""
+        "N651": "$$aRiga (Lotyšsko : oblast)$$7ge1118766"
       },
       "geometry": {
         "coordinates": [
@@ -3888,10 +3888,10 @@
         "SHEET": "NE 56/26",
         "TITLE": "Pskov",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Pskov",
-        "N651": ""
+        "N651": "$$aPskov (Rusko : oblast)$$7ge327454"
       },
       "geometry": {
         "coordinates": [
@@ -3928,10 +3928,10 @@
         "SHEET": "NE 58/4",
         "TITLE": "Stavanger",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Stavanger",
-        "N651": ""
+        "N651": "$$aStavanger (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3968,10 +3968,10 @@
         "SHEET": "NE 58/10",
         "TITLE": "Oslo",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Oslo",
-        "N651": ""
+        "N651": "$$aOslo (Norsko : oblast)$$7ge807955"
       },
       "geometry": {
         "coordinates": [
@@ -4008,10 +4008,10 @@
         "SHEET": "NE 58/16",
         "TITLE": "Stockholm",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Stockholm",
-        "N651": ""
+        "N651": "$$aStockholm (Švédsko : oblast)$$7ge379296"
       },
       "geometry": {
         "coordinates": [
@@ -4064,10 +4064,10 @@
         "SHEET": "NE 58/22",
         "TITLE": "Tallinn",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-er---",
+        "N80": "$$a913(474.2)$$2MRF",
         "N245A": "Tallinn",
-        "N651": ""
+        "N651": "$$aTallinn (Estonsko : oblast)$$7ge1118760"
       },
       "geometry": {
         "coordinates": [
@@ -4104,10 +4104,10 @@
         "SHEET": "NE 60/4",
         "TITLE": "Bergen",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Bergen",
-        "N651": ""
+        "N651": "$$aBergen (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4144,10 +4144,10 @@
         "SHEET": "NE 62/5",
         "TITLE": "Trondhjem",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Trondhjem",
-        "N651": ""
+        "N651": "$$aTrondheim (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4184,10 +4184,10 @@
         "SHEET": "NE 64/9",
         "TITLE": "Namsos",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Namsos",
-        "N651": ""
+        "N651": "$$aNamsos (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4224,10 +4224,10 @@
         "SHEET": "NE 66/11",
         "TITLE": "Bodo",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Bodo",
-        "N651": ""
+        "N651": "$$aBodø (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4264,10 +4264,10 @@
         "SHEET": "NE 68/12",
         "TITLE": "Narvik",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Narvik",
-        "N651": ""
+        "N651": "$$aNarvik (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4304,10 +4304,10 @@
         "SHEET": "NE 69/20",
         "TITLE": "Nordkap",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Nordkap",
-        "N651": ""
+        "N651": "$$aSeverní mys (Norsko)$$7ge559286"
       },
       "geometry": {
         "coordinates": [

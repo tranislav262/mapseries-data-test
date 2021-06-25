@@ -48,10 +48,10 @@
         "SHEET": "NW 36/6",
         "TITLE": "Gibraltar",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gi---",
+        "N80": "$$a913(468.2)$$2MRF",
         "N245A": "Gibraltar",
-        "N651": ""
+        "N651": "$$aGibraltar$$7ge562690"
       },
       "geometry": {
         "coordinates": [
@@ -88,10 +88,10 @@
         "SHEET": "NW 36/2",
         "TITLE": "Cartagena",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Cartagena",
-        "N651": ""
+        "N651": "$$aCartagena (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -131,7 +131,7 @@
         "N43": "$$ae-",
         "N80": "",
         "N245A": "Lisboa",
-        "N651": ""
+        "N651": "$$aLisabon (Portugalsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -168,10 +168,10 @@
         "SHEET": "NW 38/6",
         "TITLE": "Toledo",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Toledo",
-        "N651": ""
+        "N651": "$$aToledo (Španělsko : oblast)$$7ge131091"
       },
       "geometry": {
         "coordinates": [
@@ -211,7 +211,7 @@
         "N43": "$$ae-",
         "N80": "",
         "N245A": "Porto",
-        "N651": ""
+        "N651": "$$aPorto (Portugalsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -248,10 +248,10 @@
         "SHEET": "NW 42/10",
         "TITLE": "La Coruna",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "La Coruna",
-        "N651": ""
+        "N651": "$$aLa Coruña (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -288,10 +288,10 @@
         "SHEET": "NW 40/6",
         "TITLE": "Madrid",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Madrid",
-        "N651": ""
+        "N651": "$$aMadrid (Španělsko : oblast)$$7ge292970"
       },
       "geometry": {
         "coordinates": [
@@ -328,10 +328,10 @@
         "SHEET": "NW 42/6",
         "TITLE": "Bilbao",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
-        "N245A": "Bilbao",
-        "N651": ""
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
+        "N245A": "Bilbao ",
+        "N651": "$$aBilbao (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -368,10 +368,10 @@
         "SHEET": "NW 38/2",
         "TITLE": "Valencia",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Valencia",
-        "N651": ""
+        "N651": "$$aValencie (Španělsko : oblast)$$7ge250317"
       },
       "geometry": {
         "coordinates": [
@@ -408,10 +408,10 @@
         "SHEET": "NW 40/2",
         "TITLE": "Zaragoza",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Zaragoza",
-        "N651": ""
+        "N651": "$$aZaragoza (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -448,10 +448,10 @@
         "SHEET": "NW 42/2",
         "TITLE": "Toulouse",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Toulouse",
-        "N651": ""
+        "N651": "$$aToulouse (Francie : oblast)$$7ge131101"
       },
       "geometry": {
         "coordinates": [
@@ -488,10 +488,10 @@
         "SHEET": "NW 44/2",
         "TITLE": "Bordeaux",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Bordeaux",
-        "N651": ""
+        "N651": "$$aBordeaux (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -528,10 +528,10 @@
         "SHEET": "NW 46/2",
         "TITLE": "Nantes",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Nantes",
-        "N651": ""
+        "N651": "$$aNantes (Francie : oblast)$$7ge130142"
       },
       "geometry": {
         "coordinates": [
@@ -608,10 +608,10 @@
         "SHEET": "NE 38/2",
         "TITLE": "Mallorca",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460.32)$$2MRF",
         "N245A": "Mallorca",
-        "N651": ""
+        "N651": "$$aMallorca (Baleáry : ostrov)$$7ge129938"
       },
       "geometry": {
         "coordinates": [
@@ -648,10 +648,10 @@
         "SHEET": "NE 40/2",
         "TITLE": "Barcelona",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sp---",
+        "N80": "$$a913(460)$$2MRF",
         "N245A": "Barcelona",
-        "N651": ""
+        "N651": "$$aBarcelona (Španělsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -688,10 +688,10 @@
         "SHEET": "NE 42/2",
         "TITLE": "Marseille",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Marseille",
-        "N651": ""
+        "N651": "$$aMarseille (Francie : oblast)$$7ge1118439"
       },
       "geometry": {
         "coordinates": [
@@ -728,10 +728,10 @@
         "SHEET": "NE 44/2",
         "TITLE": "Lyon",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Lyon",
-        "N651": ""
+        "N651": "$$aLyon (Francie : oblast)$$7ge1118456"
       },
       "geometry": {
         "coordinates": [
@@ -768,10 +768,10 @@
         "SHEET": "NE 46/2",
         "TITLE": "Dijon",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Dijon",
-        "N651": ""
+        "N651": "$$aDijon (Francie : oblast)$$7ge1118894"
       },
       "geometry": {
         "coordinates": [
@@ -808,10 +808,10 @@
         "SHEET": "NE 48/2",
         "TITLE": "Paris",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Paris",
-        "N651": ""
+        "N651": "$$aPaříž (Francie : oblast)$$7ge130381"
       },
       "geometry": {
         "coordinates": [
@@ -848,10 +848,10 @@
         "SHEET": "NE 38/6",
         "TITLE": "Cagliari",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Cagliari",
-        "N651": ""
+        "N651": "$$aCagliari (Itálie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -888,10 +888,10 @@
         "SHEET": "NE 40/6",
         "TITLE": "Ajaccio",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Ajaccio",
-        "N651": ""
+        "N651": "$$aAjaccio (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -928,10 +928,10 @@
         "SHEET": "NE 42/6",
         "TITLE": "Nice",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Nice",
-        "N651": ""
+        "N651": "$$aNice (Francie : oblast)$$7ge1117958"
       },
       "geometry": {
         "coordinates": [
@@ -968,10 +968,10 @@
         "SHEET": "NE 44/6",
         "TITLE": "Torino",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Torino",
-        "N651": ""
+        "N651": "$$aTurín (Itálie : oblast)$$7ge572776"
       },
       "geometry": {
         "coordinates": [
@@ -1008,10 +1008,10 @@
         "SHEET": "NE 46/6",
         "TITLE": "Berne",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sz---",
+        "N80": "$$a913(494.24)$$2MRF",
         "N245A": "Berne",
-        "N651": ""
+        "N651": "$$aBern (Švýcarsko : oblast)$$7ge663866"
       },
       "geometry": {
         "coordinates": [
@@ -1051,7 +1051,7 @@
         "N43": "$$ae-fr---$$ae-gx---$$ae-lu---$$ae-be---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Strasbourg",
-        "N651": "$$aŠtrasburk (Francie : oblast)"
+        "N651": "$$aŠtrasburk (Francie : oblast)$$7ge1117957"
       },
       "geometry": {
         "coordinates": [
@@ -1088,10 +1088,10 @@
         "SHEET": "NE 50/6",
         "TITLE": "Frankfurt",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.121)$$2MRF",
         "N245A": "Frankfurt",
-        "N651": ""
+        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)$$7ge1118993"
       },
       "geometry": {
         "coordinates": [
@@ -1128,10 +1128,10 @@
         "SHEET": "NE 52/6",
         "TITLE": "Bremen",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.115)$$2MRF",
         "N245A": "Bremen",
-        "N651": ""
+        "N651": "$$aBrémy (Německo : oblast)$$7ge752606"
       },
       "geometry": {
         "coordinates": [
@@ -1168,10 +1168,10 @@
         "SHEET": "NE 54/6",
         "TITLE": "Flensburg",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.111)$$2MRF",
         "N245A": "Flensburg",
-        "N651": ""
+        "N651": "$$aFlensburg (Německo : oblast)$$7ge1118586"
       },
       "geometry": {
         "coordinates": [
@@ -1211,7 +1211,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Roma",
-        "N651": "$$aŘím (Itálie : oblast)"
+        "N651": "$$aŘím (Itálie : oblast)$$7ge1087247"
       },
       "geometry": {
         "coordinates": [
@@ -1251,7 +1251,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Firenze",
-        "N651": "$$aFlorencie (Itálie : oblast)"
+        "N651": "$$aFlorencie (Itálie : oblast)$$7ge1117881"
       },
       "geometry": {
         "coordinates": [
@@ -1331,7 +1331,7 @@
         "N43": "$$ae-it---$$ae-au---$$ae-gx---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bolzano",
-        "N651": "$$aBolzano (Itálie : oblast)"
+        "N651": "$$aBolzano (Itálie : oblast)$$7ge1093433"
       },
       "geometry": {
         "coordinates": [
@@ -1448,10 +1448,10 @@
         "SHEET": "NE 52/10",
         "TITLE": "Berlin",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.131)$$2MRF",
         "N245A": "Berlin",
-        "N651": ""
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750"
       },
       "geometry": {
         "coordinates": [
@@ -1488,10 +1488,10 @@
         "SHEET": "NE 54/10",
         "TITLE": "Kiel",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.111)$$2MRF",
         "N245A": "Kiel",
-        "N651": ""
+        "N651": "$$aKiel (Německo : oblast)$$7ge1118994"
       },
       "geometry": {
         "coordinates": [
@@ -1528,10 +1528,10 @@
         "SHEET": "NE 38/14",
         "TITLE": "Messina",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Messina",
-        "N651": ""
+        "N651": "$$aMessina (Itálie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -1848,10 +1848,10 @@
         "SHEET": "NE 54/14",
         "TITLE": "Kolberg",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Kolberg",
-        "N651": ""
+        "N651": "$$aKołobrzeg (Polsko : oblast)$$7ge570347"
       },
       "geometry": {
         "coordinates": [
@@ -1888,10 +1888,10 @@
         "SHEET": "NE 36/18",
         "TITLE": "Zakynthos (Zante)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Zakynthos (Zante)",
-        "N651": ""
+        "N651": "$$aZakynthos (Řecko : ostrov)$$7ge129021"
       },
       "geometry": {
         "coordinates": [
@@ -1928,10 +1928,10 @@
         "SHEET": "NE 38/18",
         "TITLE": "Kerkyra (Corfu)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Kerkyra (Corfu)",
-        "N651": ""
+        "N651": "$$aKorfu (Řecko : ostrov)$$7ge138038"
       },
       "geometry": {
         "coordinates": [
@@ -1968,10 +1968,10 @@
         "SHEET": "NE 40/18",
         "TITLE": "Tirana",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-aa---",
+        "N80": "$$a913(496.5)$$2MRF",
         "N245A": "Tirana",
-        "N651": ""
+        "N651": "$$aTirana (Albánie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -2008,10 +2008,10 @@
         "SHEET": "NE 42/18",
         "TITLE": "Shkodra (Scutari)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-aa---",
+        "N80": "$$a913(496.5)$$2MRF",
         "N245A": "Shkodra (Scutari)",
-        "N651": ""
+        "N651": "$$aShkodër (Albánie : oblast)$$7ge1118777"
       },
       "geometry": {
         "coordinates": [
@@ -2209,7 +2209,7 @@
         "TITLE": "Warszawa",
         "SCALE": "500000",
         "N43": "$$ae-pl---",
-        "N80": "$$a913(438.111)$$2MRF",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Warszawa",
         "N651": "$$aVaršava (Polsko : oblast)$$7ge217232"
       },
@@ -2248,10 +2248,10 @@
         "SHEET": "NE 54/18",
         "TITLE": "Danzig",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Danzig",
-        "N651": ""
+        "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456"
       },
       "geometry": {
         "coordinates": [
@@ -2288,10 +2288,10 @@
         "SHEET": "NE 36/22",
         "TITLE": "Athinai (Athens)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Athinai (Athens)",
-        "N651": ""
+        "N651": "$$aAthény (Řecko : oblast)$$7ge254928"
       },
       "geometry": {
         "coordinates": [
@@ -2328,10 +2328,10 @@
         "SHEET": "NE 38/22",
         "TITLE": "Volos",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Volos",
-        "N651": ""
+        "N651": "$$aVolos (Řecko : oblast)$$7ge1118774"
       },
       "geometry": {
         "coordinates": [
@@ -2368,10 +2368,10 @@
         "SHEET": "NE 40/22",
         "TITLE": "Thessalonike",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Thessalonike",
-        "N651": ""
+        "N651": "$$aSoluň (Řecko : oblast)$$7ge826145"
       },
       "geometry": {
         "coordinates": [
@@ -2608,10 +2608,10 @@
         "SHEET": "NE 52/22",
         "TITLE": "Bialystok",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Bialystok",
-        "N651": ""
+        "N651": "$$aBiałystok (Polsko : oblast)$$7ge189073"
       },
       "geometry": {
         "coordinates": [
@@ -2648,10 +2648,10 @@
         "SHEET": "NE 54/22",
         "TITLE": "Kaunas (Kovno)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-li---",
+        "N80": "$$a913(474.5)$$2MRF",
         "N245A": "Kaunas (Kovno)",
-        "N651": ""
+        "N651": "$$aKaunas (Litva : oblast)$$7ge624716"
       },
       "geometry": {
         "coordinates": [
@@ -2688,10 +2688,10 @@
         "SHEET": "NE 36/26",
         "TITLE": "Rodi (Rhodes)",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Rodi (Rhodes)",
-        "N651": ""
+        "N651": "$$aRhodos (Řecko : ostrov)$$7ge128562"
       },
       "geometry": {
         "coordinates": [
@@ -2728,10 +2728,10 @@
         "SHEET": "NE 38/26",
         "TITLE": "Izmir",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Izmir|Smyrna",
-        "N651": ""
+        "N651": "$$aIzmir (Turecko : oblast)$$7ge619422"
       },
       "geometry": {
         "coordinates": [
@@ -2768,10 +2768,10 @@
         "SHEET": "NE 40/26",
         "TITLE": "Istanbul",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$aa-tu---",
+        "N80": "$$a913(560)$$2MRF",
         "N245A": "Istanbul",
-        "N651": ""
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578"
       },
       "geometry": {
         "coordinates": [
@@ -2848,10 +2848,10 @@
         "SHEET": "NE 44/26",
         "TITLE": "Bucurest",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-rm---",
+        "N80": "$$a913(498)$$2MRF",
         "N245A": "Bucurest",
-        "N651": ""
+        "N651": "$$aBukurešť (Rumunsko : oblast)$$7ge856669"
       },
       "geometry": {
         "coordinates": [
@@ -2888,10 +2888,10 @@
         "SHEET": "NE 46/26",
         "TITLE": "Chisinau",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-mv---",
+        "N80": "$$a913(478)$$2MRF",
         "N245A": "Chisinau",
-        "N651": ""
+        "N651": "$$aKišiněv (Moldavsko : oblast)$$7ge1118686"
       },
       "geometry": {
         "coordinates": [
@@ -2928,10 +2928,10 @@
         "SHEET": "NE 48/26",
         "TITLE": "Vinnitsa",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Vinnitsa",
-        "N651": ""
+        "N651": "$$aVìnnycja (Ukrajina : oblast)$$7ge553113"
       },
       "geometry": {
         "coordinates": [
@@ -2968,10 +2968,10 @@
         "SHEET": "NE 50/26",
         "TITLE": "Zhitomir",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Zhitomir",
-        "N651": ""
+        "N651": "$$aŽytomyr (Ukrajina : oblast)$$7ge413901"
       },
       "geometry": {
         "coordinates": [
@@ -3008,10 +3008,10 @@
         "SHEET": "NE 52/26",
         "TITLE": "Minsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Minsk",
-        "N651": ""
+        "N651": "$$aMinsk (Bělorusko : oblast)$$7ge492465"
       },
       "geometry": {
         "coordinates": [
@@ -3048,10 +3048,10 @@
         "SHEET": "NE 54/26",
         "TITLE": "Polotsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Polotsk",
-        "N651": ""
+        "N651": "$$aPolack (Bělorusko : oblast)$$7ge579982"
       },
       "geometry": {
         "coordinates": [
@@ -3088,10 +3088,10 @@
         "SHEET": "NE 44/30",
         "TITLE": "Sevastopol",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Sevastopol",
-        "N651": ""
+        "N651": "$$aSevastopol (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3128,10 +3128,10 @@
         "SHEET": "NE 46/30",
         "TITLE": "Odessa",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Odessa",
-        "N651": ""
+        "N651": "$$aOděsa (Ukrajina : oblast)$$7ge491047"
       },
       "geometry": {
         "coordinates": [
@@ -3168,10 +3168,10 @@
         "SHEET": "NE 48/30",
         "TITLE": "Kirovograd",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kirovograd",
-        "N651": ""
+        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3208,10 +3208,10 @@
         "SHEET": "NE 50/30",
         "TITLE": "Kiev",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kiev",
-        "N651": ""
+        "N651": "$$aKyjev (Ukrajina : oblast)$$7ge187658"
       },
       "geometry": {
         "coordinates": [
@@ -3248,10 +3248,10 @@
         "SHEET": "NE 52/30",
         "TITLE": "Gomel",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Gomel",
-        "N651": ""
+        "N651": "$$aHomel (Bělorusko : oblast)$$7ge563483"
       },
       "geometry": {
         "coordinates": [
@@ -3288,10 +3288,10 @@
         "SHEET": "NE 54/30",
         "TITLE": "Vitebsk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-bw---",
+        "N80": "$$a913(476)$$2MRF",
         "N245A": "Vitebsk",
-        "N651": ""
+        "N651": "$$aVitebsk (Bělorusko : oblast)$$7ge424527"
       },
       "geometry": {
         "coordinates": [
@@ -3328,10 +3328,10 @@
         "SHEET": "NE 44/34",
         "TITLE": "Kerch",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kerch",
-        "N651": ""
+        "N651": "$$aKerč (Ukrajina : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3368,10 +3368,10 @@
         "SHEET": "NE 46/34",
         "TITLE": "Stalino",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Stalino",
-        "N651": ""
+        "N651": "$$aDoněck (Ukrajina : oblast)$$7ge1031560"
       },
       "geometry": {
         "coordinates": [
@@ -3408,10 +3408,10 @@
         "SHEET": "NE 48/34",
         "TITLE": "Kharkov",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-un---",
+        "N80": "$$a913(477)$$2MRF",
         "N245A": "Kharkov",
-        "N651": ""
+        "N651": "$$aCharkov (Ukrajina : oblast)$$7ge560253"
       },
       "geometry": {
         "coordinates": [
@@ -3448,10 +3448,10 @@
         "SHEET": "NE 50/34",
         "TITLE": "Kursk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Kursk",
-        "N651": ""
+        "N651": "$$aKursk (Rusko : oblast)$$7ge129715"
       },
       "geometry": {
         "coordinates": [
@@ -3488,10 +3488,10 @@
         "SHEET": "NE 52/34",
         "TITLE": "Bryansk",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Bryansk",
-        "N651": ""
+        "N651": "$$aBrjansk (Rusko : oblast)$$7ge128621"
       },
       "geometry": {
         "coordinates": [
@@ -3528,10 +3528,10 @@
         "SHEET": "NE 54/34",
         "TITLE": "Moscow",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Moscow",
-        "N651": ""
+        "N651": "$$aMoskva (Rusko : oblast)$$7ge130102"
       },
       "geometry": {
         "coordinates": [
@@ -3568,10 +3568,10 @@
         "SHEET": "NE 36/12",
         "TITLE": "Sicilia",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Sicilia",
-        "N651": ""
+        "N651": "$$aSicílie (Itálie)$$7ge130805"
       },
       "geometry": {
         "coordinates": [
@@ -3608,10 +3608,10 @@
         "SHEET": "NE 34/23,33333",
         "TITLE": "Crete",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-gr---",
+        "N80": "$$a913(495)$$2MRF",
         "N245A": "Crete",
-        "N651": ""
+        "N651": "$$aKréta (Řecko : ostrov)$$7ge134296"
       },
       "geometry": {
         "coordinates": [
@@ -3648,10 +3648,10 @@
         "SHEET": "NW 46,33333/5,5",
         "TITLE": "Brest",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-fr---",
+        "N80": "$$a913(44)$$2MRF",
         "N245A": "Brest",
-        "N651": ""
+        "N651": "$$aBrest (Francie : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3688,10 +3688,10 @@
         "SHEET": "NW 51,5/11",
         "TITLE": "Ireland South",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ie---",
+        "N80": "$$a913(417)$$2MRF",
         "N245A": "Ireland South",
-        "N651": ""
+        "N651": "$$aIrsko$$7ge130752"
       },
       "geometry": {
         "coordinates": [
@@ -3728,10 +3728,10 @@
         "SHEET": "NW 53,5/11",
         "TITLE": "Ireland North",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ie---",
+        "N80": "$$a913(417)$$2MRF",
         "N245A": "Ireland North",
-        "N651": ""
+        "N651": "$$aIrsko$$7ge130752"
       },
       "geometry": {
         "coordinates": [
@@ -3768,10 +3768,10 @@
         "SHEET": "NE 56/8",
         "TITLE": "Aalborg",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-dk---",
+        "N80": "$$a913(489)$$2MRF",
         "N245A": "Aalborg",
-        "N651": ""
+        "N651": "$$a Aalborg (Dánsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3808,10 +3808,10 @@
         "SHEET": "NE 56/14",
         "TITLE": "Karlskrona",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Karlskrona",
-        "N651": ""
+        "N651": "$$aKarlskrona (Švédsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3848,10 +3848,10 @@
         "SHEET": "NE 56/20",
         "TITLE": "Riga",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-lv---",
+        "N80": "$$a913(474.3)$$2MRF",
         "N245A": "Riga",
-        "N651": ""
+        "N651": "$$aRiga (Lotyšsko : oblast)$$7ge1118766"
       },
       "geometry": {
         "coordinates": [
@@ -3888,10 +3888,10 @@
         "SHEET": "NE 56/26",
         "TITLE": "Pskov",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Pskov",
-        "N651": ""
+        "N651": "$$aPskov (Rusko : oblast)$$7ge327454"
       },
       "geometry": {
         "coordinates": [
@@ -3928,10 +3928,10 @@
         "SHEET": "NE 58/4",
         "TITLE": "Stavanger",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Stavanger",
-        "N651": ""
+        "N651": "$$aStavanger (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -3968,10 +3968,10 @@
         "SHEET": "NE 58/10",
         "TITLE": "Oslo",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Oslo",
-        "N651": ""
+        "N651": "$$aOslo (Norsko : oblast)$$7ge807955"
       },
       "geometry": {
         "coordinates": [
@@ -4008,10 +4008,10 @@
         "SHEET": "NE 58/16",
         "TITLE": "Stockholm",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-sw---",
+        "N80": "$$a913(485)$$2MRF",
         "N245A": "Stockholm",
-        "N651": ""
+        "N651": "$$aStockholm (Švédsko : oblast)$$7ge379296"
       },
       "geometry": {
         "coordinates": [
@@ -4064,10 +4064,10 @@
         "SHEET": "NE 58/22",
         "TITLE": "Tallinn",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-er---",
+        "N80": "$$a913(474.2)$$2MRF",
         "N245A": "Tallinn",
-        "N651": ""
+        "N651": "$$aTallinn (Estonsko : oblast)$$7ge1118760"
       },
       "geometry": {
         "coordinates": [
@@ -4104,10 +4104,10 @@
         "SHEET": "NE 60/4",
         "TITLE": "Bergen",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Bergen",
-        "N651": ""
+        "N651": "$$aBergen (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4144,10 +4144,10 @@
         "SHEET": "NE 62/5",
         "TITLE": "Trondhjem",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Trondhjem",
-        "N651": ""
+        "N651": "$$aTrondheim (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4184,10 +4184,10 @@
         "SHEET": "NE 64/9",
         "TITLE": "Namsos",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Namsos",
-        "N651": ""
+        "N651": "$$aNamsos (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4224,10 +4224,10 @@
         "SHEET": "NE 66/11",
         "TITLE": "Bodo",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Bodo",
-        "N651": ""
+        "N651": "$$aBodø (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4264,10 +4264,10 @@
         "SHEET": "NE 68/12",
         "TITLE": "Narvik",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Narvik",
-        "N651": ""
+        "N651": "$$aNarvik (Norsko : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4304,10 +4304,10 @@
         "SHEET": "NE 69/20",
         "TITLE": "Nordkap",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-no---",
+        "N80": "$$a913(481)$$2MRF",
         "N245A": "Nordkap",
-        "N651": ""
+        "N651": "$$aSeverní mys (Norsko)$$7ge559286"
       },
       "geometry": {
         "coordinates": [

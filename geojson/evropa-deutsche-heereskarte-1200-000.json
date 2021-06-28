@@ -517,7 +517,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Słonim",
-        "N651": "$$aSlonim (Bělorusko : oblast)"
+        "N651": "$$aSlonim (Bělorusko : oblast)$$7ge1118732"
       },
       "geometry": {
         "coordinates": [
@@ -685,7 +685,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Bobrujsk",
-        "N651": "$$aBobrujsk (Bělorusko : oblast)"
+        "N651": "$$aBobrujsk (Bělorusko : oblast)$$7ge1118884"
       },
       "geometry": {
         "coordinates": [
@@ -5011,7 +5011,7 @@
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Mogilew|Mogilew-Podolsk",
-        "N651": "$$aMohyliv-Podilskyj (Ukrajina : oblast"
+        "N651": "$$aMohyliv-Podilskyj (Ukrajina : oblast)$$7ge1119112"
       },
       "geometry": {
         "coordinates": [
@@ -5095,7 +5095,7 @@
         "N43": "$$ae-un---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Balta|Bałta",
-        "N651": "$$aBalta (Ukrajina : oblast)"
+        "N651": "$$aBalta (Ukrajina : oblast)$$7ge1118916"
       },
       "geometry": {
         "coordinates": [
@@ -7489,7 +7489,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Kostajnica",
-        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)"
+        "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)$$7ge1087296"
       },
       "geometry": {
         "coordinates": [
@@ -7951,7 +7951,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Buzăŭ",
-        "N651": "$$aBuzău (Rumunsko : oblast)"
+        "N651": "$$aBuzău (Rumunsko : oblast)$$7ge1118780"
       },
       "geometry": {
         "coordinates": [
@@ -8497,7 +8497,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Travnik",
-        "N651": "$$aTravnik (Bosna a Hercegovina : oblast)"
+        "N651": "$$aTravnik (Bosna a Hercegovina : oblast)$$7ge1118770"
       },
       "geometry": {
         "coordinates": [
@@ -9211,7 +9211,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Mostar",
-        "N651": "$$aMostar (Bosna a Hercegovina : oblast)"
+        "N651": "$$aMostar (Bosna a Hercegovina : oblast)$$7ge1114722"
       },
       "geometry": {
         "coordinates": [
@@ -9547,7 +9547,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tarnowo|Trnovo",
-        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)"
+        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)$$7ge1118771"
       },
       "geometry": {
         "coordinates": [
@@ -9799,7 +9799,7 @@
         "N43": "$$ae-mo---$$ae-ci---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Kotor (Cattaro)",
-        "N651": "$$aKotor (Černá Hora : oblast"
+        "N651": "$$aKotor (Černá Hora : oblast)$$7ge1118772"
       },
       "geometry": {
         "coordinates": [
@@ -9841,7 +9841,7 @@
         "N43": "$$ae-aa---$$ae-mo---",
         "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Scutari",
-        "N651": "$$aShkodër (Albánie : oblast)"
+        "N651": "$$aShkodër (Albánie : oblast)$$7ge1118777"
       },
       "geometry": {
         "coordinates": [
@@ -10513,7 +10513,7 @@
         "N43": "$$ae-gr---$$ae-bu---",
         "N80": "$$a913(495)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Xanthi",
-        "N651": "$$aXanthé (Řecko : oblast)"
+        "N651": "$$aXanthé (Řecko : oblast)$$7ge1118790"
       },
       "geometry": {
         "coordinates": [
@@ -10555,7 +10555,7 @@
         "N43": "$$ae-gr---$$ae-tu---$$ae-bu---",
         "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Dimotika",
-        "N651": "$$aDidymoteicho (Řecko : oblast)"
+        "N651": "$$aDidymoteicho (Řecko : oblast)$$7ge1118768"
       },
       "geometry": {
         "coordinates": [
@@ -11014,10 +11014,10 @@
         "SCALE": "200000",
         "SHEET": "4440",
         "TITLE": "Gallipoli ",
-        "N43": "$$ae-tu---",
+        "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Gallipoli (Gelibolu)",
-        "N651": "$$aGallipoli (Turecko : oblast)"
+        "N651": "$$aGallipoli (Turecko : oblast)$$7ge1118678"
       },
       "geometry": {
         "coordinates": [
@@ -11185,7 +11185,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Wolos",
-        "N651": "$$aVolos (Řecko : oblast)"
+        "N651": "$$aVolos (Řecko : oblast)$$7ge1118774"
       },
       "geometry": {
         "coordinates": [

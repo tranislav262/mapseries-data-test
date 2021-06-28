@@ -11,7 +11,7 @@
         "N43": "$$ae-po---$$ae-sp---",
         "N80": "$$a913(469)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Cadix",
-        "N651": "$$aCádiz (Španělsko : oblast)"
+        "N651": "$$aCádiz (Španělsko : oblast)$$7ge1119055"
       },
       "geometry": {
         "coordinates": [
@@ -91,7 +91,7 @@
         "N43": "$$ae-sp---",
         "N80": "$$a913(460)$$2MRF",
         "N245A": "Cartagena",
-        "N651": "$$aCartagena (Španělsko : oblast)"
+        "N651": "$$aCartagena (Španělsko : oblast)$$7ge1119053"
       },
       "geometry": {
         "coordinates": [
@@ -131,7 +131,7 @@
         "N43": "$$ae-",
         "N80": "",
         "N245A": "Lisboa",
-        "N651": "$$aLisabon (Portugalsko : oblast)"
+        "N651": "$$aLisabon (Portugalsko : oblast)$$7ge1119045"
       },
       "geometry": {
         "coordinates": [
@@ -211,7 +211,7 @@
         "N43": "$$ae-",
         "N80": "",
         "N245A": "Porto",
-        "N651": "$$aPorto (Portugalsko : oblast)"
+        "N651": "$$aPorto (Portugalsko : oblast)$$7ge1119046"
       },
       "geometry": {
         "coordinates": [
@@ -251,7 +251,7 @@
         "N43": "$$ae-sp---",
         "N80": "$$a913(460)$$2MRF",
         "N245A": "La Coruna",
-        "N651": "$$aLa Coruña (Španělsko : oblast)"
+        "N651": "$$aLa Coruña (Španělsko : oblast)$$7ge1119062"
       },
       "geometry": {
         "coordinates": [
@@ -331,7 +331,7 @@
         "N43": "$$ae-sp---",
         "N80": "$$a913(460)$$2MRF",
         "N245A": "Bilbao ",
-        "N651": "$$aBilbao (Španělsko : oblast)"
+        "N651": "$$aBilbao (Španělsko : oblast)$$7ge1119050"
       },
       "geometry": {
         "coordinates": [
@@ -411,7 +411,7 @@
         "N43": "$$ae-sp---",
         "N80": "$$a913(460)$$2MRF",
         "N245A": "Zaragoza",
-        "N651": "$$aZaragoza (Španělsko : oblast)"
+        "N651": "$$aZaragoza (Španělsko : oblast)$$7ge1119061"
       },
       "geometry": {
         "coordinates": [
@@ -491,7 +491,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Bordeaux",
-        "N651": "$$aBordeaux (Francie : oblast)"
+        "N651": "$$aBordeaux (Francie : oblast)$$7ge1119067"
       },
       "geometry": {
         "coordinates": [
@@ -571,7 +571,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Le Havre",
-        "N651": "$$aLe Havre (Francie : oblast)"
+        "N651": "$$aLe Havre (Francie : oblast)$$7ge1119068"
       },
       "geometry": {
         "coordinates": [
@@ -651,7 +651,7 @@
         "N43": "$$ae-sp---",
         "N80": "$$a913(460)$$2MRF",
         "N245A": "Barcelona",
-        "N651": "$$aBarcelona (Španělsko : oblast)"
+        "N651": "$$aBarcelona (Španělsko : oblast)$$7ge1119049"
       },
       "geometry": {
         "coordinates": [
@@ -851,7 +851,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cagliari",
-        "N651": "$$aCagliari (Itálie : oblast)"
+        "N651": "$$aCagliari (Itálie : oblast)$$7ge1119081"
       },
       "geometry": {
         "coordinates": [
@@ -891,7 +891,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Ajaccio",
-        "N651": "$$aAjaccio (Francie : oblast)"
+        "N651": "$$aAjaccio (Francie : oblast)$$7ge1119066"
       },
       "geometry": {
         "coordinates": [
@@ -1531,7 +1531,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Messina",
-        "N651": "$$aMessina (Itálie : oblast)"
+        "N651": "$$aMessina (Itálie : oblast)$$7ge1119088"
       },
       "geometry": {
         "coordinates": [
@@ -1611,7 +1611,7 @@
         "N43": "$$ae-it---$$ae-ci---$$ae-bn---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Chieti",
-        "N651": "$$aChieti (Itálie : oblast)"
+        "N651": "$$aChieti (Itálie : oblast)$$7ge1119086"
       },
       "geometry": {
         "coordinates": [
@@ -1971,7 +1971,7 @@
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
         "N245A": "Tirana",
-        "N651": "$$aTirana (Albánie : oblast)"
+        "N651": "$$aTirana (Albánie : oblast)$$7ge1119073"
       },
       "geometry": {
         "coordinates": [
@@ -3091,7 +3091,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Sevastopol",
-        "N651": "$$aSevastopol (Ukrajina : oblast)"
+        "N651": "$$aSevastopol (Ukrajina : oblast)$$7ge1119108"
       },
       "geometry": {
         "coordinates": [
@@ -3171,7 +3171,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Kirovograd",
-        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
+        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)$$7ge1119100"
       },
       "geometry": {
         "coordinates": [
@@ -3331,7 +3331,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Kerch",
-        "N651": "$$aKerč (Ukrajina : oblast)"
+        "N651": "$$aKerč (Ukrajina : oblast)$$7ge1119109"
       },
       "geometry": {
         "coordinates": [
@@ -3651,7 +3651,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Brest",
-        "N651": "$$aBrest (Francie : oblast)"
+        "N651": "$$aBrest (Francie : oblast)$$7ge1119089"
       },
       "geometry": {
         "coordinates": [
@@ -3771,7 +3771,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Aalborg",
-        "N651": "$$a Aalborg (Dánsko : oblast)"
+        "N651": "$$aAalborg (Dánsko : oblast)$$7ge1119093"
       },
       "geometry": {
         "coordinates": [
@@ -3811,7 +3811,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Karlskrona",
-        "N651": "$$aKarlskrona (Švédsko : oblast)"
+        "N651": "$$aKarlskrona (Švédsko : oblast)$$7ge1119090"
       },
       "geometry": {
         "coordinates": [
@@ -3931,7 +3931,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Stavanger",
-        "N651": "$$aStavanger (Norsko : oblast)"
+        "N651": "$$aStavanger (Norsko : oblast)$$7ge1119096"
       },
       "geometry": {
         "coordinates": [
@@ -4107,7 +4107,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Bergen",
-        "N651": "$$aBergen (Norsko : oblast)"
+        "N651": "$$aBergen (Norsko : oblast)$$7ge1119095"
       },
       "geometry": {
         "coordinates": [
@@ -4267,7 +4267,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Narvik",
-        "N651": "$$aNarvik (Norsko : oblast)"
+        "N651": "$$aNarvik (Norsko : oblast)$$7ge1119098"
       },
       "geometry": {
         "coordinates": [

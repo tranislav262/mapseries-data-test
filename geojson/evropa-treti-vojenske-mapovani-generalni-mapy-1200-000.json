@@ -170,7 +170,7 @@
         "N43": "$$ae-aa---$$ae-mo---",
         "N80": "$$a913(496.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Scutari",
-        "N651": "$$aShkodër (Albánie : oblast)",
+        "N651": "$$aShkodër (Albánie : oblast)$$7ge1118777",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -970,7 +970,7 @@
         "N43": "$$ae-gr---$$ae-bu---",
         "N80": "$$a913(495)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Xanthi",
-        "N651": "$$aXanthé (Řecko : oblast)",
+        "N651": "$$aXanthé (Řecko : oblast)$$7ge1118790",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -1250,7 +1250,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Trnovo",
-        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)",
+        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)$$7ge1118771",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3250,7 +3250,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Mostar",
-        "N651": "$$aMostar (Bosna a Hercegovina : oblast)",
+        "N651": "$$aMostar (Bosna a Hercegovina : oblast)$$7ge1114722",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3370,7 +3370,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Travnik",
-        "N651": "$$aTravnik (Bosna a Hercegovina : oblast)",
+        "N651": "$$aTravnik (Bosna a Hercegovina : oblast)$$7ge1118770",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3850,7 +3850,7 @@
         "N43": "$$ae-bw---$$ae-un---",
         "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Reczyca",
-        "N651": "$$aRečyca (Bělorusko : oblast)",
+        "N651": "$$aRečica (Brest, Bělorusko : oblast)",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7650,7 +7650,7 @@
         "N43": "$$ae-un---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Balta|Bałta",
-        "N651": "$$aBalta (Ukrajina : oblast)",
+        "N651": "$$aBalta (Ukrajina : oblast)$$7ge1118916",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7770,7 +7770,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Bobrujsk",
-        "N651": "$$aBobrujsk (Bělorusko : oblast)",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)$$7ge1118884",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8810,7 +8810,7 @@
         "N43": "$$ae-gr---$$ae-tu---$$ae-bu---",
         "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Dimotika",
-        "N651": "$$aDidymoteicho (Řecko : oblast)",
+        "N651": "$$aDidymoteicho (Řecko : oblast)$$7ge1118768",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9490,7 +9490,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Buzau",
-        "N651": "$$aBuzău (Rumunsko : oblast)",
+        "N651": "$$aBuzău (Rumunsko : oblast)$$7ge1118780",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9570,7 +9570,7 @@
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Mogilew",
-        "N651": "$$aMohyliv-Podilskyj (Ukrajina : oblast",
+        "N651": "$$aMohyliv-Podilskyj (Ukrajina : oblast)$$7ge1119112",
         "POZNAMKA": "Mogilew"
       },
       "geometry": {
@@ -9930,7 +9930,7 @@
         "N43": "$$ae-mo---$$ae-ci---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Cattaro",
-        "N651": "$$aKotor (Černá Hora : oblast)",
+        "N651": "$$aKotor (Černá Hora : oblast)$$7ge1118772",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -11050,7 +11050,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Vólosz",
-        "N651": "$$aVolos (Řecko : oblast)",
+        "N651": "$$aVolos (Řecko : oblast)$$7ge1118774",
         "POZNAMKA": ""
       },
       "geometry": {

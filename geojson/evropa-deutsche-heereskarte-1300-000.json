@@ -3093,9 +3093,9 @@
         "TITLE": "Stalingrad",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
-        "N80": "$$a913(470.45)$$2MRF",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "Stalingrad",
-        "N651": "$$aVolgograd (Rusko : oblast)"
+        "N651": "$$aVolgograd (Rusko : oblast)$$7ge623497"
       },
       "geometry": {
         "type": "Polygon",
@@ -7022,7 +7022,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Orléans",
-        "N651": "$$aOrléans (Francie : oblast)"
+        "N651": "$$aOrléans (Francie : oblast)$$7ge1118877"
       },
       "geometry": {
         "type": "Polygon",
@@ -7104,7 +7104,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Rouen",
-        "N651": "$$aRouen (Francie : oblast)"
+        "N651": "$$aRouen (Francie : oblast)$$7ge1118880"
       },
       "geometry": {
         "type": "Polygon",
@@ -7145,7 +7145,7 @@
         "N43": "$$ae-fr---$$ae-uk-en",
         "N80": "$$a913(44)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Calais",
-        "N651": "$$aCalais (Francie : oblast)"
+        "N651": "$$aCalais (Francie : oblast)$$7ge1118881"
       },
       "geometry": {
         "type": "Polygon",
@@ -7186,7 +7186,7 @@
         "N43": "$$ae-uk-en$$ae-fr---",
         "N80": "$$a913(44)$$2MRF|$$a913(410)$$2MRF",
         "N245A": "Dover",
-        "N651": "$$aDover (Anglie : oblast)"
+        "N651": "$$aDover (Anglie : oblast)$$7ge1118867"
       },
       "geometry": {
         "type": "Polygon",
@@ -8252,7 +8252,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Moulins",
-        "N651": "$$aMoulins (Francie : oblast)"
+        "N651": "$$aMoulins (Francie : oblast)$$7ge1118898"
       },
       "geometry": {
         "type": "Polygon",
@@ -8293,7 +8293,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Bourges",
-        "N651": "$$aBourges (Francie : oblast)"
+        "N651": "$$aBourges (Francie : oblast)$$7ge1118882"
       },
       "geometry": {
         "type": "Polygon",
@@ -8375,7 +8375,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Laon",
-        "N651": "$$aLaon (Francie : oblast)"
+        "N651": "$$aLaon (Francie : oblast)$$7ge1118897"
       },
       "geometry": {
         "type": "Polygon",
@@ -8416,7 +8416,7 @@
         "N43": "$$ae-fr---$$ae-be---",
         "N80": "$$a913(44)$$2MRF|$$a913(493)$$2MRF",
         "N245A": "Lille",
-        "N651": "$$aLille (Francie : oblast)"
+        "N651": "$$aLille (Francie : oblast)$$7ge1118893"
       },
       "geometry": {
         "type": "Polygon",
@@ -8457,7 +8457,7 @@
         "N43": "$$ae-be---$$ae-fr---$$ae-ne---",
         "N80": "$$a913(493)$$2MRF|$$a913(44)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Gent",
-        "N651": "$$aGent (Belgie : oblast)"
+        "N651": "$$aGent (Belgie : oblast)$$7ge1118997"
       },
       "geometry": {
         "type": "Polygon",
@@ -12721,7 +12721,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Dijon",
-        "N651": "$$aDijon (Francie : oblast)"
+        "N651": "$$aDijon (Francie : oblast)$$7ge1118894"
       },
       "geometry": {
         "type": "Polygon",
@@ -12762,7 +12762,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Nancy",
-        "N651": "$$aNancy (Francie : oblast)"
+        "N651": "$$aNancy (Francie : oblast)$$7ge1118899"
       },
       "geometry": {
         "type": "Polygon",
@@ -12885,7 +12885,7 @@
         "N43": "$$ae-ne---$$ae-be---$$ae-gx---",
         "N80": "$$a913(492)$$2MRF|$$a913(493)$$2MRF|$$a913(430.119)$$2MRF",
         "N245A": "Antwerpen",
-        "N651": "$$aAntverpy (Belgie : oblast)"
+        "N651": "$$aAntverpy (Belgie : oblast)$$7ge1118998"
       },
       "geometry": {
         "type": "Polygon",
@@ -12967,7 +12967,7 @@
         "N43": "$$ae-ne---",
         "N80": "$$a913(492)$$2MRF",
         "N245A": "Leeuwarden ",
-        "N651": "$$aLeeuwarden (Nizozemsko : oblast)"
+        "N651": "$$aLeeuwarden (Nizozemsko : oblast)$$7ge1118986"
       },
       "geometry": {
         "type": "Polygon",
@@ -13008,7 +13008,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Stavanger",
-        "N651": "$$aStavanger (Norsko : oblast)"
+        "N651": "$$aStavanger (Norsko : oblast)$$7ge1119096"
       },
       "geometry": {
         "type": "Polygon",
@@ -13090,7 +13090,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Bergen",
-        "N651": "$$aBergen (Norsko : oblast)"
+        "N651": "$$aBergen (Norsko : oblast)$$7ge1119095"
       },
       "geometry": {
         "type": "Polygon",
@@ -13254,7 +13254,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430.123)$$2MRF",
         "N245A": "Trier",
-        "N651": "$$aTrier (Německo : oblast)"
+        "N651": "$$aTrier (Německo : oblast)$$7ge1118987"
       },
       "geometry": {
         "type": "Polygon",
@@ -13336,7 +13336,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Düsseldorf",
-        "N651": "$$aDüsseldorf (Německo : oblast)"
+        "N651": "$$aDüsseldorf (Německo : oblast)$$7ge1118924"
       },
       "geometry": {
         "type": "Polygon",
@@ -13418,7 +13418,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N80": "$$a913(430.117)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Oldenburg",
-        "N651": "$$aOldenburg (Německo : oblast)"
+        "N651": "$$aOldenburg (Německo : oblast)$$7ge1118991"
       },
       "geometry": {
         "type": "Polygon",
@@ -13459,7 +13459,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Christiansand",
-        "N651": "$$aKristiansand (Norsko : oblast)"
+        "N651": "$$aKristiansand (Norsko : oblast)$$7ge1119163"
       },
       "geometry": {
         "type": "Polygon",
@@ -13664,7 +13664,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430.123)$$2MRF",
         "N245A": "Darmstadt",
-        "N651": "Darmstadt (Německo : oblast)"
+        "N651": "$$aDarmstadt (Německo : oblast)$$7ge1118992"
       },
       "geometry": {
         "type": "Polygon",
@@ -13705,7 +13705,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430.121)$$2MRF",
         "N245A": "Frankfurt a/M.",
-        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)"
+        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)$$7ge1118993"
       },
       "geometry": {
         "type": "Polygon",
@@ -13869,7 +13869,7 @@
         "N43": "$$ae-gx---$$ae-dk---",
         "N80": "$$a913(430.111)$$2MRF|$$a913(489)$$2MRF",
         "N245A": "Kiel",
-        "N651": "$$aKiel (Německo : oblast)"
+        "N651": "$$aKiel (Německo : oblast)$$7ge1118994"
       },
       "geometry": {
         "type": "Polygon",
@@ -13910,7 +13910,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Hadersleben",
-        "N651": "$$aHaderslev (Dánsko : oblast)"
+        "N651": "$$aHaderslev (Dánsko : oblast)$$7ge1119165"
       },
       "geometry": {
         "type": "Polygon",
@@ -13951,7 +13951,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Aarhus",
-        "N651": "$$aAarhus (Dánsko : oblast)"
+        "N651": "$$aAarhus (Dánsko : oblast)$$7ge1119168"
       },
       "geometry": {
         "type": "Polygon",
@@ -13992,7 +13992,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Aalborg",
-        "N651": "$$aAalborg (Dánsko : oblast)"
+        "N651": "$$aAalborg (Dánsko : oblast)$$7ge1119093"
       },
       "geometry": {
         "type": "Polygon",
@@ -14443,7 +14443,7 @@
         "N43": "$$ae-gx---$$ae-dk---",
         "N80": "$$a913(430.249)$$2MRF|$$a913(489)$$2MRF",
         "N245A": "Rostock",
-        "N651": "$$aRostock (Německo : oblast)"
+        "N651": "$$aRostock (Německo : oblast)$$7ge1118925"
       },
       "geometry": {
         "type": "Polygon",
@@ -14484,7 +14484,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Roskilde",
-        "N651": "$$aRoskilde (Dánsko : oblast)"
+        "N651": "$$aRoskilde (Dánsko : oblast)$$7ge1119170"
       },
       "geometry": {
         "type": "Polygon",
@@ -14566,7 +14566,7 @@
         "N43": "$$ae-sw---$$ae-dk---",
         "N80": "$$a913(485)$$MRF|$$a913(489)$$2MRF",
         "N245A": "Göteborg",
-        "N651": "$$aGöteborg (Švédsko : oblast)"
+        "N651": "$$aGöteborg (Švédsko : oblast)$$7ge1119171"
       },
       "geometry": {
         "type": "Polygon",
@@ -15058,7 +15058,7 @@
         "N43": "$$ae-dk---$$ae-sw---",
         "N80": "$$a913(489)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Kopenhagen",
-        "N651": "$$aKodaň (Dánsko : oblast)"
+        "N651": "$$aKodaň (Dánsko : oblast)$$7ge1119173"
       },
       "geometry": {
         "type": "Polygon",
@@ -15099,7 +15099,7 @@
         "N43": "$$ae-sw---$$ae-dk---",
         "N80": "$$a913(485)$$MRF|$$a913(489)$$2MRF",
         "N245A": "Halmstad",
-        "N651": "$$aHalmstad (Švédsko : oblast)"
+        "N651": "$$aHalmstad (Švédsko : oblast)$$7ge1119175"
       },
       "geometry": {
         "type": "Polygon",
@@ -15796,7 +15796,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Karlskrona",
-        "N651": "$$aKarlskrona (Švédsko : oblast)"
+        "N651": "$$aKarlskrona (Švédsko : oblast)$$7ge1119090"
       },
       "geometry": {
         "type": "Polygon",
@@ -15919,7 +15919,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Örebro",
-        "N651": "$$aÖrebro (Švédsko : oblast)"
+        "N651": "$$aÖrebro (Švédsko : oblast)$$7ge1119177"
       },
       "geometry": {
         "type": "Polygon",
@@ -16698,7 +16698,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Nyköping",
-        "N651": "$$aNyköping (Švédsko : oblast)"
+        "N651": "$$aNyköping (Švédsko : oblast)$$7ge1119179"
       },
       "geometry": {
         "type": "Polygon",
@@ -16862,7 +16862,7 @@
         "N43": "$$ae-sw---$$ae-no---",
         "N80": "$$a913(485)$$2MRF|$$a913(481)$$2MRF",
         "N245A": "Narvik",
-        "N651": "$$aNarvik (Norsko : oblast)"
+        "N651": "$$aNarvik (Norsko : oblast)$$7ge1119098"
       },
       "geometry": {
         "type": "Polygon",
@@ -17641,7 +17641,7 @@
         "N43": "$$ae-no---$$ae-sw---",
         "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Tromsö",
-        "N651": "$$aTromsø (Norsko : oblast)"
+        "N651": "$$aTromsø (Norsko : oblast)$$7ge1119181"
       },
       "geometry": {
         "type": "Polygon",
@@ -23717,7 +23717,7 @@
         "N43": "$$ae-un---$$ae-rm---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Ismail",
-        "N651": "$$aIzmajil (Ukrajina : oblast)"
+        "N651": "$$aIzmajil (Ukrajina : oblast)$$7ge1118890"
       },
       "geometry": {
         "type": "Polygon",
@@ -24045,7 +24045,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Bobruisk",
-        "N651": "$$aBobrujsk (Bělorusko : oblast)"
+        "N651": "$$aBobrujsk (Bělorusko : oblast)$$7ge1118884"
       },
       "geometry": {
         "type": "Polygon",
@@ -28063,7 +28063,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Kertsch",
-        "N651": "$$aKerč (Ukrajina : oblast)"
+        "N651": "$$aKerč (Ukrajina : oblast)$$7ge1119109"
       },
       "geometry": {
         "type": "Polygon",
@@ -28637,7 +28637,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Tscherepowez",
-        "N651": "$$aČerepovec (Rusko : oblast)"
+        "N651": "$$aČerepovec (Rusko : oblast)$$7ge1119121"
       },
       "geometry": {
         "type": "Polygon",

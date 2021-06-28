@@ -135,7 +135,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bozen|Bolzano",
-        "N651": "$$aBolzano (Itálie : oblast)"
+        "N651": "$$aBolzano (Itálie : oblast)$$7ge1093433"
       },
       "geometry": {
         "type": "Polygon",
@@ -463,7 +463,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Firenze",
-        "N651": "$$aFlorencie (Itálie : oblast)"
+        "N651": "$$aFlorencie (Itálie : oblast)$$7ge1117881"
       },
       "geometry": {
         "type": "Polygon",
@@ -586,7 +586,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Pesaro",
-        "N651": "$$aPesaro (Itálie : oblast)"
+        "N651": "$$aPesaro (Itálie : oblast)$$7ge1117865"
       },
       "geometry": {
         "type": "Polygon",
@@ -627,7 +627,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Monte Marmolada|M. Marmolada",
-        "N651": "$$aChiusa (Bolzano, Itálie : oblast)|$$aMarmolada (Itálie : hora)"
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)$$7ge1108205|$$aMarmolada (Itálie : hora)"
       },
       "geometry": {
         "type": "Polygon",
@@ -996,7 +996,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ancona",
-        "N651": "$$aAncona (Itálie : oblast)"
+        "N651": "$$aAncona (Itálie : oblast)$$7ge1117950"
       },
       "geometry": {
         "type": "Polygon",
@@ -1078,7 +1078,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cortina d’Ampezzo",
-        "N651": "$$aCortina d’Ampezzo (Itálie : oblast)"
+        "N651": "$$aCortina d’Ampezzo (Itálie : oblast)$$7ge1093505"
       },
       "geometry": {
         "type": "Polygon",
@@ -1201,7 +1201,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Perugia",
-        "N651": "$$aPerugia (Itálie : oblast)"
+        "N651": "$$aPerugia (Itálie : oblast)$$7ge1117954"
       },
       "geometry": {
         "type": "Polygon",
@@ -1693,7 +1693,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ascoli Piceno|Ascoli-Piceno",
-        "N651": "$$aAscoli Piceno (Itálie : oblast)"
+        "N651": "$$aAscoli Piceno (Itálie : oblast)$$7ge1118675"
       },
       "geometry": {
         "type": "Polygon",
@@ -2103,7 +2103,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Civitavecchia",
-        "N651": "$$aCivitavecchia (Itálie : oblast)"
+        "N651": "$$aCivitavecchia (Itálie : oblast)$$7ge1118400"
       },
       "geometry": {
         "type": "Polygon",
@@ -2431,7 +2431,7 @@
         "N43": "$$ae-it---$$ae-au---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Tarvisio",
-        "N651": "$$aTarvisio (Itálie : oblast)"
+        "N651": "$$aTarvisio (Itálie : oblast)$$7ge1109304"
       },
       "geometry": {
         "type": "Polygon",
@@ -2513,7 +2513,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Roma|Rom",
-        "N651": "$$aŘím (Itálie : oblast)"
+        "N651": "$$aŘím (Itálie : oblast)$$7ge1087247"
       },
       "geometry": {
         "type": "Polygon",
@@ -4276,7 +4276,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Tirano",
-        "N651": "$$aTirano (Itálie : oblast)"
+        "N651": "$$aTirano (Itálie : oblast)$$7ge1093051"
       },
       "geometry": {
         "type": "Polygon",
@@ -5711,7 +5711,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Feltre",
-        "N651": "$$aFeltre (Itálie : oblast)"
+        "N651": "$$aFeltre (Itálie : oblast)$$7ge1117826"
       },
       "geometry": {
         "type": "Polygon",
@@ -6162,7 +6162,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Belluno",
-        "N651": "$$aBelluno (Itálie : oblast)"
+        "N651": "$$aBelluno (Itálie : oblast)$$7ge1117952"
       },
       "geometry": {
         "type": "Polygon",
@@ -6408,7 +6408,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cagliari",
-        "N651": "$$aCagliari (Itálie : oblast)"
+        "N651": "$$aCagliari (Itálie : oblast)$$7ge1119081"
       },
       "geometry": {
         "type": "Polygon",
@@ -7121,7 +7121,7 @@
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Udine",
-        "N651": "$$aUdine (Itálie : oblast)"
+        "N651": "$$aUdine (Itálie : oblast)$$7ge1117848"
       },
       "geometry": {
         "type": "Polygon",
@@ -7326,7 +7326,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Messina-Reggio Calabria|Messina-Reggio Cal.",
-        "N651": "$$aMessina (Itálie : oblast)|$$aReggio di Calabria (Itálie : oblast)"
+        "N651": "$$aMessina (Itálie : oblast)$$7ge1119088|$$aReggio di Calabria (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7572,7 +7572,7 @@
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Tolmein",
-        "N651": "$$aTolmin (Slovinsko : oblast)"
+        "N651": "$$aTolmin (Slovinsko : oblast)$$7ge1093050"
       },
       "geometry": {
         "type": "Polygon",
@@ -8023,7 +8023,7 @@
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "Idria",
-        "N651": "$$aIdrija (Slovinsko : oblast)"
+        "N651": "$$aIdrija (Slovinsko : oblast)$$7ge1093048"
       },
       "geometry": {
         "type": "Polygon",
@@ -8433,7 +8433,7 @@
         "N43": "$$ae-it---$$ae-fr---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Aosta",
-        "N651": "$$aAosta (Itálie : oblast)"
+        "N651": "$$aAosta (Itálie : oblast)$$7ge1117959"
       },
       "geometry": {
         "type": "Polygon",
@@ -8597,7 +8597,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Varese",
-        "N651": "$$aVarese (Itálie : oblast)"
+        "N651": "$$aVarese (Itálie : oblast)$$7ge1117905"
       },
       "geometry": {
         "type": "Polygon",
@@ -8638,7 +8638,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Como",
-        "N651": "$$aComo (Itálie : oblast)"
+        "N651": "$$aComo (Itálie : oblast)$$7ge1117972"
       },
       "geometry": {
         "type": "Polygon",
@@ -8720,7 +8720,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Breno",
-        "N651": "$$aBreno (Itálie : oblast)"
+        "N651": "$$aBreno (Itálie : oblast)$$7ge1106544"
       },
       "geometry": {
         "type": "Polygon",
@@ -8761,7 +8761,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Riva",
-        "N651": "$$aRiva del Garda (Itálie : oblast)"
+        "N651": "$$aRiva del Garda (Itálie : oblast)$$7ge1091756"
       },
       "geometry": {
         "type": "Polygon",
@@ -8884,7 +8884,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Conegliano",
-        "N651": "$$aConegliano (Itálie : oblast)"
+        "N651": "$$aConegliano (Itálie : oblast)$$7ge1092325"
       },
       "geometry": {
         "type": "Polygon",
@@ -9048,7 +9048,7 @@
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Gorizia",
-        "N651": "$$aGorizia (Itálie : oblast)"
+        "N651": "$$aGorizia (Itálie : oblast)$$7ge1091620"
       },
       "geometry": {
         "type": "Polygon",
@@ -9089,7 +9089,7 @@
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "Adelsberg",
-        "N651": "$$aPostojna (Slovinsko : oblast)"
+        "N651": "$$aPostojna (Slovinsko : oblast)$$7ge1091611"
       },
       "geometry": {
         "type": "Polygon",
@@ -9417,7 +9417,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Peschiera del Garda|Peschiera",
-        "N651": "$$aPeschiera del Garda\n(Itálie : oblast)"
+        "N651": "$$aPeschiera del Garda\n(Itálie : oblast)$$7ge1117914"
       },
       "geometry": {
         "type": "Polygon",
@@ -9663,7 +9663,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Padua",
-        "N651": "$$aPadova (Itálie : oblast)"
+        "N651": "$$aPadova (Itálie : oblast)$$7ge1117807"
       },
       "geometry": {
         "type": "Polygon",
@@ -9745,7 +9745,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "San Donà",
-        "N651": "$$aSan Donà di Piave (Itálie : oblast)"
+        "N651": "$$aSan Donà di Piave (Itálie : oblast)$$7ge1117946"
       },
       "geometry": {
         "type": "Polygon",
@@ -9827,7 +9827,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Fiume",
-        "N651": "$$aRijeka (Chorvatsko : oblast)"
+        "N651": "$$aRijeka (Chorvatsko : oblast)$$7ge1117876"
       },
       "geometry": {
         "type": "Polygon",
@@ -10360,7 +10360,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Legnago",
-        "N651": "$$aLegnago (Itálie : oblast)"
+        "N651": "$$aLegnago (Itálie : oblast)$$7ge1087307"
       },
       "geometry": {
         "type": "Polygon",
@@ -10401,7 +10401,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Rovigo",
-        "N651": "$$aRovigo (Itálie : oblast)"
+        "N651": "$$aRovigo (Itálie : oblast)$$7ge1117944"
       },
       "geometry": {
         "type": "Polygon",
@@ -10442,7 +10442,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Adria ",
-        "N651": "$$aAdria (Itálie : oblast)"
+        "N651": "$$aAdria (Itálie : oblast)$$7ge1118403"
       },
       "geometry": {
         "type": "Polygon",
@@ -10483,7 +10483,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "Pisino",
-        "N651": "$$aPazin (Chorvatsko : oblast)"
+        "N651": "$$aPazin (Chorvatsko : oblast)$$7ge1087267"
       },
       "geometry": {
         "type": "Polygon",
@@ -10729,7 +10729,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Piz Bernina",
-        "N651": "$$aPiz Bernina (Itálie : hora)"
+        "N651": "$$aPiz Bernina (Švýcarsko : hora)$$7ge1106886"
       },
       "geometry": {
         "type": "Polygon",
@@ -10770,7 +10770,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Alessandria",
-        "N651": "$$aAlessandria (Itálie : oblast)"
+        "N651": "$$aAlessandria (Itálie : oblast)$$7ge1117919"
       },
       "geometry": {
         "type": "Polygon",
@@ -10934,7 +10934,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Reggio Emilia",
-        "N651": "Reggio Emilia (Itálie : oblast)"
+        "N651": "$$aReggio Emilia (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11057,7 +11057,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Comacchio",
-        "N651": "$$aComacchio (Itálie : oblast)"
+        "N651": "$$aComacchio (Itálie : oblast)$$7ge1118016"
       },
       "geometry": {
         "type": "Polygon",
@@ -11270,7 +11270,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Bormio",
-        "N651": "$$aBormio (Itálie : oblast)"
+        "N651": "$$aBormio (Itálie : oblast)$$7ge1093435"
       },
       "geometry": {
         "type": "Polygon",
@@ -11598,7 +11598,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bologna",
-        "N651": "$$aBologna (Itálie : oblast)"
+        "N651": "$$aBologna (Itálie : oblast)$$7ge1118545"
       },
       "geometry": {
         "type": "Polygon",
@@ -11680,7 +11680,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ravenna",
-        "N651": "$$aRavenna (Itálie : oblast)"
+        "N651": "$$aRavenna (Itálie : oblast)$$7ge1117955"
       },
       "geometry": {
         "type": "Polygon",
@@ -11926,7 +11926,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Albenga-Savona",
-        "N651": "$$aSavona  (Itálie : oblast)|$$aAlbenga (Itálie : oblast)"
+        "N651": "$$aSavona (Itálie : oblast)$$7ge1117947|$$aAlbenga (Itálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",

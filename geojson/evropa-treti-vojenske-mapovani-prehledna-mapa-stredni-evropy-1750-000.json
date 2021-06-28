@@ -90,7 +90,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Galaz, Medžidie, Ismail, Silistria, Balčik.",
-        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)$$7ge1118695|$$aIzmajil (Ukrajina : oblast)|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)$$7ge1118754",
+        "N651": "$$aGalaţi (Rumunsko : oblast)$$7ge746638|$$aMedgidia (Rumunsko : oblast)$$7ge1118695|$$aIzmajil (Ukrajina : oblast)$$7ge1118890|$$aSilistra (Bulharsko : oblast)$$7ge666942|$$aBalčik (Bulharsko : oblast)$$7ge1118754",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -170,7 +170,7 @@
         "N43": "$$ae-rm---$$ae-un---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Bałta, Umań, Bracław.",
-        "N651": "$$aBalta (Ukrajina : oblast)|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)$$7ge1118697",
+        "N651": "$$aBalta (Ukrajina : oblast)$$7ge1118916|$$aUman’ (Ukrajina : oblast)$$7ge525690|$$aBraclav (Ukrajina : oblast)$$7ge1118697",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -250,7 +250,7 @@
         "N43": "$$ae-un---$$ae-bw---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
         "N245A": "Bobrujsk, Czerikow, Str. Szkłow.",
-        "N651": "$$aBobrujsk (Bělorusko : oblast)|$$aČerikaŭ (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
+        "N651": "$$aBobrujsk (Bělorusko : oblast)$$7ge1118884|$$aČerikaŭ (Bělorusko : oblast)|$$aŠkloǔ (Bělorusko : oblast)$$7ge569468",
         "POZNAMKA": ""
       },
       "geometry": {

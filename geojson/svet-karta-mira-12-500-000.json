@@ -2197,10 +2197,10 @@
         "SCALE": "2500000",
         "SHEET": "199",
         "TITLE": "Južno-Avstralijskaja kotlovina, Zapadnaja Časť",
-        "N43": "",
-        "N80": "",
+        "N43": "$$au-at-sa",
+        "N80": "$$a913(942.3)$$2MRF",
         "N245A": "Južno-Avstralijskaja kotlovina, Zapadnaja Časť",
-        "N651": ""
+        "N651": "$$aJižní Austrálie$$7ge394351"
       },
       "geometry": {
         "type": "Polygon",
@@ -3028,7 +3028,7 @@
         "N43": "$$au-at-we",
         "N80": "$$a913(941)$$2MRF",
         "N245A": "Pert",
-        "N651": "$$aPerth (Západní Austrálie)"
+        "N651": "$$aPerth (Západní Austrálie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6837,11 +6837,11 @@
         "Shape_Area": "216",
         "SCALE": "2500000",
         "SHEET": "72",
-        "TITLE": "",
+        "TITLE": "Casablanca",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Casablanca",
+        "N651": "$$aCasablanca (Maroco : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7722,7 +7722,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Rim",
-        "N651": "$$aŘím (Itálie : oblast)"
+        "N651": "$$aŘím (Itálie : oblast)$$7ge1087247"
       },
       "geometry": {
         "type": "Polygon",
@@ -9035,7 +9035,7 @@
         "N43": "$$ae-ic---",
         "N80": "$$a913(491.1)$$2MRF",
         "N245A": "Rejk'javik",
-        "N651": "$$aReykjavík (Island : oblast)"
+        "N651": "$$aReykjavík (Island : oblast)$$7ge1087235"
       },
       "geometry": {
         "type": "Polygon",

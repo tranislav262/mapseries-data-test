@@ -13,12 +13,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7162/3",
-        "TITLE": "",
+        "TITLE": "Záliv Spič",
         "SCALE": "",
         "N43": "$$ae-mo---",
         "N80": "$$a913(497.16)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Spizza]",
+        "N651": "$$aSpič (Černá Hora : záliv)"
       },
       "geometry": {
         "type": "Polygon",
@@ -60,12 +60,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7163/3",
-        "TITLE": "",
+        "TITLE": "Skadar",
         "SCALE": "",
         "N43": "$$ae-mo---$$ae-aa---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(496.5)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Scutari (Škodra)]|[Scutari]",
+        "N651": "$$aShkodër (Albánie : oblast)$$7ge1118777"
       },
       "geometry": {
         "type": "Polygon",
@@ -107,12 +107,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7164/3",
-        "TITLE": "",
+        "TITLE": "Iballë",
         "SCALE": "",
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ibalja]",
+        "N651": "$$aIballë (Albánie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -154,12 +154,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7169/3",
-        "TITLE": "",
+        "TITLE": "Kriva Palanka",
         "SCALE": "",
         "N43": "$$ae-xn---$$ae-bu---",
         "N80": "$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kriva Palanka (Egri Palanka)]",
+        "N651": "$$aKriva Palanka (Makedonie : oblast)$$7ge828829"
       },
       "geometry": {
         "type": "Polygon",
@@ -201,12 +201,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7170/3",
-        "TITLE": "",
+        "TITLE": "Blagoevgrad",
         "SCALE": "",
         "N43": "$$ae-xn---$$ae-bu---",
         "N80": "$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Džumaja]",
+        "N651": "$$aBlagoevgrad (Bulharsko : oblast)$$7ge856424"
       },
       "geometry": {
         "type": "Polygon",
@@ -248,12 +248,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "7171/3",
-        "TITLE": "",
+        "TITLE": "Musala",
         "SCALE": "",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mus Alla]",
+        "N651": "$$aMusala (Bulharsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -295,12 +295,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3577/3",
-        "TITLE": "",
+        "TITLE": "Znosicze",
         "SCALE": "",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Znosicze]",
+        "N651": "$$aZnosicze (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -530,12 +530,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3561/3",
-        "TITLE": "",
+        "TITLE": "Wieluń",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wieluń]",
+        "N651": "$$aWieluń (Polsko : oblast)$$7ge1112271"
       },
       "geometry": {
         "type": "Polygon",
@@ -577,12 +577,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3562/3",
-        "TITLE": "",
+        "TITLE": "Działoszyn",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Działoszyn]",
+        "N651": "$$aDziałoszyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -624,12 +624,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3563/3",
-        "TITLE": "",
+        "TITLE": "Nowo Radomsk",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nowo Radomsk]",
+        "N651": "$$aRadomsko (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -671,12 +671,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3564/3",
-        "TITLE": "",
+        "TITLE": "Przedbórz",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Przedbórz]",
+        "N651": "$$aPrzedbórz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -718,12 +718,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3565/3",
-        "TITLE": "",
+        "TITLE": "Końskie",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Końskie]",
+        "N651": "$$aKońskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -765,12 +765,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3566/3",
-        "TITLE": "",
+        "TITLE": "Szydłowiec",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szydłowiec]",
+        "N651": "$$aSzydłowiec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -812,12 +812,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3567/3",
-        "TITLE": "",
+        "TITLE": "Solec",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Solec]",
+        "N651": "$$aSolec nad Wisłą (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -859,12 +859,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3568/3",
-        "TITLE": "",
+        "TITLE": "Opole Lubelskie",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Opole]",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544"
       },
       "geometry": {
         "type": "Polygon",
@@ -906,12 +906,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3569/3",
-        "TITLE": "",
+        "TITLE": "Czerniejów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Czerniejów]",
+        "N651": "$$aCzerniejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -953,12 +953,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3570/3",
-        "TITLE": "",
+        "TITLE": "Biskupice",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Biskupice]",
+        "N651": "$$aBiskupice (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1000,12 +1000,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3571/3",
-        "TITLE": "",
+        "TITLE": "Chołm",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Chołm]",
+        "N651": "$$aChełm (Polsko : oblast)$$7ge134111"
       },
       "geometry": {
         "type": "Polygon",
@@ -1047,12 +1047,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3572/3",
-        "TITLE": "",
+        "TITLE": "Ljuboml'",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Luboml]",
+        "N651": "$$aLjuboml' (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1094,12 +1094,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3573/3",
-        "TITLE": "",
+        "TITLE": "Kovel'",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kowel]",
+        "N651": "$$aKovel’ (Ukrajina : oblast)$$7ge251173"
       },
       "geometry": {
         "type": "Polygon",
@@ -1141,12 +1141,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3574/3",
-        "TITLE": "",
+        "TITLE": "Mielnica ",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mielnica]",
+        "N651": "$$aMielnica (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1188,12 +1188,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3575/3",
-        "TITLE": "",
+        "TITLE": "Kolky",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kolki]",
+        "N651": "$$aKolky (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1235,12 +1235,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3576/4",
-        "TITLE": "",
+        "TITLE": "Stepan'",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Stepan]|[Stepań]",
+        "N651": "$$aStepan' (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1282,12 +1282,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3677/3",
-        "TITLE": "",
+        "TITLE": "Kostopil",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kostopol]",
+        "N651": "$$aKostopil (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1517,12 +1517,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3660/3",
-        "TITLE": "",
+        "TITLE": "Kluczbork",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kreutzburg]",
+        "N651": "$$aKluczbork (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1564,12 +1564,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3661/3",
-        "TITLE": "",
+        "TITLE": "Krzepice",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Krzepice]",
+        "N651": "$$aKrzepice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,12 +1611,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3662/3",
-        "TITLE": "",
+        "TITLE": "Čenstochová",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tschensztochow]",
+        "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138"
       },
       "geometry": {
         "type": "Polygon",
@@ -1658,12 +1658,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3663/3",
-        "TITLE": "",
+        "TITLE": "Koniecpol",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Koniecpol]",
+        "N651": "$$aKoniecpol (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1705,12 +1705,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3664/3",
-        "TITLE": "",
+        "TITLE": "Włoszczowa",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Włoszczowa]",
+        "N651": "$$aWłoszczowa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1752,12 +1752,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3665/3",
-        "TITLE": "",
+        "TITLE": "Kielce",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kielce]",
+        "N651": "$$aKielce (Polsko : oblast)$$7ge134268"
       },
       "geometry": {
         "type": "Polygon",
@@ -1799,12 +1799,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3666/3",
-        "TITLE": "",
+        "TITLE": "Łagów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Łagów]",
+        "N651": "$$aŁagów (Svatokřížské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1846,12 +1846,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3667/3",
-        "TITLE": "",
+        "TITLE": "Opatów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Opatów]",
+        "N651": "$$aOpatów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1893,12 +1893,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3668/3",
-        "TITLE": "",
+        "TITLE": "Chwałowice a.d. Weichsel",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Chwałowice a.d. Weichsel]",
+        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1940,12 +1940,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3669/3",
-        "TITLE": "",
+        "TITLE": "Turobin",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Turobin]",
+        "N651": "$$aTurobin (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1987,12 +1987,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3670/3",
-        "TITLE": "",
+        "TITLE": "Krasnostaw",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Krasnostaw]",
+        "N651": "$$aKrasnystaw (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2034,12 +2034,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3671/3",
-        "TITLE": "",
+        "TITLE": "Grabowiec",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Grabowiec]",
+        "N651": "$$aGrabowiec (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2081,12 +2081,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3672/3",
-        "TITLE": "",
+        "TITLE": "Volodimir Volynskij",
         "SCALE": "25000",
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Władimir Wołynskij]",
+        "N651": "$$aVolodimir Volynskij (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2128,12 +2128,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3673/3",
-        "TITLE": "",
+        "TITLE": "Ozdziutyczy",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ozdziutyczy]",
+        "N651": "$$aOzjutyčì (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2175,12 +2175,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3674/3",
-        "TITLE": "",
+        "TITLE": "Rożyszcze",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rożyszcze]",
+        "N651": "$$aRožyšče (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2222,12 +2222,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3675/3",
-        "TITLE": "",
+        "TITLE": "Teremno und Żurawicze",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Teremno und Żurawicze]",
+        "N651": "$$aTeremno (Luck, Ukrajina : oblast)|$$aŽuravičì (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2269,12 +2269,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3676/4",
-        "TITLE": "",
+        "TITLE": "Deražne",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Derażyno]",
+        "N651": "$$aDeražne (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2316,12 +2316,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3777/3",
-        "TITLE": "",
+        "TITLE": "Tuchyn",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tuczyn]",
+        "N651": "$$aTuchyn (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2739,12 +2739,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3760/3",
-        "TITLE": "",
+        "TITLE": "Opole",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Oppeln]",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544"
       },
       "geometry": {
         "type": "Polygon",
@@ -2786,12 +2786,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3761/3",
-        "TITLE": "",
+        "TITLE": "Lubliniec",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lublinitz]",
+        "N651": "$$aLubliniec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2833,12 +2833,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3762/3",
-        "TITLE": "",
+        "TITLE": "Koziegłowy",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Koziegłowy]",
+        "N651": "$$aKoziegłowy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2880,12 +2880,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3763/3",
-        "TITLE": "",
+        "TITLE": "Żarki",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Żarki]",
+        "N651": "$$aŻarki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2927,12 +2927,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3764/3",
-        "TITLE": "",
+        "TITLE": "Jędrzejów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jędrzejów]",
+        "N651": "$$aJędrzejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2974,12 +2974,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3765/3",
-        "TITLE": "",
+        "TITLE": "Pińczów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pińczów]",
+        "N651": "$$aPińczów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3021,12 +3021,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3766/3",
-        "TITLE": "",
+        "TITLE": "Staszów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Staszów]",
+        "N651": "$$aStaszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3068,12 +3068,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3767/3",
-        "TITLE": "",
+        "TITLE": "Tarnobrzeg",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tarnobrzeg]",
+        "N651": "$$aTarnobrzeg (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3115,12 +3115,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3768/3",
-        "TITLE": "",
+        "TITLE": "Nisko und Rozwadów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nisko und Rozwadów]",
+        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3162,12 +3162,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3769/3",
-        "TITLE": "",
+        "TITLE": "Janów und Biłgoraj",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Janów und Biłgoraj]",
+        "N651": "$$aJanów Lubelski (Polsko : oblast)|$$aBiłgoraj (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3209,12 +3209,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3770/3",
-        "TITLE": "",
+        "TITLE": "Zamość",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Zamość]",
+        "N651": "$$aZamość (Polsko : oblast)$$7ge828836"
       },
       "geometry": {
         "type": "Polygon",
@@ -3256,12 +3256,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3771/3",
-        "TITLE": "",
+        "TITLE": "Tyszowce",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tyszowce]",
+        "N651": "$$aTyszowce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3303,12 +3303,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3772/3",
-        "TITLE": "",
+        "TITLE": "Waręż",
         "SCALE": "25000",
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Waręż]",
+        "N651": "$$aVarjaž (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3350,12 +3350,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3773/3",
-        "TITLE": "",
+        "TITLE": "Steniatyn",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Steniatyn]",
+        "N651": "$$aStenjatyn (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3397,12 +3397,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3774/3",
-        "TITLE": "",
+        "TITLE": "Łuck",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Łuck]",
+        "N651": "$$aLuck (Ukrajina : oblast)$$7ge251175"
       },
       "geometry": {
         "type": "Polygon",
@@ -3444,12 +3444,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3775/3",
-        "TITLE": "",
+        "TITLE": "Olyka, Mlyniv",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ołyka und Młynow]",
+        "N651": "$$aOlyka (Ukrajina : oblast)|$$aMlynìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3491,12 +3491,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3776/4",
-        "TITLE": "",
+        "TITLE": "Rowno",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rowno]",
+        "N651": "$$aRovno (Ukrajina : oblast)$$7ge1031522"
       },
       "geometry": {
         "type": "Polygon",
@@ -3538,12 +3538,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3877/3",
-        "TITLE": "",
+        "TITLE": "Ostroh",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ostróg]",
+        "N651": "$$aOstroh (Ukrajina : oblast)$$7ge828847"
       },
       "geometry": {
         "type": "Polygon",
@@ -4149,12 +4149,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3860/3",
-        "TITLE": "",
+        "TITLE": "Kędzierzyn-Koźle",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Cosel]|[Koźle]",
+        "N651": "$$aKędzierzyn-Koźle (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4196,12 +4196,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3861/3",
-        "TITLE": "",
+        "TITLE": "Gliwice",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gliwice]|[Gleiwitz]",
+        "N651": "$$aGliwice (Polsko : oblast)$$7ge563375"
       },
       "geometry": {
         "type": "Polygon",
@@ -4243,12 +4243,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3862/3",
-        "TITLE": "",
+        "TITLE": "Beuthen",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Beuthen]",
+        "N651": "$$aBytom (Polsko : oblast)$$7ge1117871"
       },
       "geometry": {
         "type": "Polygon",
@@ -4290,12 +4290,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3863/3",
-        "TITLE": "",
+        "TITLE": "Olkusz",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Olkusz]",
+        "N651": "$$aOlkusz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4337,12 +4337,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3864/3",
-        "TITLE": "",
+        "TITLE": "Miechów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Miechów]",
+        "N651": "$$aMiechów (Polsko : oblast)$$7ge577277"
       },
       "geometry": {
         "type": "Polygon",
@@ -4384,12 +4384,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3865/3",
-        "TITLE": "",
+        "TITLE": "Nowy Korczyn",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nowy Korczyn]",
+        "N651": "$$aNowy Korczyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4431,12 +4431,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3866/3",
-        "TITLE": "",
+        "TITLE": "Szczucin",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szczucin]",
+        "N651": "$$aSzczucin (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4478,12 +4478,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3867/3",
-        "TITLE": "",
+        "TITLE": "Mielec und Majdan",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mielec und Majdan]",
+        "N651": "$$aMielec (Polsko : oblast)|$$aMajdan Królewski (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4525,12 +4525,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3868/3",
-        "TITLE": "",
+        "TITLE": "Rudnik und Raniżow",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rudnik und Raniżow]",
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)|$$aRaniżów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4572,12 +4572,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3869/3",
-        "TITLE": "",
+        "TITLE": "Leżajsk",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Leżajsk]",
+        "N651": "$$aLeżajsk (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4619,12 +4619,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3870/3",
-        "TITLE": "",
+        "TITLE": "Płazów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Płazów]",
+        "N651": "$$aPłazów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4666,12 +4666,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3871/3",
-        "TITLE": "",
+        "TITLE": "Bełzec, Uhniv",
         "SCALE": "25000",
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bełzec und Uhnów]",
+        "N651": "$$aBełżec (Polsko : oblast)|$$aUhniv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4713,12 +4713,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3872/3",
-        "TITLE": "",
+        "TITLE": "Belz, Sokal",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bełz und Sokal]",
+        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4760,12 +4760,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3873/3",
-        "TITLE": "",
+        "TITLE": "Radechìv",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Radziechów]",
+        "N651": "$$aRadechìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4807,12 +4807,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3874/3",
-        "TITLE": "",
+        "TITLE": "Berestečko, Ščurovičì",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Beresteczko und Szczurowice]",
+        "N651": "$$aBerestečko (Ukrajina : oblast)|$$aŠčurovičì (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4854,12 +4854,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3875/3",
-        "TITLE": "",
+        "TITLE": "Dubno",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dubno]",
+        "N651": "$$aDubno (Ukrajina : oblast)$$7ge910455"
       },
       "geometry": {
         "type": "Polygon",
@@ -4901,12 +4901,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3876/4",
-        "TITLE": "",
+        "TITLE": "Mìzoč",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mizocz]",
+        "N651": "$$aMìzoč (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4948,12 +4948,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3977/3",
-        "TITLE": "",
+        "TITLE": "Izjaslav",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Iziaslawl]",
+        "N651": "$$aIzjaslav (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5606,12 +5606,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3961/3",
-        "TITLE": "",
+        "TITLE": "Rybnik",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rybnik]",
+        "N651": "$$aRybnik (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5653,12 +5653,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3962/3",
-        "TITLE": "",
+        "TITLE": "Mysłowice a Osvětim",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Myslowitz und Oswiecim]|[Myslowitz und Oświęcim]",
+        "N651": "$$aMysłowice (Polsko : oblast)$$7ge1083209|$$aOsvětim (Polsko : oblast)$$7ge784116"
       },
       "geometry": {
         "type": "Polygon",
@@ -5700,12 +5700,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3963/3",
-        "TITLE": "",
+        "TITLE": "Chrzanów und Krzeszowice",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Chrzanów und Krzeszowice]",
+        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5747,12 +5747,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3964/3",
-        "TITLE": "",
+        "TITLE": "Krakau",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Krakau]",
+        "N651": "$$aKrakov (Polsko : oblast)$$7ge116258"
       },
       "geometry": {
         "type": "Polygon",
@@ -5794,12 +5794,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3965/3",
-        "TITLE": "",
+        "TITLE": "Ujście Solne",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ujście Solne]",
+        "N651": "$$aUście Solne (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5841,12 +5841,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3966/3",
-        "TITLE": "",
+        "TITLE": "Tarnów und Dąmbrowa",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tarnów und Dąmbrowa]",
+        "N651": "$$aTarnów (Polsko : oblast)$$7ge214600|$$aDąbrowa Tarnowska (Polsko : oblast)$$7ge643759"
       },
       "geometry": {
         "type": "Polygon",
@@ -5888,12 +5888,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3967/3",
-        "TITLE": "",
+        "TITLE": "Ropczyce und Dębica",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ropczyce und Dębica]",
+        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5935,12 +5935,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3968/3",
-        "TITLE": "",
+        "TITLE": "Rzeszów und Łańcut",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rzeszów und Łańcut]",
+        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5982,12 +5982,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3969/3",
-        "TITLE": "",
+        "TITLE": "Jaroslau",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jaroslau]",
+        "N651": "$$aJarosław (Polsko : oblast)$$7ge1118786"
       },
       "geometry": {
         "type": "Polygon",
@@ -6029,12 +6029,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3970/3",
-        "TITLE": "",
+        "TITLE": "Lubaczów",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lubaczów]",
+        "N651": "$$aLubaczów (Polsko : oblast)$$7ge1099940"
       },
       "geometry": {
         "type": "Polygon",
@@ -6076,12 +6076,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3971/3",
-        "TITLE": "",
+        "TITLE": "Rava Rus'ka",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rawa Ruska]",
+        "N651": "$$aRava Rus'ka (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6123,12 +6123,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3972/3",
-        "TITLE": "",
+        "TITLE": "Žovkva",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Żółkiew]",
+        "N651": "$$aŽovkva (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6170,12 +6170,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3973/3",
-        "TITLE": "",
+        "TITLE": "Kam’janka-Buz’ka",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kamionka-Strumiłowa]|[Kamionka Strumiłowa]",
+        "N651": "$$aKam’janka-Buz’ka (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6217,12 +6217,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3974/3",
-        "TITLE": "",
+        "TITLE": "Brody",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Brody]",
+        "N651": "$$aBrody (Ukrajina : oblast)$$7ge828841"
       },
       "geometry": {
         "type": "Polygon",
@@ -6264,12 +6264,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3975/3",
-        "TITLE": "",
+        "TITLE": "Kremenec´",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kremieniec]",
+        "N651": "$$aKremenec (Tarnopolská oblast, Ukrajina : oblast)$$7ge932342"
       },
       "geometry": {
         "type": "Polygon",
@@ -6311,12 +6311,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3976/4",
-        "TITLE": "",
+        "TITLE": "Šums'k",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szumsk]",
+        "N651": "$$aŠums'k (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6358,12 +6358,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4077/3",
-        "TITLE": "",
+        "TITLE": "Teofipol",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Teofipol]|[Teofipol (Czugan)]",
+        "N651": "$$aTeofipol (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7020,8 +7020,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bielsko-Biała]|[Bielitz und Biala]|[Bielitz und Biała]|[Bielsk a Biała]",
+        "N651": "$$aBielsko-Biała (Polsko : oblast)$$7ge116554"
       },
       "geometry": {
         "type": "Polygon",
@@ -7067,8 +7067,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wadowice]",
+        "N651": "$$aWadowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7114,8 +7114,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wieliczka und Myślenice]",
+        "N651": "$$aVělička (Polsko : oblast)$$7ge132337|$$aMyślenice (Polsko : oblast)$$7ge1103851"
       },
       "geometry": {
         "type": "Polygon",
@@ -7161,8 +7161,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bochnia und Czchów]",
+        "N651": "$$aBochnia (Polsko : oblast)$$7ge132338|$$aCzchów (Polsko : oblast)$$7ge1036499"
       },
       "geometry": {
         "type": "Polygon",
@@ -7208,8 +7208,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pilzno und Ciężkowice]",
+        "N651": "$$aPilzno (Polsko : oblast)$$7ge309494|$$aCiężkowice (Polsko : oblast)$$7ge1034209"
       },
       "geometry": {
         "type": "Polygon",
@@ -7255,8 +7255,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Brzostek und Strzyżów]",
+        "N651": "$$aBrzostek (Polsko : oblast)$$7ge1041190|$$aStrzyżów (Polsko : oblast)$$7ge1103850"
       },
       "geometry": {
         "type": "Polygon",
@@ -7302,8 +7302,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tyczyn und Dynów]",
+        "N651": "$$aTyczyn (Polsko : oblast)$$7ge1104695|$$aDynów (Polsko : oblast)$$7ge1032932"
       },
       "geometry": {
         "type": "Polygon",
@@ -7349,8 +7349,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Przemyśl]",
+        "N651": "$$aPrzemyśl (Polsko : oblast)$$7ge130543"
       },
       "geometry": {
         "type": "Polygon",
@@ -7396,8 +7396,8 @@
         "SCALE": "25000",
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mościska]",
+        "N651": "$$aMostìs'ka (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7443,8 +7443,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jaworów und Gródek]",
+        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Ukrajina, Lvovská oblast : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7490,8 +7490,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lemberg]",
+        "N651": "$$aLvov (Ukrajina : oblast)$$7ge341443"
       },
       "geometry": {
         "type": "Polygon",
@@ -7537,8 +7537,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Busk und Krasne]",
+        "N651": "$$aBus‘k (Ukrajina : oblast)$$7ge1032873|$$aKrasne (Bus‘k, Lvovská oblast, Ukrajina: oblast)$$7ge1086445"
       },
       "geometry": {
         "type": "Polygon",
@@ -7584,8 +7584,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Złoczów]",
+        "N651": "$$aZoločìv (Ukrajina : oblast)$$7ge680605"
       },
       "geometry": {
         "type": "Polygon",
@@ -7631,8 +7631,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Załoźce]",
+        "N651": "$$aZalìzcì (Ukrajina : oblast)$$7ge1111935"
       },
       "geometry": {
         "type": "Polygon",
@@ -7678,8 +7678,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jampol]",
+        "N651": "$$aJampìl' (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7725,8 +7725,8 @@
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bazalia]",
+        "N651": "$$aBasalija (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8473,12 +8473,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4164/3",
-        "TITLE": "",
+        "TITLE": "Rabka-Zdrój",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rabka und Tymbark]",
+        "N651": "$$aTymbark (Polsko : oblast)$$7xx0154365|$$aRabka-Zdrój (Polsko : oblast)$$7ge1107856"
       },
       "geometry": {
         "type": "Polygon",
@@ -8520,12 +8520,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4165/3",
-        "TITLE": "",
+        "TITLE": "Nowy Sącz",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Neu-Sandez]",
+        "N651": "$$aNowy Sącz (Polsko: oblast)$$7ge1033125"
       },
       "geometry": {
         "type": "Polygon",
@@ -8567,12 +8567,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4166/3",
-        "TITLE": "",
+        "TITLE": "Grybów a Gorlice",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Grybów a Gorlice]",
+        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8614,12 +8614,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4167/3",
-        "TITLE": "",
+        "TITLE": "Krosno",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jasło und Dukla]",
+        "N651": "$$aKrosno (Polsko : oblast)$$7ge117966|Jasło (Polsko : oblast)$$7ge117289"
       },
       "geometry": {
         "type": "Polygon",
@@ -8661,12 +8661,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4168/3",
-        "TITLE": "",
+        "TITLE": "Sanok",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Brzozów und Sanok]",
+        "N651": "$$aSanok (Polsko : oblast)$$7ge1033132|Brzozów (Polsko : oblast)$$7ge1032825"
       },
       "geometry": {
         "type": "Polygon",
@@ -8708,12 +8708,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4169/3",
-        "TITLE": "",
+        "TITLE": "Dobromil",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dobromil]",
+        "N651": "$$aDobromyl (Ukrajina : oblast)$$7ge1032916"
       },
       "geometry": {
         "type": "Polygon",
@@ -8755,12 +8755,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4170/3",
-        "TITLE": "",
+        "TITLE": "Sambor",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sambor]",
+        "N651": "$$aSambir (Ukrajina : oblast)$$7ge828834"
       },
       "geometry": {
         "type": "Polygon",
@@ -8802,12 +8802,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4171/3",
-        "TITLE": "",
+        "TITLE": "Rudki und Komarno",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rudki und Komarno]",
+        "N651": "$$aRudky (Ukrajina : oblast)$$7ge1033127|$$aKomarno (Ukrajina : oblast)$$7ge1064297"
       },
       "geometry": {
         "type": "Polygon",
@@ -8849,12 +8849,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4172/3",
-        "TITLE": "",
+        "TITLE": "Mykolajìv a Bibrka",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mikołajów und Bóbrka]",
+        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8896,12 +8896,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4173/3",
-        "TITLE": "",
+        "TITLE": "Przemyślany",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Przemyślany]",
+        "N651": "$$aPeremyšljany (Ukrajina : oblast)$$7ge1103733"
       },
       "geometry": {
         "type": "Polygon",
@@ -8943,12 +8943,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4174/3",
-        "TITLE": "",
+        "TITLE": "Pomorzany",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pomorzany]",
+        "N651": "$$aPomorjany (Ukrajina : oblast)$$7ge1103842"
       },
       "geometry": {
         "type": "Polygon",
@@ -8990,12 +8990,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4175/3",
-        "TITLE": "",
+        "TITLE": "Tarnopol",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tarnopol]",
+        "N651": "$$aTernopil (Ukrajina : oblast)$$7ge1118808"
       },
       "geometry": {
         "type": "Polygon",
@@ -9037,12 +9037,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4176/4",
-        "TITLE": "",
+        "TITLE": "Podwołoczyska",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Podwołoczyska]",
+        "N651": "$$aPidvoločysk (Ukrajina : oblast)$$7ge1103843"
       },
       "geometry": {
         "type": "Polygon",
@@ -9084,12 +9084,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4277/1",
-        "TITLE": "",
+        "TITLE": "Kuz'min",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kuźmin]",
+        "N651": "$$aKuz'min (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10071,12 +10071,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4269/1",
-        "TITLE": "",
+        "TITLE": "Ustrzyki Dolne",
         "SCALE": "25000",
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ustrzyki Dolne]",
+        "N651": "$$aUstrzyki Dolne (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10118,12 +10118,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4270/1",
-        "TITLE": "",
+        "TITLE": "Stary Sambor",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Stary Sambor]|[Staryj Sambir]|[Staremiasto]",
+        "N651": "$$aStaryj Sambir (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10165,12 +10165,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4271/1",
-        "TITLE": "",
+        "TITLE": "Drohobycz",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Drohobycz]",
+        "N651": "$$aDrohobyč (Ukrajina : oblast)$$7ge560284"
       },
       "geometry": {
         "type": "Polygon",
@@ -10212,12 +10212,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4272/1",
-        "TITLE": "",
+        "TITLE": "Żydaczów a Stryj",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Żydaczów und Stryj]",
+        "N651": "$$aŽydačiv (Ukrajina : oblast)|$$aStryj (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10259,12 +10259,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4273/1",
-        "TITLE": "",
+        "TITLE": "Rohatyn",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rohatyn]",
+        "N651": "$$aRohatyn (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10306,12 +10306,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4274/1",
-        "TITLE": "",
+        "TITLE": "Brzeżany",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Brzeżany]",
+        "N651": "$$aBerežany (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10353,12 +10353,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4275/1",
-        "TITLE": "",
+        "TITLE": "Trembowla",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Trembowla]",
+        "N651": "$$aTerebovlja (Ukrajina : oblast)$$7ge541872"
       },
       "geometry": {
         "type": "Polygon",
@@ -10400,12 +10400,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4276/2",
-        "TITLE": "",
+        "TITLE": "Skałat und Grzymałów",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Skałat und Grzymałów]",
+        "N651": "$$aSkalat (Ukrajina : oblast)|$$aHrimajlìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10447,12 +10447,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4377/3",
-        "TITLE": "",
+        "TITLE": "Jarmolynci a Horodok",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jarmolińcy und Gorodok]",
+        "N651": "$$aJarmolynzi (Ukrajina : oblast)$$7ge1086403|$$aHorodok (Lvovská oblast, Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11481,12 +11481,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4371/3",
-        "TITLE": "",
+        "TITLE": "Skole",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Skole]",
+        "N651": "$$aSkole (Ukrajina : oblast)$$7ge1033138"
       },
       "geometry": {
         "type": "Polygon",
@@ -11528,12 +11528,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4372/3",
-        "TITLE": "",
+        "TITLE": "Bolechów",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bolechów]",
+        "N651": "$$aBolechìv (Ukrajina : oblast)$$7ge1034105"
       },
       "geometry": {
         "type": "Polygon",
@@ -11575,12 +11575,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4373/3",
-        "TITLE": "",
+        "TITLE": "Kałusz und Halicz",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kałusz und Halicz]",
+        "N651": "$$aKaluš (Ukrajina : oblast)$$7ge1033114|$$aHalyč (Ukrajina : oblast)$$7ge1062228"
       },
       "geometry": {
         "type": "Polygon",
@@ -11622,12 +11622,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4374/3",
-        "TITLE": "",
+        "TITLE": "Monasterzyska",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Monasterzyska]",
+        "N651": "$$aMonastyryska (Ukrajina : oblast)$$7ge1086452"
       },
       "geometry": {
         "type": "Polygon",
@@ -11669,12 +11669,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4375/3",
-        "TITLE": "",
+        "TITLE": "Buczacz und Czortków",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Buczacz und Czortków]",
+        "N651": "$$aBučač (Ukrajina : oblast)$$7ge1032833|$$aČortkiv (Ukrajina : oblast)$$7ge1033158"
       },
       "geometry": {
         "type": "Polygon",
@@ -11716,12 +11716,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4376/4",
-        "TITLE": "",
+        "TITLE": "Kopyczyńce",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kopyczyńce]|[Husiatyn und Kopyczyńce]",
+        "N651": "$$aKopyčyncì (Ukrajina : oblast)$$7ge1086443"
       },
       "geometry": {
         "type": "Polygon",
@@ -11763,12 +11763,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4477/3",
-        "TITLE": "",
+        "TITLE": "Smotryč",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Smotrycz]",
+        "N651": "$$aSmotrycz (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12797,12 +12797,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4472/3",
-        "TITLE": "",
+        "TITLE": "Dolyna",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dolina]",
+        "N651": "$$aDolyna (Ukrajina : oblast)$$7ge1032922"
       },
       "geometry": {
         "type": "Polygon",
@@ -12844,12 +12844,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4473/3",
-        "TITLE": "",
+        "TITLE": "Stanislau",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Stanislau]",
+        "N651": "$$aIvano-Frankivsk (Ukrajina : oblast)$$7ge476209"
       },
       "geometry": {
         "type": "Polygon",
@@ -12891,12 +12891,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4474/3",
-        "TITLE": "",
+        "TITLE": "Tyśmienica und Tłumacz",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tyśmienica und Tłumacz]",
+        "N651": "$$aTysmenicja (Ukrajina : oblast)|$$aTlumač (Ukrajina : oblast)$$7ge1104694"
       },
       "geometry": {
         "type": "Polygon",
@@ -12938,12 +12938,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4475/3",
-        "TITLE": "",
+        "TITLE": "Jagielnica und Czernelica",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jagielnica und Czernelica]",
+        "N651": "$$aJagilnycja (Ukrajina : oblast)$$7ge1064509|$$aČernelycja (Ukrajina : oblast)$$7ge1033157"
       },
       "geometry": {
         "type": "Polygon",
@@ -12985,12 +12985,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4476/4",
-        "TITLE": "",
+        "TITLE": "Borszczów",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Borszczów]",
+        "N651": "$$aBorščìv (Ukrajina : oblast)$$7ge1034107"
       },
       "geometry": {
         "type": "Polygon",
@@ -13032,12 +13032,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4577/3",
-        "TITLE": "",
+        "TITLE": "Kamieniec Podolski",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kamieniec Podolski]|[Kamenec Podoljsky]",
+        "N651": "$$aKamenec-Podol’skij (Ukrajina : oblast)$$7ge1096124"
       },
       "geometry": {
         "type": "Polygon",
@@ -13079,12 +13079,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4551/4",
-        "TITLE": "",
+        "TITLE": "Pasov",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Passau]",
+        "N651": "$$aPasov (Německo : oblast)$$7ge114414"
       },
       "geometry": {
         "type": "Polygon",
@@ -13220,12 +13220,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4554/3",
-        "TITLE": "",
+        "TITLE": "Weitra und Zwettl",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Weitra und Zwettl]|[Weitra u. Zwettl]",
+        "N651": "$$aWeitra (Rakousko : oblast)$$7ge954334|$$aZwettl (Rakousko : oblast)$$7ge1096144"
       },
       "geometry": {
         "type": "Polygon",
@@ -13267,12 +13267,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4555/3",
-        "TITLE": "",
+        "TITLE": "Horn",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Horn]|[Rohy (Horn)]",
+        "N651": "$$aHorn (Rakousko : oblast)$$7ge1096142"
       },
       "geometry": {
         "type": "Polygon",
@@ -14113,12 +14113,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4573/3",
-        "TITLE": "",
+        "TITLE": "Nadvirna",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nadwórna]",
+        "N651": "$$aNadvirna (Ukrajina : oblast)$$7ge1096130"
       },
       "geometry": {
         "type": "Polygon",
@@ -14160,12 +14160,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4574/3",
-        "TITLE": "",
+        "TITLE": "Kolomyja",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kolomea]|[Kołomea]",
+        "N651": "$$aKolomyja (Ukrajina : oblast)$$7ge828863"
       },
       "geometry": {
         "type": "Polygon",
@@ -14207,12 +14207,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4575/3",
-        "TITLE": "",
+        "TITLE": "Zališčiki",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Zalesżczyki]|[Zaleszczyki]",
+        "N651": "$$aZališčiki (Ukrajina : oblast)$$7ge1096126"
       },
       "geometry": {
         "type": "Polygon",
@@ -14254,12 +14254,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4576/4",
-        "TITLE": "",
+        "TITLE": "Mel'nycja-Podil's'ka",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mielnica]",
+        "N651": "$$aMel‘nycja-Podìl‘s‘ka (Ukrajina : oblast)$$7ge1113671"
       },
       "geometry": {
         "type": "Polygon",
@@ -14301,12 +14301,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4677/3",
-        "TITLE": "",
+        "TITLE": "Lipkany",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lipkany]",
+        "N651": "$$aLipcani (Moldavsko : oblast)$$7ge1086450"
       },
       "geometry": {
         "type": "Polygon",
@@ -14348,12 +14348,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4650/3",
-        "TITLE": "",
+        "TITLE": "Braunau a Triftern",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Braunau und Triftern]",
+        "N651": "$$aBraunau am Inn (Rakousko : oblast)|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
       "geometry": {
         "type": "Polygon",
@@ -14395,12 +14395,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4651/4",
-        "TITLE": "",
+        "TITLE": "Schärding",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Schärding]",
+        "N651": "$$aSchärding (Rakousko : oblast)$$7ge1096230"
       },
       "geometry": {
         "type": "Polygon",
@@ -14442,12 +14442,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4652/3",
-        "TITLE": "",
+        "TITLE": "Linz und Eferding",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Linz und Eferding]",
+        "N651": "$$aLinec (Rakousko : oblast)$$7ge494546|$$aEferding (Rakousko : oblast)$$7ge1096227"
       },
       "geometry": {
         "type": "Polygon",
@@ -14489,12 +14489,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4653/3",
-        "TITLE": "",
+        "TITLE": "Steyregg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Steyregg]",
+        "N651": "$$aSteyregg (Rakousko : oblast)$$7ge1097038"
       },
       "geometry": {
         "type": "Polygon",
@@ -14536,12 +14536,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4654/3",
-        "TITLE": "",
+        "TITLE": "Ottenschlag",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ottenschlag]",
+        "N651": "$$aOttenschlag (Rakousko : oblast)$$7ge1112297"
       },
       "geometry": {
         "type": "Polygon",
@@ -14583,12 +14583,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4655/3",
-        "TITLE": "",
+        "TITLE": "Kremže",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Krems]",
+        "N651": "$$aKremže (Rakousko : oblast)$$7ge1096224"
       },
       "geometry": {
         "type": "Polygon",
@@ -14630,12 +14630,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4656/3",
-        "TITLE": "",
+        "TITLE": "Tulln",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tulln]",
+        "N651": "$$aTulln (Rakousko : oblast)$$7ge1096222"
       },
       "geometry": {
         "type": "Polygon",
@@ -14677,12 +14677,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4657/3",
-        "TITLE": "",
+        "TITLE": "Gänserndorf",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Unter Gänserndorf]|[Gänserndorf]",
+        "N651": "$$aGänserndorf (Rakousko : oblast)$$7ge1097037"
       },
       "geometry": {
         "type": "Polygon",
@@ -15476,12 +15476,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4674/3",
-        "TITLE": "",
+        "TITLE": "Kuty",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kuty]",
+        "N651": "$$aKuty (Ukrajina : oblast)$$7ge1033122"
       },
       "geometry": {
         "type": "Polygon",
@@ -15523,12 +15523,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4675/3",
-        "TITLE": "",
+        "TITLE": "Śniatyn",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Śniatyn]|[Sniatyn]",
+        "N651": "$$aSnjatyn (Ukrajina : oblast)$$7ge828860"
       },
       "geometry": {
         "type": "Polygon",
@@ -15570,12 +15570,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4676/4",
-        "TITLE": "",
+        "TITLE": "Czernowitz",
         "SCALE": "25000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Czernowitz]",
+        "N651": "$$aČernìvcì (Ukrajina : oblast)$$7ge828845"
       },
       "geometry": {
         "type": "Polygon",
@@ -15617,12 +15617,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4777/3",
-        "TITLE": "",
+        "TITLE": "Darabani",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Darabani]",
+        "N651": "$$aDarabani (Rumunsko : oblast)$$7ge1097040"
       },
       "geometry": {
         "type": "Polygon",
@@ -15664,12 +15664,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4749/3",
-        "TITLE": "",
+        "TITLE": "Tittmoning",
         "SCALE": "25000",
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tittmoning]",
+        "N651": "$$aTittmoning (Německo : oblast)$$7ge1118751"
       },
       "geometry": {
         "type": "Polygon",
@@ -15711,12 +15711,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4750/3",
-        "TITLE": "",
+        "TITLE": "Mattighofen",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mattighofen]",
+        "N651": "$$aMattighofen (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15758,12 +15758,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4751/4",
-        "TITLE": "",
+        "TITLE": "Ried a Vöcklabruck",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ried und Vöcklabruck]",
+        "N651": "$$aRied im Innkreis (Rakousko : oblast)$$7ge1096217|$$aVöcklabruck (Rakousko : oblast)$$7ge1097036"
       },
       "geometry": {
         "type": "Polygon",
@@ -15805,12 +15805,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4752/3",
-        "TITLE": "",
+        "TITLE": "Wels a Kremsmünster",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wels und Kremsmünster]",
+        "N651": "$$aWels (Rakousko : oblast)$$7ge1096213|$$aKremsmünster (Rakousko : oblast)$$7ge1096214"
       },
       "geometry": {
         "type": "Polygon",
@@ -15852,12 +15852,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4753/3",
-        "TITLE": "",
+        "TITLE": "Enže a Štýr",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Enns und Steyr]",
+        "N651": "$$aEnns (Rakousko : oblast)$$7ge1096211|$$aSteyr (Rakousko : oblast)$$7ge1096212"
       },
       "geometry": {
         "type": "Polygon",
@@ -15899,12 +15899,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4754/3",
-        "TITLE": "",
+        "TITLE": "Ybbs",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ybbs]",
+        "N651": "$$aYbbs an der Donau (Rakousko : oblast)$$7ge1096153"
       },
       "geometry": {
         "type": "Polygon",
@@ -15946,12 +15946,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4755/3",
-        "TITLE": "",
+        "TITLE": "Svatý Hypolit",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[St. Pölten]",
+        "N651": "$$aSankt Pölten (Rakousko : oblast)$$7ge856363"
       },
       "geometry": {
         "type": "Polygon",
@@ -15993,12 +15993,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4756/3",
-        "TITLE": "",
+        "TITLE": "Baden a Neulengbach",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Baden und Neulengbach]",
+        "N651": "$$aBaden (Rakousko : oblast)$$7ge1096151|$$aNeulengbach (Rakousko : oblast)$$7ge1096152"
       },
       "geometry": {
         "type": "Polygon",
@@ -16040,12 +16040,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4757/3",
-        "TITLE": "",
+        "TITLE": "Vídeň",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wien]",
+        "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
       "geometry": {
         "type": "Polygon",
@@ -16839,12 +16839,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4774/3",
-        "TITLE": "",
+        "TITLE": "Marynyčì a Vyžnycja",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Marenicze und Wiznitz]|[Mareniczeni]",
+        "N651": "$$aMarynyčì (Ukrajina : oblast)|$$aVyžnycja (Ukrajina : oblast)$$7ge1097043"
       },
       "geometry": {
         "type": "Polygon",
@@ -16886,12 +16886,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4775/3",
-        "TITLE": "",
+        "TITLE": "Storožynec’ a Davydìvka",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Storozynetz und Dawideny]|[Davideni und Storożynec]",
+        "N651": "$$aDavydìvka (Ukrajina : oblast)$$7ge1097042|$$aStorožynec (Ukrajina : oblast)$$7ge1097041"
       },
       "geometry": {
         "type": "Polygon",
@@ -16933,12 +16933,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4776/4",
-        "TITLE": "",
+        "TITLE": "Hlyboka",
         "SCALE": "25000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hliboka]",
+        "N651": "$$aHlyboka (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16980,12 +16980,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4877/3",
-        "TITLE": "",
+        "TITLE": "Dorohoi",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dorohoiŭ]",
+        "N651": "$$aDorohoi (Rumunsko : oblast)$$7ge1102029"
       },
       "geometry": {
         "type": "Polygon",
@@ -17027,12 +17027,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4850/3",
-        "TITLE": "",
+        "TITLE": "Salcburk",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Salzburg]",
+        "N651": "$$aSalcburk (Rakousko : oblast)$$7ge158425"
       },
       "geometry": {
         "type": "Polygon",
@@ -17074,12 +17074,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4851/4",
-        "TITLE": "",
+        "TITLE": "Gmunden a Schafberg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gmunden und Schafberg]",
+        "N651": "$$aGmunden (Rakousko : oblast)$$7ge1032937|$$aSchafberg (Rakousko : hora)$$7ge629947"
       },
       "geometry": {
         "type": "Polygon",
@@ -17121,12 +17121,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4852/3",
-        "TITLE": "",
+        "TITLE": "Kirchdorf",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kirchdorf]|[Kirchdorf a./d. Krems]",
+        "N651": "$$aKirchdorf an der Krems (Rakousko : oblast)$$7ge1086436"
       },
       "geometry": {
         "type": "Polygon",
@@ -17168,12 +17168,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4853/3",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Weyer]",
+        "N651": "$$aWeyer (Rakousko : oblast)$$7ge1033153"
       },
       "geometry": {
         "type": "Polygon",
@@ -17215,12 +17215,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4854/3",
-        "TITLE": "",
+        "TITLE": "Gaming a Mariazell",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gaming und Maria Zell]|[Gaming und Mariazell]",
+        "N651": "$$aGaming (Rakousko : oblast)|$$aMariazell (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17262,12 +17262,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4855/3",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Schneeberg und St. Aegyd]|[Schneeberg und St. Aegyd am Neuwalde]",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17309,12 +17309,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4856/3",
-        "TITLE": "",
+        "TITLE": "Vídeňské Nové Město",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wiener Neustadt]",
+        "N651": "$$aWiener Neustadt (Rakousko : oblast)$$7ge832043"
       },
       "geometry": {
         "type": "Polygon",
@@ -17356,12 +17356,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4857/3",
-        "TITLE": "",
+        "TITLE": "Eisenstadt",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Eisenstadt]|[Umgebung von Kismarton]|[Kismarton]",
+        "N651": "$$aEisenstadt (Rakousko : oblast)$$7ge1032935"
       },
       "geometry": {
         "type": "Polygon",
@@ -17407,7 +17407,7 @@
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[Mosonmagyaróvár]",
+        "N245A": "[Ung. Altenburg]|[Uh. Staré Hrady]|[Magyaróvár]|[Nezider]",
         "N651": "$$aMosonmagyaróvár (Maďarsko : oblast)$$7ge900848"
       },
       "geometry": {
@@ -17638,12 +17638,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4863/3",
-        "TITLE": "",
+        "TITLE": "Pásztó a Apc",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pásztó und Apc]|[Pásztó és Szirák]",
+        "N651": "$$aPásztó (Maďarsko : oblast)$$7ge1104678|$$aApc (Maďarsko : oblast)$$7ge1104676|$$aSzirák (Maďarsko : oblast)$$7ge1104677"
       },
       "geometry": {
         "type": "Polygon",
@@ -17685,12 +17685,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4864/3",
-        "TITLE": "",
+        "TITLE": "Gyöngyös a Egerbakta",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gyöngyös und Bakta]|[Gyongyös a Bakta]|[Gyöngyös és Verpelét]",
+        "N651": "$$aGyöngyös (Maďarsko : oblast)$$7ge1102043|$$aEgerbakta (Maďarsko : oblast)$$7ge1113667"
       },
       "geometry": {
         "type": "Polygon",
@@ -17732,12 +17732,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4865/3",
-        "TITLE": "",
+        "TITLE": "Eger a Mezőkeresztes",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Erlau und Mező-Keresztes]|[Eger és Mezőkövesd]",
+        "N651": "$$aEger (Maďarsko : oblast)$$7ge1101071|$$aMezőkeresztes (Maďarsko : oblast)$$7ge1102044"
       },
       "geometry": {
         "type": "Polygon",
@@ -17779,12 +17779,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4866/3",
-        "TITLE": "",
+        "TITLE": "Polgár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Polgár]",
+        "N651": "$$aPolgár (Maďarsko : oblast)$$7ge1102046"
       },
       "geometry": {
         "type": "Polygon",
@@ -17826,12 +17826,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4867/3",
-        "TITLE": "",
+        "TITLE": "Nyíregyháza a Hajdúnánás",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nyiregyháza und Hajdú-Nánás]|[Nireďháza (Nyiregyháza) a Hajdú-Nánás]|[Nyiregyháza és Hajdúnánás]",
+        "N651": "$$aNyíregyháza (Maďarsko : oblast)$$7ge1101067|$$aHajdúnánás (Maďarsko : oblast)$$7ge1102047"
       },
       "geometry": {
         "type": "Polygon",
@@ -17873,12 +17873,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4868/3",
-        "TITLE": "",
+        "TITLE": "Nagykálló a Nyírbátor",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nagy-Kálló und Nyír-Bátor]|[Nagykálló és Nyirbátor]",
+        "N651": "$$aNagykálló (Maďarsko : oblast)$$7ge1101052|$$aNyírbátor (Maďarsko : oblast)$$7ge1102050"
       },
       "geometry": {
         "type": "Polygon",
@@ -17920,12 +17920,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4869/3",
-        "TITLE": "",
+        "TITLE": "Jánkmajtis",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rm",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jánk]|[Fehérgyarmat és Csenger]",
+        "N651": "$$aJánkmajtis (Maďarsko : oblast)$$7ge1102051"
       },
       "geometry": {
         "type": "Polygon",
@@ -18155,12 +18155,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4874/3",
-        "TITLE": "",
+        "TITLE": "Šepìt",
         "SCALE": "25000",
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szipot-Kamerale]",
+        "N651": "$$aŠepìt (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18202,12 +18202,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4875/3",
-        "TITLE": "",
+        "TITLE": "Oberwikow",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Oberwikow]",
+        "N651": "$$aVicovu de Sus (Rumunsko : oblast)$$7ge1102031"
       },
       "geometry": {
         "type": "Polygon",
@@ -18249,12 +18249,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4876/4",
-        "TITLE": "",
+        "TITLE": "Rădăuți",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Radautz]",
+        "N651": "$$aRădăuți (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18296,12 +18296,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4977/3",
-        "TITLE": "",
+        "TITLE": "Udești",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Udești]",
+        "N651": "$$aUdești (Rumunsko : oblast)$$7ge1111830"
       },
       "geometry": {
         "type": "Polygon",
@@ -18343,12 +18343,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4943/3",
-        "TITLE": "",
+        "TITLE": "Bodamské jezero",
         "SCALE": "25000",
         "N43": "$$ae-sz---$$ae-gx---$$ae-au---",
         "N80": "$$a913(494)$$2MRF|$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Boden See]",
+        "N651": "$$aBodamské jezero (oblast)$$7ge134073"
       },
       "geometry": {
         "type": "Polygon",
@@ -18390,12 +18390,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4944/3",
-        "TITLE": "",
+        "TITLE": "Isny im Allgäu a Immenstadt im Allgäu",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Isny im Allgäu a Immenstadt im Allgäu]",
+        "N651": "$$aIsny im Allgäu (Německo : oblast)$$7ge1118660|$$aImmenstadt im Allgäu (Německo : oblast)$$7ge1118655"
       },
       "geometry": {
         "type": "Polygon",
@@ -18437,12 +18437,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4945/3",
-        "TITLE": "",
+        "TITLE": "Füssen",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Füssen]",
+        "N651": "$$aFüssen (Německo : oblast)$$7ge1118794"
       },
       "geometry": {
         "type": "Polygon",
@@ -18484,12 +18484,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4946/3",
-        "TITLE": "",
+        "TITLE": "Ober Ammergau",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ober Ammergau]",
+        "N651": "$$aOberammergau (Německo : oblast)$$7ge1118662"
       },
       "geometry": {
         "type": "Polygon",
@@ -18531,12 +18531,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4947/3",
-        "TITLE": "",
+        "TITLE": "Achenkirch a Benedictbeuren",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Achenkirch a Benedictbeuren]",
+        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18578,12 +18578,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4948/3",
-        "TITLE": "",
+        "TITLE": "Kufstein",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kufstein]",
+        "N651": "$$aKufstein (Rakousko : oblast)$$7ge560468"
       },
       "geometry": {
         "type": "Polygon",
@@ -18625,12 +18625,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4949/3",
-        "TITLE": "",
+        "TITLE": "Lofer a St. Johann in Tirol",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lofer a St. Johann in Tirol]",
+        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
       },
       "geometry": {
         "type": "Polygon",
@@ -18672,12 +18672,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4950/3",
-        "TITLE": "",
+        "TITLE": "Hallein a Bertesgaden",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hallein a Bertesgaden]",
+        "N651": "$$aHallein (Rakousko : oblast)$$7ge691088|$$aBerchtesgaden (Německo : oblast)$$7ge1101042"
       },
       "geometry": {
         "type": "Polygon",
@@ -18719,12 +18719,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4951/4",
-        "TITLE": "",
+        "TITLE": "Bad Ischl a Hallstadt",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bad Ischl a Hallstadt]",
+        "N651": "$$aBad Ischl (Rakousko : oblast)$$7ge969319|$$aHallstatt (Rakousko : oblast)$$7ge1118819"
       },
       "geometry": {
         "type": "Polygon",
@@ -18766,12 +18766,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4952/3",
-        "TITLE": "",
+        "TITLE": "Liezen",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Liezen]",
+        "N651": "$$aLiezen (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18813,12 +18813,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4953/3",
-        "TITLE": "",
+        "TITLE": "Admont a Hieflau",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Admont a Hieflau]",
+        "N651": "$$aAdmont (Rakousko : oblast)$$7ge1101032|$$aHieflau (Rakousko : oblast)$$7ge1113365"
       },
       "geometry": {
         "type": "Polygon",
@@ -18860,12 +18860,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4954/3",
-        "TITLE": "",
+        "TITLE": "Eisenerzské Alpy a Aflenz",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Eisenerz, Wildalpen und Aflenz]",
+        "N651": "$$aEisenerzské Alpy (Rakousko : pohoří)$$7ge891329|$$aAflenz Kurort (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18907,12 +18907,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4955/3",
-        "TITLE": "",
+        "TITLE": "Mürzzuschlag",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mürzzuschlag]",
+        "N651": "$$aMürzzuschlag (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18954,12 +18954,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4956/3",
-        "TITLE": "",
+        "TITLE": "Neunkirchen a Aspang",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Neunkirchen a Aspang]",
+        "N651": "$$aNeunkirchen (Rakousko : oblast)|$$aAspang Markt (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19001,12 +19001,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4957/3",
-        "TITLE": "",
+        "TITLE": "Šoproň",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Šoproň]",
+        "N651": "$$aSopron (Maďarsko : oblast)$$7ge799490"
       },
       "geometry": {
         "type": "Polygon",
@@ -19048,12 +19048,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4958/3",
-        "TITLE": "",
+        "TITLE": "Kapuvár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kapuvár]",
+        "N651": "$$aKapuvár (Maďarsko : oblast)$$7ge1101031"
       },
       "geometry": {
         "type": "Polygon",
@@ -19236,12 +19236,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4962/3",
-        "TITLE": "",
+        "TITLE": "Óbuda",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Óbuda]",
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
       "geometry": {
         "type": "Polygon",
@@ -19283,12 +19283,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4963/3",
-        "TITLE": "",
+        "TITLE": "Hatvan a Gödöllő",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hatvan a Gödöllő]",
+        "N651": "$$aHatvan (Maďarsko : oblast)$$7ge1032954|$$aGödöllő (Maďarsko : oblast)$$7ge1032942"
       },
       "geometry": {
         "type": "Polygon",
@@ -19330,12 +19330,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4964/3",
-        "TITLE": "",
+        "TITLE": "Kál a Jászberény",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kál a Jászberény]",
+        "N651": "$$aKál (Maďarsko : oblast)$$7ge1086449|$$aJászberény (Maďarsko : oblast)$$7ge1086417"
       },
       "geometry": {
         "type": "Polygon",
@@ -19377,12 +19377,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4965/3",
-        "TITLE": "",
+        "TITLE": "Besenyötelek a Tiszafüred",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Besenyötelek a Tiszafüred]",
+        "N651": "$$aBesenyötelek (Maďarsko : oblast)$$7ge1034101|$$aTiszafüred (Maďarsko : oblast)$$7ge1033150"
       },
       "geometry": {
         "type": "Polygon",
@@ -19424,12 +19424,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4966/3",
-        "TITLE": "",
+        "TITLE": "Tiszacsege",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tiszacsege]",
+        "N651": "$$aTiszacsege (Maďarsko : oblast)$$7ge1104684"
       },
       "geometry": {
         "type": "Polygon",
@@ -19471,12 +19471,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4967/3",
-        "TITLE": "",
+        "TITLE": "Debrecín",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Debrecín]",
+        "N651": "$$aDebrecín (Maďarsko : oblast)$$7ge736510"
       },
       "geometry": {
         "type": "Polygon",
@@ -19518,12 +19518,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4968/3",
-        "TITLE": "",
+        "TITLE": "Nyírbéltek a Vámospércs",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nyírbéltek a Vámospércs]",
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámos-Pércs (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19565,12 +19565,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4969/3",
-        "TITLE": "",
+        "TITLE": "Carei a Acâș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Carei a Acâș]",
+        "N651": "$$aCarei (Rumunsko : oblast)$$7ge828883|$$aAcâș (Rumunsko : oblast)$$7ge1034096"
       },
       "geometry": {
         "type": "Polygon",
@@ -19612,12 +19612,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4970/3",
-        "TITLE": "",
+        "TITLE": "Seini a Beltiug",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Seini a Beltiug]",
+        "N651": "$$aSeini (Rumunsko : oblast)$$7ge1103693|$$aBeltiug (Rumunsko : oblast)$$7ge1034098"
       },
       "geometry": {
         "type": "Polygon",
@@ -19659,12 +19659,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4971/3",
-        "TITLE": "",
+        "TITLE": "Baia Mare",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Baia Mare]",
+        "N651": "$$aBaia Mare (Rumunsko : oblast)$$7ge1032692"
       },
       "geometry": {
         "type": "Polygon",
@@ -19706,12 +19706,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4972/3",
-        "TITLE": "",
+        "TITLE": "Cavnic",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Cavnic]",
+        "N651": "$$aCavnic (Rumunsko : oblast)$$7ge1034160"
       },
       "geometry": {
         "type": "Polygon",
@@ -19753,12 +19753,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4973/3",
-        "TITLE": "",
+        "TITLE": "Vișeu de Sus",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Vișeu de Sus]",
+        "N651": "$$aVișeu de Sus (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19800,12 +19800,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4974/3",
-        "TITLE": "",
+        "TITLE": "Cârlibaba",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Cârlibaba]",
+        "N651": "$$aCârlibaba (Rumunsko : oblast)$$7ge1040543"
       },
       "geometry": {
         "type": "Polygon",
@@ -19847,12 +19847,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4975/3",
-        "TITLE": "",
+        "TITLE": "Câmpulung Moldovenesc",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Câmpulung Moldovenesc]",
+        "N651": "$$aCâmpulung Moldovenesc (Rumunsko : oblast)$$7ge1040542"
       },
       "geometry": {
         "type": "Polygon",
@@ -19894,12 +19894,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4976/4",
-        "TITLE": "",
+        "TITLE": "Sučeva",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sučeva]",
+        "N651": "$$aSuceava (Rumunsko : oblast)$$7ge1033144"
       },
       "geometry": {
         "type": "Polygon",
@@ -19941,12 +19941,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5077/3",
-        "TITLE": "",
+        "TITLE": "Dolhasca",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dolhasca]",
+        "N651": "$$aDolhasca (Rumunsko : oblast)$$7ge1040547"
       },
       "geometry": {
         "type": "Polygon",
@@ -19988,12 +19988,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5043/3",
-        "TITLE": "",
+        "TITLE": "Hohenems",
         "SCALE": "25000",
         "N43": "$$ae-sz---$$ae-au---",
         "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hohenems]",
+        "N651": "$$aHohenems (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20035,12 +20035,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5044/3",
-        "TITLE": "",
+        "TITLE": "Reuthe a Oberstdorf",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Reuthe a Oberstdorf]",
+        "N651": "$$aReuthe (Rakousko : oblast)$$7ge1097032|$$aOberstdorf (Německo : oblast)$$7ge1024560"
       },
       "geometry": {
         "type": "Polygon",
@@ -20082,12 +20082,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5045/3",
-        "TITLE": "",
+        "TITLE": "Údolí Lechu",
         "SCALE": "25000",
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Údolí Lechu]",
+        "N651": "$$aLechthal (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20129,12 +20129,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5046/3",
-        "TITLE": "",
+        "TITLE": "Zirl a Nassereith",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Zirl a Nassereith]",
+        "N651": "$$aZirl (Rakousko : oblast)|$$aNassereith (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20176,12 +20176,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5047/3",
-        "TITLE": "",
+        "TITLE": "Innsbruck ",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Innsbruck ]",
+        "N651": "$$aInnsbruck (Rakousko : oblast)$$7ge494545"
       },
       "geometry": {
         "type": "Polygon",
@@ -20223,12 +20223,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5048/3",
-        "TITLE": "",
+        "TITLE": "Rattenberg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Rattenberg]",
+        "N651": "$$aRattenberg (Rakousko : oblast)$$7ge1097031"
       },
       "geometry": {
         "type": "Polygon",
@@ -20270,12 +20270,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5049/3",
-        "TITLE": "",
+        "TITLE": "Kitzbühel a Zell am See",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kitzbühel a Zell am See]",
+        "N651": "$$aKitzbühel (Rakousko : oblast)$$7ge856965|$$aZell am See (Rakousko : oblast)$$7ge1096092"
       },
       "geometry": {
         "type": "Polygon",
@@ -20317,12 +20317,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5050/3",
-        "TITLE": "",
+        "TITLE": "St. Johann im Pongau",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[St. Johann im Pongau]",
+        "N651": "$$aSankt Johann im Pongau (Rakousko : oblast)$$7ge273618"
       },
       "geometry": {
         "type": "Polygon",
@@ -20364,12 +20364,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5051/4",
-        "TITLE": "",
+        "TITLE": "Radstadt",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Radstadt]",
+        "N651": "$$aRadstadt (Rakousko : oblast)$$7ge1096086"
       },
       "geometry": {
         "type": "Polygon",
@@ -20411,12 +20411,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5052/3",
-        "TITLE": "",
+        "TITLE": "Grömbing a Sankt Nicolai im Sölktal",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Grömbing a Sankt Nicolai im Sölktal]",
+        "N651": "$$aGröbming (Rakousko : oblast)$$7ge1109420|$$aSankt Nikolai im Sölktal (Rakousko : oblast)$$7ge1112293"
       },
       "geometry": {
         "type": "Polygon",
@@ -20458,12 +20458,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5053/3",
-        "TITLE": "",
+        "TITLE": "Sankt Johann am Tauern",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sankt Johann am Tauern]",
+        "N651": "$$aSankt Johann am Tauern (Rakousko : oblast)$$7ge1097030"
       },
       "geometry": {
         "type": "Polygon",
@@ -20505,12 +20505,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5054/3",
-        "TITLE": "",
+        "TITLE": "Leoben a Bruck an der Mur",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Leoben a Bruck an der Mur]",
+        "N651": "$$aLeoben (Rakousko : oblast)$$7ge1096076|$$aBruck an der Mur (Rakousko : oblast)$$7ge1096078"
       },
       "geometry": {
         "type": "Polygon",
@@ -20552,12 +20552,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5055/3",
-        "TITLE": "",
+        "TITLE": "Birkfeld",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Birkfeld]",
+        "N651": "$$aBirkfeld (Rakousko : oblast)$$7ge1109745"
       },
       "geometry": {
         "type": "Polygon",
@@ -20599,12 +20599,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5056/3",
-        "TITLE": "",
+        "TITLE": "Hartberg a Pinkafeld",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hartberg a Pinkafeld]",
+        "N651": "$$aHartberg (Rakousko : oblast)$$7ge691258|$$aPinkafeld (Rakousko : oblast)$$7ge1097029"
       },
       "geometry": {
         "type": "Polygon",
@@ -20646,12 +20646,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5057/3",
-        "TITLE": "",
+        "TITLE": "Kőszeg",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kőszeg]",
+        "N651": "$$aKőszeg (Maďarsko : oblast)$$7ge1096069"
       },
       "geometry": {
         "type": "Polygon",
@@ -20693,12 +20693,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5058/3",
-        "TITLE": "",
+        "TITLE": "Sárvár, Celldömölk a Beled",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sárvár, Celldömölk a Beled]",
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)$$7ge1097028"
       },
       "geometry": {
         "type": "Polygon",
@@ -20740,12 +20740,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5059/3",
-        "TITLE": "",
+        "TITLE": "Pápa",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[]",
-        "N651": "$$a"
+        "N651": "$$aPápa (Maďarsko : oblast)$$7ge828935"
       },
       "geometry": {
         "type": "Polygon",
@@ -20787,12 +20787,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5060/3",
-        "TITLE": "",
+        "TITLE": "Mór a Zirc",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mór a Zirc]",
+        "N651": "$$aMór (Maďarsko : oblast)$$7ge1095968|$$aZirc (Maďarsko : oblast)$$7ge1095758|$$aVál (Maďarsko : oblast)$$7ge1109419"
       },
       "geometry": {
         "type": "Polygon",
@@ -20834,12 +20834,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5061/3",
-        "TITLE": "",
+        "TITLE": "Bicske a Martonvásár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bicske a Martonvásár]",
+        "N651": "$$aBicske (Maďarsko : oblast)$$7ge1097026|$$aMartonvásár (Maďarsko : oblast)$$7ge1095966"
       },
       "geometry": {
         "type": "Polygon",
@@ -20881,12 +20881,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5062/3",
-        "TITLE": "",
+        "TITLE": "Budapešť a Nagytétény",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Budapešť a Nagytétény]",
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
       "geometry": {
         "type": "Polygon",
@@ -20928,12 +20928,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5063/3",
-        "TITLE": "",
+        "TITLE": "Nagykáta a Monor",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nagykáta a Monor]",
+        "N651": "$$aNagykáta (Maďarsko : oblast)$$7ge1097021|$$aMonor (Maďarsko : oblast)$$7ge1097025"
       },
       "geometry": {
         "type": "Polygon",
@@ -20975,12 +20975,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5064/3",
-        "TITLE": "",
+        "TITLE": "Jászladány",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Jászladány]",
+        "N651": "$$aJászladány (Maďarsko : oblast)$$7ge1097019"
       },
       "geometry": {
         "type": "Polygon",
@@ -21022,12 +21022,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5065/3",
-        "TITLE": "",
+        "TITLE": "Tiszaroff",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tiszaroff]",
+        "N651": "$$aTiszaroff (Maďarsko : oblast)|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -21069,12 +21069,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5066/3",
-        "TITLE": "",
+        "TITLE": "Püspökladány",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Püspökladány]",
+        "N651": "$$aPüspökladány (Maďarsko : oblast)$$7ge929537"
       },
       "geometry": {
         "type": "Polygon",
@@ -21116,12 +21116,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5067/3",
-        "TITLE": "",
+        "TITLE": "Hajduszoboszló a Esztár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hajduszoboszló a Esztár]",
+        "N651": "$$aHajduszoboszló (Maďarsko : oblast)$$7ge1032948|$$aEsztár (Maďarsko : oblast)$$7ge1045679"
       },
       "geometry": {
         "type": "Polygon",
@@ -21163,12 +21163,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5068/3",
-        "TITLE": "",
+        "TITLE": "Sălacea a Diosig",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sălacea a Diosig]",
+        "N651": "$$aSălacea (Rumunsko : oblast)$$7ge1103723|$$aDiosig (Rumunsko : oblast)$$7ge1040546"
       },
       "geometry": {
         "type": "Polygon",
@@ -21210,12 +21210,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5069/3",
-        "TITLE": "",
+        "TITLE": "Tășnad a Suplacu de Barcău",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tășnad a Suplacu de Barcău]",
+        "N651": "$$aTășnad (Rumunsko : oblast)|$$aSuplacu de Barcău (Rumunsko : oblast)$$7ge1103722"
       },
       "geometry": {
         "type": "Polygon",
@@ -21257,12 +21257,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5070/3",
-        "TITLE": "",
+        "TITLE": "Hodod a Jibou",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hodod a Jibou]",
+        "N651": "$$aHodod (Rumunsko : oblast)$$7ge1062258|$$aJibou (Rumunsko : oblast)$$7ge1064059"
       },
       "geometry": {
         "type": "Polygon",
@@ -21304,12 +21304,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5071/3",
-        "TITLE": "",
+        "TITLE": "Valea Chioarului a Gâlgău",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Valea Chioarului a Gâlgău]",
+        "N651": "$$aValea Chioarului (Rumunsko : oblast)$$7ge1111835|$$aGâlgău (Rumunsko : oblast)$$7ge1045682"
       },
       "geometry": {
         "type": "Polygon",
@@ -21351,12 +21351,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5072/3",
-        "TITLE": "",
+        "TITLE": "Târgu Lăpuș a Mocod",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Târgu Lăpuș a Mocod]",
+        "N651": "$$aTârgu Lăpuș (Rumunsko : oblast)$$7ge1104688|$$aMocod (Rumunsko : oblast)$$7ge1086451"
       },
       "geometry": {
         "type": "Polygon",
@@ -21398,12 +21398,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5073/3",
-        "TITLE": "",
+        "TITLE": "Năsăud a Rodna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Năsăud a Rodna]",
+        "N651": "$$aNăsăud (Rumunsko : oblast)$$7ge1086521|$$aRodna (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21445,12 +21445,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5074/3",
-        "TITLE": "",
+        "TITLE": "Șanț a Iacobeni",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Șanț a Iacobeni]",
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21492,12 +21492,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5075/3",
-        "TITLE": "",
+        "TITLE": "Vatra Dornei a Stulpicani",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Vatra Dornei a Stulpicani]",
+        "N651": "$$aVatra Dornei (Rumunsko : oblast)$$7ge1104686|$$aStulpicani (Rumunsko : oblast)$$7ge1103715"
       },
       "geometry": {
         "type": "Polygon",

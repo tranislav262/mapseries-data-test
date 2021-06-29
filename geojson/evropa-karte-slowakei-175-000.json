@@ -1980,7 +1980,7 @@
         "N43": "$$ae-xo---$$ae-au---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Hainburg és Ipolyság",
-        "N651": "$$aHainburg an der Donau (Rakousko : oblast)"
+        "N651": "$$aHainburg an der Donau (Rakousko : oblast)$$7ge1096146"
       },
       "geometry": {
         "type": "Polygon",
@@ -2144,7 +2144,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Balassagyarmat és Ipolyság",
-        "N651": "$$aBalassagyarmat (Maďarsko : oblast)|$$aŠahy (Slovensko : oblast)$$7ge899916"
+        "N651": "$$aBalassagyarmat (Maďarsko : oblast)$$7ge1032812|$$aŠahy (Slovensko : oblast)$$7ge899916"
       },
       "geometry": {
         "type": "Polygon",

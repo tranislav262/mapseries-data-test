@@ -176,7 +176,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Forli",
-        "N651": "$$aForlì (Itálie : oblast)"
+        "N651": "$$aForlì (Itálie : oblast)$$7ge1119473"
       },
       "geometry": {
         "type": "Polygon",
@@ -299,7 +299,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "San Remo",
-        "N651": "$$aSan Remo (Itálie : oblast)"
+        "N651": "$$aSan Remo (Itálie : oblast)$$7ge1119472"
       },
       "geometry": {
         "type": "Polygon",
@@ -422,7 +422,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Lucca",
-        "N651": "$$aLucca (Itálie : oblast)"
+        "N651": "$$aLucca (Itálie : oblast)$$7ge1119341"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Arezzo",
-        "N651": "$$aArezzo (Itálie : oblast)"
+        "N651": "$$aArezzo (Itálie : oblast)$$7ge1119468"
       },
       "geometry": {
         "type": "Polygon",
@@ -873,7 +873,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Città di Castello|Citta di Castello",
-        "N651": "$$aCittà di Castello (Itálie : oblast)"
+        "N651": "$$aCittà di Castello (Itálie : oblast)$$7ge1119482"
       },
       "geometry": {
         "type": "Polygon",
@@ -1160,7 +1160,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Montepulciano",
-        "N651": "$$aMontepulciano (Itálie : oblast)"
+        "N651": "$$aMontepulciano (Itálie : oblast)$$7ge1119487"
       },
       "geometry": {
         "type": "Polygon",
@@ -1283,7 +1283,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Macerata",
-        "N651": "$$aMacerata (Itálie : oblast)"
+        "N651": "$$aMacerata (Itálie : oblast)$$7ge1119539"
       },
       "geometry": {
         "type": "Polygon",
@@ -1324,7 +1324,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Fermo",
-        "N651": "$$aFermo (Itálie : oblast)"
+        "N651": "$$aFermo (Itálie : oblast)$$7ge1119343"
       },
       "geometry": {
         "type": "Polygon",
@@ -1447,7 +1447,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Grosseto",
-        "N651": "$$aGrosseto (Itálie : oblast)"
+        "N651": "$$aGrosseto (Itálie : oblast)$$7ge1119543"
       },
       "geometry": {
         "type": "Polygon",
@@ -1570,7 +1570,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Orvieto",
-        "N651": "$$aOrvieto (Itálie : oblast)"
+        "N651": "$$aOrvieto (Itálie : oblast)$$7ge1119545"
       },
       "geometry": {
         "type": "Polygon",
@@ -1857,7 +1857,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Viterbo",
-        "N651": "$$aViterbo (Itálie : oblast)"
+        "N651": "$$aViterbo (Itálie : oblast)$$7ge1119345"
       },
       "geometry": {
         "type": "Polygon",
@@ -1898,7 +1898,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Terni",
-        "N651": "$$aTerni (Itálie : oblast)"
+        "N651": "$$aTerni (Itálie : oblast)$$7ge1119548"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2226,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Avezzano",
-        "N651": "$$aAvezzano (Itálie : oblast)"
+        "N651": "$$aAvezzano (Itálie : oblast)$$7ge1119552"
       },
       "geometry": {
         "type": "Polygon",
@@ -2390,7 +2390,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cerveteri",
-        "N651": "$$aCerveteri (Itálie : oblast)"
+        "N651": "$$aCerveteri (Itálie : oblast)$$7ge1119554"
       },
       "geometry": {
         "type": "Polygon",
@@ -3456,7 +3456,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Gaeta",
-        "N651": "$$aGaeta (Itálie : oblast)"
+        "N651": "$$aGaeta (Itálie : oblast)$$7ge1119344"
       },
       "geometry": {
         "type": "Polygon",
@@ -3497,7 +3497,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Caserta",
-        "N651": "$$aCaserta (Itálie : oblast)"
+        "N651": "$$aCaserta (Itálie : oblast)$$7ge1119560"
       },
       "geometry": {
         "type": "Polygon",
@@ -3538,7 +3538,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Benevento",
-        "N651": "$$aBenevento (Itálie : oblast)"
+        "N651": "$$aBenevento (Itálie : oblast)$$7ge1119357"
       },
       "geometry": {
         "type": "Polygon",
@@ -3620,7 +3620,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cerignola",
-        "N651": "$$aCerignola (Itálie : oblast)"
+        "N651": "$$aCerignola (Itálie : oblast)$$7ge1119561"
       },
       "geometry": {
         "type": "Polygon",
@@ -3866,7 +3866,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Sassari",
-        "N651": "$$aSassari (Itálie : oblast)"
+        "N651": "$$aSassari (Itálie : oblast)$$7ge1119470"
       },
       "geometry": {
         "type": "Polygon",
@@ -4071,7 +4071,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Salerno",
-        "N651": "$$aSalerno (Itálie : oblast)"
+        "N651": "$$aSalerno (Itálie : oblast)$$7ge1119348"
       },
       "geometry": {
         "type": "Polygon",
@@ -4235,7 +4235,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Altamura",
-        "N651": "$$aAltamura (Itálie : oblast)"
+        "N651": "$$aAltamura (Itálie : oblast)$$7ge1119564"
       },
       "geometry": {
         "type": "Polygon",
@@ -4932,7 +4932,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Tarent|Taranto (Tarent)",
-        "N651": "$$aTaranto (Itálie : oblast)"
+        "N651": "$$aTaranto (Itálie : oblast)$$7ge1119566"
       },
       "geometry": {
         "type": "Polygon",
@@ -4973,7 +4973,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Brindisi",
-        "N651": "$$aBrindisi (Itálie : oblast)"
+        "N651": "$$aBrindisi (Itálie : oblast)$$7ge1119404"
       },
       "geometry": {
         "type": "Polygon",
@@ -5014,7 +5014,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Lecce",
-        "N651": "$$aLecce (Itálie : oblast)"
+        "N651": "$$aLecce (Itálie : oblast)$$7ge1119405"
       },
       "geometry": {
         "type": "Polygon",
@@ -5506,7 +5506,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Otranto",
-        "N651": "$$aOtranto (Itálie : oblast)"
+        "N651": "$$aOtranto (Itálie : oblast)$$7ge1119406"
       },
       "geometry": {
         "type": "Polygon",
@@ -6490,7 +6490,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cosenza",
-        "N651": "$$aCosenza (Itálie : oblast)"
+        "N651": "$$aCosenza (Itálie : oblast)$$7ge1119407"
       },
       "geometry": {
         "type": "Polygon",
@@ -7080,7 +7080,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Palermo",
-        "N651": "$$aPalermo (Itálie : oblast)"
+        "N651": "$$aPalermo (Itálie : oblast)$$7ge1119408"
       },
       "geometry": {
         "type": "Polygon",
@@ -7203,7 +7203,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cefalù",
-        "N651": "$$aCefalu (Itálie : oblast)"
+        "N651": "$$aCefalu (Itálie : oblast)$$7ge1119409"
       },
       "geometry": {
         "type": "Polygon",
@@ -7326,7 +7326,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Messina-Reggio Calabria|Messina-Reggio Cal.",
-        "N651": "$$aMessina (Itálie : oblast)$$7ge1119088|$$aReggio di Calabria (Itálie : oblast)"
+        "N651": "$$aMessina (Itálie : oblast)$$7ge1119088|$$aReggio di Calabria (Itálie : oblast)$$7ge1119410"
       },
       "geometry": {
         "type": "Polygon",
@@ -8105,7 +8105,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Catania",
-        "N651": "$$aCatania (Itálie : oblast)"
+        "N651": "$$aCatania (Itálie : oblast)$$7ge1119411"
       },
       "geometry": {
         "type": "Polygon",
@@ -8269,7 +8269,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Syrakus|Siracusa",
-        "N651": "$$aSyrakusy (Itálie : oblast)"
+        "N651": "$$aSyrakusy (Itálie : oblast)$$7ge1119391"
       },
       "geometry": {
         "type": "Polygon",
@@ -9007,7 +9007,7 @@
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Palmanova",
-        "N651": "$$aPalmanova (Itálie : oblast)"
+        "N651": "$$aPalmanova (Itálie : oblast)$$7ge1119415"
       },
       "geometry": {
         "type": "Polygon",
@@ -9171,7 +9171,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ivrea",
-        "N651": "$$aIvrea (Itálie : oblast)"
+        "N651": "$$aIvrea (Itálie : oblast)$$7ge1119412"
       },
       "geometry": {
         "type": "Polygon",
@@ -9950,7 +9950,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Susa",
-        "N651": "$$aSusa (Itálie : oblast)"
+        "N651": "$$aSusa (Itálie : oblast)$$7ge1119413"
       },
       "geometry": {
         "type": "Polygon",
@@ -10032,7 +10032,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Vercelli",
-        "N651": "$$aVercelli (Itálie : oblast)"
+        "N651": "$$aVercelli (Itálie : oblast)$$7ge1119417"
       },
       "geometry": {
         "type": "Polygon",
@@ -10073,7 +10073,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Mortara",
-        "N651": "$$aMortara (Itálie : oblast)"
+        "N651": "$$aMortara (Itálie : oblast)$$7ge1119573"
       },
       "geometry": {
         "type": "Polygon",
@@ -10114,7 +10114,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Pavia",
-        "N651": "$$aPavia (Itálie : oblast)"
+        "N651": "$$aPavia (Itálie : oblast)$$7ge1119354"
       },
       "geometry": {
         "type": "Polygon",
@@ -10606,7 +10606,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Pinerolo",
-        "N651": "$$aPinerolo (Itálie : oblast)"
+        "N651": "$$aPinerolo (Itálie : oblast)$$7ge1119418"
       },
       "geometry": {
         "type": "Polygon",
@@ -10647,7 +10647,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Carmagnola",
-        "N651": "$$aCarmagnola (Itálie : oblast)"
+        "N651": "$$aCarmagnola (Itálie : oblast)$$7ge1119419"
       },
       "geometry": {
         "type": "Polygon",
@@ -10688,7 +10688,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Asti",
-        "N651": "$$aAsti (Itálie : oblast)"
+        "N651": "$$aAsti (Itálie : oblast)$$7ge1119420"
       },
       "geometry": {
         "type": "Polygon",
@@ -10893,7 +10893,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Parma",
-        "N651": "$$aParma (Itálie : oblast)"
+        "N651": "$$aParma (Itálie : oblast)$$7ge1119423"
       },
       "geometry": {
         "type": "Polygon",
@@ -10934,7 +10934,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Reggio Emilia",
-        "N651": "$$aReggio Emilia (Itálie : oblast)"
+        "N651": "$$aReggio Emilia (Itálie : oblast)$$7ge1119428"
       },
       "geometry": {
         "type": "Polygon",
@@ -11434,7 +11434,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Rapallo",
-        "N651": "$$aRapallo (Itálie : oblast)"
+        "N651": "$$aRapallo (Itálie : oblast)$$7ge1119431"
       },
       "geometry": {
         "type": "Polygon",
@@ -11557,7 +11557,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Modena",
-        "N651": "$$aModena (Itálie : oblast)"
+        "N651": "$$aModena (Itálie : oblast)$$7ge1119351"
       },
       "geometry": {
         "type": "Polygon",
@@ -11639,7 +11639,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Imola",
-        "N651": "$$aImola (Itálie : oblast)"
+        "N651": "$$aImola (Itálie : oblast)$$7ge1119435"
       },
       "geometry": {
         "type": "Polygon",
@@ -11803,7 +11803,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ortler",
-        "N651": "$$aSolda (Itálie : oblast)"
+        "N651": "$$aSolda (Itálie : oblast)$$7ge1119434"
       },
       "geometry": {
         "type": "Polygon",
@@ -12016,7 +12016,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "La Spezia",
-        "N651": "$$aLa Spezia (Itálie : oblast)"
+        "N651": "$$aLa Spezia (Itálie : oblast)$$7ge1119350"
       },
       "geometry": {
         "type": "Polygon",

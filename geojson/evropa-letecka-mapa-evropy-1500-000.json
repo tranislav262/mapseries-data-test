@@ -88,8 +88,8 @@
         "SHEET": "NW 36/2",
         "TITLE": "Cartagena",
         "SCALE": "500000",
-        "N43": "$$ae-sp---",
-        "N80": "$$a913(460)$$2MRF",
+        "N43": "$$ae-sp---$$f-ae---",
+        "N80": "$$a913(460)$$2MRF|$$a913(65)$$2MRF",
         "N245A": "Cartagena",
         "N651": "$$aCartagena (Španělsko : oblast)$$7ge1119053"
       },
@@ -128,8 +128,8 @@
         "SHEET": "NW 38/10",
         "TITLE": "Lisboa",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-po---$$ae-sp---",
+        "N80": "$$a913(469)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Lisboa",
         "N651": "$$aLisabon (Portugalsko : oblast)$$7ge1119045"
       },
@@ -208,8 +208,8 @@
         "SHEET": "NW 40/10",
         "TITLE": "Porto",
         "SCALE": "500000",
-        "N43": "$$ae-",
-        "N80": "",
+        "N43": "$$ae-po---$$ae-sp---",
+        "N80": "$$a913(469)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Porto",
         "N651": "$$aPorto (Portugalsko : oblast)$$7ge1119046"
       },
@@ -248,8 +248,8 @@
         "SHEET": "NW 42/10",
         "TITLE": "La Coruna",
         "SCALE": "500000",
-        "N43": "$$ae-sp---",
-        "N80": "$$a913(460)$$2MRF",
+        "N43": "$$ae-sp---$$ae-po---",
+        "N80": "$$a913(460)$$2MRF|$$a913(469)$$2MRF",
         "N245A": "La Coruna",
         "N651": "$$aLa Coruña (Španělsko : oblast)$$7ge1119062"
       },
@@ -448,8 +448,8 @@
         "SHEET": "NW 42/2",
         "TITLE": "Toulouse",
         "SCALE": "500000",
-        "N43": "$$ae-fr---",
-        "N80": "$$a913(44)$$2MRF",
+        "N43": "$$ae-fr---$$ae-sp---",
+        "N80": "$$a913(44)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Toulouse",
         "N651": "$$aToulouse (Francie : oblast)$$7ge131101"
       },
@@ -688,8 +688,8 @@
         "SHEET": "NE 42/2",
         "TITLE": "Marseille",
         "SCALE": "500000",
-        "N43": "$$ae-fr---",
-        "N80": "$$a913(44)$$2MRF",
+        "N43": "$$ae-fr---$$ae-sp---",
+        "N80": "$$a913(44)$$2MRF|$$a913(460)$$2MRF",
         "N245A": "Marseille",
         "N651": "$$aMarseille (Francie : oblast)$$7ge1118439"
       },
@@ -808,8 +808,8 @@
         "SHEET": "NE 48/2",
         "TITLE": "Paris",
         "SCALE": "500000",
-        "N43": "$$ae-fr---",
-        "N80": "$$a913(44)$$2MRF",
+        "N43": "$$ae-fr---$$ae-be---$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
         "N245A": "Paris",
         "N651": "$$aPaříž (Francie : oblast)$$7ge130381"
       },
@@ -4147,7 +4147,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Trondhjem",
-        "N651": "$$aTrondheim (Norsko : oblast)"
+        "N651": "$$aTrondheim (Norsko : oblast)$$7ge1119339"
       },
       "geometry": {
         "coordinates": [
@@ -4187,7 +4187,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Namsos",
-        "N651": "$$aNamsos (Norsko : oblast)"
+        "N651": "$$aNamsos (Norsko : oblast)$$7ge1119854"
       },
       "geometry": {
         "coordinates": [

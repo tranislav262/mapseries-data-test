@@ -1048,8 +1048,8 @@
         "SHEET": "NE 48/6",
         "TITLE": "Strasbourg",
         "SCALE": "500000",
-        "N43": "$$ae-fr---$$ae-gx---$$ae-lu---$$ae-be---",
-        "N80": "$$a913(44)$$2MRF",
+        "N43": "$$ae-fr---$$ae-gx---$$ae-be---$$ae-lu---",
+        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
         "N245A": "Strasbourg",
         "N651": "$$aŠtrasburk (Francie : oblast)$$7ge1117957"
       },
@@ -1329,7 +1329,7 @@
         "TITLE": "Bolzano",
         "SCALE": "500000",
         "N43": "$$ae-it---$$ae-au---$$ae-gx---$$ae-sz---",
-        "N80": "$$a913(450)$$2MRF",
+        "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Bolzano",
         "N651": "$$aBolzano (Itálie : oblast)$$7ge1093433"
       },
@@ -1368,7 +1368,7 @@
         "SHEET": "NE 48/10",
         "TITLE": "Munchen",
         "SCALE": "500000",
-        "N43": "$$ae-gx---$$ae-au---$$ae-xr---",
+        "N43": "$$ae-gx---$$ae-xr---$$ae-au---",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.3)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Munchen",
         "N651": "$$aMnichov (Německo : oblast)$$7ge273426"
@@ -1649,7 +1649,7 @@
         "TITLE": "Zagreb",
         "SCALE": "500000",
         "N43": "$$ae-ci---$$ae-xv---$$ae-bn---$$ae-hu---",
-        "N80": "$$a913(497.5)$$2MRF",
+        "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Zagreb|Fiume",
         "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
@@ -1689,7 +1689,7 @@
         "TITLE": "Graz",
         "SCALE": "500000",
         "N43": "$$ae-au---$$ae-hu---$$ae-xv---$$ae-ci---$$ae-xo---",
-        "N80": "$$a913(436.4)$$2MRF",
+        "N80": "$$a913(436.4)$$2MRF|$$a913(439)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Graz",
         "N651": "$$aŠtýrský Hradec (Rakousko : oblast)$$7ge278581"
       },

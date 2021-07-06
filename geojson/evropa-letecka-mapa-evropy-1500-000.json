@@ -1729,7 +1729,7 @@
         "TITLE": "Wien",
         "SCALE": "500000",
         "N43": "$$ae-au---$$ae-xo---$$ae-xr---",
-        "N80": "$$a913(436.1)$$2MRF",
+        "N80": "$$a913(436.1)$$2MRF|$$a913(437.6)$$2MRF|$$a913(437.3)$$2MRF",
         "N245A": "Wien",
         "N651": "$$aVídeň (Rakousko : oblast)$$7ge311468"
       },
@@ -1769,7 +1769,7 @@
         "TITLE": "Praha",
         "SCALE": "500000",
         "N43": "$$ae-xr---$$ae-pl---$$ae-gx---",
-        "N80": "$$a913(437.311)$$2MRF",
+        "N80": "$$a913(437.311)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Praha",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
@@ -1809,7 +1809,7 @@
         "TITLE": "Szczecin",
         "SCALE": "500000",
         "N43": "$$ae-pl---$$ae-gx---",
-        "N80": "$$a913(438)$$2MRF",
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Szczecin|Stettin",
         "N651": "$$aŠtětín (Polsko : oblast)$$7ge134526"
       },
@@ -1848,8 +1848,8 @@
         "SHEET": "NE 54/14",
         "TITLE": "Kolberg",
         "SCALE": "500000",
-        "N43": "$$ae-pl---",
-        "N80": "$$a913(438)$$2MRF",
+        "N43": "$$ae-pl---$$ae-sw---",
+        "N80": "$$a913(438)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Kolberg",
         "N651": "$$aKołobrzeg (Polsko : oblast)$$7ge570347"
       },
@@ -1928,8 +1928,8 @@
         "SHEET": "NE 38/18",
         "TITLE": "Kerkyra (Corfu)",
         "SCALE": "500000",
-        "N43": "$$ae-gr---",
-        "N80": "$$a913(495)$$2MRF",
+        "N43": "$$ae-gr---$$ae-aa---$$ae-it---",
+        "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "Kerkyra (Corfu)",
         "N651": "$$aKorfu (Řecko : ostrov)$$7ge138038"
       },
@@ -1968,8 +1968,8 @@
         "SHEET": "NE 40/18",
         "TITLE": "Tirana",
         "SCALE": "500000",
-        "N43": "$$ae-aa---",
-        "N80": "$$a913(496.5)$$2MRF",
+        "N43": "$$ae-aa---$$ae-xn---$$ae-kv---$$ae-mo---$$ae-gr---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.115)$$2MRF|$$a913(497.16)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Tirana",
         "N651": "$$aTirana (Albánie : oblast)$$7ge1119073"
       },
@@ -2008,8 +2008,8 @@
         "SHEET": "NE 42/18",
         "TITLE": "Shkodra (Scutari)",
         "SCALE": "500000",
-        "N43": "$$ae-aa---",
-        "N80": "$$a913(496.5)$$2MRF",
+        "N43": "$$ae-aa---$$ae-rb---$$ae-ci---$$ae-bn---$$ae-xn---$$ae-kv---$$ae-mo---",
+        "N80": "$$a913(496.5)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.115)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "Shkodra (Scutari)",
         "N651": "$$aShkodër (Albánie : oblast)$$7ge1118777"
       },
@@ -2049,7 +2049,7 @@
         "TITLE": "Beograd",
         "SCALE": "500000",
         "N43": "$$ae-rb---$$ae-rm---$$ae-hu---$$ae-ci---$$ae-bn---",
-        "N80": "$$a913(497.11)$$2MRF",
+        "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF|$$a913(439)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Beograd",
         "N651": "$$aBělehrad (Srbsko : oblast)$$7ge452990"
       },
@@ -2088,8 +2088,8 @@
         "SHEET": "NE 46/18",
         "TITLE": "Budapest",
         "SCALE": "500000",
-        "N43": "$$ae-hu---$$ae-rb---$$ae-rm---$$ae-xo---",
-        "N80": "$$a913(439)$$2MRF",
+        "N43": "$$ae-hu---$$ae-rm---$$ae-rb---$$ae-xo---",
+        "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Budapest",
         "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
@@ -2129,7 +2129,7 @@
         "TITLE": "Tatry",
         "SCALE": "500000",
         "N43": "$$ae-xo---$$ae-xr---$$ae-pl---$$ae-hu---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.3)$$2MRF|$$a913(438)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Tatry",
         "N651": "$$aTatry (Polsko a Slovensko : pohoří)$$7ge131048"
       },
@@ -2169,7 +2169,7 @@
         "TITLE": "Kraków",
         "SCALE": "500000",
         "N43": "$$ae-pl---$$ae-xr---",
-        "N80": "$$a913(438)$$2MRF",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.3)$$2MRF",
         "N245A": "Kraków|Krakow",
         "N651": "$$aKrakov (Polsko : oblast)$$7ge116258"
       },
@@ -2248,8 +2248,8 @@
         "SHEET": "NE 54/18",
         "TITLE": "Danzig",
         "SCALE": "500000",
-        "N43": "$$ae-pl---",
-        "N80": "$$a913(438)$$2MRF",
+        "N43": "$$ae-pl---$$ae-li---$$ae-ru---",
+        "N80": "$$a913(438)$$2MRF|$$a913(474.5)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Danzig",
         "N651": "$$aGdaňsk (Polsko : oblast)$$7ge116456"
       },
@@ -2328,8 +2328,8 @@
         "SHEET": "NE 38/22",
         "TITLE": "Volos",
         "SCALE": "500000",
-        "N43": "$$ae-gr---",
-        "N80": "$$a913(495)$$2MRF",
+        "N43": "$$ae-gr---$$aa-tu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Volos",
         "N651": "$$aVolos (Řecko : oblast)$$7ge1118774"
       },
@@ -2368,8 +2368,8 @@
         "SHEET": "NE 40/22",
         "TITLE": "Thessalonike",
         "SCALE": "500000",
-        "N43": "$$ae-gr---",
-        "N80": "$$a913(495)$$2MRF",
+        "N43": "$$ae-gr---$$ae-xn---$$ae-bu---",
+        "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Thessalonike",
         "N651": "$$aSoluň (Řecko : oblast)$$7ge826145"
       },

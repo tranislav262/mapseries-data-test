@@ -340,7 +340,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Tiszolc|Revúca",
-        "N651": "$$aTisovec (Slovensko : oblast)"
+        "N651": "$$aTisovec (Slovensko : oblast)$$7ge1120149|$$aRevúca (Slovensko : oblast)$$7xx0127395"
       },
       "geometry": {
         "type": "Polygon",
@@ -627,7 +627,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Ökörmező",
-        "N651": "$$aMižhirja (Ukrajina : oblast)"
+        "N651": "$$aMižhirja (Ukrajina : oblast)$$7ge889280"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Málinec",
-        "N651": "$$aMálinec (Slovensko : oblast)"
+        "N651": "$$aMálinec (Slovensko : oblast)$$7ge1119939"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Abaújszántó",
-        "N651": "$$aAbaújszántó (Maďarsko : oblast"
+        "N651": "$$aAbaújszántó (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1283,7 +1283,7 @@
         "N43": "$$ae-xo---$$ae-au---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Hainburg és Ipolyság",
-        "N651": "$$aHainburg an der Donau (Rakousko : oblast)"
+        "N651": "$$aHainburg an der Donau (Rakousko : oblast)$$7ge1096146"
       },
       "geometry": {
         "type": "Polygon",
@@ -1447,7 +1447,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Balassagyarmat és Ipolyság",
-        "N651": "$$aBalassagyarmat (Maďarsko : oblast)|$$aŠahy (Slovensko : oblast)$$7ge899916"
+        "N651": "$$aBalassagyarmat (Maďarsko : oblast)$$7ge1032812|$$aŠahy (Slovensko : oblast)$$7ge899916"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,7 +1611,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szikszó",
-        "N651": "$$aSzikszó (Maďarsko : oblast)"
+        "N651": "$$aSzikszó (Maďarsko : oblast)$$7ge1033145"
       },
       "geometry": {
         "type": "Polygon",
@@ -1652,7 +1652,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Tokaj",
-        "N651": "$$aTokaj (Maďarsko : oblast)"
+        "N651": "$$aTokaj (Maďarsko : oblast)$$7ge1033151"
       },
       "geometry": {
         "type": "Polygon",
@@ -1693,7 +1693,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kisvárda",
-        "N651": "$$aKisvárda (Maďarsko : oblast)"
+        "N651": "$$aKisvárda (Maďarsko : oblast)$$7ge1086440"
       },
       "geometry": {
         "type": "Polygon",
@@ -1939,7 +1939,7 @@
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Eisenstadt",
-        "N651": "$$aEisenstadt (Rakousko : oblast)"
+        "N651": "$$aEisenstadt (Rakousko : oblast)$$7ge1032935"
       },
       "geometry": {
         "type": "Polygon",
@@ -2185,7 +2185,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Pásztó és Gyöngyös",
-        "N651": "$$aPásztó (Maďarsko : oblast)|$$aGyöngyös (Maďarsko : oblast)"
+        "N651": "$$aPásztó (Maďarsko : oblast)$$7ge1104678|$$aGyöngyös (Maďarsko : oblast)$$7ge1102043"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2226,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Gyöngyös",
-        "N651": "$$aGyöngyös (Maďarsko : oblast)"
+        "N651": "$$aGyöngyös (Maďarsko : oblast)$$7ge1102043"
       },
       "geometry": {
         "type": "Polygon",
@@ -2267,7 +2267,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Eger és Mezőkövesd",
-        "N651": "$$aEger (Maďarsko : oblast)|$$aMezőkövesd (Maďarsko : oblast)"
+        "N651": "$$aEger (Maďarsko : oblast)$$7ge1101071|$$aMezőkövesd (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2308,7 +2308,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Polgár",
-        "N651": "$$aPolgár (Maďarsko : oblast)"
+        "N651": "$$aPolgár (Maďarsko : oblast)$$7ge1102046"
       },
       "geometry": {
         "type": "Polygon",
@@ -2349,7 +2349,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nyíregyháza",
-        "N651": "$$aNyíregyháza (Maďarsko : oblast)"
+        "N651": "$$aNyíregyháza (Maďarsko : oblast)$$7ge1101067"
       },
       "geometry": {
         "type": "Polygon",
@@ -2390,7 +2390,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nagykálló ",
-        "N651": "$$aNagykálló (Maďarsko : oblast)"
+        "N651": "$$aNagykálló (Maďarsko : oblast)$$7ge1101052"
       },
       "geometry": {
         "type": "Polygon",
@@ -2431,7 +2431,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Fehérgyarmat",
-        "N651": "$$aFehérgyarmat (Maďarsko : oblast)"
+        "N651": "$$aFehérgyarmat (Maďarsko : oblast)$$7ge1102053"
       },
       "geometry": {
         "type": "Polygon",
@@ -2472,7 +2472,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Szatmárnémeti és Méhtelek",
-        "N651": "$$aSatu-Mare (Rumunsko : oblast)$$7ge270578|$$aMéhtelek (Maďarsko : oblast)"
+        "N651": "$$aSatu-Mare (Rumunsko : oblast)$$7ge270578|$$aMéhtelek (Maďarsko : oblast)$$7ge1102034"
       },
       "geometry": {
         "type": "Polygon",
@@ -2677,7 +2677,7 @@
         "N43": "$$ae-hu---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Kapuvár",
-        "N651": "$$aKapuvár (Maďarsko : oblast)"
+        "N651": "$$aKapuvár (Maďarsko : oblast)$$7ge1101031"
       },
       "geometry": {
         "type": "Polygon",
@@ -2841,7 +2841,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Budapest és Szentendre",
-        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aSzentendre (Maďarsko : oblast)"
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aSzentendre (Maďarsko : oblast)$$7ge1120159"
       },
       "geometry": {
         "type": "Polygon",
@@ -2882,7 +2882,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Hatvan és Gödöllő",
-        "N651": "$$aHatvan (Maďarsko : oblast)|$$aGödöllő (Maďarsko : oblast)"
+        "N651": "$$aHatvan (Maďarsko : oblast)$$7ge1032954|$$aGödöllő (Maďarsko : oblast)$$7ge1032942"
       },
       "geometry": {
         "type": "Polygon",
@@ -2923,7 +2923,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Jászberény és Kál",
-        "N651": "$$aJászladány (Maďarsko : oblast)|$$aKál (Maďarsko : oblast)"
+        "N651": "$$aJászladány (Maďarsko : oblast)$$7ge1097019|$$aKál (Maďarsko : oblast)$$7ge1086449"
       },
       "geometry": {
         "type": "Polygon",
@@ -2964,7 +2964,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Tiszafüred",
-        "N651": "$$aTiszafüred (Maďarsko : oblast)"
+        "N651": "$$aTiszafüred (Maďarsko : oblast)$$7ge1033150"
       },
       "geometry": {
         "type": "Polygon",
@@ -3169,7 +3169,7 @@
         "N43": "$$ae-hu---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Kőszeg",
-        "N651": "$$aKőszeg (Maďarsko : oblast)"
+        "N651": "$$aKőszeg (Maďarsko : oblast)$$7ge1096069"
       },
       "geometry": {
         "type": "Polygon",
@@ -3210,7 +3210,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Sárvár",
-        "N651": "$$aSárvár (Maďarsko : oblast)"
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027"
       },
       "geometry": {
         "type": "Polygon",
@@ -3292,7 +3292,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Mór és Zirc",
-        "N651": "$$aMór (Maďarsko : oblast)|$$aZirc (Maďarsko : oblast)"
+        "N651": "$$aMór (Maďarsko : oblast)$$7ge1095968|$$aZirc (Maďarsko : oblast)$$7ge1095758"
       },
       "geometry": {
         "type": "Polygon",
@@ -3333,7 +3333,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Bicske és Vál",
-        "N651": "$$aBicske (Maďarsko : oblast)|$$aVál (Maďarsko : oblast)"
+        "N651": "$$aBicske (Maďarsko : oblast)$$7ge1097026|$$aVál (Maďarsko : oblast)$$7ge1109419"
       },
       "geometry": {
         "type": "Polygon",
@@ -3415,7 +3415,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nagykatá és Monor",
-        "N651": "$$aNagykáta (Maďarsko : oblast)|$$aMonor (Maďarsko : oblast)"
+        "N651": "$$aNagykáta (Maďarsko : oblast)$$7ge1097021|$$aMonor (Maďarsko : oblast)$$7ge1097025"
       },
       "geometry": {
         "type": "Polygon",
@@ -3456,7 +3456,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Jászladány",
-        "N651": "$$aJászladány (Maďarsko : oblast)"
+        "N651": "$$aJászladány (Maďarsko : oblast)$$7ge1097019"
       },
       "geometry": {
         "type": "Polygon",
@@ -3497,7 +3497,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kunhegyes",
-        "N651": "$$aKunhegyes (Maďarsko : oblast)"
+        "N651": "$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -3579,7 +3579,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Hajdúszoboszló",
-        "N651": "$$aHajdúszoboszló (Maďarsko : oblast)"
+        "N651": "$$aHajdúszoboszló (Maďarsko : oblast)$$7ge1032948"
       },
       "geometry": {
         "type": "Polygon",
@@ -3658,10 +3658,10 @@
         "SCALE": "75000",
         "SHEET": "5156",
         "TITLE": "Fürstenfeld",
-        "N43": "$$ae-hu---$$ae-au---",
-        "N80": "$$a913(439)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-au---$$ae-hu---",
+        "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Fürstenfeld",
-        "N651": "$$aFürstenfeld (Rakousko : oblast)"
+        "N651": "$$aFürstenfeld (Rakousko : oblast)$$7ge1087373"
       },
       "geometry": {
         "type": "Polygon",
@@ -3743,7 +3743,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kissomlyó",
-        "N651": "$$aKissomlyó (Maďarsko : oblast)"
+        "N651": "$$aKissomlyó (Maďarsko : oblast)$$7ge1101947"
       },
       "geometry": {
         "type": "Polygon",
@@ -3784,7 +3784,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Devecser és Városlőd",
-        "N651": "$$aDevecser (Maďarsko : oblast)|$$aVároslőd (Maďarsko : oblast)"
+        "N651": "$$aDevecser (Maďarsko : oblast)$$7ge1087375|$$aVároslőd (Maďarsko : oblast)$$7ge1095357"
       },
       "geometry": {
         "type": "Polygon",
@@ -3866,7 +3866,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Székesfehérvár",
-        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)"
+        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)$$7ge1087377"
       },
       "geometry": {
         "type": "Polygon",
@@ -3907,7 +3907,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kunszentmiklós",
-        "N651": "$$aKunszentmiklós (Maďarsko : oblast)"
+        "N651": "$$aKunszentmiklós (Maďarsko : oblast)$$7ge1101942"
       },
       "geometry": {
         "type": "Polygon",
@@ -3948,7 +3948,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Cegléd",
-        "N651": "$$aCegléd (Maďarsko : oblast)"
+        "N651": "$$aCegléd (Maďarsko : oblast)$$7ge1087378"
       },
       "geometry": {
         "type": "Polygon",
@@ -4030,7 +4030,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kisújszállás és Mezőtúr",
-        "N651": "$$aKisújszállás (Maďarsko : oblast)|$$aMezőtúr (Maďarsko : oblast)"
+        "N651": "$$aKisújszállás (Maďarsko : oblast)$$7ge1101937|$$aMezőtúr (Maďarsko : oblast)$$7ge1101935"
       },
       "geometry": {
         "type": "Polygon",
@@ -4071,7 +4071,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nagybajom és Szeghalom",
-        "N651": "$$aNagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)"
+        "N651": "$$aNagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)$$7ge1101930"
       },
       "geometry": {
         "type": "Polygon",
@@ -4112,7 +4112,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Berettyóújfalu",
-        "N651": "$$aBerettyóújfalu (Maďarsko : oblast)"
+        "N651": "$$aBerettyóújfalu (Maďarsko : oblast)$$7ge1101928"
       },
       "geometry": {
         "type": "Polygon",
@@ -4194,7 +4194,7 @@
         "N43": "$$ae-hu---$$ae-xv---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Szentgotthárd",
-        "N651": "$$aSzentgotthárd (Maďarsko : oblast)"
+        "N651": "$$aSzentgotthárd (Maďarsko : oblast)$$7ge1099835"
       },
       "geometry": {
         "type": "Polygon",
@@ -4235,7 +4235,7 @@
         "N43": "$$ae-hu---$$ae-xv---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Nagycsákány és Zalalövő",
-        "N651": "$$aNagycsákány (Maďarsko : oblast)|$$aZalalövő (Maďarsko : oblast)"
+        "N651": "$$aNagycsákány (Maďarsko : oblast)|$$aZalalövő (Maďarsko : oblast)$$7ge1101763"
       },
       "geometry": {
         "type": "Polygon",
@@ -4276,7 +4276,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Sümeg és Zalaegerszeg",
-        "N651": "$$aSümeg (Maďarsko : oblast)|$$aZalaegerszeg (Maďarsko : oblast)"
+        "N651": "$$aSümeg (Maďarsko : oblast)$$7ge1101724|$$aZalaegerszeg (Maďarsko : oblast)$$7ge1099816"
       },
       "geometry": {
         "type": "Polygon",
@@ -4317,7 +4317,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Tapolca",
-        "N651": "$$aTapolca (Maďarsko : oblast)"
+        "N651": "$$aTapolca (Maďarsko : oblast)$$7ge1120161"
       },
       "geometry": {
         "type": "Polygon",
@@ -4358,7 +4358,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Siófok",
-        "N651": "$$aSiófok (Maďarsko : oblast)"
+        "N651": "$$aSiófok (Maďarsko : oblast)$$7ge1094419"
       },
       "geometry": {
         "type": "Polygon",
@@ -4399,7 +4399,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Sárbogárd",
-        "N651": "$$aSárbogárd (Maďarsko : oblast)"
+        "N651": "$$aSárbogárd (Maďarsko : oblast)$$7ge1095331"
       },
       "geometry": {
         "type": "Polygon",
@@ -4440,7 +4440,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Dunaföldvár és Szabadszállás",
-        "N651": "$$aDunaföldvár (Maďarsko : oblast)|$$aSzabadszállás (Maďarsko : oblast)"
+        "N651": "$$aDunaföldvár (Maďarsko : oblast)$$7ge1099743|$$aSzabadszállás (Maďarsko : oblast)$$7ge1099744"
       },
       "geometry": {
         "type": "Polygon",
@@ -4563,7 +4563,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szarvas",
-        "N651": "$$aSzarvas (Maďarsko : oblast)"
+        "N651": "$$aSzarvas (Maďarsko : oblast)$$7ge1099107"
       },
       "geometry": {
         "type": "Polygon",
@@ -4604,7 +4604,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Békés",
-        "N651": "$$aBékés (Maďarsko : oblast)"
+        "N651": "$$aBékés (Maďarsko : oblast)$$7ge1099104"
       },
       "geometry": {
         "type": "Polygon",
@@ -4645,7 +4645,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nagyszalonta és Okány",
-        "N651": "$$aOkány (Maďarsko : oblast)|$$aSalonta (Rumunsko : oblast)"
+        "N651": "$$aOkány (Maďarsko : oblast)$$7ge1099736|$$aSalonta (Rumunsko : oblast)$$7ge1099734"
       },
       "geometry": {
         "type": "Polygon",
@@ -4686,7 +4686,7 @@
         "N43": "$$ae-hu---$$ae-ci---$$ae-xv---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Lenti",
-        "N651": "$$aLenti (Maďarsko : oblast)"
+        "N651": "$$aLenti (Maďarsko : oblast)$$7ge1098962"
       },
       "geometry": {
         "type": "Polygon",
@@ -4727,7 +4727,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kiskomárom és Zalaszentmihály",
-        "N651": "$$aZalaszentmihály (Maďarsko : oblast)|$$aZalakomár (Maďarsko : oblast)"
+        "N651": "$$aZalaszentmihály (Maďarsko : oblast)$$7ge1113362|$$aZalakomár (Maďarsko : oblast)$$7ge1099724"
       },
       "geometry": {
         "type": "Polygon",
@@ -4809,7 +4809,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Tamási",
-        "N651": "$$aTamási (Maďarsko : oblast)"
+        "N651": "$$aTamási (Maďarsko : oblast)$$7ge1098232"
       },
       "geometry": {
         "type": "Polygon",
@@ -4891,7 +4891,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kalocsa",
-        "N651": "$$aKalocsa (Maďarsko : oblast)"
+        "N651": "$$aKalocsa (Maďarsko : oblast)$$7ge1098214"
       },
       "geometry": {
         "type": "Polygon",
@@ -4973,7 +4973,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szentes és Kiskunfélegyháza",
-        "N651": "$$aSzentes (Maďarsko : oblast)|$$aKiskunfélegyháza (Maďarsko : oblast)"
+        "N651": "$$aSzentes (Maďarsko : oblast)$$7ge1120162|$$aKiskunfélegyháza (Maďarsko : oblast)$$7ge1098762"
       },
       "geometry": {
         "type": "Polygon",
@@ -5014,7 +5014,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Orosháza",
-        "N651": "$$aOrosháza (Maďarsko : oblast)"
+        "N651": "$$aOrosháza (Maďarsko : oblast)$$7ge1098748"
       },
       "geometry": {
         "type": "Polygon",
@@ -5055,7 +5055,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Békéscsaba",
-        "N651": "$$aBékéscsaba (Maďarsko : oblast)"
+        "N651": "$$aBékéscsaba (Maďarsko : oblast)$$7ge1098202"
       },
       "geometry": {
         "type": "Polygon",
@@ -5096,7 +5096,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Sarkad",
-        "N651": "$$aSarkad (Maďarsko : oblast)"
+        "N651": "$$aSarkad (Maďarsko : oblast)$$7ge1098747"
       },
       "geometry": {
         "type": "Polygon",
@@ -5178,7 +5178,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Nagykanizsa",
-        "N651": "$$aNagykanizsa (Maďarsko : oblast)"
+        "N651": "$$aNagykanizsa (Maďarsko : oblast)$$7ge1093416"
       },
       "geometry": {
         "type": "Polygon",
@@ -5219,7 +5219,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kaposvár",
-        "N651": "$$aKaposvár (Maďarsko : oblast)"
+        "N651": "$$aKaposvár (Maďarsko : oblast)$$7ge1096487"
       },
       "geometry": {
         "type": "Polygon",
@@ -5260,7 +5260,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Dombóvár",
-        "N651": "$$aDombóvár (Maďarsko : oblast)"
+        "N651": "$$aDombóvár (Maďarsko : oblast)$$7ge1101772"
       },
       "geometry": {
         "type": "Polygon",
@@ -5342,7 +5342,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Hajós",
-        "N651": "$$aHajós (Maďarsko : oblast)"
+        "N651": "$$aHajós (Maďarsko : oblast)$$7ge1099842"
       },
       "geometry": {
         "type": "Polygon",
@@ -5383,7 +5383,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kiskunhalas",
-        "N651": "$$aKiskunhalas (Maďarsko : oblast)"
+        "N651": "$$aKiskunhalas (Maďarsko : oblast)$$7ge1099899"
       },
       "geometry": {
         "type": "Polygon",
@@ -5424,7 +5424,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szeged és Hódmezővásárhely",
-        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aHódmezővásárhely (Maďarsko : oblast)"
+        "N651": "$$aSzeged (Maďarsko : oblast)$$7ge856405|$$aHódmezővásárhely (Maďarsko : oblast)$$7ge1120163"
       },
       "geometry": {
         "type": "Polygon",
@@ -5465,7 +5465,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Földeák és Mezőhegyes",
-        "N651": "$$aFöldeák (Maďarsko : oblast)|$$aMezőhegyes (Maďarsko : oblast)"
+        "N651": "$$aFöldeák (Maďarsko : oblast)$$7ge1113363|$$aMezőhegyes (Maďarsko : oblast)$$7ge1101776"
       },
       "geometry": {
         "type": "Polygon",
@@ -5506,7 +5506,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Battonya és Mezőkovácsháza",
-        "N651": "$$aBattonya (Maďarsko : oblast)|$$aMezőkovácsháza (Maďarsko : oblast)"
+        "N651": "$$aBattonya (Maďarsko : oblast)$$7ge1101778|$$aMezőkovácsháza (Maďarsko : oblast)$$7ge1101784"
       },
       "geometry": {
         "type": "Polygon",
@@ -5547,7 +5547,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Berzence",
-        "N651": "$$aBerzence (Maďarsko : oblast)"
+        "N651": "$$aBerzence (Maďarsko : oblast)$$7ge1100847"
       },
       "geometry": {
         "type": "Polygon",
@@ -5588,7 +5588,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szigetvár és Nagyatád",
-        "N651": "$$aSzigetvár (Maďarsko : oblast)|$$aNagyatád (Maďarsko : oblast)"
+        "N651": "$$aSzigetvár (Maďarsko : oblast)$$7ge1087427|$$aNagyatád (Maďarsko : oblast)$$7ge1101919"
       },
       "geometry": {
         "type": "Polygon",
@@ -5670,7 +5670,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Bátaszék és Pécsvárad",
-        "N651": "$$aBátaszék (Maďarsko : oblast)|$$aPécsvárad (Maďarsko : oblast)"
+        "N651": "$$aBátaszék (Maďarsko : oblast)$$7ge1101920|$$aPécsvárad (Maďarsko : oblast)$$7ge1100868"
       },
       "geometry": {
         "type": "Polygon",
@@ -5711,7 +5711,7 @@
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Baja",
-        "N651": "$$aBaja (Maďarsko : oblast)"
+        "N651": "$$aBaja (Maďarsko : oblast)$$7ge1087384"
       },
       "geometry": {
         "type": "Polygon",
@@ -5834,7 +5834,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Makó",
-        "N651": "$$aMakó (Maďarsko : oblast)"
+        "N651": "$$aMakó (Maďarsko : oblast)$$7ge1101923"
       },
       "geometry": {
         "type": "Polygon",
@@ -5875,7 +5875,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Arad és Perjámos",
-        "N651": "$$aArad (Rumunsko oblast)|$$aPerjámos (Rumunsko oblast)"
+        "N651": "$$aArad (Rumunsko oblast)$$7ge1100894|$$aPerjámos (Rumunsko oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5916,7 +5916,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Belovár és Orovac",
-        "N651": "$$aBjelovar (Chorvatsko : oblast)|$$aOrovac (Chorvatsko : oblast)"
+        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aOrovac (Chorvatsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5957,7 +5957,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Barcs",
-        "N651": "$$aBarcs (Maďarsko : oblast)"
+        "N651": "$$aBarcs (Maďarsko : oblast)$$7ge1097060"
       },
       "geometry": {
         "type": "Polygon",
@@ -6039,7 +6039,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Mohács és Villány",
-        "N651": "$$aMoháč (Maďarsko : oblast)|$$aVillány (Maďarsko : oblast)"
+        "N651": "$$aMohács (Maďarsko : oblast)$$7ge1096477|$$aVillány (Maďarsko : oblast)$$7ge1097056"
       },
       "geometry": {
         "type": "Polygon",
@@ -6121,7 +6121,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Osijek, Darda és Valpovo",
-        "N651": "$$aOsijek (Chorvatsko : oblast)|$$aDarda (Chorvatsko : oblast)|$$aValpovo (Chorvatsko : oblast)"
+        "N651": "$$aOsijek (Chorvatsko : oblast)$$7ge1118845|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
       },
       "geometry": {
         "type": "Polygon",

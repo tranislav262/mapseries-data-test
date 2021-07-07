@@ -8,10 +8,10 @@
         "SHEET": "3",
         "TITLE": "Rossitten",
         "N43": "$$ae e-ru---$$ae-li---",
-        "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
         "N245P": "Rossitten",
-        "N651": "$$aRybachy (Rusko : oblast)"
+        "N651": "$$aPrimorsk (Kaliningrad, Rusko : oblast)$$7ge1120141"
       },
       "geometry": {
         "type": "Polygon",
@@ -55,7 +55,7 @@
         "N80": "$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
         "N245P": "Tilsit",
-        "N651": "$$aSovetsk (Rusko : oblast)"
+        "N651": "$$aSovetsk (Rusko : oblast)$$7ge1120143"
       },
       "geometry": {
         "type": "Polygon",
@@ -139,7 +139,7 @@
         "N80": "$$a913(470.26)$$2MRF",
         "N245A": "",
         "N245P": "Königsberg",
-        "N651": "$$aKaliningrad (Rusko : oblast)"
+        "N651": "$$aKaliningrad (Rusko : oblast)$$7ge161928"
       },
       "geometry": {
         "type": "Polygon",
@@ -219,7 +219,7 @@
         "N80": "$$a913(470+571)$$2MRF",
         "N245A": "",
         "N245P": "Insterburg",
-        "N651": "$$aČerňachovsk (Rusko : oblast)"
+        "N651": "$$aČernjachovsk (Rusko : oblast)$$7ge1120147"
       },
       "geometry": {
         "type": "Polygon",
@@ -547,7 +547,7 @@
         "N80": "$$a913(438)$$2MRF|$$a913(470+571)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "",
         "N245P": "Gumbinnen-Goldapp",
-        "N651": "$$aGołdap (Polsko : oblast)|$$aGusev (Kaliningradská oblast, Rusko : oblast)"
+        "N651": "$$aGołdap (Polsko : oblast)$$7ge1120146|$$aGusev (Kaliningradská oblast, Rusko : oblast)$$7ge1120145"
       },
       "geometry": {
         "type": "Polygon",
@@ -1587,7 +1587,7 @@
         "N80": "$$a913(474.5)$$2MRF",
         "N245A": "",
         "N245P": "Memel",
-        "N651": "$$aKlajpeda (Litva : oblast)"
+        "N651": "$$aKlajpeda (Litva : oblast)$$7ge187278"
       },
       "geometry": {
         "type": "Polygon",

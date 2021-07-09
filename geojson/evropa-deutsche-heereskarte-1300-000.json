@@ -53,7 +53,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Krassnodar",
-        "N651": "$$aKrasnodar (Rusko : oblast)"
+        "N651": "$$aKrasnodar (Rusko : oblast)$$7ge1119462"
       },
       "geometry": {
         "type": "Polygon",
@@ -176,7 +176,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Woroschilowgrad (Lugansk)",
-        "N651": "$$aLugansk (Ukrajina : oblast)"
+        "N651": "$$aLuhansk (Ukrajina : oblast)$$7ge1031614"
       },
       "geometry": {
         "type": "Polygon",
@@ -340,7 +340,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Jelez",
-        "N651": "$$aJelec (Rusko : oblast)"
+        "N651": "$$aJelec (Rusko : oblast)$$7ge1120345"
       },
       "geometry": {
         "type": "Polygon",
@@ -422,7 +422,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rjasan",
-        "N651": "$$aRjazaň (Rusko : oblast)"
+        "N651": "$$aRjazaňská oblast (Rusko)$$7ge130646"
       },
       "geometry": {
         "type": "Polygon",
@@ -6981,7 +6981,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Châteauroux",
-        "N651": "$$aChâteauroux (Francie : oblast)"
+        "N651": "$$aChâteauroux (Francie : oblast)$$7ge1119855"
       },
       "geometry": {
         "type": "Polygon",
@@ -14976,7 +14976,7 @@
         "N43": "$$ae-gx---$$ae-pl---",
         "N80": "$$a913(430.249)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Neustrelitz",
-        "N651": "$$aNeustrelitz (Německo : oblast)"
+        "N651": "$$aNeustrelitz (Německo : oblast)$$7ge1118996"
       },
       "geometry": {
         "type": "Polygon",
@@ -15140,7 +15140,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Jönköping",
-        "N651": "$$aJönköping (Švédsko : oblast)"
+        "N651": "$$aJönköping (Švédsko : oblast)$$7ge1120347"
       },
       "geometry": {
         "type": "Polygon",
@@ -15960,7 +15960,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Bodö",
-        "N651": "$$aBodø (Norsko : oblast)"
+        "N651": "$$aBodø (Norsko : oblast)$$7ge1120027"
       },
       "geometry": {
         "type": "Polygon",
@@ -16780,7 +16780,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Gefle",
-        "N651": "$$aGävle (Švédsko : oblast)"
+        "N651": "$$aGävle (Švédsko : oblast)$$7ge1120349"
       },
       "geometry": {
         "type": "Polygon",
@@ -17395,7 +17395,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Marienwerder",
-        "N651": "$$aKwidzyn (Polsko : oblast)"
+        "N651": "$$aKwidzyn (Polsko : oblast)$$7ge1120350"
       },
       "geometry": {
         "type": "Polygon",
@@ -18174,7 +18174,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Allenstein",
-        "N651": "$$aOlštýn (Polsko : oblast)"
+        "N651": "$$aOlštýn (Polsko : oblast)$$7ge1120102"
       },
       "geometry": {
         "type": "Polygon",
@@ -18256,7 +18256,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N245A": "Tilsit",
-        "N651": "$$aSovetsk (Rusko : oblast)"
+        "N651": "$$aSovetsk (Rusko : oblast)$$7ge1120143"
       },
       "geometry": {
         "type": "Polygon",
@@ -18338,7 +18338,7 @@
         "N43": "$$ae-lv---$$ae-er---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(474.2)$$2MRF",
         "N245A": "Windau (Ventspils)|Windau",
-        "N651": "$$aVentspils (Lotyšsko : oblast)"
+        "N651": "$$aVentspils (Lotyšsko : oblast)$$7ge1119853"
       },
       "geometry": {
         "type": "Polygon",
@@ -18379,7 +18379,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Turku",
-        "N651": "$$aTurku (Finsko : oblast)"
+        "N651": "$$aTurku (Finsko : oblast)$$7ge1119493"
       },
       "geometry": {
         "type": "Polygon",
@@ -18420,7 +18420,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Björneborg",
-        "N651": "$$aPori (Finsko : oblast)"
+        "N651": "$$aPori (Finsko : oblast)$$7ge1119944"
       },
       "geometry": {
         "type": "Polygon",
@@ -18502,7 +18502,7 @@
         "N43": "$$ae-fi---$$ae-sw---",
         "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Vaasa|Wasa",
-        "N651": "$$aVaasa (Finsko : oblast)"
+        "N651": "$$aVaasa (Finsko : oblast)$$7ge1119945"
       },
       "geometry": {
         "type": "Polygon",
@@ -19986,7 +19986,7 @@
         "N43": "$$ae-gr---$$aa-tu---",
         "N80": "$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Kavala|Kavalla|Kavála",
-        "N651": "$$aKavála (Řecko : oblast)"
+        "N651": "$$aKavála (Řecko : oblast)$$7ge1119463"
       },
       "geometry": {
         "type": "Polygon",
@@ -20642,7 +20642,7 @@
         "N43": "$$ae-lv---$$ae-li---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$MRF",
         "N245A": "Jakobstadt|Jakobstadt (Jekabpils)",
-        "N651": "$$aJekabpils (Litva : oblast)"
+        "N651": "$$aJekabpils (Litva : oblast)$$7ge1119950"
       },
       "geometry": {
         "type": "Polygon",
@@ -20724,7 +20724,7 @@
         "N43": "$$ae-er---$$ae-lv---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(474.3)$$2MRF",
         "N245A": "Pernau|Pärnu",
-        "N651": "$$aPärnu (Estonsko : oblast)"
+        "N651": "$$aPärnu (Estonsko : oblast)$$7ge1120354"
       },
       "geometry": {
         "type": "Polygon",
@@ -20888,7 +20888,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Jyväskylä|Iväskylä",
-        "N651": "$$aJyväskylä (Finsko : oblast)"
+        "N651": "$$aJyväskylä (Finsko : oblast)$$7ge1120355"
       },
       "geometry": {
         "type": "Polygon",
@@ -23758,7 +23758,7 @@
         "N43": "$$ae-mv---$$ae-un---",
         "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Bendery",
-        "N651": "$$aTighina (Moldavsko : oblast)"
+        "N651": "$$aTighina (Moldavsko : oblast)$$7ge1120175"
       },
       "geometry": {
         "type": "Polygon",
@@ -24332,7 +24332,7 @@
         "N43": "$$ae-ru---$$ae-fi---",
         "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Wiborg",
-        "N651": "$$aVyborg (Rusko : oblast)"
+        "N651": "$$aVyborg (Rusko : oblast)$$7ge1118885"
       },
       "geometry": {
         "type": "Polygon",
@@ -24414,7 +24414,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Joensuu",
-        "N651": "$$aJoensuu (Finsko : oblast)"
+        "N651": "$$aJoensuu (Finsko : oblast)$$7ge1120358"
       },
       "geometry": {
         "type": "Polygon",
@@ -24947,7 +24947,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Kirowograd|Jelißawjetgrad",
-        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)"
+        "N651": "$$aKropyvnyckyj (Ukrajina : oblast)$$7ge1119100"
       },
       "geometry": {
         "type": "Polygon",
@@ -25111,7 +25111,7 @@
         "N43": "$$ae-bw---$$ae-ru---$$ae-un---",
         "N80": "$$a913(476)$$2MRF|$$a913(470)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Gomel",
-        "N651": "$$aHomel’ (Bělorusko : oblast)"
+        "N651": "$$aHomel (Bělorusko : oblast)$$7ge563483"
       },
       "geometry": {
         "type": "Polygon",
@@ -25234,7 +25234,7 @@
         "N43": "$$ae-ru---$$ae-bw---",
         "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Welish|Welisch",
-        "N651": "$$aVelizh (Rusko : oblast)"
+        "N651": "$$aVeliž (Rusko : oblast)$$7ge1120359"
       },
       "geometry": {
         "type": "Polygon",
@@ -25972,7 +25972,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
         "N245A": "Cherrsson|Chersson",
-        "N651": "$$aCherson (Ukrajina : oblast)"
+        "N651": "$$aCherson (Ukrajina : oblast)$$7ge1120360"
       },
       "geometry": {
         "type": "Polygon",
@@ -26505,7 +26505,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Tichwin",
-        "N651": "$$aTichvin (Rusko : oblast)"
+        "N651": "$$aTichvin (Rusko : oblast)$$7ge1118888"
       },
       "geometry": {
         "type": "Polygon",
@@ -26833,7 +26833,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Kandalakscha",
-        "N651": "$$aKandalakša (Rusko : oblast)"
+        "N651": "$$aKandalakša (Rusko : oblast)$$7ge1120361"
       },
       "geometry": {
         "type": "Polygon",
@@ -26997,7 +26997,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Feodossija",
-        "N651": "$$aFeodosija (Ukrajina : oblast)"
+        "N651": "$$aFeodosija (Ukrajina : oblast)$$7ge1120362"
       },
       "geometry": {
         "type": "Polygon",
@@ -28432,7 +28432,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Tula",
-        "N651": "$$aTula (Rusko : oblast)"
+        "N651": "$$aTula (Rusko : oblast)$$7ge131141"
       },
       "geometry": {
         "type": "Polygon",

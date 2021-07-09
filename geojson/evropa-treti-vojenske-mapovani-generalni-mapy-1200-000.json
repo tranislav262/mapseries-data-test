@@ -370,7 +370,7 @@
         "N43": "$$ae-mo---$$ae-aa---$$ae-rb---$$ae-bn---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Plevlje",
-        "N651": "$$aPljevlja (Černá Hora : oblast)",
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2770,7 +2770,7 @@
         "N43": "$$ae-mv---$$ae-un---",
         "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Soroki",
-        "N651": "$$aSoroca (Moldavsko : oblast)",
+        "N651": "$$aSoroca (Moldavsko : oblast)$$7ge1120320",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3410,7 +3410,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Nakel",
-        "N651": "$$aNakło nad Notecią (Polsko : oblast)",
+        "N651": "$$aNakło nad Notecią (Polsko : oblast)$$7ge1120218",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3850,7 +3850,7 @@
         "N43": "$$ae-bw---$$ae-un---",
         "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Reczyca",
-        "N651": "$$aRečica (Brest, Bělorusko : oblast)",
+        "N651": "$$aRečica (Brest, Bělorusko : oblast)$$7ge1120321",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4570,7 +4570,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Schneidemühl",
-        "N651": "$$aPiła (Polsko : oblast)",
+        "N651": "$$aPiła (Polsko : oblast)$$7ge1120227",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5810,7 +5810,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Nowogeorgiewsk",
-        "N651": "$$aModlin (Polsko : oblast)",
+        "N651": "$$aNowy Dwór Mazowiecki (Polsko : oblast)$$7ge1119850",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -5890,7 +5890,7 @@
         "N43": "$$ae-aa---$$ae-xn---",
         "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Elbasan",
-        "N651": "$$aElbasan (Albánie : oblast)",
+        "N651": "$$aElbasan (Albánie : oblast)$$7ge1119447",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7450,7 +7450,7 @@
         "N43": "$$ae-mv---$$ae-un---",
         "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Bendery",
-        "N651": "$$aTighina (Moldavsko : oblast)",
+        "N651": "$$aTighina (Moldavsko : oblast)$$7ge1120175",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7890,7 +7890,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Kavala",
-        "N651": "$$aKavála (Řecko : oblast)",
+        "N651": "$$aKavála (Řecko : oblast)$$7ge1119463",
         "POZNAMKA": "Kavala"
       },
       "geometry": {
@@ -9250,7 +9250,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Nieśwież|Nieswiez",
-        "N651": "$$aŇasviž (Bělorusko : oblast)",
+        "N651": "$$aŇasviž (Bělorusko : oblast)$$7ge1120177",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -10290,7 +10290,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Krosno",
-        "N651": "$$aKrosno Odrzańskie (Polsko : oblast)",
+        "N651": "$$aKrosno Odrzańskie (Polsko : oblast)$$7ge1120323",
         "POZNAMKA": ""
       },
       "geometry": {

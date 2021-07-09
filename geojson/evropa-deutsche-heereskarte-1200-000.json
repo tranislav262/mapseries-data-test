@@ -139,7 +139,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Schneidemühl|Piła",
-        "N651": "$$aPiła (Polsko : oblast)"
+        "N651": "$$aPiła (Polsko : oblast)$$7ge1120227"
       },
       "geometry": {
         "coordinates": [
@@ -181,7 +181,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Nakło|Nakel",
-        "N651": "$$aNakło nad Notecią (Polsko : oblast)"
+        "N651": "$$aNakło nad Notecią (Polsko : oblast)$$7ge1120218"
       },
       "geometry": {
         "coordinates": [
@@ -475,7 +475,7 @@
         "N43": "$$ae-bw---$$ae-pl---",
         "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Wołkowysk",
-        "N651": "$$aVaŭkavysk (Bělorusko : oblast)"
+        "N651": "$$aVaŭkavysk (Bělorusko : oblast)$$7ge1028544"
       },
       "geometry": {
         "coordinates": [
@@ -559,7 +559,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Nieśwież",
-        "N651": "$$aŇasviž (Bělorusko : oblast)"
+        "N651": "$$aŇasviž (Bělorusko : oblast)$$7ge1120177"
       },
       "geometry": {
         "coordinates": [
@@ -937,7 +937,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Modlin |Modlin (Nowogeorgiewsk)",
-        "N651": "$$aNowy Dwór Mazowiecki (Polsko : oblast)"
+        "N651": "$$aNowy Dwór Mazowiecki (Polsko : oblast)$$7ge1119850"
       },
       "geometry": {
         "coordinates": [
@@ -1357,7 +1357,7 @@
         "N43": "$$ae-bw---$$ae-un---",
         "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Reczyca",
-        "N651": "$$aRečyca (Bělorusko : oblast)"
+        "N651": "$$aRečica (Brest, Bělorusko : oblast)$$7ge1120321"
       },
       "geometry": {
         "coordinates": [
@@ -6061,7 +6061,7 @@
         "N43": "$$ae-mv---$$ae-un---",
         "N80": "$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Bendery",
-        "N651": "$$aTighina (Moldavsko : oblast)"
+        "N651": "$$aTighina (Moldavsko : oblast)$$7ge1120175"
       },
       "geometry": {
         "coordinates": [
@@ -9295,7 +9295,7 @@
         "N43": "$$ae-mo---$$ae-aa---$$ae-rb---$$ae-bn---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(496.5)$$2MRF|$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "Plevlje",
-        "N651": "$$aPljevlja (Černá Hora : oblast)"
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319"
       },
       "geometry": {
         "coordinates": [
@@ -10303,7 +10303,7 @@
         "N43": "$$ae-aa---$$ae-xn---",
         "N80": "$$a913(496.5)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Elbasan",
-        "N651": "$$aElbasan (Albánie : oblast)"
+        "N651": "$$aElbasan (Albánie : oblast)$$7ge1119447"
       },
       "geometry": {
         "coordinates": [
@@ -10471,7 +10471,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Kawalla",
-        "N651": "$$aKavála (Řecko : oblast)"
+        "N651": "$$aKavála (Řecko : oblast)$$7ge1119463"
       },
       "geometry": {
         "coordinates": [
@@ -11269,7 +11269,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Tinos",
-        "N651": "$$aTinos (Řecko : oblast)"
+        "N651": "$$aTinos (Řecko : oblast)$$7ge1120325"
       },
       "geometry": {
         "coordinates": [

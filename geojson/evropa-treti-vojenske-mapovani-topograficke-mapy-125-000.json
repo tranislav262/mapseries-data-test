@@ -19860,7 +19860,7 @@
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
+        "N245A": "[Pápa]",
         "N651": "$$aPápa (Maďarsko : oblast)$$7ge828935"
       },
       "geometry": {
@@ -20621,12 +20621,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5076/4",
-        "TITLE": "",
+        "TITLE": "Băișești",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Băișești]",
+        "N651": "$$aBăișești (Rumunsko : oblast)$$7ge1034154"
       },
       "geometry": {
         "type": "Polygon",
@@ -20666,12 +20666,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5177/3",
-        "TITLE": "",
+        "TITLE": "Târgu Neamț a Pașcani",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Târgu Neamț a Pașcani]",
+        "N651": "$$aTârgu Neamț (Rumunsko : oblast)$$7ge1095346|$$aPașcani (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20711,12 +20711,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5143/3",
-        "TITLE": "",
+        "TITLE": "Bludenz a Vaduz",
         "SCALE": "25000",
         "N43": "$$ae-lh---$$ae-au---",
         "N80": "$$a913(494.9)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bludenz a Vaduz]",
+        "N651": "$$aBludenz (Rakousko : oblast)$$7ge369173|$$aVaduz (Liechtenštejnsko : oblast)$$7ge1120120"
       },
       "geometry": {
         "type": "Polygon",
@@ -20756,12 +20756,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5144/3",
-        "TITLE": "",
+        "TITLE": "Stuben",
         "SCALE": "25000",
         "N43": "$$ae-sz---$$ae-au---",
         "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Stuben]",
+        "N651": "$$aStuben (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20801,12 +20801,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5145/3",
-        "TITLE": "",
+        "TITLE": "Landeck",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-sz---",
         "N80": "$$a913(436)$$2MRF|$$a913(494)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Landeck]",
+        "N651": "$$aLandeck (Rakousko : oblast)$$7ge117925"
       },
       "geometry": {
         "type": "Polygon",
@@ -20846,12 +20846,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5146/3",
-        "TITLE": "",
+        "TITLE": "Ötztal",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ötztal]",
+        "N651": "$$aÖtztal (Rakousko : údolí)$$7ge848387"
       },
       "geometry": {
         "type": "Polygon",
@@ -20891,12 +20891,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5147/3",
-        "TITLE": "",
+        "TITLE": "Matrei am Brenner",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Matrei am Brenner]",
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20936,12 +20936,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5148/3",
-        "TITLE": "",
+        "TITLE": "Hippach a Gerlosspitze",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hippach a Gerlosspitze]",
+        "N651": "$$aHippach (Rakousko : oblast)$$7ge1095361|$$aGerlos (Rakousko : oblast)$$7ge1095363"
       },
       "geometry": {
         "type": "Polygon",
@@ -20981,12 +20981,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5149/3",
-        "TITLE": "",
+        "TITLE": "Großglockner",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Großglockner]",
+        "N651": "$$aGrossglockner (Vysoké Taury, Rakousko : hora : oblast)$$7ge1108396"
       },
       "geometry": {
         "type": "Polygon",
@@ -21026,12 +21026,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5150/3",
-        "TITLE": "",
+        "TITLE": "Bad Hofgastein",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bad Hofgastein]",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358"
       },
       "geometry": {
         "type": "Polygon",
@@ -21071,12 +21071,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5151/4",
-        "TITLE": "",
+        "TITLE": "St. Michael im Lungau",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[St. Michael im Lungau]",
+        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21116,12 +21116,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5152/3",
-        "TITLE": "",
+        "TITLE": "Murau",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Murau]",
+        "N651": "$$aMurau (Rakousko : oblast)$$7ge369080"
       },
       "geometry": {
         "type": "Polygon",
@@ -21161,12 +21161,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5153/3",
-        "TITLE": "",
+        "TITLE": "Judenburg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Judenburg]",
+        "N651": "$$aJudenburg (Rakousko : oblast)$$7ge1095360"
       },
       "geometry": {
         "type": "Polygon",
@@ -21206,12 +21206,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5154/3",
-        "TITLE": "",
+        "TITLE": "Köflach a Voitsberg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Köflach a Voitsberg]",
+        "N651": "$$aKöflach (Rakousko : oblast)$$7ge1095359|$$aVoitsberg (Rakousko : oblast)$$7ge1095358"
       },
       "geometry": {
         "type": "Polygon",
@@ -21251,12 +21251,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5155/3",
-        "TITLE": "",
+        "TITLE": "Štýrský Hradec",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Štýrský Hradec]",
+        "N651": "$$aŠtýrský Hradec (Rakousko)$$7ge128479"
       },
       "geometry": {
         "type": "Polygon",
@@ -21296,12 +21296,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5156/3",
-        "TITLE": "",
+        "TITLE": "Fürstenfeld",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Fürstenfeld]",
+        "N651": "$$aFürstenfeld (Rakousko : oblast)$$7ge1087373"
       },
       "geometry": {
         "type": "Polygon",
@@ -21341,12 +21341,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5157/3",
-        "TITLE": "",
+        "TITLE": "Szombathely a Körmend",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-hu---",
         "N80": "$$a913(436)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szombathely a Körmend]",
+        "N651": "$$aSzombathely (Maďarsko : oblast)$$7ge856366|$$aKörmend (Maďarsko : oblast)$$7ge1087374"
       },
       "geometry": {
         "type": "Polygon",
@@ -21386,12 +21386,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5158/3",
-        "TITLE": "",
+        "TITLE": "Kissomlyó",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kissomlyó]",
+        "N651": "$$aKissomlyó (Maďarsko : oblast)$$7ge1101947"
       },
       "geometry": {
         "type": "Polygon",
@@ -21431,12 +21431,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5159/3",
-        "TITLE": "",
+        "TITLE": "Devecser a Városlőd",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Devecser a Városlőd]",
+        "N651": "$$aDevecser (Maďarsko : oblast)$$7ge1087375|$$aVároslőd (Maďarsko : oblast)$$7ge1095357"
       },
       "geometry": {
         "type": "Polygon",
@@ -21476,12 +21476,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5160/3",
-        "TITLE": "",
+        "TITLE": "Veszprém a Várpalota",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Veszprém a Várpalota]",
+        "N651": "$$aVeszprém (Maďarsko : oblast)$$7ge590129|$$aVárpalota (Maďarsko : oblast)$$7ge1087376"
       },
       "geometry": {
         "type": "Polygon",
@@ -21521,12 +21521,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5161/3",
-        "TITLE": "",
+        "TITLE": "Stoličný Bělehrad a Seregélyes",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Stoličný Bělehrad a Seregélyes]",
+        "N651": "$$aSzékesfehérvár (Maďarsko : oblast)$$7ge1087377|$$aSeregélyes (Maďarsko : oblast)$$7ge1095355"
       },
       "geometry": {
         "type": "Polygon",
@@ -21566,12 +21566,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5162/3",
-        "TITLE": "",
+        "TITLE": "Adony a Kunszentmiklós",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Adony a Kunszentmiklós]",
+        "N651": "$$aAdony (Maďarsko : oblast)$$7ge1101941|$$aKunszentmiklós (Maďarsko : oblast)$$7ge1101942"
       },
       "geometry": {
         "type": "Polygon",
@@ -21611,12 +21611,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5163/3",
-        "TITLE": "",
+        "TITLE": "Cegléd",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Cegléd]",
+        "N651": "$$aCegléd (Maďarsko : oblast)$$7ge1087378"
       },
       "geometry": {
         "type": "Polygon",
@@ -21656,12 +21656,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5164/3",
-        "TITLE": "",
+        "TITLE": "Szolnok",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szolnok]",
+        "N651": "$$aSzolnok (Maďarsko : oblast)$$7ge459428"
       },
       "geometry": {
         "type": "Polygon",
@@ -21701,12 +21701,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5165/3",
-        "TITLE": "",
+        "TITLE": "Kisujszállás a Mezőtúr",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kisujszállás a Mezőtúr]",
+        "N651": "$$aKisujszállás (Maďarsko : oblast)$$7ge1101937|$$aMezőtúr (Maďarsko : oblast)$$7ge1101935"
       },
       "geometry": {
         "type": "Polygon",
@@ -21746,12 +21746,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5166/3",
-        "TITLE": "",
+        "TITLE": "Biharnagybajom a Szeghalom",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Biharnagybajom a Szeghalom]",
+        "N651": "$$aBiharnagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)$$7ge1101930|$$aDévaványa (Maďarsko : oblast)$$7ge1101932"
       },
       "geometry": {
         "type": "Polygon",
@@ -21791,12 +21791,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5167/3",
-        "TITLE": "",
+        "TITLE": "Berettyóújfalu a Tărian",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Berettyóújfalu a Tărian]",
+        "N651": "$$aBerettyóújfalu (Maďarsko : oblast)$$7ge1101928|$$aTărian (Rumunsko : oblast)$$7ge1113373"
       },
       "geometry": {
         "type": "Polygon",
@@ -21836,12 +21836,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5168/3",
-        "TITLE": "",
+        "TITLE": "Velký Varadín",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Velký Varadín]",
+        "N651": "$$aOradea (Rumunsko : oblast)$$7ge856419"
       },
       "geometry": {
         "type": "Polygon",
@@ -21881,12 +21881,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5169/3",
-        "TITLE": "",
+        "TITLE": "Șimleu Silvaniei a Aleșd",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Șimleu Silvaniei a Aleșd]",
+        "N651": "$$aȘimleu Silvaniei (Rumunsko : oblast)|$$aAleșd (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21926,12 +21926,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5170/3",
-        "TITLE": "",
+        "TITLE": "Zalău",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Zalău]",
+        "N651": "$$aZalău (Rumunsko : oblast)$$7ge1095349"
       },
       "geometry": {
         "type": "Polygon",
@@ -21971,12 +21971,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5171/3",
-        "TITLE": "",
+        "TITLE": "Bobâlna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bobâlna]",
+        "N651": "$$aBobâlna (Rumunsko : oblast)$$7ge1095348"
       },
       "geometry": {
         "type": "Polygon",
@@ -22016,12 +22016,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5172/3",
-        "TITLE": "",
+        "TITLE": "Gherla",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gherla]",
+        "N651": "$$aGherla (Rumunsko : oblast)$$7ge1087380"
       },
       "geometry": {
         "type": "Polygon",
@@ -22061,12 +22061,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5173/3",
-        "TITLE": "",
+        "TITLE": "Bistrița",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bistrița]",
+        "N651": "$$aBistriţa (Rumunsko : oblast)$$7ge856654"
       },
       "geometry": {
         "type": "Polygon",
@@ -22106,12 +22106,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5174/3",
-        "TITLE": "",
+        "TITLE": "Mureșenii Bârgăului",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mureșenii Bârgăului]",
+        "N651": "$$aMureșenii Bârgăului (Rumunsko : oblast)$$7ge1109380"
       },
       "geometry": {
         "type": "Polygon",
@@ -22151,12 +22151,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5175/3",
-        "TITLE": "",
+        "TITLE": "Bilbor",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bilbor]",
+        "N651": "$$aBilbor (Rumunsko : oblast)$$7ge1095347"
       },
       "geometry": {
         "type": "Polygon",
@@ -22196,12 +22196,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5176/4",
-        "TITLE": "",
+        "TITLE": "Bistricioara",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bistricioara]",
+        "N651": "$$aBistricioara (Ceahlău, Rumunsko : oblast)$$7ge1109379"
       },
       "geometry": {
         "type": "Polygon",
@@ -22241,12 +22241,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5277/3",
-        "TITLE": "",
+        "TITLE": "Piatra Neamț",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Piatra Neamț]",
+        "N651": "$$aPiatra Neamţ (Rumunsko : oblast)$$7ge856679"
       },
       "geometry": {
         "type": "Polygon",
@@ -22286,12 +22286,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5244/3",
-        "TITLE": "",
+        "TITLE": "Pramen Illu",
         "SCALE": "25000",
         "N43": "$$ae-sz---$$ae-au---",
         "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pramen Illu]",
+        "N651": "$$aIll (řeka, pramen : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22331,12 +22331,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5245/3",
-        "TITLE": "",
+        "TITLE": "Nauders",
         "SCALE": "25000",
         "N43": "$$ae-sz---$$ae-au---$$ae-it---",
         "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nauders]",
+        "N651": "$$aNauders (Rakousko : oblast)$$7ge552263"
       },
       "geometry": {
         "type": "Polygon",
@@ -22376,12 +22376,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5246/3",
-        "TITLE": "",
+        "TITLE": "Sölden a San Leonardo in Passiria",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sölden a San Leonardo in Passiria]",
+        "N651": "$$aSölden (Rakousko : oblast)$$7ge1094594|$$aSan Leonardo in Passiria (Itálie : oblast)$$7ge1109377"
       },
       "geometry": {
         "type": "Polygon",
@@ -22421,12 +22421,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5247/3",
-        "TITLE": "",
+        "TITLE": "Vipiteno a Fortezza",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Vipiteno a Fortezza]",
+        "N651": "$$aVipiteno (Itálie : oblast)$$7ge1094591|$$aFranzensfeste (Itálie : oblast)$$7ge1094518"
       },
       "geometry": {
         "type": "Polygon",
@@ -22466,12 +22466,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5248/3",
-        "TITLE": "",
+        "TITLE": "Bruneck",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bruneck]",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346"
       },
       "geometry": {
         "type": "Polygon",
@@ -22511,12 +22511,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5249/3",
-        "TITLE": "",
+        "TITLE": "Lienz",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lienz]",
+        "N651": "$$aLienz (Rakousko : oblast)$$7ge1095344"
       },
       "geometry": {
         "type": "Polygon",
@@ -22556,12 +22556,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5250/3",
-        "TITLE": "",
+        "TITLE": "Mölltal",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Mölltal]",
+        "N651": "$$aMölltal (Rakousko : údolí)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22601,12 +22601,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5251/4",
-        "TITLE": "",
+        "TITLE": "Gmünd a Spittal an der Drau",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gmünd a Spittal an der Drau]",
+        "N651": "$$aGmünd (Rakousko, Korutany : oblast)|$$aSpittal an der Drau (Rakousko : oblast)$$7ge1094613"
       },
       "geometry": {
         "type": "Polygon",
@@ -22646,12 +22646,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5252/3",
-        "TITLE": "",
+        "TITLE": "Gurktal",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gurktal]",
+        "N651": "$$aGurktal (Rakousko : údolí)$$7ge1108371"
       },
       "geometry": {
         "type": "Polygon",
@@ -22691,12 +22691,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5253/3",
-        "TITLE": "",
+        "TITLE": "Hüttenberg a Eberstein",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Hüttenberg a Eberstein]",
+        "N651": "$$aHüttenberg (Rakousko : oblast)$$7ge1095343|$$aEberstein (Rakousko : oblast)$$7ge1109375"
       },
       "geometry": {
         "type": "Polygon",
@@ -22736,12 +22736,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5254/3",
-        "TITLE": "",
+        "TITLE": "Deutschlandsberg a Wolfsberg",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Deutschlandsberg a Wolfsberg]",
+        "N651": "$$aDeutsch Landsberg (Rakousko : oblast)$$7ge1120212|$$aWolfsberg (Rakousko : oblast)$$7ge1120267"
       },
       "geometry": {
         "type": "Polygon",
@@ -22781,12 +22781,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5255/3",
-        "TITLE": "",
+        "TITLE": "Wildon a Leibnitz",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Wildon a Leibnitz]",
+        "N651": "$$aWildon (Rakousko : oblast)$$7ge1094517|$$aLeibnitz (Rakousko : oblast)$$7ge1095341"
       },
       "geometry": {
         "type": "Polygon",
@@ -22826,12 +22826,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5256/3",
-        "TITLE": "",
+        "TITLE": "Gleichenberg",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gleichenberg]",
+        "N651": "$$aBad Gleichenberg (Rakousko : oblast)$$7ge1099831|$$aSzentgotthárd (Maďarsko : oblast)$$7ge1099835"
       },
       "geometry": {
         "type": "Polygon",
@@ -22871,12 +22871,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5257/3",
-        "TITLE": "",
+        "TITLE": "Csákánydoroszló a Zalalövő",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-xv---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Csákánydoroszló a Zalalövő]",
+        "N651": "$$aCsákánydoroszló (Maďarsko : oblast)$$7ge1101735|$$aZalalövő (Maďarsko : oblast)$$7ge1101763"
       },
       "geometry": {
         "type": "Polygon",
@@ -22916,12 +22916,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5258/3",
-        "TITLE": "",
+        "TITLE": "Sümeg a Zalaegerszeg",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sümeg a Zalaegerszeg]",
+        "N651": "$$aSümeg (Maďarsko : oblast)$$7ge1101724|$$aZalaegerszeg (Maďarsko : oblast)$$7ge1099816"
       },
       "geometry": {
         "type": "Polygon",
@@ -22961,12 +22961,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5259/3",
-        "TITLE": "",
+        "TITLE": "Nagyvázsony a Badacsonytomaj",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Nagyvázsony a Badacsonytomaj]",
+        "N651": "$$aNagyvázsony (Maďarsko : oblast)$$7ge1095334|$$aBadacsonytomaj (Maďarsko : oblast)$$7ge1095340"
       },
       "geometry": {
         "type": "Polygon",
@@ -23006,12 +23006,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5260/3",
-        "TITLE": "",
+        "TITLE": "Balatonfüred a Szabadhídvég",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Balatonfüred a Szabadhídvég]",
+        "N651": "$$aBalatonfüred (Maďarsko : oblast)$$7ge1094414|$$aSzabadhídvég (Maďarsko : oblast)$$7ge1095332|$$aSiófok (Maďarsko : oblast)$$7ge1094419"
       },
       "geometry": {
         "type": "Polygon",
@@ -23051,12 +23051,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5261/3",
-        "TITLE": "",
+        "TITLE": "Sárbogárd",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sárbogárd]",
+        "N651": "$$aSárbogárd (Maďarsko : oblast)$$7ge1095331"
       },
       "geometry": {
         "type": "Polygon",
@@ -23096,12 +23096,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5262/3",
-        "TITLE": "",
+        "TITLE": "Dunaföldvár a Szabadszállás",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dunaföldvár a Szabadszállás]",
+        "N651": "$$aDunaföldvár (Maďarsko : oblast)$$7ge1099743|$$aSzabadszállás (Maďarsko : oblast)$$7ge1099744"
       },
       "geometry": {
         "type": "Polygon",
@@ -23141,12 +23141,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5263/3",
-        "TITLE": "",
+        "TITLE": "Kecskemét",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kecskemét]",
+        "N651": "$$aKecskemét (Maďarsko : oblast)$$7ge856394"
       },
       "geometry": {
         "type": "Polygon",
@@ -23186,12 +23186,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5264/3",
-        "TITLE": "",
+        "TITLE": "Tiszainoka",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tiszainoka]",
+        "N651": "$$aTiszainoka (Maďarsko : oblast)$$7ge1099739"
       },
       "geometry": {
         "type": "Polygon",
@@ -23231,12 +23231,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5265/3",
-        "TITLE": "",
+        "TITLE": "Szarvas",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Szarvas]",
+        "N651": "$$aSzarvas (Maďarsko : oblast)$$7ge1099107"
       },
       "geometry": {
         "type": "Polygon",
@@ -23276,12 +23276,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5266/3",
-        "TITLE": "",
+        "TITLE": "Körösladány a Békés",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Körösladány a Békés]",
+        "N651": "$$aKörösladány (Maďarsko : oblast)$$7ge1099738|$$aBékés (Maďarsko : oblast)$$7ge1099104"
       },
       "geometry": {
         "type": "Polygon",
@@ -23321,12 +23321,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5267/3",
-        "TITLE": "",
+        "TITLE": "Salonta",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Salonta]",
+        "N651": "$$aSalonta (Rumunsko : oblast)$$7ge1099734|$$aOkány (Maďarsko : oblast)$$7ge1099736"
       },
       "geometry": {
         "type": "Polygon",
@@ -23366,12 +23366,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5268/3",
-        "TITLE": "",
+        "TITLE": "Tinca a Cordău",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tinca a Cordău]",
+        "N651": "$$aTinca (Rumunsko : oblast)$$7ge1099731|$$aCordău (Rumunsko : oblast)$$7ge1109374"
       },
       "geometry": {
         "type": "Polygon",
@@ -23411,12 +23411,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5269/3",
-        "TITLE": "",
+        "TITLE": "Bucea a Roșia",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bucea a Roșia]",
+        "N651": "$$aBucea (Rumunsko : oblast)$$7ge1109313|$$aRoșia (Rumunsko, Bihor : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23456,12 +23456,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5270/3",
-        "TITLE": "",
+        "TITLE": "Huedin",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Huedin]",
+        "N651": "$$aHuedin (Rumunsko : oblast)$$7ge1099728"
       },
       "geometry": {
         "type": "Polygon",
@@ -23501,12 +23501,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5271/3",
-        "TITLE": "",
+        "TITLE": "Kluž",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kluž]",
+        "N651": "$$aCluj-Napoca (Rumunsko : oblast)$$7ge856442"
       },
       "geometry": {
         "type": "Polygon",
@@ -23546,12 +23546,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5272/3",
-        "TITLE": "",
+        "TITLE": "Sic a Mociu",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sic a Mociu]",
+        "N651": "$$aSic (Rumunsko : oblast)$$7ge1109312|$$aMociu (Rumunsko : oblast)$$7ge1094410"
       },
       "geometry": {
         "type": "Polygon",
@@ -23591,12 +23591,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5273/3",
-        "TITLE": "",
+        "TITLE": "Reghin",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Reghin]",
+        "N651": "$$aReghin (Rumunsko : oblast)$$7ge1094409"
       },
       "geometry": {
         "type": "Polygon",
@@ -23636,12 +23636,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5274/3",
-        "TITLE": "",
+        "TITLE": "Gurghiu",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gurghiu]",
+        "N651": "$$aGurghiu (Rumunsko : oblast)$$7ge1109311"
       },
       "geometry": {
         "type": "Polygon",
@@ -23681,12 +23681,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5275/3",
-        "TITLE": "",
+        "TITLE": "Toplița a Tulgheș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Toplița a Tulgheș]",
+        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
       },
       "geometry": {
         "type": "Polygon",
@@ -23726,12 +23726,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5276/4",
-        "TITLE": "",
+        "TITLE": "Bicaz",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bicaz]",
+        "N651": "$$aBicaz (Rumunsko : oblast)$$7ge1094403"
       },
       "geometry": {
         "type": "Polygon",
@@ -23771,12 +23771,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5377/3",
-        "TITLE": "",
+        "TITLE": "Tazlău",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tazlău]",
+        "N651": "$$aTazlău (Rumunsko : oblast)$$7ge1109249|$$aBuhuși (Rumunsko : oblast)$$7ge1094319"
       },
       "geometry": {
         "type": "Polygon",
@@ -23816,12 +23816,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5344/3",
-        "TITLE": "",
+        "TITLE": "Livigno",
         "SCALE": "25000",
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Livigno]",
+        "N651": "$$aLivigno (Itálie : oblast)$$7ge1093501"
       },
       "geometry": {
         "type": "Polygon",
@@ -23861,12 +23861,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5345/3",
-        "TITLE": "",
+        "TITLE": "Glorenza",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Glorenza]",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344"
       },
       "geometry": {
         "type": "Polygon",
@@ -23906,12 +23906,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5346/3",
-        "TITLE": "",
+        "TITLE": "Merano",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Merano]",
+        "N651": "$$aMerano (Itálie : oblast)$$7ge646205"
       },
       "geometry": {
         "type": "Polygon",
@@ -23951,12 +23951,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5347/3",
-        "TITLE": "",
+        "TITLE": "Chiusa",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Chiusa]",
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)$$7ge1108205"
       },
       "geometry": {
         "type": "Polygon",
@@ -23996,12 +23996,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5348/3",
-        "TITLE": "",
+        "TITLE": "Dobbiaco a Cortina d'Ampezzo",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dobbiaco a Cortina d'Ampezzo]",
+        "N651": "$$aDobbiaco (Itálie : oblast)$$7ge1093507|$$aCortina d'Ampezzo (Itálie : oblast)$$7ge1093505"
       },
       "geometry": {
         "type": "Polygon",
@@ -24041,12 +24041,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5349/3",
-        "TITLE": "",
+        "TITLE": "Sillian a Santo Stefano di Cadore",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sillian a Santo Stefano di Cadore]",
+        "N651": "$$aSillian (Rakousko : oblast)$$7ge1109309|$$aSanto Stefano di Cadore (Itálie : oblast)$$7ge1109308"
       },
       "geometry": {
         "type": "Polygon",
@@ -24086,12 +24086,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5350/3",
-        "TITLE": "",
+        "TITLE": "Oberdrauburg a Mauthen",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Oberdrauburg a Mauthen]",
+        "N651": "$$aOberdrauburg (Rakousko : oblast)$$7ge1094401|$$aMauthen (Kötschach-Mauthen, Rakousko : oblast)$$7ge1109307"
       },
       "geometry": {
         "type": "Polygon",
@@ -24131,12 +24131,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5351/4",
-        "TITLE": "",
+        "TITLE": "Bad Bleiberg a Tarvisio",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bad Bleiberg a Tarvisio]",
+        "N651": "$$aBad Bleiberg (Rakousko : oblast)$$7ge1109305|$$aTarvisio (Itálie : oblast)$$7ge1109304"
       },
       "geometry": {
         "type": "Polygon",
@@ -24176,12 +24176,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5352/3",
-        "TITLE": "",
+        "TITLE": "Villach a Klagenfurt",
         "SCALE": "25000",
         "N43": "$$ae-xv---$$ae-au---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Villach a Klagenfurt]",
+        "N651": "$$aVillach (Rakousko : oblast)$$7ge1093503|$$aKlagenfurt (Rakousko : oblast)$$7ge273424"
       },
       "geometry": {
         "type": "Polygon",
@@ -24221,12 +24221,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5353/3",
-        "TITLE": "",
+        "TITLE": "Völkermarkt",
         "SCALE": "25000",
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Völkermarkt]",
+        "N651": "$$aVölkermarkt (Rakousko : oblast)$$7ge1093502"
       },
       "geometry": {
         "type": "Polygon",
@@ -24266,12 +24266,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5354/3",
-        "TITLE": "",
+        "TITLE": "Dravograd",
         "SCALE": "25000",
         "N43": "$$ae-xv---$$ae-au---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Dravograd]",
+        "N651": "$$aDravograd (Slovinsko : oblast)$$7ge1094399"
       },
       "geometry": {
         "type": "Polygon",
@@ -24311,12 +24311,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5355/3",
-        "TITLE": "",
+        "TITLE": "Maribor",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Maribor]",
+        "N651": "$$aMaribor (Slovinsko : oblast)$$7ge129961"
       },
       "geometry": {
         "type": "Polygon",
@@ -24356,12 +24356,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5356/3",
-        "TITLE": "",
+        "TITLE": "Bad Radkersburg a Ljutomer",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Bad Radkersburg a Ljutomer]",
+        "N651": "$$aBad Radkersburg (Rakousko : oblast)$$7ge1094399|$$aLjutomer (Slovinsko : oblast)$$7ge1099725"
       },
       "geometry": {
         "type": "Polygon",
@@ -24401,12 +24401,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5357/3",
-        "TITLE": "",
+        "TITLE": "Lendava a Lenti",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-xv---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Lendava a Lenti]",
+        "N651": "$$aLendava (Slovinsko : oblast)$$7ge1098961|$$aLenti (Maďarsko : oblast)$$7ge1098962"
       },
       "geometry": {
         "type": "Polygon",
@@ -24446,12 +24446,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5358/3",
-        "TITLE": "",
+        "TITLE": "Zalakomár a Zalaszentmihály",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Zalakomár a Zalaszentmihály]",
+        "N651": "$$aZalakomár (Maďarsko : oblast)$$7ge1099724|$$aZalaszentmihály (Maďarsko : oblast)$$7ge1113362"
       },
       "geometry": {
         "type": "Polygon",
@@ -24491,12 +24491,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5359/3",
-        "TITLE": "",
+        "TITLE": "Somogyvár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Somogyvár]",
+        "N651": "$$aSomogyvár (Maďarsko : oblast)$$7ge1098955"
       },
       "geometry": {
         "type": "Polygon",
@@ -24536,12 +24536,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5360/3",
-        "TITLE": "",
+        "TITLE": "Tamási a Igal",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Tamási a Igal]",
+        "N651": "$$aTamási (Maďarsko : oblast)$$7ge1098232|$$aIgal (Maďarsko : oblast)$$7ge1098770"
       },
       "geometry": {
         "type": "Polygon",
@@ -24581,12 +24581,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5361/3",
-        "TITLE": "",
+        "TITLE": "Pincehely",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Pincehely]",
+        "N651": "$$aPincehely (Maďarsko : oblast)$$7ge1098766"
       },
       "geometry": {
         "type": "Polygon",
@@ -24626,12 +24626,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5362/3",
-        "TITLE": "",
+        "TITLE": "Paks a Kolocsa",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Paks a Kolocsa]",
+        "N651": "$$aPaks (Maďarsko : oblast)$$7ge1098765|$$aKalocsa (Maďarsko : oblast)$$7ge1098214"
       },
       "geometry": {
         "type": "Polygon",
@@ -24671,12 +24671,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5363/3",
-        "TITLE": "",
+        "TITLE": "Soltvadkert",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Soltvadkert]",
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24716,12 +24716,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5364/3",
-        "TITLE": "",
+        "TITLE": "Kiskunfélegyháza a Szegvár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Kiskunfélegyháza a Szegvár]",
+        "N651": "$$aKiskunfélegyháza (Maďarsko : oblast)$$7ge1098762|$$aSzegvár (Maďarsko : oblast)$$7ge1098763"
       },
       "geometry": {
         "type": "Polygon",
@@ -24761,12 +24761,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5365/3",
-        "TITLE": "",
+        "TITLE": "Orosháza",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Orosháza]",
+        "N651": "$$aOrosháza (Maďarsko : oblast)$$7ge1098748"
       },
       "geometry": {
         "type": "Polygon",
@@ -24806,12 +24806,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5366/3",
-        "TITLE": "",
+        "TITLE": "Békéscsaba",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Békéscsaba]",
+        "N651": "$$aBékéscsaba (Maďarsko : oblast)$$7ge1098202"
       },
       "geometry": {
         "type": "Polygon",
@@ -24851,12 +24851,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5367/3",
-        "TITLE": "",
+        "TITLE": "Sarkad a Chișineu-Criș",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sarkad a Chișineu-Criș]",
+        "N651": "$$aSarkad (Maďarsko : oblast)$$7ge1098747|$$aChișineu-Criș (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24896,12 +24896,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5368/3",
-        "TITLE": "",
+        "TITLE": "Ucuriș ",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Ucuriș]",
+        "N651": "$$aUcuriș (Rumunsko : oblast)$$7ge1094395"
       },
       "geometry": {
         "type": "Polygon",
@@ -24941,12 +24941,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5369/3",
-        "TITLE": "",
+        "TITLE": "Beiuș a Sulest",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Beiuș a Sulest]",
+        "N651": "$$aBeiuș (Rumunsko : oblast)$$7ge1094393|$$aGiulești (Bihor, Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24986,12 +24986,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5370/3",
-        "TITLE": "",
+        "TITLE": "Măguri",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Măguri]",
+        "N651": "$$aMăguri (Rumunsko, Cluj : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25031,12 +25031,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5371/3",
-        "TITLE": "",
+        "TITLE": "Turda",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Turda]",
+        "N651": "$$aTurda (Rumunsko : oblast)$$7ge1097058"
       },
       "geometry": {
         "type": "Polygon",
@@ -25076,12 +25076,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5372/3",
-        "TITLE": "",
+        "TITLE": "Câmpia Transilvaniei",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Câmpia Transilvaniei]",
+        "N651": "$$aCâmpia Transilvaniei (Rumunsko : oblast)|$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
       },
       "geometry": {
         "type": "Polygon",
@@ -25121,12 +25121,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5373/3",
-        "TITLE": "",
+        "TITLE": "Târgu Mureş",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Târgu Mureş]",
+        "N651": "$$aTârgu Mureş (Rumunsko : oblast)$$7ge1093450"
       },
       "geometry": {
         "type": "Polygon",
@@ -25166,12 +25166,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5374/3",
-        "TITLE": "",
+        "TITLE": "Sovata",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Sovata]",
+        "N651": "$$aSovata (Rumunsko : oblast)$$7ge1094331"
       },
       "geometry": {
         "type": "Polygon",
@@ -25211,12 +25211,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5375/3",
-        "TITLE": "",
+        "TITLE": "Gheorgheni",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Gheorgheni]",
+        "N651": "$$aGheorgheni (Harghita, Rumunsko : oblast)$$7ge856666"
       },
       "geometry": {
         "type": "Polygon",
@@ -25256,12 +25256,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5376/4",
-        "TITLE": "",
+        "TITLE": "Průsmyk Ghimeș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Průsmyk Ghimeș]",
+        "N651": "$$aGhimeș (Rumunsko : průsmyk : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25301,12 +25301,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5477/1",
-        "TITLE": "",
+        "TITLE": "Târgu Ocna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[]",
-        "N651": "$$a"
+        "N245A": "[Târgu Ocna]",
+        "N651": "$$aTârgu Ocna (Rumunsko : oblast)$$7ge1094309"
       },
       "geometry": {
         "type": "Polygon",
@@ -25346,12 +25346,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5443/1",
-        "TITLE": "",
+        "TITLE": "Silvaplana",
         "SCALE": "25000",
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Silvaplana]",
+        "N651": "$$aSilvaplana (Švýcarsko : oblast)$$7ge1118753"
       },
       "geometry": {
         "type": "Polygon",
@@ -25391,12 +25391,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5444/1",
-        "TITLE": "",
+        "TITLE": "Pizzo Bernina",
         "SCALE": "25000",
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pizzo Bernina]",
+        "N651": "$$aPiz Bernina (Švýcarsko : hora)$$7ge1106886"
       },
       "geometry": {
         "type": "Polygon",
@@ -25436,12 +25436,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5445/1",
-        "TITLE": "",
+        "TITLE": "Bormio a Passo del Tonale",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bormio a Passo del Tonale]",
+        "N651": "$$aBormio (Itálie : oblast)$$7ge1093435|$$aTonale (Itálie : průsmyk)$$7ge1106879"
       },
       "geometry": {
         "type": "Polygon",
@@ -25481,12 +25481,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5446/1",
-        "TITLE": "",
+        "TITLE": "Cles",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Cles]",
+        "N651": "$$aCles (Itálie : oblast)$$7ge1094318"
       },
       "geometry": {
         "type": "Polygon",
@@ -25526,12 +25526,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5447/1",
-        "TITLE": "",
+        "TITLE": "Bolzano a Val di Fiemme",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bolzano a Val di Fiemme]",
+        "N651": "$$aBolzano (Itálie : oblast)$$7ge1093433|$$aVal di Fiemme (Itálie : oblast)$$7ge1093432"
       },
       "geometry": {
         "type": "Polygon",
@@ -25571,12 +25571,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5448/1",
-        "TITLE": "",
+        "TITLE": "Pieve a Longarone",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pieve a Longarone]",
+        "N651": "$$aPieve (Belluno, Itálie : oblast)$$7ge1109248|$$aLongarone (Itálie : oblast)$$7ge1109209"
       },
       "geometry": {
         "type": "Polygon",
@@ -25616,12 +25616,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5449/1",
-        "TITLE": "",
+        "TITLE": "Pieve di Cadora",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pieve di Cadora]",
+        "N651": "$$aPieve di Cadora (Itálie : oblast)$$7ge1109246"
       },
       "geometry": {
         "type": "Polygon",
@@ -25661,12 +25661,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5450/1",
-        "TITLE": "",
+        "TITLE": "Gemona del Friuli",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Gemona del Friuli]",
+        "N651": "$$aGemona del Friuli (Itálie : oblast)$$7ge1109210"
       },
       "geometry": {
         "type": "Polygon",
@@ -25706,12 +25706,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5451/2",
-        "TITLE": "",
+        "TITLE": "Bovec",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-it---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bovec]",
+        "N651": "$$aBovec (Slovinsko : oblast)$$7ge596464"
       },
       "geometry": {
         "type": "Polygon",
@@ -25751,12 +25751,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5452/1",
-        "TITLE": "",
+        "TITLE": "Radovljica",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Radovljica]",
+        "N651": "$$aRadovljica (Slovinsko : oblast)$$7ge1093426"
       },
       "geometry": {
         "type": "Polygon",
@@ -25796,12 +25796,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5453/1",
-        "TITLE": "",
+        "TITLE": "Bad Eisenkappel a Kokra",
         "SCALE": "25000",
         "N43": "$$ae-au---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bad Eisenkappel a Kokra]",
+        "N651": "$$aBad Eisenkappel (Rakousko : oblast)|$$aKonkra (Slovinsko : řeka : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -25841,12 +25841,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5454/1",
-        "TITLE": "",
+        "TITLE": "Mozirje",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Mozirje]",
+        "N651": "$$aMozirje (Slovinsko : oblast)$$7ge1094316"
       },
       "geometry": {
         "type": "Polygon",
@@ -25886,12 +25886,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5455/1",
-        "TITLE": "",
+        "TITLE": "Pragersko a Slovenska Bistrica",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pragersko a Slovenska Bistrica]",
+        "N651": "$$aPragersko (Slovinsko : oblast)$$7ge1094314|$$aSlovenska Bistrica (Slovinsko : oblast)$$7ge1094315"
       },
       "geometry": {
         "type": "Polygon",
@@ -25931,12 +25931,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5456/1",
-        "TITLE": "",
+        "TITLE": "Ptuj a Vinica",
         "SCALE": "25000",
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Ptuj a Vinica]",
+        "N651": "$$aPtuj (Slovinsko : oblast)$$7ge240209|$$aVinica (Chorvatsko : oblast)$$7ge1109207"
       },
       "geometry": {
         "type": "Polygon",
@@ -25976,12 +25976,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5457/1",
-        "TITLE": "",
+        "TITLE": "Varaždin a Kotoriba",
         "SCALE": "25000",
         "N43": "$$ae-xv---$$ae-ci---$$ae-hu---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Varaždin a Kotoriba]",
+        "N651": "$$aVaraždin (Chorvatsko : oblast)$$7ge531236|$$aKotoriba (Chorvatsko : oblast)$$7ge1097062"
       },
       "geometry": {
         "type": "Polygon",
@@ -26021,12 +26021,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5458/1",
-        "TITLE": "",
+        "TITLE": "Nagykanisza a Zákány",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Nagykanisza a Zákány]",
+        "N651": "$$aNagykanisza (Maďarsko : oblast)$$7ge1093416|$$aZákány (Maďarsko : oblast)$$7ge1094312"
       },
       "geometry": {
         "type": "Polygon",
@@ -26066,12 +26066,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5459/1",
-        "TITLE": "",
+        "TITLE": "Kaposvár a Böhönye",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Kaposvár a Böhönye]",
+        "N651": "$$aKaposvár (Maďarsko : oblast)$$7ge1096487|$$aBöhönye (Maďarsko : oblast)$$7ge1097061"
       },
       "geometry": {
         "type": "Polygon",
@@ -26111,12 +26111,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5460/1",
-        "TITLE": "",
+        "TITLE": "Dombovár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Dombovár]",
+        "N651": "$$aDombovár (Maďarsko : oblast)$$7ge1101772"
       },
       "geometry": {
         "type": "Polygon",
@@ -26156,12 +26156,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5461/1",
-        "TITLE": "",
+        "TITLE": "Szegszárd",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Szegszárd]",
+        "N651": "$$aSzegszárd (Maďarsko : oblast)$$7ge1098763"
       },
       "geometry": {
         "type": "Polygon",
@@ -26201,12 +26201,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5462/1",
-        "TITLE": "",
+        "TITLE": "Hajós",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Hajós]",
+        "N651": "$$aHajós (Maďarsko : oblast)$$7ge1099842"
       },
       "geometry": {
         "type": "Polygon",
@@ -26246,12 +26246,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5463/1",
-        "TITLE": "",
+        "TITLE": "Kiskunhalas",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Kiskunhalas]",
+        "N651": "$$aKiskunhalas (Maďarsko : oblast)$$7ge1099899"
       },
       "geometry": {
         "type": "Polygon",
@@ -26291,12 +26291,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5464/1",
-        "TITLE": "",
+        "TITLE": "Kistelek a Szeged",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Kistelek a Szeged]",
+        "N651": "$$aKistelek (Maďarsko : oblast)|$$aSzeged (Maďarsko : oblast)$$7ge856405"
       },
       "geometry": {
         "type": "Polygon",
@@ -26336,12 +26336,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5465/1",
-        "TITLE": "",
+        "TITLE": "Földeák a Mezőhegyes",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Földeák a Mezőhegyes]",
+        "N651": "$$aFőldeak (Maďarsko : oblast)$$7ge1113363|$$aMezőhegyes (Maďarsko : oblast)$$7ge1101776"
       },
       "geometry": {
         "type": "Polygon",
@@ -26381,12 +26381,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5466/1",
-        "TITLE": "",
+        "TITLE": "Mezőkovácsháza a Curtici",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Mezőkovácsháza a Curtici]",
+        "N651": "$$aMezőkovácsháza (Maďarsko : oblast)$$7ge1101784|$$aCurtici (Rumunsko : oblast)$$7ge1101783|$$aBattonya (Maďarsko : oblast)$$7ge1101778"
       },
       "geometry": {
         "type": "Polygon",
@@ -26426,12 +26426,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5467/1",
-        "TITLE": "",
+        "TITLE": "Mocrea a Șimand",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Mocrea a Șimand]",
+        "N651": "$$aMocrea (Rumunsko : oblast)$$7Mocrea (Ineu, Rumunsko : oblast)|$$aȘimand (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26471,12 +26471,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5468/1",
-        "TITLE": "",
+        "TITLE": "Ineu a Buteni",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Ineu a Buteni]",
+        "N651": "$$aIneu (Rumunsko : oblast)$$7ge1101786|$$aButeni (Arad, Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26516,12 +26516,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5469/1",
-        "TITLE": "",
+        "TITLE": "Vașcău a Hălmagiu",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Vașcău a Hălmagiu]",
+        "N651": "$$aVașcău (Rumunsko : oblast)|$$aHălmagiu (Rumunsko : oblast)$$7ge1101788"
       },
       "geometry": {
         "type": "Polygon",
@@ -26561,12 +26561,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5470/1",
-        "TITLE": "",
+        "TITLE": "Abrud",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Abrud]",
+        "N651": "$$aAbrud (Rumunsko : oblast)$$7ge1100032"
       },
       "geometry": {
         "type": "Polygon",
@@ -26606,12 +26606,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5471/1",
-        "TITLE": "",
+        "TITLE": "Aiud",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Aiud]",
+        "N651": "$$aAiud (Rumunsko : oblast)$$7ge1100034"
       },
       "geometry": {
         "type": "Polygon",
@@ -26651,12 +26651,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5472/1",
-        "TITLE": "",
+        "TITLE": "Luduș a Cetatea de Baltă",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Luduș a Cetatea de Baltă]",
+        "N651": "$$aLuduș (Rumunsko : oblast)$$7ge1113380|$$aCetatea de Baltă (Rumunsko : oblast)$$7ge1101794"
       },
       "geometry": {
         "type": "Polygon",
@@ -26696,12 +26696,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5473/1",
-        "TITLE": "",
+        "TITLE": "Ungheni a Chendu",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Ungheni a Chendu]",
+        "N651": "$$aUngheni (Mureș, Rumunsko : oblast)|$$aChendu (Rumunsko : oblast)$$7ge1113665"
       },
       "geometry": {
         "type": "Polygon",
@@ -26741,12 +26741,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5474/1",
-        "TITLE": "",
+        "TITLE": "Odorheiu Secuiesc",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Odorheiu Secuiesc]",
+        "N651": "$$aOdorheiu Secuiesc (Rumunsko : oblast)$$7ge1109206"
       },
       "geometry": {
         "type": "Polygon",
@@ -26786,12 +26786,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5475/1",
-        "TITLE": "",
+        "TITLE": "Vlăhița a Miercurea Ciuc",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Vlăhița a Miercurea Ciuc]",
+        "N651": "$$aVlăhița (Rumunsko : oblast)$$7ge1094135|$$aMiercurea Ciuc (Rumunsko : oblast)$$7ge1093412"
       },
       "geometry": {
         "type": "Polygon",
@@ -26831,12 +26831,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5476/2",
-        "TITLE": "",
+        "TITLE": "Armășeni",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Armășeni]",
+        "N651": "$$aArmășeni (Harghita, Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26876,12 +26876,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5577/3",
-        "TITLE": "",
+        "TITLE": "Průsmyk Oitoz",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Průsmyk Oitoz]",
+        "N651": "$$aOituz (Rumunsko : průsmyk)$$7ge1106631"
       },
       "geometry": {
         "type": "Polygon",
@@ -26921,12 +26921,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5543/3",
-        "TITLE": "",
+        "TITLE": "Morbegno",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Morbegno]",
+        "N651": "$$aMorbegno (Itálie : oblast)$$7ge1118410"
       },
       "geometry": {
         "type": "Polygon",
@@ -26966,12 +26966,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5544/3",
-        "TITLE": "",
+        "TITLE": "Sondrio",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Sondrio]",
+        "N651": "$$aSondrio (Itálie : oblast)$$7ge856197|$$aTirano (Itálie : oblast)$$7ge1093051"
       },
       "geometry": {
         "type": "Polygon",
@@ -27011,12 +27011,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5545/3",
-        "TITLE": "",
+        "TITLE": "Tione di Trento",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Tione di Trento]",
+        "N651": "$$aTione di Trento (Itálie : oblast)$$7ge1093402"
       },
       "geometry": {
         "type": "Polygon",
@@ -27056,12 +27056,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5546/3",
-        "TITLE": "",
+        "TITLE": "Trident",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Trident]",
+        "N651": "$$aTrident (Itálie : oblast)$$7ge856350"
       },
       "geometry": {
         "type": "Polygon",
@@ -27101,12 +27101,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5547/3",
-        "TITLE": "",
+        "TITLE": "Borgo Valsugana a Fiera di Primiero",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Borgo Valsugana a Fiera di Primiero]",
+        "N651": "$$aBorgo Valsugana (Itálie : oblast)$$7ge1118406|$$aFiera di Primiero (Itálie : oblast)$$7ge1118409"
       },
       "geometry": {
         "type": "Polygon",
@@ -27146,12 +27146,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5548/3",
-        "TITLE": "",
+        "TITLE": "Belluno a Feltre",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Belluno a Feltre]",
+        "N651": "$$aBelluno (Itálie : oblast)$$7ge1117952|$$aFeltre (Itálie : oblast)$$7ge1117826"
       },
       "geometry": {
         "type": "Polygon",
@@ -27191,12 +27191,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5549/3",
-        "TITLE": "",
+        "TITLE": "Aviano",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Aviano]",
+        "N651": "$$aAviano (Itálie : oblast)$$7ge1117852"
       },
       "geometry": {
         "type": "Polygon",
@@ -27236,12 +27236,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5550/3",
-        "TITLE": "",
+        "TITLE": "Udine",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Udine]",
+        "N651": "$$aUdine (Itálie : oblast)$$7ge1117848"
       },
       "geometry": {
         "type": "Polygon",
@@ -27281,12 +27281,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5551/4",
-        "TITLE": "",
+        "TITLE": "Tolmin",
         "SCALE": "25000",
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Tolmin]",
+        "N651": "$$aTolmin (Slovinsko : oblast)$$7ge1093050"
       },
       "geometry": {
         "type": "Polygon",
@@ -27326,12 +27326,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5552/3",
-        "TITLE": "",
+        "TITLE": "Škofja Loka a Idrija",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Škofja Loka a Idrija]",
+        "N651": "$$aŠkofja Loka (Slovinsko : oblast)$$7ge1093046|$$aIdrija (Slovinsko : oblast)$$7ge1093048"
       },
       "geometry": {
         "type": "Polygon",
@@ -27371,12 +27371,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5553/3",
-        "TITLE": "",
+        "TITLE": "Lublaň",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Lublaň]",
+        "N651": "$$aLublaň (Slovinsko : oblast)$$7ge582052"
       },
       "geometry": {
         "type": "Polygon",
@@ -27416,12 +27416,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5554/3",
-        "TITLE": "",
+        "TITLE": "Celje a Radeče",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Celje a Radeče]",
+        "N651": "$$aCelje (Slovinsko : oblast)$$7ge856361|$$aRadeče (Slovinsko : oblast)$$7ge1093044"
       },
       "geometry": {
         "type": "Polygon",
@@ -27461,12 +27461,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5555/3",
-        "TITLE": "",
+        "TITLE": "Rogaška Slatina a Kozlja",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Rogaška Slatina a Kozlja]",
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozlje (Slovinsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27506,12 +27506,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5556/3",
-        "TITLE": "",
+        "TITLE": "Krapina a Zlatar",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Krapina a Zlatar]",
+        "N651": "$$aKrapina (Chorvatsko : oblast)$$7ge1100841|$$aZlatar (Chorvatsko : oblast)$$7ge1113376"
       },
       "geometry": {
         "type": "Polygon",
@@ -27551,12 +27551,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5557/3",
-        "TITLE": "",
+        "TITLE": "Koprivnica a Križevci",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Koprivnica a Križevci]",
+        "N651": "$$aKoprivnica (Chorvatsko : oblast)$$7ge531759|$$aKriževci (Chorvatsko : oblast)$$7ge1100845"
       },
       "geometry": {
         "type": "Polygon",
@@ -27596,12 +27596,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5558/3",
-        "TITLE": "",
+        "TITLE": "Berzence a Đurđevac",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Berzence a Đurđevac]",
+        "N651": "$$aBerzence (Maďarsko : oblast)$$7ge1100847|$$aĐurđevac (Chorvatsko : oblast)$$7ge1100849"
       },
       "geometry": {
         "type": "Polygon",
@@ -27641,12 +27641,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5559/3",
-        "TITLE": "",
+        "TITLE": "Nagyatád a Szigetvár",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Nagyatád a Szigetvár]",
+        "N651": "$$aNagyatád (Maďarsko : oblast)$$7ge1101919|$$aSzigetvár (Chorvatsko : oblast)$$7ge1087427"
       },
       "geometry": {
         "type": "Polygon",
@@ -27686,12 +27686,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5560/3",
-        "TITLE": "",
+        "TITLE": "Pécs",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pécs]",
+        "N651": "$$aPécs (Maďarsko : oblast)$$7ge856379"
       },
       "geometry": {
         "type": "Polygon",
@@ -27731,12 +27731,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5561/3",
-        "TITLE": "",
+        "TITLE": "Bátaszék a Pécsvárad",
         "SCALE": "25000",
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bátaszék a Pécsvárad]",
+        "N651": "$$aBátaszék (Maďarsko : oblast)$$7ge1101920|$$aPécsvárad (Maďarsko : oblast)$$7ge1100868"
       },
       "geometry": {
         "type": "Polygon",
@@ -27776,12 +27776,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5563/3",
-        "TITLE": "",
+        "TITLE": "Baja",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Baja]",
+        "N651": "$$aBaja (Maďarsko : oblast)$$7ge1087384"
       },
       "geometry": {
         "type": "Polygon",
@@ -27821,12 +27821,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5563/3",
-        "TITLE": "",
+        "TITLE": "Subotica",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Subotica]",
+        "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392"
       },
       "geometry": {
         "type": "Polygon",
@@ -27866,12 +27866,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5564/3",
-        "TITLE": "",
+        "TITLE": "Novi Kneževac",
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Novi Kneževac]",
+        "N651": "$$aNovi Kneževac (Srbsko : oblast)$$7ge1101926|$$aSzeged (Maďarsko : oblast)$$7ge856405"
       },
       "geometry": {
         "type": "Polygon",
@@ -27911,12 +27911,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5565/3",
-        "TITLE": "",
+        "TITLE": "Makó a Sânnicolau Mare",
         "SCALE": "25000",
         "N43": "$$ae-rm---$$ae-rb---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Makó a Sânnicolau Mare]",
+        "N651": "$$aMakó (Maďarsko : oblast)$$7ge1101923|$$aSânnicolau Mare (Rumunsko : oblast)$$7ge1101925"
       },
       "geometry": {
         "type": "Polygon",
@@ -27956,12 +27956,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5566/3",
-        "TITLE": "",
+        "TITLE": "Arad a Periam",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Arad a Periam]",
+        "N651": "$$aArad (Maďarsko : oblast)$$7ge1100894|$$aPeriamos (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -28001,12 +28001,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5567/3",
-        "TITLE": "",
+        "TITLE": "Lipova",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Lipova]",
+        "N651": "$$aLipova (Rumunsko : oblast)$$7ge1109201"
       },
       "geometry": {
         "type": "Polygon",
@@ -28046,12 +28046,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5568/3",
-        "TITLE": "",
+        "TITLE": "Nadăș a Săvârșin",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Nadăș a Săvârșin]",
+        "N651": "$$aNadăş (Arad, Rumunsko : oblast)$$7ge1109198|$$aSăvârșin (Rumunsko : oblast)$$7ge1109200"
       },
       "geometry": {
         "type": "Polygon",
@@ -28091,12 +28091,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5569/3",
-        "TITLE": "",
+        "TITLE": "Baia de Criș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Baia de Criș]",
+        "N651": "$$aBaia de Criș (Rumunsko : oblast)$$7ge1093042"
       },
       "geometry": {
         "type": "Polygon",
@@ -28136,12 +28136,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5570/3",
-        "TITLE": "",
+        "TITLE": "Zlatna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Zlatna]",
+        "N651": "$$aZlatna (Rumunsko : oblast)$$7ge1092319"
       },
       "geometry": {
         "type": "Polygon",
@@ -28181,12 +28181,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5571/3",
-        "TITLE": "",
+        "TITLE": "Alba Iulia",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Alba Iulia]",
+        "N651": "$$aAlba Iulia (Rumunsko : oblast)$$7ge856441"
       },
       "geometry": {
         "type": "Polygon",
@@ -28226,12 +28226,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5572/3",
-        "TITLE": "",
+        "TITLE": "Blaj",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Blaj]",
+        "N651": "$$aBlaj (Rumunsko : oblast)$$7ge1087382"
       },
       "geometry": {
         "type": "Polygon",
@@ -28271,12 +28271,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5573/3",
-        "TITLE": "",
+        "TITLE": "Dumbrăveni",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Dumbrăveni]",
+        "N651": "$$aDumbrăveni (Rumunsko : oblast)$$7ge1092321"
       },
       "geometry": {
         "type": "Polygon",
@@ -28316,12 +28316,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5574/3",
-        "TITLE": "",
+        "TITLE": "Beia",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Beia]",
+        "N651": "$$aBeia (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -28361,12 +28361,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5575/3",
-        "TITLE": "",
+        "TITLE": "Baraolt",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Baraolt]",
+        "N651": "$$aBaraolt (Rumunsko : oblast)$$7ge1092322"
       },
       "geometry": {
         "type": "Polygon",
@@ -28406,12 +28406,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5576/4",
-        "TITLE": "",
+        "TITLE": "Cozmeni a Poian",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Cozmeni a Poian]",
+        "N651": "$$aCozmeni (Rumunsko : oblast)$$7ge1092323|$$aPoian (Rumunsko : oblast)$$7ge1092324"
       },
       "geometry": {
         "type": "Polygon",
@@ -28451,12 +28451,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5677/3",
-        "TITLE": "",
+        "TITLE": "Putna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Putna]",
+        "N651": "$$aPutna (Rumunsko : řeka : oblast)$$7ge1109185"
       },
       "geometry": {
         "type": "Polygon",
@@ -28496,12 +28496,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5643/3",
-        "TITLE": "",
+        "TITLE": "Lecco",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Lecco]",
+        "N651": "$$aLecco (Itálie : oblast)$$7ge1117945"
       },
       "geometry": {
         "type": "Polygon",
@@ -28541,12 +28541,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5644/3",
-        "TITLE": "",
+        "TITLE": "Breno",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Breno]",
+        "N651": "$$aBreno (Itálie : oblast)$$7ge1106544"
       },
       "geometry": {
         "type": "Polygon",
@@ -28586,12 +28586,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5645/3",
-        "TITLE": "",
+        "TITLE": "Storo",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Storo]",
+        "N651": "$$aStoro (Itálie : oblast)$$7ge1091961"
       },
       "geometry": {
         "type": "Polygon",
@@ -28631,12 +28631,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5646/3",
-        "TITLE": "",
+        "TITLE": "Roverta a Riva del Garda",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Roverta a Riva del Garda]",
+        "N651": "$$aRoverto (Itálie : oblast)$$7ge1109194|$$aRiva dal Garda (Itálie : oblast)$$7ge1091756"
       },
       "geometry": {
         "type": "Polygon",
@@ -28676,12 +28676,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5647/3",
-        "TITLE": "",
+        "TITLE": "Sette Comuni",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Sette Comuni]",
+        "N651": "$$aAsiago (Itálie : oblast)$$7ge202236"
       },
       "geometry": {
         "type": "Polygon",
@@ -28721,12 +28721,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5648/3",
-        "TITLE": "",
+        "TITLE": "Conegliano",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Conegliano]",
+        "N651": "$$aConegliano (Itálie : oblast)$$7ge1092325"
       },
       "geometry": {
         "type": "Polygon",
@@ -28766,12 +28766,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5649/3",
-        "TITLE": "",
+        "TITLE": "Pordenone",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Pordenone]",
+        "N651": "$$aPordenone (Itálie : oblast)$$7ge981832"
       },
       "geometry": {
         "type": "Polygon",
@@ -28811,12 +28811,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5650/3",
-        "TITLE": "",
+        "TITLE": "Strassoldo",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Strassoldo]",
+        "N651": "$$aStrassoldo (Itálie : oblast)$$7ge1092326"
       },
       "geometry": {
         "type": "Polygon",
@@ -28856,12 +28856,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5651/4",
-        "TITLE": "",
+        "TITLE": "Gorice a Gradiška",
         "SCALE": "25000",
         "N43": "$$ae-it---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Gorice a Gradiška]",
+        "N651": "$$aGorizia (Itálie : oblast)$$7ge1091620|$$aGradisca d’Isonzo (Itálie : oblast)$$7ge1091617"
       },
       "geometry": {
         "type": "Polygon",
@@ -28901,12 +28901,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5652/3",
-        "TITLE": "",
+        "TITLE": "Ajdovščina a Postojna",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Ajdovščina a Postojna]",
+        "N651": "$$aAjdovščina (Slovinsko : oblast)$$7ge1092327|$$aPostojna (Slovinsko : oblast)$$7ge1091611"
       },
       "geometry": {
         "type": "Polygon",
@@ -28946,12 +28946,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5653/3",
-        "TITLE": "",
+        "TITLE": "Višnja Gora a Cerknica",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Višnja Gora a Cerknica]",
+        "N651": "$$aVišnja Gora (Slovinsko : oblast)$$7ge1109192|$$aCerknica (Slovinsko : oblast)$$7ge1091206"
       },
       "geometry": {
         "type": "Polygon",
@@ -28991,12 +28991,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5654/3",
-        "TITLE": "",
+        "TITLE": "Novo mesto",
         "SCALE": "25000",
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Novo mesto]",
+        "N651": "$$aNovo Mesto (Slovinsko : oblast)$$7ge1087807"
       },
       "geometry": {
         "type": "Polygon",
@@ -29036,12 +29036,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5655/3",
-        "TITLE": "",
+        "TITLE": "Krško, Brežice a Samobor",
         "SCALE": "25000",
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Krško, Brežice a Samobor]",
+        "N651": "$$aKrško (Slovinsko : oblast)$$7ge1087787|$$aBrežice (Slovinsko : oblast)$$7ge1087788|$$aSamobor (Chorvatsko : oblast)$$7ge1087789"
       },
       "geometry": {
         "type": "Polygon",
@@ -29081,12 +29081,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5656/3",
-        "TITLE": "",
+        "TITLE": "Záhřeb",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Záhřeb]",
+        "N651": "$$aZáhřeb (Chorvatsko : oblast)$$7ge445597"
       },
       "geometry": {
         "type": "Polygon",
@@ -29126,12 +29126,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5657/3",
-        "TITLE": "",
+        "TITLE": "Dubrava a Gradec",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Dubrava a Gradec]",
+        "N651": "$$aDubrava (Chorvatsko : oblast)|$$aGradec (Chorvatsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29171,12 +29171,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5658/3",
-        "TITLE": "",
+        "TITLE": "Bjelovar a Veliki Grđevac",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bjelovar a Veliki Grđevac]",
+        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aVeliki Grđevac (Chorvatsko : oblast)$$7ge1113361"
       },
       "geometry": {
         "type": "Polygon",
@@ -29216,12 +29216,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5659/3",
-        "TITLE": "",
+        "TITLE": "Barcs a Virovitica",
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Barcs a Virovitica]",
+        "N651": "$$aBarcs (Maďarsko : oblast)$$7ge1097060|$$aVirovitica (Chorvatsko : oblast)$$7ge1091547"
       },
       "geometry": {
         "type": "Polygon",
@@ -29261,12 +29261,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5660/3",
-        "TITLE": "",
+        "TITLE": "Harkány a Donji Miholjac",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Harkány a Donji Miholjac]",
+        "N651": "$$aHarkány (Maďarsko : oblast)$$7ge1097057|$$aDonji Miholjac (Chorvatsko : oblast)$$7ge1097059"
       },
       "geometry": {
         "type": "Polygon",
@@ -29306,12 +29306,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5661/3",
-        "TITLE": "",
+        "TITLE": "Moháč a Villány",
         "SCALE": "25000",
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Moháč a Villány]",
+        "N651": "$$aMohács (Maďarsko : oblast)$$7ge1096477|$$aVillány (Maďarsko : oblast)$$7ge1097056"
       },
       "geometry": {
         "type": "Polygon",
@@ -29351,12 +29351,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5663/3",
-        "TITLE": "",
+        "TITLE": "Sombor",
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-rb---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Sombor]",
+        "N651": "$$aSombor (Srbsko : oblast)$$7ge1096475"
       },
       "geometry": {
         "type": "Polygon",
@@ -29396,12 +29396,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5663/3",
-        "TITLE": "",
+        "TITLE": "Bajmok a Bačka Topola",
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Bajmok a Bačka Topola]",
+        "N651": "$$aBajmok (Srbsko : oblast)$$7ge1097055|$$aBačka Topola (Srbsko : oblast)$$7ge1113356"
       },
       "geometry": {
         "type": "Polygon",
@@ -29441,12 +29441,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5664/3",
-        "TITLE": "",
+        "TITLE": "Senta a Ada",
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Senta a Ada]",
+        "N651": "$$aSenta (Srbsko : oblast)$$7ge1096472|$$aAda (Srbsko : oblast)$$7ge1097054"
       },
       "geometry": {
         "type": "Polygon",
@@ -29486,12 +29486,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5665/3",
-        "TITLE": "",
+        "TITLE": "Kikinda",
         "SCALE": "25000",
         "N43": "$$ae-rm---$$ae-rb---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Kikinda]",
+        "N651": "$$aKikinda (Srbsko : oblast)$$7ge1096461"
       },
       "geometry": {
         "type": "Polygon",
@@ -29531,12 +29531,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5666/3",
-        "TITLE": "",
+        "TITLE": "Temešvár a Șandra",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Temešvár a Șandra]",
+        "N651": "$$aTemešvár (Rumunsko : oblast)$$7ge1091546|$$aȘandra (Timiș, Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29576,12 +29576,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5667/3",
-        "TITLE": "",
+        "TITLE": "Recaș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Recaș]",
+        "N651": "$$aRecaș (Rumunsko : oblast)$$7ge1109189"
       },
       "geometry": {
         "type": "Polygon",
@@ -29621,12 +29621,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5668/3",
-        "TITLE": "",
+        "TITLE": "Făget",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Făget]",
+        "N651": "$$aFăget (Rumunsko : oblast)$$7ge1092329"
       },
       "geometry": {
         "type": "Polygon",
@@ -29666,12 +29666,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5669/3",
-        "TITLE": "",
+        "TITLE": "Ilia",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Ilia]",
+        "N651": "$$aIlia (Rumunsko : oblast)$$7ge1109188"
       },
       "geometry": {
         "type": "Polygon",
@@ -29711,12 +29711,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5670/3",
-        "TITLE": "",
+        "TITLE": "Deva a Orăștie",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Deva a Orăștie]",
+        "N651": "$$aDeva (Rumunsko : oblast)$$7ge1091528|$$aOrăștie (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29756,12 +29756,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5671/3",
-        "TITLE": "",
+        "TITLE": "Sebeș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Sebeș]",
+        "N651": "$$aSebeș (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29801,12 +29801,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5672/3",
-        "TITLE": "",
+        "TITLE": "Sibiu",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Sibiu]",
+        "N651": "$$aSibiu (Rumunsko : oblast)$$7ge332458"
       },
       "geometry": {
         "type": "Polygon",
@@ -29846,12 +29846,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5673/3",
-        "TITLE": "",
+        "TITLE": "Nocrich",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Nocrich]",
+        "N651": "$$aNocrich (Rumunsko : oblast)$$7ge1092330"
       },
       "geometry": {
         "type": "Polygon",
@@ -29891,12 +29891,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5674/3",
-        "TITLE": "",
+        "TITLE": "Făgăraș",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Făgăraș]",
+        "N651": "$$aFăgăraș (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29936,12 +29936,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5675/3",
-        "TITLE": "",
+        "TITLE": "Feldioara",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Feldioara]",
+        "N651": "$$aFeldioara (Rumunsko : oblast)$$7ge1092331"
       },
       "geometry": {
         "type": "Polygon",
@@ -29981,12 +29981,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5676/4",
-        "TITLE": "",
+        "TITLE": "Covasna",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Covasna]",
+        "N651": "$$aCovaszna (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30026,12 +30026,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5777/3",
-        "TITLE": "",
+        "TITLE": "Nereju",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "[Nereju]",
+        "N651": "$$aNereju (Rumunsko : oblast)$$7ge1109412"
       },
       "geometry": {
         "type": "Polygon",

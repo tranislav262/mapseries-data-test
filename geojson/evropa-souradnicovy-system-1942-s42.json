@@ -53,7 +53,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Fukov|Löbau",
-        "N651": "$$aFukov (Česko : zaniklá obec)$$7xx0068023|$$aLöbau (Německo : oblast)"
+        "N651": "$$aFukov (Česko : zaniklá obec)$$7xx0068023|$$aLöbau (Německo : oblast)$$7ge1120378"
       },
       "geometry": {
         "type": "Polygon",
@@ -94,7 +94,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Andělka|Görlitz",
-        "N651": "$$aAndělka (Višňová, Liberec, Česko : oblast)|$$aGörlitz (Německo : oblast)$$7ge645771"
+        "N651": "$$aAndělka (Višňová, Liberec, Česko : oblast)$$7ge1120379|$$aGörlitz (Německo : oblast)$$7ge645771"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,7 +135,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Habartice|Zgorzelec",
-        "N651": "$$aHabartice (Liberec, Česko : oblast)|$$aZgorzelec (Polsko : oblast)$$7xx0117472"
+        "N651": "$$aHabartice (Liberec, Česko : oblast)$$7ge1117847|$$aZgorzelec (Polsko : oblast)$$7xx0117472"
       },
       "geometry": {
         "type": "Polygon",
@@ -176,7 +176,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Lubań",
-        "N651": "$$aLubań (Polsko : oblast)"
+        "N651": "$$aLubań (Polsko : oblast)$$7ge1120380"
       },
       "geometry": {
         "type": "Polygon",
@@ -463,7 +463,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Jindřichovice pod Smrkem|Jindřichovice p. Smrkem|Mirsk",
-        "N651": "$$aJindřichovice pod Smrkem (Česko : oblast)|$$aMirsk (Polsko : oblast)"
+        "N651": "$$aJindřichovice pod Smrkem (Česko : oblast)$$7ge1120382|$$aMirsk (Polsko : oblast)$$7ge1120383"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Špindlerův Mlýn|Szklarska Poręba",
-        "N651": "$$aŠpindlerův Mlýn (Česko : oblast)$$7ge418952|$$aSzklarska Poręba (Polsko : oblast)"
+        "N651": "$$aŠpindlerův Mlýn (Česko : oblast)$$7ge418952|$$aSzklarska Poręba (Polsko : oblast)$$7ge1120384"
       },
       "geometry": {
         "type": "Polygon",
@@ -873,7 +873,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Velká Úpa|Kowary",
-        "N651": "$$aVelká Úpa (Pec pod Sněžkou, Česko : oblast)|$$aKowary (Polsko : oblast)"
+        "N651": "$$aVelká Úpa (Pec pod Sněžkou, Česko : oblast)$$7ge1120387|$$aKowary (Polsko : oblast)$$7ge1120386"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Wałbrzych",
-        "N651": "$$aWałbrzych (Polsko : oblast)"
+        "N651": "$$aWałbrzych (Polsko : oblast)$$7ge1120389"
       },
       "geometry": {
         "type": "Polygon",
@@ -996,7 +996,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Kryštofovy Hamry|Annaberg-Buchholz",
-        "N651": "$$aKryštofovy Hamry (Česko : oblast)|$$aAnnaberg-Buchholz (Německo : oblast)$$7ge904692"
+        "N651": "$$aKryštofovy Hamry (Česko : oblast)$$7ge1120390|$$aAnnaberg-Buchholz (Německo : oblast)$$7ge904692"
       },
       "geometry": {
         "type": "Polygon",
@@ -1570,7 +1570,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Krásná|Klingenthal",
-        "N651": "$$aKrásná (Kraslice, Česko : oblast)|$$aKlingenthal (Německo : oblast)"
+        "N651": "$$aKrásná (Kraslice, Česko : oblast)|$$aKlingenthal (Německo : oblast)$$7ge1120391"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2226,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Olešnice|Duszniki Zdrój",
-        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)|$$aDuszniki Zdrój (Polsko : oblast)"
+        "N651": "$$aOlešnice v Orlických horách (Česko : oblast)$$7ge1120393|$$aDuszniki Zdrój (Polsko : oblast)$$7ge1120392"
       },
       "geometry": {
         "type": "Polygon",
@@ -2267,7 +2267,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Bílá Voda",
-        "N651": "$$aBílá Voda (Jeseník, Česko : oblast)"
+        "N651": "$$aBílá Voda (Jeseník, Česko : oblast)$$7ge1120394"
       },
       "geometry": {
         "type": "Polygon",
@@ -2349,7 +2349,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Aš|Selb",
-        "N651": "$$aAš (Česko : oblast)$$7ge128700|$$aSelb (Německo : oblast)"
+        "N651": "$$aAš (Česko : oblast)$$7ge128700|$$aSelb (Německo : oblast)$$7ge1120395"
       },
       "geometry": {
         "type": "Polygon",
@@ -2513,7 +2513,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Doupov|Vojkovice",
-        "N651": "$$aDoupov (Česko : zaniklá obec)$$7ge318671|$$aVojkovice (Karlovy Vary, Česko : oblast)"
+        "N651": "$$aDoupov (Česko : zaniklá obec)$$7ge318671|$$aVojkovice (Karlovy Vary, Česko : oblast)$$7ge1120396"
       },
       "geometry": {
         "type": "Polygon",
@@ -9073,7 +9073,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Srní|Lindberg",
-        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047|Lindberg (Německo : oblast)"
+        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047|$$aLindberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12517,7 +12517,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Karviná",
-        "N651": "$$aKarviná (Česko : oblast)$$7"
+        "N651": "$$aKarviná (Česko : oblast)$$7ge129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -13542,7 +13542,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Zborov",
-        "N651": "$$aZborov (Bardejov, Slovensko : oblast)"
+        "N651": "$$aZborov (Bardejov, Slovensko : oblast)$$7ge1120375"
       },
       "geometry": {
         "type": "Polygon",
@@ -16125,7 +16125,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Slovenská Ľupča",
-        "N651": "$$aSlovenská Ľupča (Slovensko : oblast)"
+        "N651": "$$aSlovenská Ľupča (Slovensko : oblast)$$7ge1118810"
       },
       "geometry": {
         "type": "Polygon",
@@ -16207,7 +16207,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Tisovec",
-        "N651": "$$aTisovec (Slovensko : oblast)"
+        "N651": "$$aTisovec (Slovensko : oblast)$$7ge1120149"
       },
       "geometry": {
         "type": "Polygon",
@@ -16699,7 +16699,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Partizánske",
-        "N651": "$$aPartizánske (Slovensko : oblast)"
+        "N651": "$$aPartizánske (Slovensko : oblast)$$ge1057996"
       },
       "geometry": {
         "type": "Polygon",
@@ -17970,7 +17970,7 @@
         "N43": "$$ae-xo---$$ae-un---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Čierna",
-        "N651": "$$aČierna (Slovensko : oblast)"
+        "N651": "$$aČierna (Slovensko : oblast)$$7ge1105566"
       },
       "geometry": {
         "type": "Polygon",

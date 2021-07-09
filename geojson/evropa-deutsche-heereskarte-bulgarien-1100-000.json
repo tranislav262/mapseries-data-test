@@ -49,7 +49,7 @@
         "Shape_Area": "0.37500000014",
         "SCALE": "100000",
         "SHEET": "III 7",
-        "TITLE": "",
+        "TITLE": "Maratin",
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Maratin",
@@ -299,7 +299,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nikopol",
-        "N651": "$$aNikopol (Bulharsko : oblast)"
+        "N651": "$$aNikopol (Bulharsko : oblast)$$7ge1024476"
       },
       "geometry": {
         "type": "Polygon",
@@ -668,7 +668,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tarnowo",
-        "N651": "$$aVeliko Tarnovo (Bulharsko : oblast)"
+        "N651": "$$aVeliko Tărnovo (Bulharsko : oblast)$$7ge1118771"
       },
       "geometry": {
         "type": "Polygon",

@@ -791,7 +791,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245P": "Zborov",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
-        "N651": "$$aZborov (Bardejov, Slovensko : oblast)"
+        "N651": "$$aZborov (Bardejov, Slovensko : oblast)$$7ge1120375"
       },
       "geometry": {
         "coordinates": [
@@ -1570,7 +1570,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
         "N245P": "Čierna",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
-        "N651": "$$aČierna nad Tisou (Slovensko : oblast)"
+        "N651": "$$aČierna (Slovensko : oblast)$$7ge1105566"
       },
       "geometry": {
         "coordinates": [
@@ -1611,7 +1611,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245P": "Čalovo|Veľký Meder",
         "N245A": "Aeromagnetická mapa ČSSR|Geobotanická mapa ČSSR|Geologická mapa ČSSR",
-        "N651": "$$aVeľký Meder (Slovensko : oblast)"
+        "N651": "$$aVeľký Meder (Slovensko : oblast)$$7ge1120374"
       },
       "geometry": {
         "coordinates": [

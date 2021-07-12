@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr", "xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xr", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width": 5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze", "cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "cze", "cze"]
   }-d
 0341  L $$b50000{
     "title": "Zeměpisné souřadnice",
@@ -65,7 +65,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":45,
@@ -74,12 +74,13 @@ LDR   L -----nem-a22------i-4500
       "Ústřední ústav geologický",
       "Stavební geologie Praha",
       "GEOtest Brno",
-      "Projektový ústav dopravních a inženýrských staveb"]
-  }$$4ctg$$4pbl$$7{
+      "Projektový ústav dopravních a inženýrských staveb",
+      "Geodetický a kartografický podnik Praha"]
+  }$$4ctg$$4prt$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222", "ko2003167949"]
   }
 24510 L $$a{
     "title": "Název",
@@ -107,7 +108,8 @@ LDR   L -----nem-a22------i-4500
       "Sestavil a vydal Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
       "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
       "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
-      "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady"
+      "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
+      "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze"
     ]
   }
 24630 L $$a{
@@ -143,7 +145,8 @@ LDR   L -----nem-a22------i-4500
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
-      "Praha :$$bVydal Ústřední ústav geologický,"
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "[Praha] :$$bVydal Český úřad geodetický a kartografický,"
     ]
   }$$c{
     "base":"year"
@@ -186,7 +189,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Základní mapa ČSR 1:50 000] ; $$v{
+4901  L $$aZákladní mapa ČSSR 1:50 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -203,7 +206,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
+500   L $$aDalší údaje o vydání: Stav k 1. 1. 1982 ; Pro vnitřní potřebu státních orgánů a socialistických organizací
 650 7 L $$ainženýrská geologie$$7ph121179$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -220,7 +223,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",
@@ -229,7 +232,8 @@ LDR   L -----nem-a22------i-4500
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
-    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816"
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816"
   ]
 }
 710{

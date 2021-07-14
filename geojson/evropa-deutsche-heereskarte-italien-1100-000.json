@@ -94,7 +94,7 @@
         "N43": "$$ae-it---$$ae-au---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Brenner",
-        "N651": "$$aBrenner (Itálie : oblast)"
+        "N651": "$$aBrenner (Itálie : oblast)$$7ge1120664"
       },
       "geometry": {
         "type": "Polygon",
@@ -340,7 +340,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Imperia",
-        "N651": "$$aImperia (Itálie : oblast)"
+        "N651": "$$aImperia (Itálie : oblast)$$7ge1120660"
       },
       "geometry": {
         "type": "Polygon",
@@ -668,7 +668,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Senigallia",
-        "N651": "$$aSenigallia (Itálie : oblast)"
+        "N651": "$$aSenigallia (Itálie : oblast)$$7ge1120665"
       },
       "geometry": {
         "type": "Polygon",
@@ -914,7 +914,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Gubbio",
-        "N651": "$$aGubbio (Itálie : oblast)"
+        "N651": "$$aGubbio (Itálie : oblast)$$7ge1120657"
       },
       "geometry": {
         "type": "Polygon",
@@ -1406,7 +1406,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Piombino",
-        "N651": "$$aPiombino (Itálie : oblast)"
+        "N651": "$$aPiombino (Itálie : oblast)$$7ge1120651"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,7 +1611,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Foligno",
-        "N651": "$$aFoligno (Itálie : oblast)"
+        "N651": "$$aFoligno (Itálie : oblast)$$7ge1119471"
       },
       "geometry": {
         "type": "Polygon",
@@ -1652,7 +1652,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Norcia",
-        "N651": "$$aNorcia (Itálie : oblast)"
+        "N651": "$$aNorcia (Itálie : oblast)$$7ge1120656"
       },
       "geometry": {
         "type": "Polygon",
@@ -1980,7 +1980,7 @@
         "N43": "$$ae-it---$$ae-au---$$ae-xv---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Pontebba",
-        "N651": "$$aPontebba (Itálie : oblast)"
+        "N651": "$$aPontebba (Itálie : oblast)$$7ge1120659"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2021,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Teramo",
-        "N651": "$$aTeramo (Itálie : oblast)"
+        "N651": "$$aTeramo (Itálie : oblast)$$7ge1120658"
       },
       "geometry": {
         "type": "Polygon",
@@ -3128,7 +3128,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Foggia",
-        "N651": "$$aFoggia (Itálie : oblast)"
+        "N651": "$$aFoggia (Itálie : oblast)$$7ge1120662"
       },
       "geometry": {
         "type": "Polygon",
@@ -3948,7 +3948,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Olbia",
-        "N651": "$$aOlbia (Itálie : oblast)"
+        "N651": "$$aOlbia (Itálie : oblast)$$7ge1120652"
       },
       "geometry": {
         "type": "Polygon",
@@ -4686,7 +4686,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Potenza",
-        "N651": "$$aPotenza (Itálie : oblast)"
+        "N651": "$$aPotenza (Itálie : oblast)$$7ge1120654"
       },
       "geometry": {
         "type": "Polygon",
@@ -6572,7 +6572,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Crotone",
-        "N651": "$$aCrotone (Itálie : oblast)"
+        "N651": "$$aCrotone (Itálie : oblast)$$7ge1120653"
       },
       "geometry": {
         "type": "Polygon",
@@ -6777,7 +6777,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Catanzaro",
-        "N651": "$$aCatanzaro (Itálie : oblast)"
+        "N651": "$$aCatanzaro (Itálie : oblast)$$7ge1120663"
       },
       "geometry": {
         "type": "Polygon",
@@ -9335,7 +9335,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Treviglio",
-        "N651": "$$aTreviglio (Itálie : oblast)"
+        "N651": "$$aTreviglio (Itálie : oblast)$$7ge1120661"
       },
       "geometry": {
         "type": "Polygon",
@@ -9540,7 +9540,7 @@
         "N43": "$$ae-it---$$ae-au---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Monguelfo ",
-        "N651": "$$aMonguelfo (Itálie : oblast)"
+        "N651": "$$aMonguelfo (Itálie : oblast)$$7ge1119861"
       },
       "geometry": {
         "type": "Polygon",
@@ -11926,7 +11926,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Albenga-Savona",
-        "N651": "$$aSavona (Itálie : oblast)$$7ge1117947|$$aAlbenga (Itálie : oblast)"
+        "N651": "$$aSavona (Itálie : oblast)$$7ge1117947|$$aAlbenga (Itálie : oblast)$$7ge1120655"
       },
       "geometry": {
         "type": "Polygon",

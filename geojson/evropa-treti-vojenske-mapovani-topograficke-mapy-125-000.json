@@ -31650,7 +31650,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Lodi",
+        "N245A": "[Lodi]",
         "N651": "$$aLodi (Itálie : oblast)$$7ge1117853"
       },
       "geometry": {
@@ -31695,7 +31695,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Orzinuovi",
+        "N245A": "[Orzinuovi]",
         "N651": "$$aOrzinuovi (Itálie : oblast)$$7ge1118404"
       },
       "geometry": {
@@ -31740,7 +31740,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Peschiera",
+        "N245A": "[Peschiera]",
         "N651": "$$aPeschiera del Garda (Itálie : oblast)$$7ge1117914"
       },
       "geometry": {
@@ -31785,7 +31785,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Verona",
+        "N245A": "[Verona]",
         "N651": "$$aVerona (Itálie : oblast)$$7ge392323"
       },
       "geometry": {
@@ -31830,7 +31830,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Lonigo",
+        "N245A": "[Lonigo]",
         "N651": "$$aLonigo (Itálie : oblast)$$7ge1118405"
       },
       "geometry": {
@@ -31871,11 +31871,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5848/3",
-        "TITLE": "Venezia, Padova",
+        "TITLE": "Benátky a Padova",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Venezia, Padova|Venezia - Padova",
+        "N245A": "[Benátky a Padova]",
         "N651": "$$aBenátky (Itálie : oblast)$$7ge182468|$$aPadova (Itálie : oblast)$$7ge1117807"
       },
       "geometry": {
@@ -31916,11 +31916,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5849/3",
-        "TITLE": "Venezia Porto di Lido",
+        "TITLE": "Benátky",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)",
-        "N245A": "Venezia Porto di Lido|Venezia - Porto di Lido",
+        "N245A": "[Benátky]",
         "N651": "$$a$$aBenátky (Itálie : oblast)$$7ge182468"
       },
       "geometry": {
@@ -31965,7 +31965,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "Cittanuova und Montona|Cittanova und Montona",
+        "N245A": "[Novigrad a Motovun]",
         "N651": "$$aNovigrad (Chorvatsko : oblast)$$7ge1120258|$$aMotovun (Chorvatsko : oblast)"
       },
       "geometry": {
@@ -32010,7 +32010,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "Pinguente und Volosca",
+        "N245A": "[Buzet a Volosko]",
         "N651": "$$aBuzet (Chorvatsko : oblast)$$7ge1044415|$$aVolosko (Chorvatsko : oblast)"
       },
       "geometry": {
@@ -32055,7 +32055,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "Fiume und Delnice",
+        "N245A": "[Rijeka a Delnice]",
         "N651": "$$aRijeka (Chorvatsko : oblast)$$7ge1117876|$$aDelnice (Chorvatsko : oblast)"
       },
       "geometry": {
@@ -32100,7 +32100,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "Altenmarkt und Ogulin",
+        "N245A": "[Stari Trg ob Kolpi a Ogulin]",
         "N651": "$$aOgulin (Chorvatsko : oblast)|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
       },
       "geometry": {
@@ -32145,7 +32145,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
-        "N245A": "Karlstadt und Vojnić|Karlovac und Vojnić",
+        "N245A": "[Karlovac a Vojnić]",
         "N651": "$$aKarlovac (Chorvatsko : oblast)$$7ge565416|$$aVojnić (Chorvatsko : oblast)$$7ge1109410"
       },
       "geometry": {
@@ -32190,7 +32190,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Petrinja und Topusko",
+        "N245A": "[Petrinja a Topusko]",
         "N651": "$$aPetrinja (Chorvatsko : oblast)$$7ge1095704|$$aTopusko (Chorvatsko : oblast)$$7ge1096335"
       },
       "geometry": {
@@ -32235,7 +32235,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Sisek und Sunja|Sisak und Sunja",
+        "N245A": "[Sisak a Sunjag",
         "N651": "$$aSisak (Chorvatsko : oblast)$$7ge1095703|$$aSunja (Chorvatsko : oblast)$$7ge1109407"
       },
       "geometry": {
@@ -32280,7 +32280,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Pakrac und Jasenovac an der Save",
+        "N245A": "[Pakrac a Jasenovacg",
         "N651": "$$aPakrac (Chorvatsko : oblast)$$7ge1095700|$$aJasenovac (Sisacko-moslavinská župa, Chorvatsko : oblast)$$7ge1095694"
       },
       "geometry": {
@@ -32325,7 +32325,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Požega und Neu-Gradiška",
+        "N245A": "[Požega a Nova Gradiška]",
         "N651": "$$aPožega (Chorvatsko : oblast)$$7ge1095699|$$aNova Gradiška (Chorvatsko : oblast)$$7ge1095698"
       },
       "geometry": {
@@ -32370,7 +32370,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Našice und Kutjevo",
+        "N245A": "[Našice a Kutjevo]",
         "N651": "$$aNašice (Chorvatsko : oblast)$$7ge1095697|$$aKutjevo (Chorvatsko : oblast)$$7ge1096332"
       },
       "geometry": {
@@ -32415,7 +32415,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Djakovo und Vinkovci",
+        "N245A": "[Đakovo a Vinkovci]",
         "N651": "$$aĐakovo (Chorvatsko : oblast)$$7ge1095675|$$aVinkovci (Chorvatsko : oblast)$$7ge959550"
       },
       "geometry": {
@@ -32460,7 +32460,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-rb---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Vukovar",
+        "N245A": "[Vukovar]",
         "N651": "$$aVukovar (Chorvatsko : oblast)$$7ge1095673"
       },
       "geometry": {
@@ -32505,7 +32505,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Német-Palánka und Kulpin|Palánka und Kölpény",
+        "N245A": "[Bačka Palanka a Kulpin]",
         "N651": "$$aBačka Palanka (Srbsko : oblast)$$7ge1109405|$$aKulpin (Srbsko : oblast)$$7ge1095672"
       },
       "geometry": {
@@ -32550,7 +32550,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Neusatz und Peterwardein|Neusatz und Petrovaradin|Ujvidék und Petrovaradin",
+        "N245A": "[Novi Sad a Petrovaradín]",
         "N651": "$$aNovi Sad (Srbsko : oblast)$$7ge1095668|$$aPetrovaradin (Srbsko : oblast)$$7ge1095667"
       },
       "geometry": {
@@ -32595,7 +32595,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-rm---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "Grosz-Becskerek|Nagybecskerek",
+        "N245A": "[Zrenjanin]",
         "N651": "$$aZrenjanin (Srbsko : oblast)$$7ge1095666"
       },
       "geometry": {
@@ -32640,7 +32640,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Detta",
+        "N245A": "[Deta]",
         "N651": "$$aDeta (Rumunsko : oblast)$$7ge1109403"
       },
       "geometry": {
@@ -32685,7 +32685,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Gátalja und Dognácska|Dognacska und Gattaja",
+        "N245A": "[Gătaia a Dognecea]",
         "N651": "$$aGătaia (Rumunsko : oblast)$$7ge1109402|$$aDognecea (Rumunsko : oblast)$$7ge1109401"
       },
       "geometry": {
@@ -32730,7 +32730,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Karánsebes und Resicabánya",
+        "N245A": "[Caransebeș a Reșița]",
         "N651": "$$aCaransebeș (Rumunsko : oblast)$$7ge1096331|$$aReşiţa (Rumunsko : oblast)$$7ge1109400"
       },
       "geometry": {
@@ -32775,7 +32775,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Borlova und Klopotiva|Borló und Klopotiva",
+        "N245A": "[Borlova a Clopotiva]",
         "N651": "$$aBorlova (Turnu Ruieni, Rumunsko : oblast)$$7ge1109395|$$aClopotiva (Rumunsko : oblast)$$7ge1109397"
       },
       "geometry": {
@@ -32820,7 +32820,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Vulkán Pasz|Vulkán Pass",
+        "N245A": "[Vulcan]",
         "N651": "$$aVulcan (Rumunsko : oblast)"
       },
       "geometry": {
@@ -32865,7 +32865,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Petroseny",
+        "N245A": "[Petroșani]",
         "N651": "$$aPetroșani (Rumunsko : oblast)"
       },
       "geometry": {
@@ -32910,7 +32910,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Călinesci|Călinescĭ",
+        "N245A": "[Călinești]",
         "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)"
       },
       "geometry": {
@@ -32955,7 +32955,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Törzburger Pasz",
+        "N245A": "[Průsmyk Bran]",
         "N651": "$$aBran (Rumunsko : průsmyk)$$7ge1108649"
       },
       "geometry": {
@@ -33000,7 +33000,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Sinaia",
+        "N245A": "[Sinaia]",
         "N651": "$$aSinaia (Rumunsko : oblast)$$7ge1095514"
       },
       "geometry": {
@@ -33045,7 +33045,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "Slonu",
+        "N245A": "[Slon]",
         "N651": "$$aSlon (Ceraşu, Rumunsko : oblast)$$7ge1109391"
       },
       "geometry": {
@@ -33090,7 +33090,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Piacenza",
+        "N245A": "[Piacenza]",
         "N651": "$$aPiacenza (Itálie : oblast)$$7ge130414"
       },
       "geometry": {
@@ -33135,7 +33135,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Cremona",
+        "N245A": "[Cremona]",
         "N651": "$$aCremona (Itálie : oblast)$$7ge134125"
       },
       "geometry": {
@@ -33180,7 +33180,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Mantova",
+        "N245A": "[Mantova]",
         "N651": "$$aMantova (Itálie : oblast)$$7ge671384"
       },
       "geometry": {
@@ -33225,7 +33225,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Legnano",
+        "N245A": "[Legnano]",
         "N651": "$$aLegnano (Itálie : oblast)$$7ge1087307"
       },
       "geometry": {
@@ -33270,7 +33270,7 @@
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Rovigo",
+        "N245A": "[Rovigo]",
         "N651": "$$aRovigo (Itálie : oblast)$$7ge1117944"
       },
       "geometry": {
@@ -33311,11 +33311,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5948/3",
-        "TITLE": "Adria, Chioggia",
+        "TITLE": "Adria a Chioggia",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Adria, Chioggia",
+        "N245A": "[Adria a Chioggia]",
         "N651": "$$aAdria (Itálie : oblast)$$7ge1118403|Chioggia (Itálie : oblast)$$7ge1117861"
       },
       "geometry": {
@@ -33356,11 +33356,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5949/3",
-        "TITLE": "Porto di Levante",
+        "TITLE": "Porto Viro",
         "SCALE": "25000",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Porto di Levante",
+        "N245A": "[Porto Viro]",
         "N651": "$$aPorto Viro (Itálie : oblast)$$7ge1118412"
       },
       "geometry": {
@@ -33405,7 +33405,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Parenzo und Rovigno",
+        "N245A": "[Poreč a Rovinj]",
         "N651": "$$aPoreč (Chorvatsko : oblast)$$7ge870494|$$aRovinj (Chorvatsko : oblast)$$7ge1087259"
       },
       "geometry": {
@@ -33450,7 +33450,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Mitterburg und Fianona",
+        "N245A": "[Pazin a Plomin]",
         "N651": "$$aPazin (Chorvatsko : oblast)$$7ge1087267|$$aPlomin (Chorvatsko : oblast)$$7ge1102027"
       },
       "geometry": {
@@ -33495,7 +33495,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Veglia und Novi",
+        "N245A": "[Krk a Novi Vinodolski]",
         "N651": "$$aKrk (Chorvatsko : ostrov)$$7ge214398|$$aNovi Vinodolski (Chorvatsko : oblast)$$7ge542500"
       },
       "geometry": {
@@ -33540,7 +33540,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Brinje, Ledenica und Oštaria|Brinje, Ledenica und Oštarije",
+        "N245A": "[Brinje, Ledenice a Oštarije]",
         "N651": "$$aBrinje (Chorvatsko : oblast)$$7ge1101023|$$aLedenice (Novi Vinodolski, Chorvatsko : oblast)|$$aOštarije (Chorvatsko : oblast)$$7ge1102025"
       },
       "geometry": {
@@ -33585,7 +33585,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Sluin",
+        "N245A": "[Slunj]",
         "N651": "$$aSlunj (Chorvatsko : oblast)$$7ge1087281"
       },
       "geometry": {
@@ -33630,7 +33630,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Žirovac und Vrnograč",
+        "N245A": "[Žirovac a Vrnograč]",
         "N651": "$$aDonji Žirovac (Chorvatsko : oblast)$$7ge1113368|$$aVrnograč (Bosna a Hercegovina : oblast)$$7ge1087293"
       },
       "geometry": {
@@ -33675,7 +33675,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "Kostajnica und Novi|Kostajnica und Bosn. Novi",
+        "N245A": "[Bosanska Kostajnica a Bosanski Novi]",
         "N651": "$$aBosanska Kostajnica (Bosna a Hercegovina : oblast)$$7ge1087296|$$aNovi Grad (Bosna a Hercegovina : oblast)$$7ge1087297"
       },
       "geometry": {
@@ -33720,7 +33720,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "Alt-Gradiska und Orahova",
+        "N245A": "[Gradiška a Orahova]",
         "N651": "$$aGradiška (Bosna a Hercegovina : oblast)$$7ge1087303|$$aOrahova (Gradiška, Bosna a Hercegovina : oblast)$$7ge1113369"
       },
       "geometry": {
@@ -33765,7 +33765,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Svinjar und Oriovac",
+        "N245A": "[Srbac a Oriovac]",
         "N651": "$$aOriovac (Chorvatsko : oblast)$$7ge1102023|$$aSrbac (Bosna a Hercegovina : oblast)$$7ge1102022"
       },
       "geometry": {
@@ -33810,7 +33810,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Brod",
+        "N245A": "[Slavonski Brod]",
         "N651": "$$aSlavonski Brod (Chorvatsko : oblast)$$7ge516044"
       },
       "geometry": {
@@ -37680,7 +37680,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Prozor",
+        "N245A": "[Prozor-Rama]",
         "N651": "$$aProzor-Rama (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -37725,7 +37725,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Visoko",
+        "N245A": "[Visoko]",
         "N651": "$$aVisoko (Bosna a Hercegovina : oblast)$$7ge566672"
       },
       "geometry": {
@@ -37770,7 +37770,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Sarajevo",
+        "N245A": "[Sarajevo]",
         "N651": "$$aSarajevo (Bosna a Hercegovina : oblast)$$7ge856376"
       },
       "geometry": {
@@ -37815,7 +37815,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Rogatica",
+        "N245A": "[Rogatica]",
         "N651": "$$aRogatica (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -37860,7 +37860,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-bn---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Zabukvica",
+        "N245A": "[Žabokvica]",
         "N651": "$$aŽabokvica (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -37905,7 +37905,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Užice",
+        "N245A": "[Užice]",
         "N651": "$$aUžice (Srbsko : oblast)$$7ge856404"
       },
       "geometry": {
@@ -37950,7 +37950,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Čačak",
+        "N245A": "[Čačak]",
         "N651": "$$aČačak (Srbsko : oblast)$$7ge971662"
       },
       "geometry": {
@@ -37995,7 +37995,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Jagodina",
+        "N245A": "[Jagodina]",
         "N651": "$$aJagodina (Srbsko : oblast)$$7ge1114705"
       },
       "geometry": {
@@ -38040,7 +38040,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Paračin|Paraćin",
+        "N245A": "[Paraćin]",
         "N651": "$$aParaćin (Srbsko : oblast)"
       },
       "geometry": {
@@ -38085,7 +38085,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Zaječar",
+        "N245A": "[Zaječar]",
         "N651": "$$aZaječar (Srbsko : oblast)$$7ge856418"
       },
       "geometry": {
@@ -38130,7 +38130,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-bu---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "Kula",
+        "N245A": "[Kula]",
         "N651": "$$aKula (Bulharsko : oblast)$$7ge1114710"
       },
       "geometry": {
@@ -38175,7 +38175,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Zuri (Žirije)",
+        "N245A": "[Žirije]",
         "N651": "$$aŽirije (Chorvatsko : oblast)"
       },
       "geometry": {
@@ -38220,7 +38220,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Sebenico und Traú",
+        "N245A": "[Šibenik a Trogir]",
         "N651": "$$aTrogir (Chorvatsko : oblast)|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
       },
       "geometry": {
@@ -38265,7 +38265,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Sinj und Spalato",
+        "N245A": "[Split a Sinj]",
         "N651": "$$aSinj (Chorvatsko : oblast)$$7ge627620|$$aSplit (Chorvatsko : oblast)$$7ge856365"
       },
       "geometry": {
@@ -38310,7 +38310,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Županjac und Čista",
+        "N245A": "[Tomislavgrad a Cista Provo]",
         "N651": "$$aCista Provo (Chorvatsko : oblast)|$$aTomislavgrad (Bosna a Hercegovina : oblast)$$7ge1114714"
       },
       "geometry": {
@@ -38355,7 +38355,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Jablanica und Podklečani",
+        "N245A": "[Jablanica a Poklečani]",
         "N651": "$$aJablanica (Bosna a Hercegovina : oblast)$$7ge1120296|$$aPoklečani (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -38400,7 +38400,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Konjica und Bjelemić|Konjic und Bjelemić",
+        "N245A": "[Konjic a Odžaci]",
         "N651": "$$aKonjic (Bosna a Hercegovina : oblast)$$7ge1114725|$$aOdžaci (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -38445,7 +38445,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Trnovo und Foča",
+        "N245A": "[Trnovo a Foča]",
         "N651": "$$aFoča (Bosna a Hercegovina : oblast)$$7ge1114726|$$aTrnovo (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -38490,7 +38490,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Goražde und Čajniče",
+        "N245A": "[Goražde a Čajniče]",
         "N651": "$$aGoražde (Bosna a Hercegovina : oblast)$$7ge1114727|$$aČajniče (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -38535,7 +38535,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Priboj",
+        "N245A": "[Priboj]",
         "N651": "$$aPriboj (Srbsko : oblast)"
       },
       "geometry": {
@@ -38580,7 +38580,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Ivanjica",
+        "N245A": "[Ivanjica]",
         "N651": "$$aIvanjica (Srbsko : oblast)"
       },
       "geometry": {
@@ -38625,7 +38625,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Kraljevo",
+        "N245A": "[Kraljevo]",
         "N651": "$$aKraljevo (Srbsko : oblast)$$7ge1114739"
       },
       "geometry": {
@@ -38670,7 +38670,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Kruševac",
+        "N245A": "[Kruševac]",
         "N651": "$$aKruševac (Srbsko : oblast)$$7ge259809"
       },
       "geometry": {
@@ -38715,7 +38715,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Aleksinac",
+        "N245A": "[Aleksinac]",
         "N651": "$$aAleksinac (Srbsko : oblast)$$7ge1114759"
       },
       "geometry": {
@@ -38760,7 +38760,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Knjaževac",
+        "N245A": "[Knjaževac]",
         "N651": "$$aKnjaževac (Srbsko : oblast)$$7ge1115401"
       },
       "geometry": {
@@ -38805,7 +38805,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-bu---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.2)$$2MRF",
-        "N245A": "Belogradčik",
+        "N245A": "[Belogradčik]",
         "N651": "$$aBelogradčik (Srbsko : oblast)"
       },
       "geometry": {
@@ -38850,7 +38850,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Medkovec",
+        "N245A": "[Medkovec]",
         "N651": "$$aMedkovec (Bulharsko : oblast)"
       },
       "geometry": {
@@ -38895,7 +38895,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
-        "N245A": "Vlčedrma",
+        "N245A": "[Vălčedrăm]",
         "N651": "$$aVălčedrăm (Bulharsko : oblast)"
       },
       "geometry": {
@@ -38940,7 +38940,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "I. Solta",
+        "N245A": "[Ostrov Šolta]",
         "N651": "$$aŠolta (Chorvatsko : ostrov)$$7ge622094"
       },
       "geometry": {
@@ -38985,7 +38985,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
-        "N245A": "Almissa und S. Pietro della Brazza",
+        "N245A": "[Omiš a Supetar]",
         "N651": "$$aOmiš (Chorvatsko : oblast)|$$aSupetar (Chorvatsko : oblast)"
       },
       "geometry": {
@@ -39030,7 +39030,7 @@
         "SCALE": "25000",
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
-        "N245A": "Imotski und Macarsca|Imotski und Makarska",
+        "N245A": "[Imotski a Makarska]",
         "N651": "$$aImotski (Chorvatsko : oblast)|$$aMakarská (Chorvatsko : oblast)$$7ge438784"
       },
       "geometry": {
@@ -39075,7 +39075,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
-        "N245A": "Kočerin und Mostar",
+        "N245A": "[Mostar a Kočerin]",
         "N651": "$$aKočerin (Srbsko : oblast)|$$aMostar (Bosna a Hercegovina : oblast)$$7ge1114722"
       },
       "geometry": {
@@ -39120,7 +39120,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
-        "N245A": "Ulog und Nevesinje",
+        "N245A": "[Ulog a Nevesinje]",
         "N651": "$$aUlog (Bosna a Hercegovina : oblast)|$$aNevesinje (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -39165,7 +39165,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-mo---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF",
-        "N245A": "Jeleć und Tjentišta",
+        "N245A": "[Jeleć a Tjentište]",
         "N651": "$$aTjentište (Bosna a Hercegovina : oblast)|$$aJeleć (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -39210,7 +39210,7 @@
         "SCALE": "25000",
         "N43": "$$ae-bn---$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Vikoć",
+        "N245A": "[Vikoč]",
         "N651": "$$aVikoč (Bosna a Hercegovina : oblast)"
       },
       "geometry": {
@@ -39255,7 +39255,7 @@
         "SCALE": "25000",
         "N43": "$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
-        "N245A": "Plevlje und Nova Varoš",
+        "N245A": "[Plevlje a Nova Varoš]",
         "N651": "$$aPlevlje (Černá Hora : oblast)|$$aNova Varoš (Srbsko : oblast)"
       },
       "geometry": {
@@ -39300,7 +39300,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
-        "N245A": "Bratljevo und Sjenica",
+        "N245A": "[Bratljevo a Sjenica]",
         "N651": "$$aSjenica (Srbsko : oblast)|$$aBratljevo (Srbsko : oblast)"
       },
       "geometry": {
@@ -39345,7 +39345,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-kv---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.115)$$2MRF",
-        "N245A": "Raška",
+        "N245A": "[Raška]",
         "N651": "$$aRaška (Srbsko : oblast)$$7ge130631"
       },
       "geometry": {
@@ -39390,7 +39390,7 @@
         "SCALE": "25000",
         "N43": "$$ae-rb---$$ae-kv---",
         "N80": "$$a913(497.11)$$2MRF|$$a913(497.115)$$2MRF",
-        "N245A": "Brus",
+        "N245A": "[Brus]",
         "N651": "$$aBrus (Srbsko : oblast)"
       },
       "geometry": {
@@ -42034,19 +42034,19 @@
     {
       "type": "Feature",
       "properties": {
-        "list_cislo": "0",
+        "list_cislo": "7262 ",
         "Zone": "38",
         "Kolonne": "XX",
         "Listy": "1",
         "Vznik": "0",
         "Reambulace": "0",
-        "SHEET": "0/3",
-        "TITLE": "",
+        "SHEET": "7262/3",
+        "TITLE": "Ulcinj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-mo---$$ae-aa---",
+        "N80": "$$a913(497.16)$$2MRF|$$913(496.5)$$2MRF",
+        "N245A": "[Ulcinj]",
+        "N651": "$$aUlcinj (Černá Hora : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -42079,19 +42079,19 @@
     {
       "type": "Feature",
       "properties": {
-        "list_cislo": "0",
+        "list_cislo": "7263",
         "Zone": "38",
         "Kolonne": "XXI",
         "Listy": "1",
         "Vznik": "0",
         "Reambulace": "0",
-        "SHEET": "0/3",
-        "TITLE": "",
+        "SHEET": "7263/3",
+        "TITLE": "Lezhë",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-aa---$$ae-mo---",
+        "N80": "$$913(496.5)$$2MRF|$$a913(497.16)$$2MRF",
+        "N245A": "[Lezhë]",
+        "N651": "$$aLezhë (Albánie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -42124,19 +42124,19 @@
     {
       "type": "Feature",
       "properties": {
-        "list_cislo": "0",
+        "list_cislo": "7264",
         "Zone": "38",
         "Kolonne": "XXII",
         "Listy": "0",
         "Vznik": "0",
         "Reambulace": "0",
-        "SHEET": "0/3",
-        "TITLE": "",
+        "SHEET": "7264/3",
+        "TITLE": "Orosh",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-aa---",
+        "N80": "$$913(496.5)$$2MRF",
+        "N245A": "[Orosh]",
+        "N651": "$$aOrosh (Albánie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -53111,12 +53111,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4852/2",
-        "TITLE": "",
+        "TITLE": "Kirchdorf an der Krems",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "[Kirchdorf an der Krems]",
+        "N651": "$$aKirchdorf an der Krems (Rakousko : oblast)$$7ge1086436"
       },
       "geometry": {
         "type": "Polygon",
@@ -53156,12 +53156,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4852/1",
-        "TITLE": "",
+        "TITLE": "Kirchdorf an der Krems",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "[Kirchdorf an der Krems]",
+        "N651": "$$aKirchdorf an der Krems (Rakousko : oblast)$$7ge1086436"
       },
       "geometry": {
         "type": "Polygon",
@@ -53201,12 +53201,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4852/4",
-        "TITLE": "",
+        "TITLE": "Kirchdorf an der Krems",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436)$$2MRF",
+        "N245A": "[Kirchdorf an der Krems]",
+        "N651": "$$aKirchdorf an der Krems (Rakousko : oblast)$$7ge1086436"
       },
       "geometry": {
         "type": "Polygon",
@@ -53246,12 +53246,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4853/2",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "[Weyer]",
+        "N651": "$$aWeyer (Rakousko : oblast)$$7ge1033153"
       },
       "geometry": {
         "type": "Polygon",
@@ -53291,12 +53291,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4853/1",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "[Weyer]",
+        "N651": "$$aWeyer (Rakousko : oblast)$$7ge1033153"
       },
       "geometry": {
         "type": "Polygon",
@@ -53336,12 +53336,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4853/4",
-        "TITLE": "",
+        "TITLE": "Weyer",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF",
+        "N245A": "[Weyer]",
+        "N651": "$$aWeyer (Rakousko : oblast)$$7ge1033153"
       },
       "geometry": {
         "type": "Polygon",
@@ -53381,12 +53381,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4854/2",
-        "TITLE": "",
+        "TITLE": "Gaming a Mariazell",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF|$$a913(436.2)$$2MRF",
+        "N245A": "[Gaming a Mariazell]",
+        "N651": "$$aGaming (Rakousko : oblast)$$7ge1120124|$$aMariazell (Rakousko : oblast)$$7ge1120006"
       },
       "geometry": {
         "type": "Polygon",
@@ -53426,12 +53426,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4854/1",
-        "TITLE": "",
+        "TITLE": "Gaming a Mariazell",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF|$$a913(436.2)$$2MRF",
+        "N245A": "[Gaming a Mariazell]",
+        "N651": "$$aGaming (Rakousko : oblast)$$7ge1120124|$$aMariazell (Rakousko : oblast)$$7ge1120006"
       },
       "geometry": {
         "type": "Polygon",
@@ -53471,12 +53471,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4854/4",
-        "TITLE": "",
+        "TITLE": "Gaming a Mariazell",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF|$$a913(436.2)$$2MRF",
+        "N245A": "[Gaming a Mariazell]",
+        "N651": "$$aGaming (Rakousko : oblast)$$7ge1120124|$$aMariazell (Rakousko : oblast)$$7ge1120006"
       },
       "geometry": {
         "type": "Polygon",
@@ -53516,12 +53516,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4855/2",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "[Schneeberg a St. Aegyd am Neuwalde]",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
       },
       "geometry": {
         "type": "Polygon",
@@ -53561,12 +53561,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4855/1",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "[Schneeberg a St. Aegyd am Neuwalde]",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
       },
       "geometry": {
         "type": "Polygon",
@@ -53606,12 +53606,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4855/4",
-        "TITLE": "",
+        "TITLE": "Schneeberg a St. Aegyd am Neuwalde",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.2)$$2MRF",
+        "N245A": "[Schneeberg a St. Aegyd am Neuwalde]",
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
       },
       "geometry": {
         "type": "Polygon",
@@ -78221,12 +78221,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3760/2",
-        "TITLE": "",
+        "TITLE": "Opole",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole]",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544"
       },
       "geometry": {
         "type": "Polygon",
@@ -78266,12 +78266,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3760/1",
-        "TITLE": "",
+        "TITLE": "Opole",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole]",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544"
       },
       "geometry": {
         "type": "Polygon",
@@ -78311,12 +78311,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3760/4",
-        "TITLE": "",
+        "TITLE": "Opole",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole]",
+        "N651": "$$aOpolsko (Polsko)$$7ge130544"
       },
       "geometry": {
         "type": "Polygon",
@@ -78356,12 +78356,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3761/2",
-        "TITLE": "",
+        "TITLE": "Lubliniec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Lubliniec]",
+        "N651": "$$aLubliniec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78401,12 +78401,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3761/1",
-        "TITLE": "",
+        "TITLE": "Lubliniec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Lubliniec]",
+        "N651": "$$aLubliniec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78446,12 +78446,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3761/4",
-        "TITLE": "",
+        "TITLE": "Lubliniec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Lubliniec]",
+        "N651": "$$aLubliniec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78491,12 +78491,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3762/2",
-        "TITLE": "",
+        "TITLE": "Koziegłowy",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koziegłowy]",
+        "N651": "$$aKoziegłowy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78536,12 +78536,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3762/1",
-        "TITLE": "",
+        "TITLE": "Koziegłowy",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koziegłowy]",
+        "N651": "$$aKoziegłowy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78581,12 +78581,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3762/4",
-        "TITLE": "",
+        "TITLE": "Koziegłowy",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koziegłowy]",
+        "N651": "$$aKoziegłowy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78626,12 +78626,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3763/2",
-        "TITLE": "",
+        "TITLE": "Żarki",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Żarki]",
+        "N651": "$$aŻarki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78671,12 +78671,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3763/1",
-        "TITLE": "",
+        "TITLE": "Żarki",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Żarki]",
+        "N651": "$$aŻarki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78716,12 +78716,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3763/4",
-        "TITLE": "",
+        "TITLE": "Żarki",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Żarki]",
+        "N651": "$$aŻarki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78761,12 +78761,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3764/2",
-        "TITLE": "",
+        "TITLE": "Jędrzejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Jędrzejów]",
+        "N651": "$$aJędrzejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78806,12 +78806,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3764/1",
-        "TITLE": "",
+        "TITLE": "Jędrzejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Jędrzejów]",
+        "N651": "$$aJędrzejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78851,12 +78851,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3764/4",
-        "TITLE": "",
+        "TITLE": "Jędrzejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Jędrzejów]",
+        "N651": "$$aJędrzejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78896,12 +78896,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3765/2",
-        "TITLE": "",
+        "TITLE": "Pińczów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Pińczów]",
+        "N651": "$$aPińczów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78941,12 +78941,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3765/1",
-        "TITLE": "",
+        "TITLE": "Pińczów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Pińczów]",
+        "N651": "$$aPińczów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78986,12 +78986,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3765/4",
-        "TITLE": "",
+        "TITLE": "Pińczów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Pińczów]",
+        "N651": "$$aPińczów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79031,12 +79031,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3766/2",
-        "TITLE": "",
+        "TITLE": "Staszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Staszów]",
+        "N651": "$$aStaszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79076,12 +79076,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3766/1",
-        "TITLE": "",
+        "TITLE": "Staszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Staszów]",
+        "N651": "$$aStaszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79121,12 +79121,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3766/4",
-        "TITLE": "",
+        "TITLE": "Staszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Staszów]",
+        "N651": "$$aStaszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79166,12 +79166,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3767/2",
-        "TITLE": "",
+        "TITLE": "Tarnobrzeg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Tarnobrzeg]",
+        "N651": "$$aTarnobrzeg (Polsko : oblast)$$7ge1120138"
       },
       "geometry": {
         "type": "Polygon",
@@ -79211,12 +79211,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3767/1",
-        "TITLE": "",
+        "TITLE": "Tarnobrzeg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Tarnobrzeg]",
+        "N651": "$$aTarnobrzeg (Polsko : oblast)$$7ge1120138"
       },
       "geometry": {
         "type": "Polygon",
@@ -79256,12 +79256,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3767/4",
-        "TITLE": "",
+        "TITLE": "Tarnobrzeg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Tarnobrzeg]",
+        "N651": "$$aTarnobrzeg (Polsko : oblast)$$7ge1120138"
       },
       "geometry": {
         "type": "Polygon",
@@ -79301,12 +79301,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3768/2",
-        "TITLE": "",
+        "TITLE": "Nisko a Rozwadów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Nisko a Rozwadów]",
+        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79346,12 +79346,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3768/1",
-        "TITLE": "",
+        "TITLE": "Nisko a Rozwadów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Nisko a Rozwadów]",
+        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79391,12 +79391,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3768/4",
-        "TITLE": "",
+        "TITLE": "Nisko a Rozwadów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Nisko a Rozwadów]",
+        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79436,12 +79436,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3769/2",
-        "TITLE": "",
+        "TITLE": "Janów Lubelski a Biłgoraj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Janów Lubelski a Biłgoraj]",
+        "N651": "$$aJanów Lubelski (Polsko : oblast)|$$aBiłgoraj (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79481,12 +79481,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3769/1",
-        "TITLE": "",
+        "TITLE": "Janów Lubelski a Biłgoraj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Janów Lubelski a Biłgoraj]",
+        "N651": "$$aJanów Lubelski (Polsko : oblast)|$$aBiłgoraj (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79526,12 +79526,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3769/4",
-        "TITLE": "",
+        "TITLE": "Janów Lubelski a Biłgoraj",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Janów Lubelski a Biłgoraj]",
+        "N651": "$$aJanów Lubelski (Polsko : oblast)|$$aBiłgoraj (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

@@ -85,6 +85,7 @@ LDR   L -----nem-a22------i-4500
       "Zeměměřičský úřad Čechy a Morava",
       "Zeměměřický úřad",
       "Československý vojenský zeměpisný ústav"
+    ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

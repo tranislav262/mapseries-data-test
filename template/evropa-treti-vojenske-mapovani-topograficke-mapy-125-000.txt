@@ -189,7 +189,7 @@ LDR   L -----nem-a22------i-4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+4901  L $$a[Die Franzisco-Josephinische Landesaufnahme 1:25 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -242,6 +242,17 @@ LDR   L -----nem-a22------i-4500
   ]
 }
 830 0 L $$aTopografická mapa 1:25 000 ; $$v{
+    "base":"sheet",
+    "title": "Označení svazku/pořadí",
+    "valuesByBaseIndex": [
+      {},
+      {"attr":"SHEET"}
+    ]
+  }, {
+    "base":"year",
+    "title": "Označení svazku/pořadí"
+  }
+830 0 L $$aDie Franzisco-Josephinische Landesaufnahme 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

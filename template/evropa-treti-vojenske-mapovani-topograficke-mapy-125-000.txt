@@ -72,20 +72,24 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "1"]
+    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Německo.$$bHeer.$$bGeneralstab",
+      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
       "Vojenský zeměpisný ústav",
-      "Československý vojenský zeměpisný ústav"]
+      "Československo.$$bMinisterstvo národní obrany.$$cKartografické oddělení",
+      "Zeměpisný ústav Ministerstva vnitra",
+      "Zeměměřičský úřad Čechy a Morava",
+      "Zeměměřický úřad",
+      "Československý vojenský zeměpisný ústav"
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855", "kn20030604013"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "kn20030604013"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -106,9 +110,13 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "[Generalstab des Heeres]",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
-      "Vojenský zeměpisný ústav v Praze"
+      "K.u.k. Militärgeographisches Institut",
+      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
+      "[Militärgeographisches Institut] ; Ministerstvo národní obrany Kartografické oddělení",
+      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměpisný ústav ministerstva vnitra",
+      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
+      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
+      "Vojenský zeměpisný ústav"
     ]
   }
 24630 L $$a{
@@ -133,9 +141,13 @@ LDR   L -----nem-a22------i-4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Německo] :$$b[Generalstab des Heeres],",
+      "[Wien] :$$b[K.u.k. Militärgeographisches Institut],",
       "Praha :$$bVojenský zeměpisný ústav,",
-      "V Praze :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bMinisterstvo národní obrany,",
+      "Praha :$$bZeměpisný ústav ministerstva vnitra,",
+      "Prag :$$bLandesvermessungsamt Böhmen und Mähren,",
+      "Praha :$$bZeměměřický úřad,",
+      "[Praha] :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
@@ -219,6 +231,11 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "valuesByBaseIndex": [
     "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]

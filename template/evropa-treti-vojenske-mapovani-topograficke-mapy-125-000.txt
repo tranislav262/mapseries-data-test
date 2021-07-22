@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw", "xr", "xr"]
+    "valuesByBaseIndex": ["gw", "xr", "xr", "xr", "xr", "xr"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "cze"]
   }-d
 0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
@@ -114,7 +114,7 @@ LDR   L -----nem-a22------i-4500
       "K.u.k. Militärgeographisches Institut",
       "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
       "[Militärgeographisches Institut] ; Ministerstvo národní obrany Kartografické oddělení",
-      "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměpisný ústav ministerstva vnitra",
+      "[Zeměpisný ústav ministerstva vnitra]",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
       "Vojenský zeměpisný ústav"
@@ -145,7 +145,7 @@ LDR   L -----nem-a22------i-4500
       "[Wien] :$$b[K.u.k. Militärgeographisches Institut],",
       "Praha :$$bVojenský zeměpisný ústav,",
       "Praha :$$bMinisterstvo národní obrany,",
-      "Praha :$$bZeměpisný ústav ministerstva vnitra,",
+      "[Praha] :$$b[Zeměpisný ústav ministerstva vnitra],",
       "Prag :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
       "[Praha] :$$bVojenský zeměpisný ústav,"

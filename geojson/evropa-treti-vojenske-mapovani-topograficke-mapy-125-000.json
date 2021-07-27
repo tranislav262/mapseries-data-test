@@ -16969,7 +16969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "list_cislo": "4865",
+        "list_cislo": "",
         "Zone": "14",
         "Kolonne": "XXIII",
         "Listy": "0",
@@ -57161,12 +57161,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5143/2",
-        "TITLE": "",
+        "TITLE": "Bludenz a Vaduz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-lh---",
+        "N80": "$$a913(436.7)$$2MRF|$$a913(494.9)$$2MRF",
+        "N245A": "[Bludenz a Vaduz]",
+        "N651": "$$aBludenz (Rakousko : oblast)$$7ge369173|$$aVaduz (Liechtenštejnsko : oblast)$$7ge1120120"
       },
       "geometry": {
         "type": "Polygon",
@@ -57206,12 +57206,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5143/1",
-        "TITLE": "",
+        "TITLE": "Bludenz a Vaduz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-lh---",
+        "N80": "$$a913(436.7)$$2MRF|$$a913(494.9)$$2MRF",
+        "N245A": "[Bludenz a Vaduz]",
+        "N651": "$$aBludenz (Rakousko : oblast)$$7ge369173|$$aVaduz (Liechtenštejnsko : oblast)$$7ge1120120"
       },
       "geometry": {
         "type": "Polygon",
@@ -57251,12 +57251,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5143/4",
-        "TITLE": "",
+        "TITLE": "Bludenz a Vaduz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-lh---",
+        "N80": "$$a913(436.7)$$2MRF|$$a913(494.9)$$2MRF",
+        "N245A": "[Bludenz a Vaduz]",
+        "N651": "$$aBludenz (Rakousko : oblast)$$7ge369173|$$aVaduz (Liechtenštejnsko : oblast)$$7ge1120120"
       },
       "geometry": {
         "type": "Polygon",
@@ -57296,12 +57296,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5144/2",
-        "TITLE": "",
+        "TITLE": "Stuben",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Stuben]",
+        "N651": "$$aStuben (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57341,12 +57341,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5144/1",
-        "TITLE": "",
+        "TITLE": "Stuben",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Stuben]",
+        "N651": "$$aStuben (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57386,12 +57386,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5144/4",
-        "TITLE": "",
+        "TITLE": "Stuben",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Stuben]",
+        "N651": "$$aStuben (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57431,12 +57431,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5145/2",
-        "TITLE": "",
+        "TITLE": "Landeck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Landeck]",
+        "N651": "$$aLandeck (Rakousko : oblast)$$7ge117925"
       },
       "geometry": {
         "type": "Polygon",
@@ -57476,12 +57476,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5145/1",
-        "TITLE": "",
+        "TITLE": "Landeck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Landeck]",
+        "N651": "$$aLandeck (Rakousko : oblast)$$7ge117925"
       },
       "geometry": {
         "type": "Polygon",
@@ -57521,12 +57521,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5145/4",
-        "TITLE": "",
+        "TITLE": "Landeck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Landeck]",
+        "N651": "$$aLandeck (Rakousko : oblast)$$7ge117925"
       },
       "geometry": {
         "type": "Polygon",
@@ -57566,12 +57566,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5146/2",
-        "TITLE": "",
+        "TITLE": "Ötztal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Ötztal]",
+        "N651": "$$aÖtztal (Rakousko : údolí)$$7ge848387"
       },
       "geometry": {
         "type": "Polygon",
@@ -57611,12 +57611,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5146/1",
-        "TITLE": "",
+        "TITLE": "Ötztal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Ötztal]",
+        "N651": "$$aÖtztal (Rakousko : údolí)$$7ge848387"
       },
       "geometry": {
         "type": "Polygon",
@@ -57656,12 +57656,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5146/4",
-        "TITLE": "",
+        "TITLE": "Ötztal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Ötztal]",
+        "N651": "$$aÖtztal (Rakousko : údolí)$$7ge848387"
       },
       "geometry": {
         "type": "Polygon",
@@ -57701,12 +57701,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5147/2",
-        "TITLE": "",
+        "TITLE": "Matrei am Brenner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Matrei am Brenner]",
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57746,12 +57746,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5147/1",
-        "TITLE": "",
+        "TITLE": "Matrei am Brenner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Matrei am Brenner]",
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57791,12 +57791,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5147/4",
-        "TITLE": "",
+        "TITLE": "Matrei am Brenner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Matrei am Brenner]",
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57836,12 +57836,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5148/2",
-        "TITLE": "",
+        "TITLE": "Hippach a Gerlosspitze",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Hippach a Gerlosspitze]",
+        "N651": "$$aHippach (Rakousko : oblast)$$7ge1095361|$$aGerlos (Rakousko : oblast)$$7ge1095363"
       },
       "geometry": {
         "type": "Polygon",
@@ -57881,12 +57881,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5148/1",
-        "TITLE": "",
+        "TITLE": "Hippach a Gerlosspitze",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Hippach a Gerlosspitze]",
+        "N651": "$$aHippach (Rakousko : oblast)$$7ge1095361|$$aGerlos (Rakousko : oblast)$$7ge1095363"
       },
       "geometry": {
         "type": "Polygon",
@@ -57926,12 +57926,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5148/4",
-        "TITLE": "",
+        "TITLE": "Hippach a Gerlosspitze",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Hippach a Gerlosspitze]",
+        "N651": "$$aHippach (Rakousko : oblast)$$7ge1095361|$$aGerlos (Rakousko : oblast)$$7ge1095363"
       },
       "geometry": {
         "type": "Polygon",
@@ -57971,12 +57971,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5149/2",
-        "TITLE": "",
+        "TITLE": "Großglockner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(436.5)$$2MRF",
+        "N245A": "[Großglockner]",
+        "N651": "$$aGrossglockner (Vysoké Taury, Rakousko : hora : oblast)$$7ge1108396"
       },
       "geometry": {
         "type": "Polygon",
@@ -58016,12 +58016,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5149/1",
-        "TITLE": "",
+        "TITLE": "Großglockner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(436.5)$$2MRF",
+        "N245A": "[Großglockner]",
+        "N651": "$$aGrossglockner (Vysoké Taury, Rakousko : hora : oblast)$$7ge1108396"
       },
       "geometry": {
         "type": "Polygon",
@@ -58061,12 +58061,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5149/4",
-        "TITLE": "",
+        "TITLE": "Großglockner",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(436.5)$$2MRF",
+        "N245A": "[Großglockner]",
+        "N651": "$$aGrossglockner (Vysoké Taury, Rakousko : hora : oblast)$$7ge1108396"
       },
       "geometry": {
         "type": "Polygon",
@@ -58106,12 +58106,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5150/2",
-        "TITLE": "",
+        "TITLE": "Bad Hofgastein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[Bad Hofgastein]",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58151,12 +58151,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5150/1",
-        "TITLE": "",
+        "TITLE": "Bad Hofgastein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[Bad Hofgastein]",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58196,12 +58196,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5150/4",
-        "TITLE": "",
+        "TITLE": "Bad Hofgastein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[Bad Hofgastein]",
+        "N651": "$$aBad Hofgastein (Rakousko : oblast)$$7ge828358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58241,12 +58241,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5151/1",
-        "TITLE": "",
+        "TITLE": "St. Michael im Lungau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[St. Michael im Lungau]",
+        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -58286,12 +58286,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5151/2",
-        "TITLE": "",
+        "TITLE": "St. Michael im Lungau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[St. Michael im Lungau]",
+        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -58331,12 +58331,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5151/3",
-        "TITLE": "",
+        "TITLE": "St. Michael im Lungau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.8)$$2MRF",
+        "N245A": "[St. Michael im Lungau]",
+        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -58376,12 +58376,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5152/2",
-        "TITLE": "",
+        "TITLE": "Murau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Murau]",
+        "N651": "$$aMurau (Rakousko : oblast)$$7ge369080"
       },
       "geometry": {
         "type": "Polygon",
@@ -58421,12 +58421,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5152/1",
-        "TITLE": "",
+        "TITLE": "Murau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Murau]",
+        "N651": "$$aMurau (Rakousko : oblast)$$7ge369080"
       },
       "geometry": {
         "type": "Polygon",
@@ -58466,12 +58466,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5152/4",
-        "TITLE": "",
+        "TITLE": "Murau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Murau]",
+        "N651": "$$aMurau (Rakousko : oblast)$$7ge369080"
       },
       "geometry": {
         "type": "Polygon",
@@ -58511,12 +58511,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5153/2",
-        "TITLE": "",
+        "TITLE": "Judenburg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Judenburg]",
+        "N651": "$$aJudenburg (Rakousko : oblast)$$7ge1095360"
       },
       "geometry": {
         "type": "Polygon",
@@ -58556,12 +58556,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5153/1",
-        "TITLE": "",
+        "TITLE": "Judenburg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Judenburg]",
+        "N651": "$$aJudenburg (Rakousko : oblast)$$7ge1095360"
       },
       "geometry": {
         "type": "Polygon",
@@ -58601,12 +58601,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5153/4",
-        "TITLE": "",
+        "TITLE": "Judenburg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Judenburg]",
+        "N651": "$$aJudenburg (Rakousko : oblast)$$7ge1095360"
       },
       "geometry": {
         "type": "Polygon",
@@ -58646,12 +58646,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5154/2",
-        "TITLE": "",
+        "TITLE": "Köflach a Voitsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Köflach a Voitsberg]",
+        "N651": "$$aKöflach (Rakousko : oblast)$$7ge1095359|$$aVoitsberg (Rakousko : oblast)$$7ge1095358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58691,12 +58691,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5154/1",
-        "TITLE": "",
+        "TITLE": "Köflach a Voitsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Köflach a Voitsberg]",
+        "N651": "$$aKöflach (Rakousko : oblast)$$7ge1095359|$$aVoitsberg (Rakousko : oblast)$$7ge1095358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58736,12 +58736,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5154/4",
-        "TITLE": "",
+        "TITLE": "Köflach a Voitsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Köflach a Voitsberg]",
+        "N651": "$$aKöflach (Rakousko : oblast)$$7ge1095359|$$aVoitsberg (Rakousko : oblast)$$7ge1095358"
       },
       "geometry": {
         "type": "Polygon",
@@ -58781,12 +58781,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5155/2",
-        "TITLE": "",
+        "TITLE": "Štýrský Hradec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Štýrský Hradec]",
+        "N651": "$$aŠtýrský Hradec (Rakousko)$$7ge128479"
       },
       "geometry": {
         "type": "Polygon",
@@ -58826,12 +58826,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5155/1",
-        "TITLE": "",
+        "TITLE": "Štýrský Hradec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Štýrský Hradec]",
+        "N651": "$$aŠtýrský Hradec (Rakousko)$$7ge128479"
       },
       "geometry": {
         "type": "Polygon",
@@ -58871,12 +58871,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5155/4",
-        "TITLE": "",
+        "TITLE": "Štýrský Hradec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Štýrský Hradec]",
+        "N651": "$$aŠtýrský Hradec (Rakousko)$$7ge128479"
       },
       "geometry": {
         "type": "Polygon",
@@ -58916,12 +58916,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5244/2",
-        "TITLE": "",
+        "TITLE": "Pramen Illu",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Pramen Illu]",
+        "N651": "$$aIll (řeka, pramen : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -58961,12 +58961,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5244/1",
-        "TITLE": "",
+        "TITLE": "Pramen Illu",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Pramen Illu]",
+        "N651": "$$aIll (řeka, pramen : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59006,12 +59006,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5244/4",
-        "TITLE": "",
+        "TITLE": "Pramen Illu",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.7)$$2MRF",
+        "N245A": "[Pramen Illu]",
+        "N651": "$$aIll (řeka, pramen : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59051,12 +59051,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5245/2",
-        "TITLE": "",
+        "TITLE": "Nauders",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Nauders]",
+        "N651": "$$aNauders (Rakousko : oblast)$$7ge552263"
       },
       "geometry": {
         "type": "Polygon",
@@ -59096,12 +59096,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5245/1",
-        "TITLE": "",
+        "TITLE": "Nauders",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Nauders]",
+        "N651": "$$aNauders (Rakousko : oblast)$$7ge552263"
       },
       "geometry": {
         "type": "Polygon",
@@ -59141,12 +59141,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5245/4",
-        "TITLE": "",
+        "TITLE": "Nauders",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Nauders]",
+        "N651": "$$aNauders (Rakousko : oblast)$$7ge552263"
       },
       "geometry": {
         "type": "Polygon",
@@ -59186,12 +59186,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5246/2",
-        "TITLE": "",
+        "TITLE": "Sölden a San Leonardo in Passiria",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sölden a San Leonardo in Passiria]",
+        "N651": "$$aSölden (Rakousko : oblast)$$7ge1094594|$$aSan Leonardo in Passiria (Itálie : oblast)$$7ge1109377"
       },
       "geometry": {
         "type": "Polygon",
@@ -59231,12 +59231,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5246/1",
-        "TITLE": "",
+        "TITLE": "Sölden a San Leonardo in Passiria",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sölden a San Leonardo in Passiria]",
+        "N651": "$$aSölden (Rakousko : oblast)$$7ge1094594|$$aSan Leonardo in Passiria (Itálie : oblast)$$7ge1109377"
       },
       "geometry": {
         "type": "Polygon",
@@ -59276,12 +59276,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5246/4",
-        "TITLE": "",
+        "TITLE": "Sölden a San Leonardo in Passiria",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sölden a San Leonardo in Passiria]",
+        "N651": "$$aSölden (Rakousko : oblast)$$7ge1094594|$$aSan Leonardo in Passiria (Itálie : oblast)$$7ge1109377"
       },
       "geometry": {
         "type": "Polygon",
@@ -59321,12 +59321,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5247/2",
-        "TITLE": "",
+        "TITLE": "Vipiteno a Fortezza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Vipiteno a Fortezza]",
+        "N651": "$$aVipiteno (Itálie : oblast)$$7ge1094591|$$aFranzensfeste (Itálie : oblast)$$7ge1094518"
       },
       "geometry": {
         "type": "Polygon",
@@ -59366,12 +59366,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5247/1",
-        "TITLE": "",
+        "TITLE": "Vipiteno a Fortezza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Vipiteno a Fortezza]",
+        "N651": "$$aVipiteno (Itálie : oblast)$$7ge1094591|$$aFranzensfeste (Itálie : oblast)$$7ge1094518"
       },
       "geometry": {
         "type": "Polygon",
@@ -59411,12 +59411,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5247/4",
-        "TITLE": "",
+        "TITLE": "Vipiteno a Fortezza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Vipiteno a Fortezza]",
+        "N651": "$$aVipiteno (Itálie : oblast)$$7ge1094591|$$aFranzensfeste (Itálie : oblast)$$7ge1094518"
       },
       "geometry": {
         "type": "Polygon",
@@ -59456,12 +59456,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5248/2",
-        "TITLE": "",
+        "TITLE": "Bruneck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Bruneck]",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346"
       },
       "geometry": {
         "type": "Polygon",
@@ -59501,12 +59501,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5248/1",
-        "TITLE": "",
+        "TITLE": "Bruneck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Bruneck]",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346"
       },
       "geometry": {
         "type": "Polygon",
@@ -59546,12 +59546,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5248/4",
-        "TITLE": "",
+        "TITLE": "Bruneck",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Bruneck]",
+        "N651": "$$aBrunico (Itálie : oblast)$$7ge828346"
       },
       "geometry": {
         "type": "Polygon",
@@ -59591,12 +59591,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5249/2",
-        "TITLE": "",
+        "TITLE": "Lienz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Lienz]",
+        "N651": "$$aLienz (Rakousko : oblast)$$7ge1095344"
       },
       "geometry": {
         "type": "Polygon",
@@ -59636,12 +59636,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5249/1",
-        "TITLE": "",
+        "TITLE": "Lienz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Lienz]",
+        "N651": "$$aLienz (Rakousko : oblast)$$7ge1095344"
       },
       "geometry": {
         "type": "Polygon",
@@ -59681,12 +59681,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5249/4",
-        "TITLE": "",
+        "TITLE": "Lienz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---$$ae-it---",
+        "N80": "$$a913(436.6)$$2MRF",
+        "N245A": "[Lienz]",
+        "N651": "$$aLienz (Rakousko : oblast)$$7ge1095344"
       },
       "geometry": {
         "type": "Polygon",
@@ -59726,12 +59726,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5250/2",
-        "TITLE": "",
+        "TITLE": "Möllthal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Möllthal]",
+        "N651": "$$aMölltal (Rakousko : údolí)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59771,12 +59771,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5250/1",
-        "TITLE": "",
+        "TITLE": "Möllthal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Möllthal]",
+        "N651": "$$aMölltal (Rakousko : údolí)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59816,12 +59816,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5250/4",
-        "TITLE": "",
+        "TITLE": "Möllthal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Möllthal]",
+        "N651": "$$aMölltal (Rakousko : údolí)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59861,12 +59861,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5251/1",
-        "TITLE": "",
+        "TITLE": "Gmünd a Spittal an der Drau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gmünd a Spittal an der Drau]",
+        "N651": "$$aGmünd (Rakousko, Korutany : oblast)|$$aSpittal an der Drau (Rakousko : oblast)$$7ge1094613"
       },
       "geometry": {
         "type": "Polygon",
@@ -59906,12 +59906,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5251/2",
-        "TITLE": "",
+        "TITLE": "Gmünd a Spittal an der Drau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gmünd a Spittal an der Drau]",
+        "N651": "$$aGmünd (Rakousko, Korutany : oblast)|$$aSpittal an der Drau (Rakousko : oblast)$$7ge1094613"
       },
       "geometry": {
         "type": "Polygon",
@@ -59951,12 +59951,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5251/3",
-        "TITLE": "",
+        "TITLE": "Gmünd a Spittal an der Drau",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gmünd a Spittal an der Drau]",
+        "N651": "$$aGmünd (Rakousko, Korutany : oblast)|$$aSpittal an der Drau (Rakousko : oblast)$$7ge1094613"
       },
       "geometry": {
         "type": "Polygon",
@@ -59996,12 +59996,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5252/2",
-        "TITLE": "",
+        "TITLE": "Gurktal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gurktal]",
+        "N651": "$$aGurktal (Rakousko : údolí)$$7ge1108371"
       },
       "geometry": {
         "type": "Polygon",
@@ -60041,12 +60041,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5252/1",
-        "TITLE": "",
+        "TITLE": "Gurktal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gurktal]",
+        "N651": "$$aGurktal (Rakousko : údolí)$$7ge1108371"
       },
       "geometry": {
         "type": "Polygon",
@@ -60086,12 +60086,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5252/4",
-        "TITLE": "",
+        "TITLE": "Gurktal",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Gurktal]",
+        "N651": "$$aGurktal (Rakousko : údolí)$$7ge1108371"
       },
       "geometry": {
         "type": "Polygon",
@@ -60131,12 +60131,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5253/2",
-        "TITLE": "",
+        "TITLE": "Hüttenberg a Eberstein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Hüttenberg a Eberstein]",
+        "N651": "$$aHüttenberg (Rakousko : oblast)$$7ge1095343|$$aEberstein (Rakousko : oblast)$$7ge1109375"
       },
       "geometry": {
         "type": "Polygon",
@@ -60176,12 +60176,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5253/1",
-        "TITLE": "",
+        "TITLE": "Hüttenberg a Eberstein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Hüttenberg a Eberstein]",
+        "N651": "$$aHüttenberg (Rakousko : oblast)$$7ge1095343|$$aEberstein (Rakousko : oblast)$$7ge1109375"
       },
       "geometry": {
         "type": "Polygon",
@@ -60221,12 +60221,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5253/4",
-        "TITLE": "",
+        "TITLE": "Hüttenberg a Eberstein",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Hüttenberg a Eberstein]",
+        "N651": "$$aHüttenberg (Rakousko : oblast)$$7ge1095343|$$aEberstein (Rakousko : oblast)$$7ge1109375"
       },
       "geometry": {
         "type": "Polygon",
@@ -60266,12 +60266,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5254/2",
-        "TITLE": "",
+        "TITLE": "Deutschlandsberg a Wolfsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(436.4)$$2MRF",
+        "N245A": "[Deutschlandsberg a Wolfsberg]",
+        "N651": "$$aDeutsch Landsberg (Rakousko : oblast)$$7ge1120212|$$aWolfsberg (Rakousko : oblast)$$7ge1120267"
       },
       "geometry": {
         "type": "Polygon",
@@ -60311,12 +60311,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5254/1",
-        "TITLE": "",
+        "TITLE": "Deutschlandsberg a Wolfsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(436.4)$$2MRF",
+        "N245A": "[Deutschlandsberg a Wolfsberg]",
+        "N651": "$$aDeutsch Landsberg (Rakousko : oblast)$$7ge1120212|$$aWolfsberg (Rakousko : oblast)$$7ge1120267"
       },
       "geometry": {
         "type": "Polygon",
@@ -60356,12 +60356,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5254/4",
-        "TITLE": "",
+        "TITLE": "Deutschlandsberg a Wolfsberg",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF|$$a913(436.4)$$2MRF",
+        "N245A": "[Deutschlandsberg a Wolfsberg]",
+        "N651": "$$aDeutsch Landsberg (Rakousko : oblast)$$7ge1120212|$$aWolfsberg (Rakousko : oblast)$$7ge1120267"
       },
       "geometry": {
         "type": "Polygon",
@@ -60401,12 +60401,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5255/2",
-        "TITLE": "",
+        "TITLE": "Wildon a Leibnitz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Wildon a Leibnitz]",
+        "N651": "$$aWildon (Rakousko : oblast)$$7ge1094517|$$aLeibnitz (Rakousko : oblast)$$7ge1095341"
       },
       "geometry": {
         "type": "Polygon",
@@ -60446,12 +60446,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5255/1",
-        "TITLE": "",
+        "TITLE": "Wildon a Leibnitz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Wildon a Leibnitz]",
+        "N651": "$$aWildon (Rakousko : oblast)$$7ge1094517|$$aLeibnitz (Rakousko : oblast)$$7ge1095341"
       },
       "geometry": {
         "type": "Polygon",
@@ -60491,12 +60491,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5255/4",
-        "TITLE": "",
+        "TITLE": "Wildon a Leibnitz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-au---",
+        "N80": "$$a913(436.4)$$2MRF",
+        "N245A": "[Wildon a Leibnitz]",
+        "N651": "$$aWildon (Rakousko : oblast)$$7ge1094517|$$aLeibnitz (Rakousko : oblast)$$7ge1095341"
       },
       "geometry": {
         "type": "Polygon",
@@ -60536,12 +60536,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5344/2",
-        "TITLE": "",
+        "TITLE": "Livigno",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "[Livigno]",
+        "N651": "$$aLivigno (Itálie : oblast)$$7ge1093501"
       },
       "geometry": {
         "type": "Polygon",
@@ -60581,12 +60581,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5344/1",
-        "TITLE": "",
+        "TITLE": "Livigno",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "[Livigno]",
+        "N651": "$$aLivigno (Itálie : oblast)$$7ge1093501"
       },
       "geometry": {
         "type": "Polygon",
@@ -60626,12 +60626,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5344/4",
-        "TITLE": "",
+        "TITLE": "Livigno",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-sz---",
+        "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
+        "N245A": "[Livigno]",
+        "N651": "$$aLivigno (Itálie : oblast)$$7ge1093501"
       },
       "geometry": {
         "type": "Polygon",
@@ -60671,12 +60671,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5345/2",
-        "TITLE": "",
+        "TITLE": "Glorenza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Glorenza]",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344"
       },
       "geometry": {
         "type": "Polygon",
@@ -60716,12 +60716,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5345/1",
-        "TITLE": "",
+        "TITLE": "Glorenza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Glorenza]",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344"
       },
       "geometry": {
         "type": "Polygon",
@@ -60761,12 +60761,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5345/4",
-        "TITLE": "",
+        "TITLE": "Glorenza",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-sz---$$ae-au---$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Glorenza]",
+        "N651": "$$aGlorenza (Itálie : oblast)$$7ge856344"
       },
       "geometry": {
         "type": "Polygon",
@@ -60806,12 +60806,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5346/2",
-        "TITLE": "",
+        "TITLE": "Merano",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Merano]",
+        "N651": "$$aMerano (Itálie : oblast)$$7ge646205"
       },
       "geometry": {
         "type": "Polygon",
@@ -60851,12 +60851,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5346/1",
-        "TITLE": "",
+        "TITLE": "Merano",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Merano]",
+        "N651": "$$aMerano (Itálie : oblast)$$7ge646205"
       },
       "geometry": {
         "type": "Polygon",
@@ -60896,12 +60896,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5346/4",
-        "TITLE": "",
+        "TITLE": "Merano",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Merano]",
+        "N651": "$$aMerano (Itálie : oblast)$$7ge646205"
       },
       "geometry": {
         "type": "Polygon",
@@ -60941,12 +60941,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5347/2",
-        "TITLE": "",
+        "TITLE": "Chiusa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Chiusa]",
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)$$7ge1108205"
       },
       "geometry": {
         "type": "Polygon",
@@ -60986,12 +60986,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5347/1",
-        "TITLE": "",
+        "TITLE": "Chiusa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Chiusa]",
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)$$7ge1108205"
       },
       "geometry": {
         "type": "Polygon",
@@ -61031,12 +61031,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5347/4",
-        "TITLE": "",
+        "TITLE": "Chiusa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Chiusa]",
+        "N651": "$$aChiusa (Bolzano, Itálie : oblast)$$7ge1108205"
       },
       "geometry": {
         "type": "Polygon",
@@ -61076,12 +61076,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5348/2",
-        "TITLE": "",
+        "TITLE": "Dobbiaco a Cortina d'Ampezzo",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Dobbiaco a Cortina d'Ampezzo]",
+        "N651": "$$aDobbiaco (Itálie : oblast)$$7ge1093507|$$aCortina d'Ampezzo (Itálie : oblast)$$7ge1093505"
       },
       "geometry": {
         "type": "Polygon",
@@ -61121,12 +61121,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5348/1",
-        "TITLE": "",
+        "TITLE": "Dobbiaco a Cortina d'Ampezzo",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Dobbiaco a Cortina d'Ampezzo]",
+        "N651": "$$aDobbiaco (Itálie : oblast)$$7ge1093507|$$aCortina d'Ampezzo (Itálie : oblast)$$7ge1093505"
       },
       "geometry": {
         "type": "Polygon",
@@ -61166,12 +61166,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5348/4",
-        "TITLE": "",
+        "TITLE": "Dobbiaco a Cortina d'Ampezzo",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---",
+        "N80": "$$a913(450)$$2MRF",
+        "N245A": "[Dobbiaco a Cortina d'Ampezzo]",
+        "N651": "$$aDobbiaco (Itálie : oblast)$$7ge1093507|$$aCortina d'Ampezzo (Itálie : oblast)$$7ge1093505"
       },
       "geometry": {
         "type": "Polygon",
@@ -61211,12 +61211,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5349/2",
-        "TITLE": "",
+        "TITLE": "Sillian a Santo Stefano di Cadore",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sillian a Santo Stefano di Cadore]",
+        "N651": "$$aSillian (Rakousko : oblast)$$7ge1109309|$$aSanto Stefano di Cadore (Itálie : oblast)$$7ge1109308"
       },
       "geometry": {
         "type": "Polygon",
@@ -61256,12 +61256,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5349/1",
-        "TITLE": "",
+        "TITLE": "Sillian a Santo Stefano di Cadore",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sillian a Santo Stefano di Cadore]",
+        "N651": "$$aSillian (Rakousko : oblast)$$7ge1109309|$$aSanto Stefano di Cadore (Itálie : oblast)$$7ge1109308"
       },
       "geometry": {
         "type": "Polygon",
@@ -61301,12 +61301,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5349/4",
-        "TITLE": "",
+        "TITLE": "Sillian a Santo Stefano di Cadore",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.6)$$2MRF|$$a913(450)$$2MRF",
+        "N245A": "[Sillian a Santo Stefano di Cadore]",
+        "N651": "$$aSillian (Rakousko : oblast)$$7ge1109309|$$aSanto Stefano di Cadore (Itálie : oblast)$$7ge1109308"
       },
       "geometry": {
         "type": "Polygon",
@@ -61346,12 +61346,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5350/2",
-        "TITLE": "",
+        "TITLE": "Oberdrauburg a Mauthen",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Oberdrauburg a Mauthen]",
+        "N651": "$$aOberdrauburg (Rakousko : oblast)$$7ge1094401|$$aMauthen (Kötschach-Mauthen, Rakousko : oblast)$$7ge1109307"
       },
       "geometry": {
         "type": "Polygon",
@@ -61391,12 +61391,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5350/1",
-        "TITLE": "",
+        "TITLE": "Oberdrauburg a Mauthen",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Oberdrauburg a Mauthen]",
+        "N651": "$$aOberdrauburg (Rakousko : oblast)$$7ge1094401|$$aMauthen (Kötschach-Mauthen, Rakousko : oblast)$$7ge1109307"
       },
       "geometry": {
         "type": "Polygon",
@@ -61436,12 +61436,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5350/4",
-        "TITLE": "",
+        "TITLE": "Oberdrauburg a Mauthen",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-it---$$ae-au---",
+        "N80": "$$a913(436.5)$$2MRF",
+        "N245A": "[Oberdrauburg a Mauthen]",
+        "N651": "$$aOberdrauburg (Rakousko : oblast)$$7ge1094401|$$aMauthen (Kötschach-Mauthen, Rakousko : oblast)$$7ge1109307"
       },
       "geometry": {
         "type": "Polygon",
@@ -74981,12 +74981,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3560/2",
-        "TITLE": "",
+        "TITLE": "Wieruszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieruszów]",
+        "N651": "$$aWieruszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75026,12 +75026,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3560/1",
-        "TITLE": "",
+        "TITLE": "Wieruszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieruszów]",
+        "N651": "$$aWieruszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75071,12 +75071,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3560/4",
-        "TITLE": "",
+        "TITLE": "Wieruszów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieruszów]",
+        "N651": "$$aWieruszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75116,12 +75116,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3561/2",
-        "TITLE": "",
+        "TITLE": "Wieluń",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieluń]",
+        "N651": "$$aWieluń (Polsko : oblast)$$7ge1112271"
       },
       "geometry": {
         "type": "Polygon",
@@ -75161,12 +75161,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3561/1",
-        "TITLE": "",
+        "TITLE": "Wieluń",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieluń]",
+        "N651": "$$aWieluń (Polsko : oblast)$$7ge1112271"
       },
       "geometry": {
         "type": "Polygon",
@@ -75206,12 +75206,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3561/4",
-        "TITLE": "",
+        "TITLE": "Wieluń",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Wieluń]",
+        "N651": "$$aWieluń (Polsko : oblast)$$7ge1112271"
       },
       "geometry": {
         "type": "Polygon",
@@ -75251,12 +75251,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3562/2",
-        "TITLE": "",
+        "TITLE": "Działoszyn",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Działoszyn]",
+        "N651": "$$aDziałoszyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75296,12 +75296,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3562/1",
-        "TITLE": "",
+        "TITLE": "Działoszyn",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Działoszyn]",
+        "N651": "$$aDziałoszyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75341,12 +75341,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3562/4",
-        "TITLE": "",
+        "TITLE": "Działoszyn",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Działoszyn]",
+        "N651": "$$aDziałoszyn (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75386,12 +75386,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3563/2",
-        "TITLE": "",
+        "TITLE": "Radomsko",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Radomsko]",
+        "N651": "$$aRadomsko (Polsko : oblast)$$7ge1120303"
       },
       "geometry": {
         "type": "Polygon",
@@ -75431,12 +75431,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3563/1",
-        "TITLE": "",
+        "TITLE": "Radomsko",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Radomsko]",
+        "N651": "$$aRadomsko (Polsko : oblast)$$7ge1120303"
       },
       "geometry": {
         "type": "Polygon",
@@ -75476,12 +75476,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3563/4",
-        "TITLE": "",
+        "TITLE": "Radomsko",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Radomsko]",
+        "N651": "$$aRadomsko (Polsko : oblast)$$7ge1120303"
       },
       "geometry": {
         "type": "Polygon",
@@ -75521,12 +75521,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3564/2",
-        "TITLE": "",
+        "TITLE": "Przedbórz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Przedbórz]",
+        "N651": "$$aPrzedbórz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75566,12 +75566,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3564/1",
-        "TITLE": "",
+        "TITLE": "Przedbórz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Przedbórz]",
+        "N651": "$$aPrzedbórz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75611,12 +75611,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3564/4",
-        "TITLE": "",
+        "TITLE": "Przedbórz",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Przedbórz]",
+        "N651": "$$aPrzedbórz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75656,12 +75656,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3565/2",
-        "TITLE": "",
+        "TITLE": "Końskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Końskie]",
+        "N651": "$$aKońskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75701,12 +75701,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3565/1",
-        "TITLE": "",
+        "TITLE": "Końskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Końskie]",
+        "N651": "$$aKońskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75746,12 +75746,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3565/4",
-        "TITLE": "",
+        "TITLE": "Końskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Końskie]",
+        "N651": "$$aKońskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75791,12 +75791,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3566/2",
-        "TITLE": "",
+        "TITLE": "Szydłowiec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Szydłowiec]",
+        "N651": "$$aSzydłowiec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75836,12 +75836,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3566/1",
-        "TITLE": "",
+        "TITLE": "Szydłowiec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Szydłowiec]",
+        "N651": "$$aSzydłowiec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75881,12 +75881,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3566/4",
-        "TITLE": "",
+        "TITLE": "Szydłowiec",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Szydłowiec]",
+        "N651": "$$aSzydłowiec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75926,12 +75926,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3567/2",
-        "TITLE": "",
+        "TITLE": "Solec nad Wisłą",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Solec nad Wisłą]",
+        "N651": "$$aSolec nad Wisłą (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -75971,12 +75971,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3567/1",
-        "TITLE": "",
+        "TITLE": "Solec nad Wisłą",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Solec nad Wisłą]",
+        "N651": "$$aSolec nad Wisłą (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76016,12 +76016,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3567/4",
-        "TITLE": "",
+        "TITLE": "Solec nad Wisłą",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Solec nad Wisłą]",
+        "N651": "$$aSolec nad Wisłą (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76061,12 +76061,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3568/2",
-        "TITLE": "",
+        "TITLE": "Opole Lubelskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole Lubelskie]",
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76106,12 +76106,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3568/1",
-        "TITLE": "",
+        "TITLE": "Opole Lubelskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole Lubelskie]",
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76151,12 +76151,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3568/4",
-        "TITLE": "",
+        "TITLE": "Opole Lubelskie",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Opole Lubelskie]",
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76196,12 +76196,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3569/2",
-        "TITLE": "",
+        "TITLE": "Czerniejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Czerniejów]",
+        "N651": "$$aCzerniejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76241,12 +76241,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3569/1",
-        "TITLE": "",
+        "TITLE": "Czerniejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Czerniejów]",
+        "N651": "$$aCzerniejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76286,12 +76286,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3569/4",
-        "TITLE": "",
+        "TITLE": "Czerniejów",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Czerniejów]",
+        "N651": "$$aCzerniejów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76331,12 +76331,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3570/2",
-        "TITLE": "",
+        "TITLE": "Biskupice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Biskupice]",
+        "N651": "$$aBiskupice (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76376,12 +76376,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3570/1",
-        "TITLE": "",
+        "TITLE": "Biskupice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Biskupice]",
+        "N651": "$$aBiskupice (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76421,12 +76421,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3570/4",
-        "TITLE": "",
+        "TITLE": "Biskupice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Biskupice]",
+        "N651": "$$aBiskupice (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76466,12 +76466,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3660/2",
-        "TITLE": "",
+        "TITLE": "Kluczbork",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Kluczbork]",
+        "N651": "$$aKluczbork (Polsko : oblast)$$7ge1119952"
       },
       "geometry": {
         "type": "Polygon",
@@ -76511,12 +76511,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3660/1",
-        "TITLE": "",
+        "TITLE": "Kluczbork",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Kluczbork]",
+        "N651": "$$aKluczbork (Polsko : oblast)$$7ge1119952"
       },
       "geometry": {
         "type": "Polygon",
@@ -76556,12 +76556,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3660/4",
-        "TITLE": "",
+        "TITLE": "Kluczbork",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Kluczbork]",
+        "N651": "$$aKluczbork (Polsko : oblast)$$7ge1119952"
       },
       "geometry": {
         "type": "Polygon",
@@ -76601,12 +76601,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3661/2",
-        "TITLE": "",
+        "TITLE": "Krzepice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Krzepice]",
+        "N651": "$$aKrzepice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76646,12 +76646,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3661/1",
-        "TITLE": "",
+        "TITLE": "Krzepice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Krzepice]",
+        "N651": "$$aKrzepice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76691,12 +76691,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3661/4",
-        "TITLE": "",
+        "TITLE": "Krzepice",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Krzepice]",
+        "N651": "$$aKrzepice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -76736,12 +76736,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3662/2",
-        "TITLE": "",
+        "TITLE": "Čenstochová",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Čenstochová]",
+        "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138"
       },
       "geometry": {
         "type": "Polygon",
@@ -76781,12 +76781,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3662/1",
-        "TITLE": "",
+        "TITLE": "Čenstochová",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Čenstochová]",
+        "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138"
       },
       "geometry": {
         "type": "Polygon",
@@ -76826,12 +76826,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3662/4",
-        "TITLE": "",
+        "TITLE": "Čenstochová",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Čenstochová]",
+        "N651": "$$aČenstochová (Polsko : oblast)$$7ge193138"
       },
       "geometry": {
         "type": "Polygon",
@@ -76871,12 +76871,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3663/2",
-        "TITLE": "",
+        "TITLE": "Koniecpol",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koniecpol]",
+        "N651": "$$aKoniecpol (Polsko : oblast)$$7ge1120304"
       },
       "geometry": {
         "type": "Polygon",
@@ -76916,12 +76916,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3663/1",
-        "TITLE": "",
+        "TITLE": "Koniecpol",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koniecpol]",
+        "N651": "$$aKoniecpol (Polsko : oblast)$$7ge1120304"
       },
       "geometry": {
         "type": "Polygon",
@@ -76961,12 +76961,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3663/4",
-        "TITLE": "",
+        "TITLE": "Koniecpol",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Koniecpol]",
+        "N651": "$$aKoniecpol (Polsko : oblast)$$7ge1120304"
       },
       "geometry": {
         "type": "Polygon",
@@ -77006,12 +77006,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3664/2",
-        "TITLE": "",
+        "TITLE": "Włoszczowa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Włoszczowa]",
+        "N651": "$$aWłoszczowa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77051,12 +77051,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3664/1",
-        "TITLE": "",
+        "TITLE": "Włoszczowa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Włoszczowa]",
+        "N651": "$$aWłoszczowa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77096,12 +77096,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "3664/4",
-        "TITLE": "",
+        "TITLE": "Włoszczowa",
         "SCALE": "25000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": ""
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "[Włoszczowa]",
+        "N651": "$$aWłoszczowa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",

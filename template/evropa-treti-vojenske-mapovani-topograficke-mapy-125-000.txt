@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 2,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["gw", "xr", "xr", "xr", "xr", "xr"]
+    "valuesByBaseIndex": ["au", "xr", "xr", "xr", "xr", "xr", "xr", "au"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger", "cze", "cze", "ger"]
   }-d
 0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
@@ -72,7 +72,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "2"]
+    "valuesByBaseIndex": ["1", "2", "1", "2", "2", "2", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
@@ -84,13 +84,14 @@ LDR   L -----nem-a22------i-4500
       "Zeměpisný ústav Ministerstva vnitra",
       "Zeměměřičský úřad Čechy a Morava",
       "Zeměměřický úřad",
-      "Československý vojenský zeměpisný ústav"
+      "Československý vojenský zeměpisný ústav",
+      "Rakousko.$$bKartographisches Institut"
     ]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "kn20030604013"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855", "kn20050803023", "ko2013750237", "mzk2015875170", "mzk2015883345", "kn20030604013", "uk2011388116"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -117,7 +118,8 @@ LDR   L -----nem-a22------i-4500
       "[Zeměpisný ústav ministerstva vnitra]",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Landesvermmessungsamt Böhmen und Mähren",
       "[Militärgeographisches Institut ; Vojenský zeměpisný ústav] ; Zeměměřický úřad",
-      "Vojenský zeměpisný ústav"
+      "Vojenský zeměpisný ústav",
+      "[Kartographisches Institut]"
     ]
   }
 24630 L $$a{
@@ -148,7 +150,8 @@ LDR   L -----nem-a22------i-4500
       "[Praha] :$$b[Zeměpisný ústav ministerstva vnitra],",
       "Prag :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
-      "[Praha] :$$bVojenský zeměpisný ústav,"
+      "[Praha] :$$bVojenský zeměpisný ústav,",
+      "[Wien] :$$b[Kartographisches Institut],"
     ]
   }$$c{
     "base":"year"
@@ -232,6 +235,7 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "valuesByBaseIndex": [
     "",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",

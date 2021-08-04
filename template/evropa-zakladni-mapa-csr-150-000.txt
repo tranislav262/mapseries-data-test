@@ -14,12 +14,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr", "xr", "xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xr", "xr", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width": 5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze", "cze", "cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "cze", "cze", "cze"]
   }-d
 0341  L $$b50000{
     "title": "Zeměpisné souřadnice",
@@ -48,9 +48,9 @@ LDR   L -----nem-a22------i-4500
       "attr": "N43"
     }
   } 
-072 7 L $$a624$$xStavební inženýrství$$2Konspekt$$919
+072 7 L $$a528$$xGeodezie. Kartografie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a624.131.1$$2MRF
+080   L $$a911.2:528.42$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -60,12 +60,12 @@ LDR   L -----nem-a22------i-4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)55$$2MRF
+080   L $$a(084.3)528.42$$2MRF
 110{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":45,
@@ -75,12 +75,13 @@ LDR   L -----nem-a22------i-4500
       "Stavební geologie Praha",
       "GEOtest Brno",
       "Projektový ústav dopravních a inženýrských staveb",
-      "Geodetický a kartografický podnik Praha"]
+      "Geodetický a kartografický podnik Praha",
+      "Český úřad geodetický a kartografický"]
   }$$4ctg$$4prt$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222", "ko2003167949"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222", "ko2003167949", "ko2004231816 "]
   }
 24510 L $$a{
     "title": "Název",
@@ -109,7 +110,8 @@ LDR   L -----nem-a22------i-4500
       "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
       "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
       "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
-      "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze"
+      "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze",
+      "Český úřad geodetický a kartografický"
     ]
   }
 24630 L $$a{
@@ -146,6 +148,7 @@ LDR   L -----nem-a22------i-4500
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
+      "[Praha] :$$bVydal Český úřad geodetický a kartografický,",
       "[Praha] :$$bVydal Český úřad geodetický a kartografický,"
     ]
   }$$c{
@@ -159,7 +162,9 @@ LDR   L -----nem-a22------i-4500
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
-      "Kolín :$$bReprodukční zpracování a tisk OT,"
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "",
+      "Praha :$$bVytiskl Geodetický a kartografický podnik v Praze, n.p.,"
     ]
   }$$c{
     "base":"year"
@@ -207,7 +212,7 @@ LDR   L -----nem-a22------i-4500
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
 500   L $$aDalší údaje o vydání: Stav k 1. 1. 1982 ; Pro vnitřní potřebu státních orgánů a socialistických organizací
-650 7 L $$ainženýrská geologie$$7ph121179$$2czenas
+650 7 L $$atopografie$$7ph126691$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -218,12 +223,12 @@ LDR   L -----nem-a22------i-4500
       "attr": "N651"
     }
   }
-655 7 L $$ageologické mapy$$7fd132402
+655 7 L $$atopografické mapy$$7fd809173
 710{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce1",
@@ -233,7 +238,8 @@ LDR   L -----nem-a22------i-4500
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
-    "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816"
+    "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816",
+    "Geodetický a kartografický podnik Praha$$4prt$$4ctg$$7ko2003167949"
   ]
 }
 710{

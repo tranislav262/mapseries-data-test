@@ -77,7 +77,7 @@ LDR   L -----nem-a22------i-4500
       "Projektový ústav dopravních a inženýrských staveb",
       "Geodetický a kartografický podnik Praha",
       "Český úřad geodetický a kartografický"]
-  }$$4ctg$$4prt$$7{
+  }$$4ctg$$4aut$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
@@ -211,7 +211,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: Stav k 1. 1. 1982 ; Pro vnitřní potřebu státních orgánů a socialistických organizací
+500   L $$aDalší údaje o vydání: Stav k 1. 1. 1981, stav územně technických jednotek a správního rozdělení k 1. 1. 1982 ; Vyšlo v r. 1984 ; Pro vnitřní potřebu státních orgánů a socialistických organizací
 650 7 L $$atopografie$$7ph126691$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -272,7 +272,7 @@ LDR   L -----nem-a22------i-4500
     ""
   ]
 }
-830 0 L $$aZákladní mapa ČSR 1:50 000 ;$$v{
+830 0 L $$aZákladní mapa ČSSR 1:50 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [

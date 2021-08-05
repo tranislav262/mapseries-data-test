@@ -213,6 +213,7 @@ LDR   L -----nem-a22------i-4500
   }
 500   L $$aDalší údaje o vydání: Stav k 1. 1. 1981, stav územně technických jednotek a správního rozdělení k 1. 1. 1982 ; Vyšlo v r. 1984 ; Pro vnitřní potřebu státních orgánů a socialistických organizací
 650 7 L $$atopografie$$7ph126691$$2czenas
+650 7 L $$asídelní geografie$$7ph116378$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -224,6 +225,7 @@ LDR   L -----nem-a22------i-4500
     }
   }
 655 7 L $$atopografické mapy$$7fd809173
+655 7 L $$amapy sídel$$7fd131970
 710{
     "base":"corporation",
     "width": 1,
@@ -246,7 +248,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
@@ -255,7 +257,9 @@ LDR   L -----nem-a22------i-4500
     "Geoindustria Praha$$4com$$7ko2003162192",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
-    "Ústřední ústav geologický$$4pbl$$7kn20010725011"
+    "Ústřední ústav geologický$$4pbl$$7kn20010725011",
+    "",
+    "Terplan (firma)$$4ctg$$4aut$$7ko2008450183"
   ]
 }
 710{

@@ -1488,7 +1488,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Revúca|Tiszolc",
-        "N651": "$$aRevúca (Slovensko : oblast)"
+        "N651": "$$aRevúca (Slovensko : oblast)$$7xx0127395"
       },
       "geometry": {
         "type": "Polygon",
@@ -1652,7 +1652,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Pavlovce",
-        "N651": "$$aPavlovce nad Uhom (Slovensko : oblast)"
+        "N651": "$$aPavlovce nad Uhom (Slovensko : oblast)$$7ge1120690"
       },
       "geometry": {
         "type": "Polygon",
@@ -1693,7 +1693,7 @@
         "N43": "$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Marchegg",
-        "N651": "$$aMarchegg (Rakousko : oblast)"
+        "N651": "$$aMarchegg (Rakousko : oblast)$$7ge1120691"
       },
       "geometry": {
         "type": "Polygon",
@@ -1898,7 +1898,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Málinec",
-        "N651": "$$aMálinec (Slovensko : oblast)"
+        "N651": "$$aMálinec (Slovensko : oblast)$$7ge1119939"
       },
       "geometry": {
         "type": "Polygon",

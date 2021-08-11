@@ -29,7 +29,6 @@ LDR   L -----nem-a22------i-4500
       "formatFunction": "ms:marc21_0341_bbox"
     }
   }
-040   L $$aBOA001$$bcze$$erda
 0410  L $$a{
     "id":"langcode",
     "width":8,

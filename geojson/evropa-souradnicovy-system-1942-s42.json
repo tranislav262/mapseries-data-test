@@ -1570,7 +1570,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Krásná|Klingenthal",
-        "N651": "$$aKrásná (Kraslice, Česko : oblast)|$$aKlingenthal (Německo : oblast)$$7ge1120391"
+        "N651": "$$aKraslice (Česko : oblast)$$7ge129674|$$aKlingenthal (Německo : oblast)$$7ge1120391"
       },
       "geometry": {
         "type": "Polygon",
@@ -2636,7 +2636,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-us",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Řevničov",
-        "N651": "$$aŘevničov (Česko : oblast)"
+        "N651": "$$aŘevničov (Česko : oblast)$$7ge1120397"
       },
       "geometry": {
         "type": "Polygon",
@@ -3087,7 +3087,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Neratov|Bystrzyca Kłodzka",
-        "N651": "$$aNeratov (Bartošovice v Orlických horách, Česko : oblast)|$$aKladská Bystřice (Polsko : oblast)"
+        "N651": "$$aNeratov (Bartošovice v Orlických horách, Česko : oblast)|$$aKladská Bystřice (Polsko : oblast)$$7ge1122383"
       },
       "geometry": {
         "type": "Polygon",
@@ -3128,7 +3128,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Kunčice|Stronie Śląskie",
-        "N651": "$$aKunčice (Staré Město, Česko : oblast)|$$aStronie Śląskie (Polsko : oblast)"
+        "N651": "$$aKunčice (Staré Město, Česko : oblast)|$$aStronie Śląskie (Polsko : oblast)$$7ge1120740"
       },
       "geometry": {
         "type": "Polygon",
@@ -3251,7 +3251,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Jindřichov",
-        "N651": "$$aJindřichov (Bruntál, Česko : oblast)"
+        "N651": "$$aJindřichov (Bruntál, Česko : oblast)$$7ge1123433"
       },
       "geometry": {
         "type": "Polygon",
@@ -3292,7 +3292,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Jindřichov",
-        "N651": "$$aJindřichov (Bruntál, Česko : oblast)"
+        "N651": "$$aJindřichov (Bruntál, Česko : oblast)$$7ge1123433"
       },
       "geometry": {
         "type": "Polygon",
@@ -3333,7 +3333,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Libá|Marktredwitz",
-        "N651": "$$aLibá (Česko : oblast)|$$aMarktredwitz (Německo : oblast)"
+        "N651": "$$aLibá (Česko : oblast)$$7ge1120675|$$aMarktredwitz (Německo : oblast)$$7ge1120666"
       },
       "geometry": {
         "type": "Polygon",
@@ -3415,7 +3415,7 @@
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "Kynšperk nad Ohří|Kynšperk n.Ohří|Kynšperk n. Ohří",
-        "N651": "$$aKynšperk nad Ohří (Česko : oblast)"
+        "N651": "$$aKynšperk nad Ohří (Česko : oblast)$$7ge1120676"
       },
       "geometry": {
         "type": "Polygon",
@@ -3620,7 +3620,7 @@
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Nové Strašecí|Stochov",
-        "N651": "$$aNové Strašecí (Česko : oblast)$$7ge189002|$$aStochov (Česko : oblast)"
+        "N651": "$$aNové Strašecí (Česko : oblast)$$7ge189002|$$aStochov (Česko : oblast)$$7ge1120677"
       },
       "geometry": {
         "type": "Polygon",
@@ -5096,7 +5096,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
         "N245A": "Libina|Hor. Libina",
-        "N651": "$$aLibina (Česko : oblast)"
+        "N651": "$$aLibina (Česko : oblast)$$7ge1122384"
       },
       "geometry": {
         "type": "Polygon",
@@ -5260,7 +5260,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Stará Knížecí Huť|Bärnau",
-        "N651": "$$aStará Knížecí Huť (Lesná, Tachov, Česko)$$7ge277370|$$aBärnau (Německo : oblast)"
+        "N651": "$$aStará Knížecí Huť (Lesná, Tachov, Česko)$$7ge277370|$$aBärnau (Německo : oblast)$$7ge1120668"
       },
       "geometry": {
         "type": "Polygon",
@@ -5506,7 +5506,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pl",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.317)$$2MRF",
         "N245A": "Březové Hory|Příbram-západ",
-        "N651": "$$aBřezové Hory (Příbram, Česko : oblast)|$$aPříbram (Česko : oblast)$$7ge130587"
+        "N651": "$$aBřezové Hory (Příbram, Česko : oblast)$$7ge1120705|$$aPříbram (Česko : oblast)$$7ge130587"
       },
       "geometry": {
         "type": "Polygon",
@@ -6613,7 +6613,7 @@
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-st",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Červ. Řečice|Červená Řečice",
-        "N651": "$$aČervená Řečice (Česko : oblast)"
+        "N651": "$$aČervená Řečice (Česko : oblast)$$7ge1120678"
       },
       "geometry": {
         "type": "Polygon",
@@ -7556,7 +7556,7 @@
         "N43": "$$ae-xr---$$be-xr-vy",
         "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Dolní Cerekev",
-        "N651": "$$aDolní Cerekev (Česko : oblast)"
+        "N651": "$$aDolní Cerekev (Česko : oblast)$$7ge1120679"
       },
       "geometry": {
         "type": "Polygon",
@@ -9893,7 +9893,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Březník|Grafenau",
-        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889|$$aGrafenau (Německo : oblast)"
+        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889|$$aGrafenau (Německo : oblast)$$7ge1120673"
       },
       "geometry": {
         "type": "Polygon",
@@ -9934,7 +9934,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Strážný|Mauth",
-        "N651": "$$aStrážný (Česko : oblast)$$7ge829181|$$aMauth (Německo : oblast)"
+        "N651": "$$aStrážný (Česko : oblast)$$7ge829181|$$aMauth (Německo : oblast)$$7ge1120674"
       },
       "geometry": {
         "type": "Polygon",
@@ -10180,7 +10180,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Veclov|Heidenreichstein",
-        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)|$$aHeidenreichstein (Rakousko : oblast)"
+        "N651": "$$aVeclov (Staré Město pod Landštejnem, Česko : oblast)$$7ge1120684|$$aHeidenreichstein (Rakousko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10590,7 +10590,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Hluk",
-        "N651": "$$aHluk (Česko : oblast)"
+        "N651": "$$aHluk (Česko : oblast)$$7ge1120682"
       },
       "geometry": {
         "type": "Polygon",
@@ -10631,7 +10631,7 @@
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Hor. Súča",
-        "N651": "$$aHorná Súča (Slovensko : oblast)"
+        "N651": "$$aHorná Súča (Slovensko : oblast)$$7ge1120792"
       },
       "geometry": {
         "type": "Polygon",
@@ -10672,7 +10672,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Pernek|Haidmühle",
-        "N651": "$$aPernek (Horní Planá, Česko : oblast)|$$aHaidmühle (Německo : oblast)"
+        "N651": "$$aPernek (Horní Planá, Česko : oblast)$$7ge1120795|$$aHaidmühle (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11328,7 +11328,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Tichá",
-        "N651": "$$aTichá (Dolní Dvořiště, Česko : oblast)"
+        "N651": "$$aTichá (Dolní Dvořiště, Česko : oblast)$$7ge1120821"
       },
       "geometry": {
         "type": "Polygon",
@@ -11369,7 +11369,7 @@
         "N43": "$$ae-xo---$$ae-au---$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Malé Leváre",
-        "N651": "$$aMalé Leváre (Slovensko : oblast)"
+        "N651": "$$aMalé Leváre (Slovensko : oblast)$$7ge1123376"
       },
       "geometry": {
         "type": "Polygon",
@@ -11410,7 +11410,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Kúty",
-        "N651": "$$aKúty (Slovensko : oblast)"
+        "N651": "$$aKúty (Slovensko : oblast)$$7ge1121763"
       },
       "geometry": {
         "type": "Polygon",
@@ -11492,7 +11492,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Vrbové",
-        "N651": "$$aVrbové (Slovensko : oblast)"
+        "N651": "$$aVrbové (Slovensko : oblast)$$7ge1120707"
       },
       "geometry": {
         "type": "Polygon",
@@ -11574,7 +11574,7 @@
         "N43": "$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Gajary",
-        "N651": "$$aGajary (Slovensko : oblast)"
+        "N651": "$$aGajary (Slovensko : oblast)$$7ge1121971"
       },
       "geometry": {
         "type": "Polygon",
@@ -11656,7 +11656,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Modra",
-        "N651": "$$aModra (Slovensko : oblast)"
+        "N651": "$$aModra (Slovensko : oblast)$$7ge1120693"
       },
       "geometry": {
         "type": "Polygon",
@@ -11779,7 +11779,7 @@
         "N43": "$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Devínska Nová Ves",
-        "N651": "$$aDevínska Nová Ves (Bratislava, Slovensko : oblast)"
+        "N651": "$$aDevínska Nová Ves (Bratislava, Slovensko : oblast)$$7ge1120713"
       },
       "geometry": {
         "type": "Polygon",
@@ -11902,7 +11902,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Sereď|Galanta",
-        "N651": "$$aSereď (Slovensko : oblast)|$$aGalanta (Slovensko : oblast)$$7xx0117813"
+        "N651": "$$aSereď (Slovensko : oblast)$$7ge1120694|$$aGalanta (Slovensko : oblast)$$7xx0117813"
       },
       "geometry": {
         "type": "Polygon",
@@ -12066,7 +12066,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Šamorín",
-        "N651": "$$aŠamorín (Slovensko : oblast)"
+        "N651": "$$aŠamorín (Slovensko : oblast)$$7ge1120697"
       },
       "geometry": {
         "type": "Polygon",
@@ -12107,7 +12107,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Jelka",
-        "N651": "$$aJelka (Slovensko : oblast)"
+        "N651": "$$aJelka (Slovensko : oblast)$$7ge1121985"
       },
       "geometry": {
         "type": "Polygon",
@@ -12681,7 +12681,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Gura",
-        "N651": "$$aNýdek (Česko : oblast)"
+        "N651": "$$aNýdek (Česko : oblast)$$7ge1120704"
       },
       "geometry": {
         "type": "Polygon",
@@ -12804,7 +12804,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Bystřice",
-        "N651": "$$aBystřice (Frýdek-Místek, Česko : oblast)"
+        "N651": "$$aBystřice (Frýdek-Místek, Česko : oblast)$$7ge1120771"
       },
       "geometry": {
         "type": "Polygon",
@@ -12927,7 +12927,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Oravská Polhora|Jeleśnia",
-        "N651": "$$aOravská Polhora (Slovensko : oblast)$$7ge516122|$$aJeleśnia (Polsko : oblast)"
+        "N651": "$$aOravská Polhora (Slovensko : oblast)$$7ge516122|$$aJeleśnia (Polsko : oblast)$$7ge1120766"
       },
       "geometry": {
         "type": "Polygon",
@@ -13214,7 +13214,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Námestovo",
-        "N651": "$$aNámestovo (Slovensko : oblast)"
+        "N651": "$$aNámestovo (Slovensko : oblast)$$7ge1120738"
       },
       "geometry": {
         "type": "Polygon",
@@ -13501,7 +13501,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Kurov",
-        "N651": "$$aKurov (Slovensko : oblast)"
+        "N651": "$$aKurov (Slovensko : oblast)$$7ge1120756"
       },
       "geometry": {
         "type": "Polygon",
@@ -13665,7 +13665,7 @@
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Hovězí",
-        "N651": "$$aHovězí (Česko : oblast)"
+        "N651": "$$aHovězí (Česko : oblast)$$7ge1120695"
       },
       "geometry": {
         "type": "Polygon",
@@ -13706,7 +13706,7 @@
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.323)$$2MRF",
         "N245A": "Mariková",
-        "N651": "$$aDolná Mariková (Slovensko : oblast)"
+        "N651": "$$aDolná Mariková (Slovensko : oblast)$$7ge1123358"
       },
       "geometry": {
         "type": "Polygon",
@@ -13911,7 +13911,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Nižná",
-        "N651": "$$aNižná (Tvrdošín, Slovensko : oblast)"
+        "N651": "$$aNižná (Tvrdošín, Slovensko : oblast)$$7ge1120824"
       },
       "geometry": {
         "type": "Polygon",
@@ -13993,7 +13993,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Tatranská Javorina",
-        "N651": "$$aTatranská Javorina (Slovensko : oblast)"
+        "N651": "$$aTatranská Javorina (Slovensko : oblast)$$7ge1121990"
       },
       "geometry": {
         "type": "Polygon",
@@ -14034,7 +14034,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Spišská Belá",
-        "N651": "$$aSpišská Belá (Slovensko : oblast)"
+        "N651": "$$aSpišská Belá (Slovensko : oblast)$$7ge1120723"
       },
       "geometry": {
         "type": "Polygon",
@@ -14116,7 +14116,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Ľubotín",
-        "N651": "$$aĽubotín (Slovensko : oblast)"
+        "N651": "$$aĽubotín (Slovensko : oblast)$$7ge1123390"
       },
       "geometry": {
         "type": "Polygon",
@@ -14157,7 +14157,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Malcov",
-        "N651": "$$aMalcov (Slovensko : oblast)"
+        "N651": "$$aMalcov (Slovensko : oblast)$$7ge1123397"
       },
       "geometry": {
         "type": "Polygon",
@@ -14526,7 +14526,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Turany",
-        "N651": "$$aTurany (Slovensko : oblast)"
+        "N651": "$$aTurany (Slovensko : oblast)$$7ge1120699"
       },
       "geometry": {
         "type": "Polygon",
@@ -14649,7 +14649,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Važec",
-        "N651": "$$aVažec (Slovensko : oblast)"
+        "N651": "$$aVažec (Slovensko : oblast)$$7ge1120739"
       },
       "geometry": {
         "type": "Polygon",
@@ -14690,7 +14690,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Vysoké Tatry|Vys. Tatry",
-        "N651": "$$aVysoké Tatry (Slovensko : oblast)"
+        "N651": "$$aVysoké Tatry (Slovensko : oblast)$$7ge1123436"
       },
       "geometry": {
         "type": "Polygon",
@@ -14895,7 +14895,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Kapušany",
-        "N651": "$$aKapušany (Slovensko : oblast)"
+        "N651": "$$aKapušany (Slovensko : oblast)$$7ge1120719"
       },
       "geometry": {
         "type": "Polygon",
@@ -14977,7 +14977,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Oľka",
-        "N651": "$$aOľka (Slovensko : oblast)"
+        "N651": "$$aOľka (Slovensko : oblast)$$7ge1123360"
       },
       "geometry": {
         "type": "Polygon",
@@ -15018,7 +15018,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Stakčín",
-        "N651": "$$aStakčín (Slovensko : oblast)"
+        "N651": "$$aStakčín (Slovensko : oblast)$$7ge1120727"
       },
       "geometry": {
         "type": "Polygon",
@@ -15059,7 +15059,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Zboj|Wetlina",
-        "N651": "$$aZboj (Slovensko : oblast)"
+        "N651": "$$aZboj (Slovensko : oblast)$$7ge1120720"
       },
       "geometry": {
         "type": "Polygon",
@@ -15100,7 +15100,7 @@
         "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Nová Sedlica",
-        "N651": "$$aNová Sedlica (Slovensko : oblast)"
+        "N651": "$$aNová Sedlica (Slovensko : oblast)$$7ge1123373"
       },
       "geometry": {
         "type": "Polygon",
@@ -15182,7 +15182,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Valaská Belá",
-        "N651": "$$aValaská Belá (Slovensko : oblast)"
+        "N651": "$$aValaská Belá (Slovensko : oblast)$$7ge1120700"
       },
       "geometry": {
         "type": "Polygon",
@@ -15223,7 +15223,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Nitrianske Pravno",
-        "N651": "$$aNitrianske Pravno (Slovensko : oblast)"
+        "N651": "$$aNitrianske Pravno (Slovensko : oblast)$$7ge1120708"
       },
       "geometry": {
         "type": "Polygon",
@@ -15305,7 +15305,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Liptovské Revúce",
-        "N651": "$$aLiptovské Revúce (Slovensko : oblast)"
+        "N651": "$$aLiptovské Revúce (Slovensko : oblast)$$7ge1123362"
       },
       "geometry": {
         "type": "Polygon",
@@ -15346,7 +15346,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Liptovská Lúžna",
-        "N651": "$$aLiptovská Lúžna (Slovensko : oblast)"
+        "N651": "$$aLiptovská Lúžna (Slovensko : oblast)$$7ge1123400"
       },
       "geometry": {
         "type": "Polygon",
@@ -15428,7 +15428,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Polomka",
-        "N651": "$$aPolomka (Slovensko : oblast)"
+        "N651": "$$aPolomka (Slovensko : oblast)$$7ge1122380"
       },
       "geometry": {
         "type": "Polygon",
@@ -15838,7 +15838,7 @@
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Ubľa",
-        "N651": "$$aUbľa (Slovensko : oblast)"
+        "N651": "$$aUbľa (Slovensko : oblast)$$7ge1120741"
       },
       "geometry": {
         "type": "Polygon",
@@ -15920,7 +15920,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Svinná",
-        "N651": "$$aSvinná (Slovensko : oblast)"
+        "N651": "$$aSvinná (Slovensko : oblast)$$7ge1123368"
       },
       "geometry": {
         "type": "Polygon",
@@ -16330,7 +16330,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Smolník",
-        "N651": "$$aSmolník (Slovensko : oblast)"
+        "N651": "$$aSmolník (Slovensko : oblast)$$7ge1122379"
       },
       "geometry": {
         "type": "Polygon",
@@ -16371,7 +16371,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Nižný Medzev",
-        "N651": "$$aMedzev (Slovensko : oblast)"
+        "N651": "$$aMedzev (Slovensko : oblast)$$7ge1120787"
       },
       "geometry": {
         "type": "Polygon",
@@ -16576,7 +16576,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Sobrance",
-        "N651": "$$aSobrance (Slovensko : oblast)"
+        "N651": "$$aSobrance (Slovensko : oblast)$$7ge1120717"
       },
       "geometry": {
         "type": "Polygon",
@@ -16904,7 +16904,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Hriňová",
-        "N651": "$$aHriňová (Slovensko : oblast)"
+        "N651": "$$aHriňová (Slovensko : oblast)$$7ge1122381"
       },
       "geometry": {
         "type": "Polygon",
@@ -16945,7 +16945,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Hnúšťa",
-        "N651": "$$aHnúšťa (Slovensko : oblast)"
+        "N651": "$$aHnúšťa (Slovensko : oblast)$$7ge1121988"
       },
       "geometry": {
         "type": "Polygon",
@@ -16986,7 +16986,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Jelšava",
-        "N651": "$$aJelšava (Slovensko : oblast)"
+        "N651": "$$aJelšava (Slovensko : oblast)$$7ge1121982"
       },
       "geometry": {
         "type": "Polygon",
@@ -17027,7 +17027,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Plešivec",
-        "N651": "$$aPlešivec (Slovensko : oblast)"
+        "N651": "$$aPlešivec (Slovensko : oblast)$$7ge1122382"
       },
       "geometry": {
         "type": "Polygon",
@@ -17109,7 +17109,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Turna n. Bodvou",
-        "N651": "$$aTurňa nad Bodvou (Slovensko : oblast)"
+        "N651": "$$aTurňa nad Bodvou (Slovensko : oblast)$$7ge1122345"
       },
       "geometry": {
         "type": "Polygon",
@@ -17150,7 +17150,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Moldava n. Bodvou",
-        "N651": "$$aMoldava nad Bodvou (Slovensko : oblast)"
+        "N651": "$$aMoldava nad Bodvou (Slovensko : oblast)$$7ge1122349"
       },
       "geometry": {
         "type": "Polygon",
@@ -17191,7 +17191,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Seňa",
-        "N651": "$$aSeňa (Slovensko : oblast)"
+        "N651": "$$aSeňa (Slovensko : oblast)$$7ge1123364"
       },
       "geometry": {
         "type": "Polygon",
@@ -17273,7 +17273,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Budkovce",
-        "N651": "$$aBudkovce (Slovensko : oblast)"
+        "N651": "$$aBudkovce (Slovensko : oblast)$$7ge1120774"
       },
       "geometry": {
         "type": "Polygon",
@@ -17355,7 +17355,7 @@
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Vyšné Nemecké",
-        "N651": "$$aVyšné Nemecké (Slovensko : oblast)"
+        "N651": "$$aVyšné Nemecké (Slovensko : oblast)$$7ge1123356"
       },
       "geometry": {
         "type": "Polygon",
@@ -17396,7 +17396,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Výčapy - Opatovce",
-        "N651": "$$aVýčapy-Opatovce (Slovensko : oblast)"
+        "N651": "$$aVýčapy-Opatovce (Slovensko : oblast)$$7ge1121972"
       },
       "geometry": {
         "type": "Polygon",
@@ -17601,7 +17601,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Budiná",
-        "N651": "$$aBudiná (Slovensko : oblast)"
+        "N651": "$$aBudiná (Slovensko : oblast)$$7ge1120759"
       },
       "geometry": {
         "type": "Polygon",
@@ -17642,7 +17642,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Cinobaňa",
-        "N651": "$$aCinobaňa (Slovensko : oblast)"
+        "N651": "$$aCinobaňa (Slovensko : oblast)$$7ge1120761"
       },
       "geometry": {
         "type": "Polygon",
@@ -17765,7 +17765,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Šafárikovo",
-        "N651": "$$aTornaľa (Slovensko : oblast)"
+        "N651": "$$aTornaľa (Slovensko : oblast)$$7ge1120777"
       },
       "geometry": {
         "type": "Polygon",
@@ -17888,7 +17888,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Borša",
-        "N651": "$$aBorša (Slovensko : oblast)"
+        "N651": "$$aBorša (Slovensko : oblast)$$7ge1123354"
       },
       "geometry": {
         "type": "Polygon",
@@ -18052,7 +18052,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Vráble",
-        "N651": "$$aVráble (Slovensko : oblast)"
+        "N651": "$$aVráble (Slovensko : oblast)$$7ge1120711"
       },
       "geometry": {
         "type": "Polygon",
@@ -18134,7 +18134,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Sebechleby",
-        "N651": "$$aSebechleby (Slovensko : oblast)"
+        "N651": "$$aSebechleby (Slovensko : oblast)$$7ge1120775"
       },
       "geometry": {
         "type": "Polygon",
@@ -18216,7 +18216,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Modrý Kameň",
-        "N651": "$$aModrý Kameň (Slovensko : oblast)"
+        "N651": "$$aModrý Kameň (Slovensko : oblast)$$7ge1120732"
       },
       "geometry": {
         "type": "Polygon",
@@ -18380,7 +18380,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Číž",
-        "N651": "$$aČíž (Slovensko : oblast)"
+        "N651": "$$aČíž (Slovensko : oblast)$$7ge1120729"
       },
       "geometry": {
         "type": "Polygon",
@@ -18503,7 +18503,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Želiezovce",
-        "N651": "$$aŽeliezovce (Slovensko : oblast)"
+        "N651": "$$aŽeliezovce (Slovensko : oblast)$$7ge1120728"
       },
       "geometry": {
         "type": "Polygon",

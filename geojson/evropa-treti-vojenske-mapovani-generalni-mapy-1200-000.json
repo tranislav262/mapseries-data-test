@@ -1530,7 +1530,7 @@
         "N43": "$$ae-gr---$$ae-xn---",
         "N80": "$$a913(495)$$2MRF|$$a913(497.7)$$2MRF",
         "N245A": "Vodena",
-        "N651": "$$aEdessa (Řecko : oblast)",
+        "N651": "$$aEdessa (Řecko : oblast)$$7ge1123525",
         "POZNAMKA": "Vodena"
       },
       "geometry": {
@@ -1810,7 +1810,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Lamía",
-        "N651": "$$aLamia (Řecko : oblast)",
+        "N651": "$$aLamia (Řecko : oblast)$$7ge1123528",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -3490,7 +3490,7 @@
         "N43": "$$ae-au---$$ae-xv---",
         "N80": "$$a913(436.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "Klagenfurt",
-        "N651": "$$aKlagenfurt (Rakousko : oblast)\n$$7ge273424",
+        "N651": "$$aKlagenfurt (Rakousko : oblast)$$7ge273424",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4010,7 +4010,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Ananiew",
-        "N651": "$$aAnanjiv (Ukrajina : oblast)",
+        "N651": "$$aAnaňjiv (Ukrajina : oblast)$$7ge1123529",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6690,7 +6690,7 @@
         "N43": "$$ae-gr---$$ae-aa---",
         "N80": "$$a913(495)$$2MRF|$$a913(496.5)$$2MRF",
         "N245A": "Janina",
-        "N651": "$$aIoánnina (Řecko : oblast)",
+        "N651": "$$aJanina (Řecko : oblast)$$7ge1123409",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -6770,7 +6770,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Arta",
-        "N651": "$$aArta (Řecko : oblast)",
+        "N651": "$$aArta (Řecko : oblast)$$7ge1123532",
         "POZNAMKA": ""
       },
       "geometry": {

@@ -1531,7 +1531,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Szklarska Poręba",
-        "N651": "$$aSzklarska Poręba (Polsko : oblast)"
+        "N651": "$$aSzklarska Poręba (Polsko : oblast)$$7ge1120384"
       },
       "geometry": {
         "coordinates": [
@@ -2451,7 +2451,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Lubawka",
-        "N651": "$$aLubawka (Polsko : oblast)"
+        "N651": "$$aLubawka (Polsko : oblast)$$7ge129891"
       },
       "geometry": {
         "coordinates": [
@@ -5251,7 +5251,7 @@
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Bohušovice nad Ohří",
-        "N651": "$$aBohušovice nad Ohří (Česko : oblast)"
+        "N651": "$$aBohušovice nad Ohří (Česko : oblast)$$7ge1104194"
       },
       "geometry": {
         "coordinates": [

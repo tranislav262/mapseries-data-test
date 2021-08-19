@@ -3128,7 +3128,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Kunčice|Stronie Śląskie",
-        "N651": "$$aKunčice (Staré Město, Česko : oblast)|$$aStronie Śląskie (Polsko : oblast)$$7ge1120740"
+        "N651": "$$aStaré Město (Šumperk, Česko : oblast)$$7ge171728|$$aStronie Śląskie (Polsko : oblast)$$7ge1120740"
       },
       "geometry": {
         "type": "Polygon",
@@ -4317,7 +4317,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Čupřina|Tirschenreuth",
-        "N651": "$$aČupřina (Český les, Česko : hora)|$$aTirschenreuth (Německo : oblast)$$7ge1120667"
+        "N651": "$$aČupřina (Český les, Česko : hora)$$7ge1123602|$$aTirschenreuth (Německo : oblast)$$7ge1120667"
       },
       "geometry": {
         "type": "Polygon",
@@ -9852,7 +9852,7 @@
         "N43": "$$ae-gx---",
         "N80": "$$a913(430)$$2MRF",
         "N245A": "Regen",
-        "N651": "$$aRegen (Německo : oblast)"
+        "N651": "$$aRegen (Německo : oblast)$$7ge1120672"
       },
       "geometry": {
         "type": "Polygon",
@@ -11451,7 +11451,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Jablonica",
-        "N651": "$$aJablonica (Slovensko : oblast)"
+        "N651": "$$aJablonica (Slovensko : oblast)$$7ge1123785"
       },
       "geometry": {
         "type": "Polygon",
@@ -12886,7 +12886,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Milówka",
-        "N651": "$$aMilówka (Polsko : oblast)"
+        "N651": "$$aMilówka (Polsko : oblast)$$7ge1123559"
       },
       "geometry": {
         "type": "Polygon",
@@ -12968,7 +12968,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Zawoja",
-        "N651": "$$aZawoja (Polsko : oblast)"
+        "N651": "$$aZawoja (Polsko : oblast)$$7ge1123562"
       },
       "geometry": {
         "type": "Polygon",
@@ -13173,7 +13173,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Nová Bystrica",
-        "N651": "$$aNová Bystrica (Slovensko : oblast)"
+        "N651": "$$aNová Bystrica (Slovensko : oblast)$$7ge1123787"
       },
       "geometry": {
         "type": "Polygon",
@@ -13296,7 +13296,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Czarny Dunajec",
-        "N651": "$$aCzarny Dunajec (Polsko : oblast)"
+        "N651": "$$aCzarny Dunajec (Polsko : oblast)$$7ge1123511"
       },
       "geometry": {
         "type": "Polygon",
@@ -13419,7 +13419,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Piwniczna",
-        "N651": "$$aPiwniczna-Zdrój (Polsko : oblast)"
+        "N651": "$$aPiwniczna-Zdrój (Polsko : oblast)$$7ge1123570"
       },
       "geometry": {
         "type": "Polygon",
@@ -13460,7 +13460,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Malý Lipník",
-        "N651": "$$aMalý Lipník (Slovensko : oblast)"
+        "N651": "$$aMalý Lipník (Slovensko : oblast)$$7ge1123789"
       },
       "geometry": {
         "type": "Polygon",
@@ -13583,7 +13583,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Tylawa ",
-        "N651": "$$aTylawa (Polsko : oblast)"
+        "N651": "$$aTylawa (Polsko : oblast)$$7ge1123568"
       },
       "geometry": {
         "type": "Polygon",
@@ -13624,7 +13624,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Čertižné",
-        "N651": "$$aČertižné (Slovensko : oblast)"
+        "N651": "$$aČertižné (Slovensko : oblast)$$7ge1123829"
       },
       "geometry": {
         "type": "Polygon",
@@ -14321,7 +14321,7 @@
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Svetlice",
-        "N651": "$$aSvetlice (Slovensko : oblast)"
+        "N651": "$$aSvetlice (Slovensko : oblast)$$7ge1123791"
       },
       "geometry": {
         "type": "Polygon",
@@ -15387,7 +15387,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Horná Lehota",
-        "N651": "$$aHorná Lehota (Brezno, Slovensko : oblast)"
+        "N651": "$$aHorná Lehota (Brezno, Slovensko : oblast)$$7ge1123812"
       },
       "geometry": {
         "type": "Polygon",
@@ -15674,7 +15674,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Solivar",
-        "N651": "$$aSolivar (Prešov, Slovensko : oblast)"
+        "N651": "$$aSolivar (Prešov, Slovensko : oblast)$$7ge1123810"
       },
       "geometry": {
         "type": "Polygon",
@@ -15879,7 +15879,7 @@
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Černohlava",
-        "N651": "$$aČernohlava (Ukrajina : oblast)"
+        "N651": "$$aČornoholova (Ukrajina : oblast)$$7ge1123822"
       },
       "geometry": {
         "type": "Polygon",
@@ -16617,7 +16617,7 @@
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Koromľa",
-        "N651": "$$aKoromľa (Slovensko : oblast)"
+        "N651": "$$aKoromľa (Slovensko : oblast)$$7ge1123793"
       },
       "geometry": {
         "type": "Polygon",
@@ -16740,7 +16740,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Bystričany",
-        "N651": "$$aBystričany (Slovensko : oblast)"
+        "N651": "$$aBystričany (Slovensko : oblast)$$7ge1123795"
       },
       "geometry": {
         "type": "Polygon",
@@ -18175,7 +18175,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Cerovo",
-        "N651": "$$aCerovo (Slovensko : oblast)"
+        "N651": "$$aCerovo (Slovensko : oblast)$$7ge1123800"
       },
       "geometry": {
         "type": "Polygon",
@@ -18462,7 +18462,7 @@
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Veľké Lovce",
-        "N651": "$$aVeľké Lovce (Slovensko : oblast)"
+        "N651": "$$aVeľké Lovce (Slovensko : oblast)$$7ge1123802"
       },
       "geometry": {
         "type": "Polygon",
@@ -18585,7 +18585,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Vinica",
-        "N651": "$$aVinica (Slovensko : oblast)"
+        "N651": "$$aVinica (Slovensko : oblast)$$7ge1123804"
       },
       "geometry": {
         "type": "Polygon",

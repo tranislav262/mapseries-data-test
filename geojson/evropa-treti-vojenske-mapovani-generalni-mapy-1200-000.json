@@ -2490,7 +2490,7 @@
         "N43": "$$ae-bw---$$ae-pl---",
         "N80": "$$a913(476)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Petrikowo",
-        "N651": "$$aPetrykaŭ (Bělorusko : oblast)",
+        "N651": "$$aPetrykaŭ (Bělorusko : oblast)$$7ge1124130",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2570,7 +2570,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Catalza",
-        "N651": "$$aÇatalca (Turecko : oblast)",
+        "N651": "$$aIstanbul (Turecko : oblast)$$7ge749578",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2650,7 +2650,7 @@
         "N43": "$$aa-tu---$$ae-bu---",
         "N80": "$$a913(560)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Midia",
-        "N651": "$$aKıyıköy (Turecko : oblast)",
+        "N651": "$$aKıyıköy (Turecko : oblast)$$7ge1124119",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -2730,7 +2730,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Bolgrad",
-        "N651": "$$aBolhrad (Ukrajina : oblast)",
+        "N651": "$$aBolhrad (Ukrajina : oblast)$$7ge1124136",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -4130,7 +4130,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Rogaczew",
-        "N651": "$$aRahačoŭ (Bělorusko : oblast)",
+        "N651": "$$aRahačoŭ (Bělorusko : oblast)$$7",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7570,7 +7570,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Sulina",
-        "N651": "$$aSulina (Rumunsko : oblast)",
+        "N651": "$$aSulina (Rumunsko : oblast)$$7ge1124166",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7610,7 +7610,7 @@
         "N43": "$$ae-un---$$ae-mv---",
         "N80": "$$a913(477)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Tatar Bunar|Tatar – Bugar",
-        "N651": "$$aTatarbunary (Ukrajina : oblast)",
+        "N651": "$$aTatarbunary (Ukrajina : oblast)$$7ge1124124",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7690,7 +7690,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Skwira",
-        "N651": "$$aSkvyra (Ukrajina : oblast)",
+        "N651": "$$aSkvyra (Ukrajina : oblast)$$7ge1124139",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7730,7 +7730,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Chabnoje",
-        "N651": "$$aPoliske (Ukrajina : oblast)",
+        "N651": "$$aPoliske (Ukrajina : oblast)$$7ge1124164",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -7810,7 +7810,7 @@
         "N43": "$$ae-bw---$$ae-un---",
         "N80": "$$a913(476)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Kobrin",
-        "N651": "$$aKobryn (Bělorusko : oblast)",
+        "N651": "$$aKobryn (Bělorusko : oblast)$$7ge1124126",
         "POZNAMKA": "Kobrin"
       },
       "geometry": {
@@ -8170,7 +8170,7 @@
         "N43": "$$ae-gr---",
         "N80": "$$a913(495)$$2MRF",
         "N245A": "Szkírosz",
-        "N651": "$$aSkyros (Řecko : oblast)",
+        "N651": "$$aSkyros (Řecko : oblast)$$7ge1124069",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -8330,7 +8330,7 @@
         "N43": "$$ae-rm---$$ae-bu---",
         "N80": "$$a913(498)$$2MRF|$$a913(497.2)$$2MRF",
         "N245A": "Slatina",
-        "N651": "$$aSlatina (Rumunsko : oblast)",
+        "N651": "$$aSlatina (Rumunsko : oblast)$$7ge1124162",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9370,7 +9370,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Rodosto",
-        "N651": "$$aTekirdağ (Turecko : oblast)",
+        "N651": "$$aTekirdağ (Turecko : oblast)$$7ge1124157",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9530,7 +9530,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Focsany",
-        "N651": "$$aFocșani (Rumunsko : oblast)",
+        "N651": "$$aFocșani (Rumunsko : oblast)$$7ge632027",
         "POZNAMKA": ""
       },
       "geometry": {
@@ -9690,7 +9690,7 @@
         "N43": "$$ae-un---$$ae-bw---",
         "N80": "$$a913(477)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Rokitno",
-        "N651": "$$aRokytne (Ukrajina : oblast)",
+        "N651": "$$aRokytne (Rovenská oblast, Ukrajina : oblast)$$7ge1124146",
         "POZNAMKA": ""
       },
       "geometry": {

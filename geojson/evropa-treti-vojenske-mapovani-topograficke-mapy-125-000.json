@@ -466,7 +466,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Wieruszów]",
-        "N651": "$$aWieruszów (Polsko : oblast)"
+        "N651": "$$aWieruszów (Polsko : oblast)$$7ge1127707"
       },
       "geometry": {
         "type": "Polygon",
@@ -556,7 +556,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Działoszyn]",
-        "N651": "$$aDziałoszyn (Polsko : oblast)"
+        "N651": "$$aDziałoszyn (Polsko : oblast)$$7ge1127709"
       },
       "geometry": {
         "type": "Polygon",
@@ -601,7 +601,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nowo Radomsk]",
-        "N651": "$$aRadomsko (Polsko : oblast)"
+        "N651": "$$aRadomsko (Polsko : oblast)$$7ge1120303"
       },
       "geometry": {
         "type": "Polygon",
@@ -1141,7 +1141,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Kolki]",
-        "N651": "$$aKolky (Ukrajina : oblast)"
+        "N651": "$$aKolky (Ukrajina : oblast)$$7ge1123519"
       },
       "geometry": {
         "type": "Polygon",
@@ -1231,7 +1231,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Kostopol]",
-        "N651": "$$aKostopil (Ukrajina : oblast)"
+        "N651": "$$aKostopil (Ukrajina : oblast)$$7ge1125731"
       },
       "geometry": {
         "type": "Polygon",
@@ -1456,7 +1456,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Kreutzburg]",
-        "N651": "$$aKluczbork (Polsko : oblast)"
+        "N651": "$$aKluczbork (Polsko : oblast)$$7ge1119952"
       },
       "geometry": {
         "type": "Polygon",
@@ -1501,7 +1501,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Krzepice]",
-        "N651": "$$aKrzepice (Polsko : oblast)"
+        "N651": "$$aKrzepice (Polsko : oblast)$$7ge1127730"
       },
       "geometry": {
         "type": "Polygon",
@@ -1591,7 +1591,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Koniecpol]",
-        "N651": "$$aKoniecpol (Polsko : oblast)"
+        "N651": "$$aKoniecpol (Polsko : oblast)$$7ge1120304"
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,7 +1771,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Opatów]",
-        "N651": "$$aOpatów (Polsko : oblast)"
+        "N651": "$$aOpatów (Polsko : oblast)$$7ge1120305"
       },
       "geometry": {
         "type": "Polygon",
@@ -1996,7 +1996,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "[Władimir Wołynskij]",
-        "N651": "$$aVolodimir Volynskij (Ukrajina : oblast)"
+        "N651": "$$aVolodymyr-Volynskyj (Ukrajina : oblast)$$7ge1120197"
       },
       "geometry": {
         "type": "Polygon",
@@ -2761,7 +2761,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Żarki]",
-        "N651": "$$aŻarki (Polsko : oblast)"
+        "N651": "$$aŻarki (Polsko : oblast)$$7ge1127724"
       },
       "geometry": {
         "type": "Polygon",
@@ -2941,7 +2941,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Tarnobrzeg]",
-        "N651": "$$aTarnobrzeg (Polsko : oblast)"
+        "N651": "$$aTarnobrzeg (Polsko : oblast)$$7ge1120138"
       },
       "geometry": {
         "type": "Polygon",
@@ -2986,7 +2986,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko und Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3976,7 +3976,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Kędzierzyn-Koźle]",
-        "N651": "$$aKędzierzyn-Koźle (Polsko : oblast)"
+        "N651": "$$aKędzierzyn-Koźle (Polsko : oblast)$$7ge1120307"
       },
       "geometry": {
         "type": "Polygon",
@@ -4111,7 +4111,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Olkusz]",
-        "N651": "$$aOlkusz (Polsko : oblast)"
+        "N651": "$$aOlkusz (Polsko : oblast)$$7ge1120308"
       },
       "geometry": {
         "type": "Polygon",
@@ -4201,7 +4201,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nowy Korczyn]",
-        "N651": "$$aNowy Korczyn (Polsko : oblast)"
+        "N651": "$$aNowy Korczyn (Polsko : oblast)$$7ge1127739"
       },
       "geometry": {
         "type": "Polygon",
@@ -4336,7 +4336,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rudnik und Raniżow]",
-        "N651": "$$aRudnik nad Sanem (Polsko : oblast)|$$aRaniżów (Polsko : oblast)"
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4381,7 +4381,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Leżajsk]",
-        "N651": "$$aLeżajsk (Polsko : oblast)"
+        "N651": "$$aLeżajsk (Polsko : oblast)$$7ge1120686"
       },
       "geometry": {
         "type": "Polygon",
@@ -4516,7 +4516,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Bełz und Sokal]",
-        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)"
+        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)$$7ge1124111"
       },
       "geometry": {
         "type": "Polygon",
@@ -4606,7 +4606,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Beresteczko und Szczurowice]",
-        "N651": "$$aBerestečko (Ukrajina : oblast)|$$aŠčurovičì (Ukrajina : oblast)"
+        "N651": "$$aBerestečko (Ukrajina : oblast)$$7ge1120253|$$aŠčurovičì (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4741,7 +4741,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Iziaslawl]",
-        "N651": "$$aIzjaslav (Ukrajina : oblast)"
+        "N651": "$$aIzjaslav (Ukrajina : oblast)$$7ge1125729"
       },
       "geometry": {
         "type": "Polygon",
@@ -5371,7 +5371,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rybnik]",
-        "N651": "$$aRybnik (Polsko : oblast)"
+        "N651": "$$aRybnik (Polsko : oblast)$$7ge1120260"
       },
       "geometry": {
         "type": "Polygon",
@@ -5461,7 +5461,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chrzanów a Krzeszowice]",
-        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)"
+        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)$$7ge1127725"
       },
       "geometry": {
         "type": "Polygon",
@@ -5911,7 +5911,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Kam’janka-Buz’ka]",
-        "N651": "$$aKam’janka-Buz’ka (Ukrajina : oblast)"
+        "N651": "$$aKam‘janka-Buz‘ka (Ukrajina : oblast)$$7ge1120224"
       },
       "geometry": {
         "type": "Polygon",
@@ -6766,7 +6766,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Wadowice]",
-        "N651": "$$aWadowice (Polsko : oblast)"
+        "N651": "$$aWadowice (Polsko : oblast)$$7ge1120192"
       },
       "geometry": {
         "type": "Polygon",
@@ -7126,7 +7126,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Jaworów und Gródek]",
-        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Ukrajina, Lvovská oblast : oblast)"
+        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)$$7ge1124112"
       },
       "geometry": {
         "type": "Polygon",
@@ -8206,7 +8206,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Grybów a Gorlice]",
-        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)"
+        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)$$7ge1120176"
       },
       "geometry": {
         "type": "Polygon",
@@ -9646,7 +9646,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Ustrzyki Dolne]",
-        "N651": "$$aUstrzyki Dolne (Polsko : oblast)"
+        "N651": "$$aUstrzyki Dolne (Polsko : oblast)$$7ge1127714"
       },
       "geometry": {
         "type": "Polygon",
@@ -9691,7 +9691,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Staryj Sambir]",
-        "N651": "$$aStaryj Sambir (Ukrajina : oblast)"
+        "N651": "$$aStaryj Sambir (Ukrajina : oblast)$$7ge1124259"
       },
       "geometry": {
         "type": "Polygon",
@@ -9781,7 +9781,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Żydaczów a Stryj]",
-        "N651": "$$aŽydačiv (Ukrajina : oblast)|$$aStryj (Ukrajina : oblast)"
+        "N651": "$$aŽydačiv (Ukrajina : oblast)$$7ge1127712|$$aStryj (Ukrajina : oblast)$$7ge1118731"
       },
       "geometry": {
         "type": "Polygon",
@@ -9826,7 +9826,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Rohatyn]",
-        "N651": "$$aRohatyn (Ukrajina : oblast)"
+        "N651": "$$aRohatyn (Ukrajina : oblast)$$7ge1120005"
       },
       "geometry": {
         "type": "Polygon",
@@ -9871,7 +9871,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Brzeżany]",
-        "N651": "$$aBerežany (Ukrajina : oblast)"
+        "N651": "$$aBerežany (Ukrajina : oblast)$$7ge1120001"
       },
       "geometry": {
         "type": "Polygon",
@@ -9961,7 +9961,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Skałat a Grzymałów]",
-        "N651": "$$aSkalat (Ukrajina : oblast)|$$aHrimajlìv (Ukrajina : oblast)"
+        "N651": "$$aSkalat (Ukrajina : oblast)$$7ge1127703|$$aHrimajlìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10006,7 +10006,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Jarmolynci a Horodok]",
-        "N651": "$$aJarmolynzi (Ukrajina : oblast)$$7ge1086403|$$aHorodok (Lvovská oblast, Ukrajina : oblast)"
+        "N651": "$$aJarmolynzi (Ukrajina : oblast)$$7ge1086403|$$aHorodok (Lvovská oblast, Ukrajina : oblast)$$7ge1124112"
       },
       "geometry": {
         "type": "Polygon",
@@ -12346,7 +12346,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Tysmenycja a Tlumač]",
-        "N651": "$$aTysmenycja (Ukrajina : oblast)|$$aTlumač (Ukrajina : oblast)$$7ge1104694"
+        "N651": "$$aTysmenycja (Ukrajina : oblast)$$7ge1124114|$$aTlumač (Ukrajina : oblast)$$7ge1104694"
       },
       "geometry": {
         "type": "Polygon",
@@ -15046,7 +15046,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "[Mattighofen]",
-        "N651": "$$aMattighofen (Rakousko : oblast)"
+        "N651": "$$aMattighofen (Rakousko : oblast)$$7ge1124053"
       },
       "geometry": {
         "type": "Polygon",
@@ -16486,7 +16486,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Gaming a Mariazell]",
-        "N651": "$$aGaming (Rakousko : oblast)|$$aMariazell (Rakousko : oblast)"
+        "N651": "$$aGaming (Rakousko : oblast)$$7ge1120124|$$aMariazell (Rakousko : oblast)$$7ge1120006"
       },
       "geometry": {
         "type": "Polygon",
@@ -16531,7 +16531,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Schneeberg a St. Aegyd am Neuwalde]",
-        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)"
+        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
       },
       "geometry": {
         "type": "Polygon",
@@ -17476,7 +17476,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Rădăuți]",
-        "N651": "$$aRădăuți (Rumunsko : oblast)"
+        "N651": "$$aRădăuţi (Rumunsko : oblast)$$7ge1101044"
       },
       "geometry": {
         "type": "Polygon",
@@ -17746,7 +17746,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "[Achenkirch a Benedictbeuren]",
-        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)"
+        "N651": "$$aAchenkirch (Rakousko : oblast)$$7ge1125314|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
       },
       "geometry": {
         "type": "Polygon",
@@ -17836,7 +17836,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Lofer a St. Johann in Tirol]",
-        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
+        "N651": "$$aLofer (Rakousko : oblast)$$7ge1125317|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
       },
       "geometry": {
         "type": "Polygon",
@@ -17971,7 +17971,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Liezen]",
-        "N651": "$$aLiezen (Rakousko : oblast)"
+        "N651": "$$aLiezen (Rakousko : oblast)$$7ge1124063"
       },
       "geometry": {
         "type": "Polygon",
@@ -18106,7 +18106,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Mürzzuschlag]",
-        "N651": "$$aMürzzuschlag (Rakousko : oblast)"
+        "N651": "$$aMürzzuschlag (Rakousko : oblast)$$7ge1120009"
       },
       "geometry": {
         "type": "Polygon",
@@ -18151,7 +18151,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Neunkirchen a Aspang]",
-        "N651": "$$aNeunkirchen (Rakousko : oblast)|$$aAspang Markt (Rakousko : oblast)"
+        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang-Markt (Rakousko : oblast)$$7ge1124066"
       },
       "geometry": {
         "type": "Polygon",
@@ -19141,7 +19141,7 @@
         "N43": "$$ae-sz---$$ae-au---",
         "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "[Hohenems]",
-        "N651": "$$aHohenems (Rakousko : oblast)"
+        "N651": "$$aHohenems (Rakousko : oblast)$$7ge1120266"
       },
       "geometry": {
         "type": "Polygon",
@@ -19276,7 +19276,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Zirl a Nassereith]",
-        "N651": "$$aZirl (Rakousko : oblast)|$$aNassereith (Rakousko : oblast)"
+        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)$$7ge1125319"
       },
       "geometry": {
         "type": "Polygon",
@@ -19816,7 +19816,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Sárvár, Celldömölk a Beled]",
-        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)$$7ge1097028"
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Maďarsko : oblast)$$7ge1127790|$$aBeled (Maďarsko : oblast)$$7ge1097028"
       },
       "geometry": {
         "type": "Polygon",
@@ -20131,7 +20131,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Tiszaroff]",
-        "N651": "$$aTiszaroff (Maďarsko : oblast)|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
+        "N651": "$$aTiszaroff (Maďarsko : oblast)$$7ge1127796|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -20896,7 +20896,7 @@
         "N43": "$$ae-au---$$ae-it---",
         "N80": "$$a913(436)$$2MRF|$$a913(450)$$2MRF",
         "N245A": "[Matrei am Brenner]",
-        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)$$7ge1125331"
       },
       "geometry": {
         "type": "Polygon",
@@ -21076,7 +21076,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[St. Michael im Lungau]",
-        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
+        "N651": "$$aSankt Michael im Lungau (Rakousko : oblast)$$7ge1109383"
       },
       "geometry": {
         "type": "Polygon",
@@ -23686,7 +23686,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Toplița a Tulgheș]",
-        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
+        "N651": "$$aTopliţa (Harghita, Rumunsko : oblast)$$7ge1105910|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
       },
       "geometry": {
         "type": "Polygon",
@@ -29896,7 +29896,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Făgăraș]",
-        "N651": "$$aFăgăraș (Rumunsko : oblast)"
+        "N651": "$$aFăgăraṣ (Rumunsko : oblast)$$7ge1092332"
       },
       "geometry": {
         "type": "Polygon",
@@ -31291,7 +31291,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Hátszeg]",
-        "N651": "$$aHațeg (Rumunsko : oblast)"
+        "N651": "$$aHațeg (Rumunsko : oblast)$$7ge1112291"
       },
       "geometry": {
         "type": "Polygon",
@@ -31606,7 +31606,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Beceni]",
-        "N651": "$$Beceni (Rumunsko : oblast)"
+        "N651": "$$Beceni (Rumunsko : oblast)$$7ge1125741"
       },
       "geometry": {
         "type": "Polygon",
@@ -31966,7 +31966,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Novigrad a Motovun]",
-        "N651": "$$aNovigrad (Chorvatsko : oblast)$$7ge1120258|$$aMotovun (Chorvatsko : oblast)"
+        "N651": "$$aNovigrad (Chorvatsko : oblast)$$7ge1120258|$$aMotovun (Chorvatsko : oblast)$$7ge1124032"
       },
       "geometry": {
         "type": "Polygon",
@@ -32056,7 +32056,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Rijeka a Delnice]",
-        "N651": "$$aRijeka (Chorvatsko : oblast)$$7ge1117876|$$aDelnice (Chorvatsko : oblast)"
+        "N651": "$$aRijeka (Chorvatsko : oblast)$$7ge1117876|$$aDelnice (Chorvatsko : oblast)$$7ge1120028"
       },
       "geometry": {
         "type": "Polygon",
@@ -32101,7 +32101,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Stari Trg ob Kolpi a Ogulin]",
-        "N651": "$$aOgulin (Chorvatsko : oblast)|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
+        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -38536,7 +38536,7 @@
         "N43": "$$ae-bn---$$ae-rb---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "[Priboj]",
-        "N651": "$$aPriboj (Srbsko : oblast)"
+        "N651": "$$aPriboj (Srbsko : oblast)$$7ge1124265"
       },
       "geometry": {
         "type": "Polygon",
@@ -38986,7 +38986,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Omiš a Supetar]",
-        "N651": "$$aOmiš (Chorvatsko : oblast)|$$aSupetar (Chorvatsko : oblast)"
+        "N651": "$$aOmiš (Chorvatsko : oblast)$$7ge1120011|$$aSupetar (Chorvatsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -51091,7 +51091,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Braunau a Triftern]",
-        "N651": "$$aBraunau am Inn (Rakousko : oblast)|$$aTriftern (Německo : oblast)$$7ge1118752"
+        "N651": "$$aBraunau am Inn (Rakousko : oblast)$$7ge1120259|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
       "geometry": {
         "type": "Polygon",
@@ -51136,7 +51136,7 @@
         "N43": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
         "N80": "Braunau und Triftern",
         "N245A": "[Braunau a Triftern]",
-        "N651": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF"
+        "N651": "$$aBraunau am Inn (Rakousko : oblast)$$7ge1120259|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
       "geometry": {
         "type": "Polygon",
@@ -51181,7 +51181,7 @@
         "N43": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
         "N80": "Braunau und Triftern",
         "N245A": "[Braunau a Triftern]",
-        "N651": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF"
+        "N651": "$$aBraunau am Inn (Rakousko : oblast)$$7ge1120259|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
       "geometry": {
         "type": "Polygon",
@@ -52036,7 +52036,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Mattighofen]",
-        "N651": "$$aMattighofen (Rakousko : oblast)"
+        "N651": "$$aMattighofen (Rakousko : oblast)$$7ge1124053"
       },
       "geometry": {
         "type": "Polygon",
@@ -52081,7 +52081,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Mattighofen]",
-        "N651": "$$aMattighofen (Rakousko : oblast)"
+        "N651": "$$aMattighofen (Rakousko : oblast)$$7ge1124053"
       },
       "geometry": {
         "type": "Polygon",
@@ -52126,7 +52126,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Mattighofen]",
-        "N651": "$$aMattighofen (Rakousko : oblast)"
+        "N651": "$$aMattighofen (Rakousko : oblast)$$7ge1124053"
       },
       "geometry": {
         "type": "Polygon",
@@ -54196,7 +54196,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Achenkirch a Benedictbeuren]",
-        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
+        "N651": "$$aAchenkirch (Rakousko : oblast)$$7ge1125314|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
       },
       "geometry": {
         "type": "Polygon",
@@ -54241,7 +54241,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Achenkirch a Benedictbeuren]",
-        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
+        "N651": "$$aAchenkirch (Rakousko : oblast)$$7ge1125314|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
       },
       "geometry": {
         "type": "Polygon",
@@ -54286,7 +54286,7 @@
         "N43": "$$ae-gx---$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Achenkirch a Benedictbeuren]",
-        "N651": "$$aAchenkirch (Rakousko : oblast)|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
+        "N651": "$$aAchenkirch (Rakousko : oblast)$$7ge1125314|$$aBenediktbeuern (Německo : oblast)$$7ge1118663"
       },
       "geometry": {
         "type": "Polygon",
@@ -54466,7 +54466,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.8)$$2MRF|$$a913(436.6)$$2MRF",
         "N245A": "[Lofer a St. Johann in Tirol]",
-        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
+        "N651": "$$aLofer (Rakousko : oblast)$$7ge1125317|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
       },
       "geometry": {
         "type": "Polygon",
@@ -54511,7 +54511,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.8)$$2MRF|$$a913(436.6)$$2MRF",
         "N245A": "[Lofer a St. Johann in Tirol]",
-        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
+        "N651": "$$aLofer (Rakousko : oblast)$$7ge1125317|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
       },
       "geometry": {
         "type": "Polygon",
@@ -54556,7 +54556,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.8)$$2MRF|$$a913(436.6)$$2MRF",
         "N245A": "[Lofer a St. Johann in Tirol]",
-        "N651": "$$aLofer (Rakousko : oblast)|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
+        "N651": "$$aLofer (Rakousko : oblast)$$7ge1125317|$$aSt. Johann in Tirol (Rakousko : oblast)$$7ge560471"
       },
       "geometry": {
         "type": "Polygon",
@@ -54871,7 +54871,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.4)$$2MRF",
         "N245A": "[Liezen]",
-        "N651": "$$aLiezen (Rakousko : oblast)"
+        "N651": "$$aLiezen (Rakousko : oblast)$$7ge1124063"
       },
       "geometry": {
         "type": "Polygon",
@@ -54916,7 +54916,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.4)$$2MRF",
         "N245A": "[Liezen]",
-        "N651": "$$aLiezen (Rakousko : oblast)"
+        "N651": "$$aLiezen (Rakousko : oblast)$$7ge1124063"
       },
       "geometry": {
         "type": "Polygon",
@@ -54961,7 +54961,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.4)$$2MRF",
         "N245A": "[Liezen]",
-        "N651": "$$aLiezen (Rakousko : oblast)"
+        "N651": "$$aLiezen (Rakousko : oblast)$$7ge1124063"
       },
       "geometry": {
         "type": "Polygon",
@@ -55816,7 +55816,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Zirl a Nassereith]",
-        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)"
+        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)$$7ge1125319"
       },
       "geometry": {
         "type": "Polygon",
@@ -55861,7 +55861,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Zirl a Nassereith]",
-        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)"
+        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)$$7ge1125319"
       },
       "geometry": {
         "type": "Polygon",
@@ -55906,7 +55906,7 @@
         "N43": "$$ae-au---$$ae-gx---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Zirl a Nassereith]",
-        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)"
+        "N651": "$$aZirl (Rakousko : oblast)$$7ge1120139|$$aNassereith (Rakousko : oblast)$$7ge1125319"
       },
       "geometry": {
         "type": "Polygon",
@@ -57706,7 +57706,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Matrei am Brenner]",
-        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)$$7ge1125331"
       },
       "geometry": {
         "type": "Polygon",
@@ -57751,7 +57751,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Matrei am Brenner]",
-        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)$$7ge1125331"
       },
       "geometry": {
         "type": "Polygon",
@@ -57796,7 +57796,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.6)$$2MRF",
         "N245A": "[Matrei am Brenner]",
-        "N651": "$$aMatrei am Brenner (Rakousko : oblast)"
+        "N651": "$$aMatrei am Brenner (Rakousko : oblast)$$7ge1125331"
       },
       "geometry": {
         "type": "Polygon",
@@ -58246,7 +58246,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.8)$$2MRF",
         "N245A": "[St. Michael im Lungau]",
-        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
+        "N651": "$$aSankt Michael im Lungau (Rakousko : oblast)$$7ge1109383"
       },
       "geometry": {
         "type": "Polygon",
@@ -58291,7 +58291,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.8)$$2MRF",
         "N245A": "[St. Michael im Lungau]",
-        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
+        "N651": "$$aSankt Michael im Lungau (Rakousko : oblast)$$7ge1109383"
       },
       "geometry": {
         "type": "Polygon",
@@ -58336,7 +58336,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.8)$$2MRF",
         "N245A": "[St. Michael im Lungau]",
-        "N651": "$$aSt. Michael im Lungau (Rakousko : oblast)"
+        "N651": "$$aSankt Michael im Lungau (Rakousko : oblast)$$7ge1109383"
       },
       "geometry": {
         "type": "Polygon",
@@ -74986,7 +74986,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Wieruszów]",
-        "N651": "$$aWieruszów (Polsko : oblast)"
+        "N651": "$$aWieruszów (Polsko : oblast)$$7ge1127707"
       },
       "geometry": {
         "type": "Polygon",
@@ -75031,7 +75031,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Wieruszów]",
-        "N651": "$$aWieruszów (Polsko : oblast)"
+        "N651": "$$aWieruszów (Polsko : oblast)$$7ge1127707"
       },
       "geometry": {
         "type": "Polygon",
@@ -75076,7 +75076,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Wieruszów]",
-        "N651": "$$aWieruszów (Polsko : oblast)"
+        "N651": "$$aWieruszów (Polsko : oblast)$$7ge1127707"
       },
       "geometry": {
         "type": "Polygon",
@@ -75256,7 +75256,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Działoszyn]",
-        "N651": "$$aDziałoszyn (Polsko : oblast)"
+        "N651": "$$aDziałoszyn (Polsko : oblast)$$7ge1127709"
       },
       "geometry": {
         "type": "Polygon",
@@ -75301,7 +75301,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Działoszyn]",
-        "N651": "$$aDziałoszyn (Polsko : oblast)"
+        "N651": "$$aDziałoszyn (Polsko : oblast)$$7ge1127709"
       },
       "geometry": {
         "type": "Polygon",
@@ -75346,7 +75346,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Działoszyn]",
-        "N651": "$$aDziałoszyn (Polsko : oblast)"
+        "N651": "$$aDziałoszyn (Polsko : oblast)$$7ge1127709"
       },
       "geometry": {
         "type": "Polygon",
@@ -76066,7 +76066,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Opole Lubelskie]",
-        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)$$7ge1127746"
       },
       "geometry": {
         "type": "Polygon",
@@ -76111,7 +76111,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Opole Lubelskie]",
-        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)$$7ge1127746"
       },
       "geometry": {
         "type": "Polygon",
@@ -76156,7 +76156,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Opole Lubelskie]",
-        "N651": "$$aOpole Lubelskie (Polsko : oblast)"
+        "N651": "$$aOpole Lubelskie (Polsko : oblast)$$7ge1127746"
       },
       "geometry": {
         "type": "Polygon",
@@ -76606,7 +76606,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Krzepice]",
-        "N651": "$$aKrzepice (Polsko : oblast)"
+        "N651": "$$aKrzepice (Polsko : oblast)$$7ge1127730"
       },
       "geometry": {
         "type": "Polygon",
@@ -76651,7 +76651,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Krzepice]",
-        "N651": "$$aKrzepice (Polsko : oblast)"
+        "N651": "$$aKrzepice (Polsko : oblast)$$7ge1127730"
       },
       "geometry": {
         "type": "Polygon",
@@ -76696,7 +76696,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Krzepice]",
-        "N651": "$$aKrzepice (Polsko : oblast)"
+        "N651": "$$aKrzepice (Polsko : oblast)$$7ge1127730"
       },
       "geometry": {
         "type": "Polygon",

@@ -504,7 +504,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "M. Falterona",
-        "N651": "$$aMonte Falterona (Itálie : hora)|$$aBibbiena (Itálie : oblast)"
+        "N651": "$$aMonte Falterona (Itálie : hora)|$$aBibbiena (Itálie : oblast)$$7ge1127817"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Iesi",
-        "N651": "$$aIesi (Itálie : oblast)"
+        "N651": "$$aJesi (Itálie : oblast)$$7ge1125745"
       },
       "geometry": {
         "type": "Polygon",
@@ -1242,7 +1242,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Gualdo Tadino",
-        "N651": "$$aGualdo Tadino (Itálie : oblast)"
+        "N651": "$$aGualdo Tadino (Itálie : oblast)$$7ge1119933"
       },
       "geometry": {
         "type": "Polygon",
@@ -1529,7 +1529,7 @@
         "N43": "$$ae-it---$$ae-au---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Ampezzo ",
-        "N651": "$$aAmpezzo (Itálie : oblast)"
+        "N651": "$$aAmpezzo (Itálie : oblast)$$7ge1127825"
       },
       "geometry": {
         "type": "Polygon",
@@ -1734,7 +1734,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Guilianova|Giulianova",
-        "N651": "$$aGiulianova (Itálie : oblast)"
+        "N651": "$$aGiulianova (Itálie : oblast)$$7ge1127820"
       },
       "geometry": {
         "type": "Polygon",
@@ -1775,7 +1775,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Orbetello",
-        "N651": "$$aOrbetello (Itálie : oblast)"
+        "N651": "$$aOrbetello (Itálie : oblast)$$7ge1127701"
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,7 +1816,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Tuscania",
-        "N651": "$$aTuscania (Itálie : oblast)"
+        "N651": "$$aTuscania (Itálie : oblast)$$7ge1128018"
       },
       "geometry": {
         "type": "Polygon",
@@ -1939,7 +1939,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "L'Aquila|Aquila",
-        "N651": "$$aL'Aquila (Itálie : oblast)"
+        "N651": "$$aL'Aquila (Itálie : oblast)$$7ge1119934"
       },
       "geometry": {
         "type": "Polygon",
@@ -5424,7 +5424,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Maruggio",
-        "N651": "$$aMaruggio (Itálie : oblast)"
+        "N651": "$$aMaruggio (Itálie : oblast)$$7ge1128020"
       },
       "geometry": {
         "type": "Polygon",
@@ -5465,7 +5465,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Gallipoli",
-        "N651": "$$aGallipoli (Itálie : oblast)"
+        "N651": "$$aGallipoli (Itálie : oblast)$$7ge1127801"
       },
       "geometry": {
         "type": "Polygon",
@@ -8351,7 +8351,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ragusa",
-        "N651": "$$aRagusa (Itálie : oblast)"
+        "N651": "$$aRagusa (Itálie : oblast)$$7ge1127699"
       },
       "geometry": {
         "type": "Polygon",
@@ -11311,7 +11311,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cuneo",
-        "N651": "$$aCuneo (Itálie : oblast)"
+        "N651": "$$aCuneo (Itálie : oblast)$$7ge1119430"
       },
       "geometry": {
         "type": "Polygon",

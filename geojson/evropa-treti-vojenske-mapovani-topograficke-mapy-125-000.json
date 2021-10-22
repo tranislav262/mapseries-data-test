@@ -10185,7 +10185,7 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.19)$$2MRF",
-        "N245A": "[Třeboň ]",
+        "N245A": "[Třeboň]",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
@@ -49335,7 +49335,7 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.19)$$2MRF",
-        "N245A": "[Třeboň ]",
+        "N245A": "[Třeboň]",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
@@ -49380,7 +49380,7 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.19)$$2MRF",
-        "N245A": "[Třeboň ]",
+        "N245A": "[Třeboň]",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
@@ -49425,7 +49425,7 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.19)$$2MRF",
-        "N245A": "[Třeboň ]",
+        "N245A": "[Třeboň]",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
@@ -78631,7 +78631,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Żarki]",
-        "N651": "$$aŻarki (Polsko : oblast)"
+        "N651": "$$aŻarki (Polsko : oblast)$$7ge1127724"
       },
       "geometry": {
         "type": "Polygon",
@@ -78676,7 +78676,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Żarki]",
-        "N651": "$$aŻarki (Polsko : oblast)"
+        "N651": "$$aŻarki (Polsko : oblast)$$7ge1127724"
       },
       "geometry": {
         "type": "Polygon",
@@ -78721,7 +78721,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Żarki]",
-        "N651": "$$aŻarki (Polsko : oblast)"
+        "N651": "$$aŻarki (Polsko : oblast)$$7ge1127724"
       },
       "geometry": {
         "type": "Polygon",
@@ -79306,7 +79306,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79351,7 +79351,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79396,7 +79396,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -80926,7 +80926,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nowy Korczyn]",
-        "N651": "$$aNowy Korczyn (Polsko : oblast)"
+        "N651": "$$aNowy Korczyn (Polsko : oblast)$$7ge1127739"
       },
       "geometry": {
         "type": "Polygon",
@@ -80971,7 +80971,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nowy Korczyn]",
-        "N651": "$$aNowy Korczyn (Polsko : oblast)"
+        "N651": "$$aNowy Korczyn (Polsko : oblast)$$7ge1127739"
       },
       "geometry": {
         "type": "Polygon",
@@ -81016,7 +81016,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nowy Korczyn]",
-        "N651": "$$aNowy Korczyn (Polsko : oblast)"
+        "N651": "$$aNowy Korczyn (Polsko : oblast)$$7ge1127739"
       },
       "geometry": {
         "type": "Polygon",
@@ -81331,7 +81331,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rudnik nad Sanem a Raniżow]",
-        "N651": "$$aRudnik nad Sanem (Polsko : oblast)|$$aRaniżów (Polsko : oblast)"
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -81376,7 +81376,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rudnik nad Sanem a Raniżow]",
-        "N651": "$$aRudnik nad Sanem (Polsko : oblast)|$$aRaniżów (Polsko : oblast)"
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -81421,7 +81421,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rudnik nad Sanem a Raniżow]",
-        "N651": "$$aRudnik nad Sanem (Polsko : oblast)|$$aRaniżów (Polsko : oblast)"
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -81466,7 +81466,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Leżajsk]",
-        "N651": "$$aLeżajsk (Polsko : oblast)"
+        "N651": "$$aLeżajsk (Polsko : oblast)$$7ge1120686"
       },
       "geometry": {
         "type": "Polygon",
@@ -81511,7 +81511,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Leżajsk]",
-        "N651": "$$aLeżajsk (Polsko : oblast)"
+        "N651": "$$aLeżajsk (Polsko : oblast)$$7ge1120686"
       },
       "geometry": {
         "type": "Polygon",
@@ -81556,7 +81556,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Leżajsk]",
-        "N651": "$$aLeżajsk (Polsko : oblast)"
+        "N651": "$$aLeżajsk (Polsko : oblast)$$7ge1120686"
       },
       "geometry": {
         "type": "Polygon",
@@ -89566,7 +89566,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "[Ustrzyki Dolne]",
-        "N651": "$$aUstrzyki Dolne (Polsko : oblast)"
+        "N651": "$$aUstrzyki Dolne (Polsko : oblast)$$7ge1127714"
       },
       "geometry": {
         "type": "Polygon",
@@ -89611,7 +89611,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "[Ustrzyki Dolne]",
-        "N651": "$$aUstrzyki Dolne (Polsko : oblast)"
+        "N651": "$$aUstrzyki Dolne (Polsko : oblast)$$7ge1127714"
       },
       "geometry": {
         "type": "Polygon",
@@ -89656,7 +89656,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "[Ustrzyki Dolne]",
-        "N651": "$$aUstrzyki Dolne (Polsko : oblast)"
+        "N651": "$$aUstrzyki Dolne (Polsko : oblast)$$7ge1127714"
       },
       "geometry": {
         "type": "Polygon",
@@ -89701,7 +89701,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Staryj Sambir]",
-        "N651": "$$aStaryj Sambir (Ukrajina : oblast)"
+        "N651": "$$aStaryj Sambir (Ukrajina : oblast)$$7ge1124259"
       },
       "geometry": {
         "type": "Polygon",
@@ -89746,7 +89746,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Staryj Sambir]",
-        "N651": "$$aStaryj Sambir (Ukrajina : oblast)"
+        "N651": "$$aStaryj Sambir (Ukrajina : oblast)$$7ge1124259"
       },
       "geometry": {
         "type": "Polygon",
@@ -89791,7 +89791,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Staryj Sambir]",
-        "N651": "$$aStaryj Sambir (Ukrajina : oblast)"
+        "N651": "$$aStaryj Sambir (Ukrajina : oblast)$$7ge1124259"
       },
       "geometry": {
         "type": "Polygon",
@@ -101986,7 +101986,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.2)$$2MRF",
         "N245A": "[Neunkirchen a Aspang]",
-        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang Markt (Rakousko : oblast)"
+        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang-Markt (Rakousko : oblast)$$7ge1124066"
       },
       "geometry": {
         "type": "Polygon",
@@ -102031,7 +102031,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.2)$$2MRF",
         "N245A": "[Neunkirchen a Aspang]",
-        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang Markt (Rakousko : oblast)"
+        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang-Markt (Rakousko : oblast)$$7ge1124066"
       },
       "geometry": {
         "type": "Polygon",
@@ -102076,7 +102076,7 @@
         "N43": "$$ae-au--- ",
         "N80": "$$a913(436.2)$$2MRF",
         "N245A": "[Neunkirchen a Aspang]",
-        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang Markt (Rakousko : oblast)"
+        "N651": "$$aNeunkirchen (Rakousko : oblast)$$7ge1120136|$$aAspang-Markt (Rakousko : oblast)$$7ge1124066"
       },
       "geometry": {
         "type": "Polygon",
@@ -104281,7 +104281,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Sárvár, Celldömölk a Beled]",
-        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)$$7ge1097028"
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Maďarsko : oblast)$$7ge1127790|$$aBeled (Maďarsko : oblast)$$7ge1097028"
       },
       "geometry": {
         "type": "Polygon",
@@ -104326,7 +104326,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Sárvár, Celldömölk a Beled]",
-        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)$$7ge1097028"
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Maďarsko : oblast)$$7ge1127790|$$aBeled (Maďarsko : oblast)$$7ge1097028"
       },
       "geometry": {
         "type": "Polygon",
@@ -104371,7 +104371,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Sárvár, Celldömölk a Beled]",
-        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Rakousko : oblast)|$$aBeled (Maďarsko : oblast)$$7ge1097028"
+        "N651": "$$aSárvár (Maďarsko : oblast)$$7ge1097027|$$aCelldömölk (Maďarsko : oblast)$$7ge1127790|$$aBeled (Maďarsko : oblast)$$7ge1097028"
       },
       "geometry": {
         "type": "Polygon",
@@ -105226,7 +105226,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Tiszaroff]",
-        "N651": "$$aTiszaroff (Maďarsko : oblast)|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
+        "N651": "$$aTiszaroff (Maďarsko : oblast)$$7ge1127796|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -105271,7 +105271,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Tiszaroff]",
-        "N651": "$$aTiszaroff (Maďarsko : oblast)|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
+        "N651": "$$aTiszaroff (Maďarsko : oblast)$$7ge1127796|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -105316,7 +105316,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Tiszaroff]",
-        "N651": "$$aTiszaroff (Maďarsko : oblast)|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
+        "N651": "$$aTiszaroff (Maďarsko : oblast)$$7ge1127796|$$aKunhegyes (Maďarsko : oblast)$$7ge1096345"
       },
       "geometry": {
         "type": "Polygon",
@@ -145861,7 +145861,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Kolky]",
-        "N651": "$$aKolky (Ukrajina : oblast)"
+        "N651": "$$aKolky (Ukrajina : oblast)$$7ge1123519"
       },
       "geometry": {
         "type": "Polygon",
@@ -145906,7 +145906,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Kolky]",
-        "N651": "$$aKolky (Ukrajina : oblast)"
+        "N651": "$$aKolky (Ukrajina : oblast)$$7ge1123519"
       },
       "geometry": {
         "type": "Polygon",
@@ -145951,7 +145951,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Kolky]",
-        "N651": "$$aKolky (Ukrajina : oblast)"
+        "N651": "$$aKolky (Ukrajina : oblast)$$7ge1123519"
       },
       "geometry": {
         "type": "Polygon",
@@ -148291,7 +148291,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Belz a Sokal]",
-        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)"
+        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)$$7ge1124111"
       },
       "geometry": {
         "type": "Polygon",
@@ -148336,7 +148336,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Belz a Sokal]",
-        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)"
+        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)$$7ge1124111"
       },
       "geometry": {
         "type": "Polygon",
@@ -148381,7 +148381,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Belz a Sokal]",
-        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)"
+        "N651": "$$aBelz (Ukrajina : oblast)$$7ge559670|$$aSokal (Ukrajina : oblast)$$7ge1124111"
       },
       "geometry": {
         "type": "Polygon",
@@ -148966,7 +148966,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Izjaslav]",
-        "N651": "$$aIzjaslav (Ukrajina : oblast)"
+        "N651": "$$aIzjaslav (Ukrajina : oblast)$$7ge1125729"
       },
       "geometry": {
         "type": "Polygon",
@@ -149011,7 +149011,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Izjaslav]",
-        "N651": "$$aIzjaslav (Ukrajina : oblast)"
+        "N651": "$$aIzjaslav (Ukrajina : oblast)$$7ge1125729"
       },
       "geometry": {
         "type": "Polygon",
@@ -149056,7 +149056,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Izjaslav]",
-        "N651": "$$aIzjaslav (Ukrajina : oblast)"
+        "N651": "$$aIzjaslav (Ukrajina : oblast)$$7ge1125729"
       },
       "geometry": {
         "type": "Polygon",
@@ -150046,7 +150046,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Jaworów a Gródek]",
-        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)"
+        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)$$7ge1124112"
       },
       "geometry": {
         "type": "Polygon",
@@ -150091,7 +150091,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Jaworów a Gródek]",
-        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)"
+        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)$$7ge1124112"
       },
       "geometry": {
         "type": "Polygon",
@@ -150136,7 +150136,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Jaworów a Gródek]",
-        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)"
+        "N651": "$$aJavoriv (Ukrajina : oblast)$$7ge1086404|$$aHorodok (Lvovská oblast, Ukrajina : oblast)$$7ge1124112"
       },
       "geometry": {
         "type": "Polygon",
@@ -151126,7 +151126,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Mykolajìv a Bibrka]",
-        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)"
+        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)$$7ge1127718"
       },
       "geometry": {
         "type": "Polygon",
@@ -151171,7 +151171,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Mykolajìv a Bibrka]",
-        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)"
+        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)$$7ge1127718"
       },
       "geometry": {
         "type": "Polygon",
@@ -151216,7 +151216,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Mykolajìv a Bibrka]",
-        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)"
+        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)$$7ge1127718"
       },
       "geometry": {
         "type": "Polygon",
@@ -152611,7 +152611,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Skalat a Hrimajlìv]",
-        "N651": "$$aSkalat (Ukrajina : oblast)|$$aHrimajlìv (Ukrajina : oblast)"
+        "N651": "$$aSkalat (Ukrajina : oblast)$$7ge1127703|$$aHrimajlìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152656,7 +152656,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Skalat a Hrimajlìv]",
-        "N651": "$$aSkalat (Ukrajina : oblast)|$$aHrimajlìv (Ukrajina : oblast)"
+        "N651": "$$aSkalat (Ukrajina : oblast)$$7ge1127703|$$aHrimajlìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152701,7 +152701,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Skalat a Hrimajlìv]",
-        "N651": "$$aSkalat (Ukrajina : oblast)|$$aHrimajlìv (Ukrajina : oblast)"
+        "N651": "$$aSkalat (Ukrajina : oblast)$$7ge1127703|$$aHrimajlìv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -157336,7 +157336,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Hliboka]",
-        "N651": "$$aHlyboka (Ukrajina : oblast)"
+        "N651": "$$aHlyboka (Černovická oblast, Ukrajina : oblast)$$7ge1112300"
       },
       "geometry": {
         "type": "Polygon",
@@ -157381,7 +157381,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Hliboka]",
-        "N651": "$$aHlyboka (Ukrajina : oblast)"
+        "N651": "$$aHlyboka (Černovická oblast, Ukrajina : oblast)$$7ge1112300"
       },
       "geometry": {
         "type": "Polygon",
@@ -157426,7 +157426,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Hliboka]",
-        "N651": "$$aHlyboka (Ukrajina : oblast)"
+        "N651": "$$aHlyboka (Černovická oblast, Ukrajina : oblast)$$7ge1112300"
       },
       "geometry": {
         "type": "Polygon",
@@ -158281,7 +158281,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Rădăuți]",
-        "N651": "$$aRădăuți (Rumunsko : oblast)"
+        "N651": "$$aRădăuți (Rumunsko : oblast)$$7ge1101044"
       },
       "geometry": {
         "type": "Polygon",
@@ -158326,7 +158326,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Rădăuți]",
-        "N651": "$$aRădăuți (Rumunsko : oblast)"
+        "N651": "$$aRădăuți (Rumunsko : oblast)$$7ge1101044"
       },
       "geometry": {
         "type": "Polygon",
@@ -158371,7 +158371,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Rădăuți]",
-        "N651": "$$aRădăuți (Rumunsko : oblast)"
+        "N651": "$$aRădăuți (Rumunsko : oblast)$$7ge1101044"
       },
       "geometry": {
         "type": "Polygon",
@@ -161926,7 +161926,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Toplița a Tulgheș]",
-        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
+        "N651": "$$aTopliţa (Harghita, Rumunsko : oblast)$$7ge1105910|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
       },
       "geometry": {
         "type": "Polygon",
@@ -161971,7 +161971,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Toplița a Tulgheș]",
-        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
+        "N651": "$$aTopliţa (Harghita, Rumunsko : oblast)$$7ge1105910|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
       },
       "geometry": {
         "type": "Polygon",
@@ -162016,7 +162016,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Toplița a Tulgheș]",
-        "N651": "$$aToplița (Rumunsko : oblast)|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
+        "N651": "$$aTopliţa (Harghita, Rumunsko : oblast)$$7ge1105910|$$aTulgheș (Rumunsko : oblast)$$7ge1094406|$$aDitrău (Rumunsko : oblast)$$7ge1094405"
       },
       "geometry": {
         "type": "Polygon",
@@ -165166,7 +165166,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Sebeș]",
-        "N651": "$$aSebeș (Rumunsko : oblast)"
+        "N651": "$$aSebeș (Rumunsko : oblast)$$7ge1096457"
       },
       "geometry": {
         "type": "Polygon",
@@ -165211,7 +165211,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Sebeș]",
-        "N651": "$$aSebeș (Rumunsko : oblast)"
+        "N651": "$$aSebeș (Rumunsko : oblast)$$7ge1096457"
       },
       "geometry": {
         "type": "Polygon",
@@ -165256,7 +165256,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Sebeș]",
-        "N651": "$$aSebeș (Rumunsko : oblast)"
+        "N651": "$$aSebeș (Rumunsko : oblast)$$7ge1096457"
       },
       "geometry": {
         "type": "Polygon",
@@ -165571,7 +165571,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Făgăraș]",
-        "N651": "$$aFăgăraș (Rumunsko : oblast)"
+        "N651": "$$aFăgăraṣ (Rumunsko : oblast)$$7ge1092332"
       },
       "geometry": {
         "type": "Polygon",
@@ -165616,7 +165616,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Făgăraș]",
-        "N651": "$$aFăgăraș (Rumunsko : oblast)"
+        "N651": "$$aFăgăraṣ (Rumunsko : oblast)$$7ge1092332"
       },
       "geometry": {
         "type": "Polygon",
@@ -165661,7 +165661,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Făgăraș]",
-        "N651": "$$aFăgăraș (Rumunsko : oblast)"
+        "N651": "$$aFăgăraṣ (Rumunsko : oblast)$$7ge1092332"
       },
       "geometry": {
         "type": "Polygon",
@@ -166921,7 +166921,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Beceni]",
-        "N651": "$$Beceni (Rumunsko : oblast)"
+        "N651": "$$Beceni (Rumunsko : oblast)$$7ge1125741"
       },
       "geometry": {
         "type": "Polygon",
@@ -166966,7 +166966,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Beceni]",
-        "N651": "$$Beceni (Rumunsko : oblast)"
+        "N651": "$$Beceni (Rumunsko : oblast)$$7ge1125741"
       },
       "geometry": {
         "type": "Polygon",
@@ -167011,7 +167011,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Beceni]",
-        "N651": "$$Beceni (Rumunsko : oblast)"
+        "N651": "$$Beceni (Rumunsko : oblast)$$7ge1125741"
       },
       "geometry": {
         "type": "Polygon",
@@ -167056,7 +167056,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Petroșani]",
-        "N651": "$$aPetroșani (Rumunsko : oblast)"
+        "N651": "$$aPetroşani (Rumunsko : oblast)$$7ge1095517"
       },
       "geometry": {
         "type": "Polygon",
@@ -167101,7 +167101,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Petroșani]",
-        "N651": "$$aPetroșani (Rumunsko : oblast)"
+        "N651": "$$aPetroşani (Rumunsko : oblast)$$7ge1095517"
       },
       "geometry": {
         "type": "Polygon",
@@ -167146,7 +167146,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Petroșani]",
-        "N651": "$$aPetroșani (Rumunsko : oblast)"
+        "N651": "$$aPetroşani (Rumunsko : oblast)$$7ge1095517"
       },
       "geometry": {
         "type": "Polygon",

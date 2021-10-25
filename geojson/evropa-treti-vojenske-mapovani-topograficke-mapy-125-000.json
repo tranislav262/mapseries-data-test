@@ -8476,7 +8476,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Mykolajìv a Bibrka]",
-        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)"
+        "N651": "$$aMykolajìv (Ukrajina, Stryjský rajón : oblast)|$$aBibrka (Ukrajina : oblast)$$7ge1127718"
       },
       "geometry": {
         "type": "Polygon",
@@ -16216,7 +16216,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "[Hlyboka]",
-        "N651": "$$aHlyboka (Ukrajina : oblast)"
+        "N651": "$$aHlyboka (Černovická oblast, Ukrajina : oblast)$$7ge1112300"
       },
       "geometry": {
         "type": "Polygon",
@@ -18061,7 +18061,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Eisenerz, Wildalpen und Aflenz]",
-        "N651": "$$aEisenerzské Alpy (Rakousko : pohoří)$$7ge891329|$$aAflenz Kurort (Rakousko : oblast)"
+        "N651": "$$aEisenerzské Alpy (Rakousko : pohoří)$$7ge891329|$$aAflenz (Rakousko : oblast)$$7ge1128079"
       },
       "geometry": {
         "type": "Polygon",
@@ -20536,7 +20536,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șanț a Iacobeni]",
-        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)"
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
       },
       "geometry": {
         "type": "Polygon",
@@ -26431,7 +26431,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Mocrea a Șimand]",
-        "N651": "$$aMocrea (Rumunsko : oblast)$$7Mocrea (Ineu, Rumunsko : oblast)|$$aȘimand (Rumunsko : oblast)"
+        "N651": "$$aMocrea (Ineu, Rumunsko : oblast)$$7ge1113381|$$aȘimand (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -95771,11 +95771,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4570/2",
-        "TITLE": "Svalava",
+        "TITLE": "Svaljava",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[Svalava]",
+        "N245A": "[Svaljava]",
         "N651": "$$aSvaljava (Ukrajina : oblast)$$7ge828877"
       },
       "geometry": {
@@ -95816,11 +95816,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4570/1",
-        "TITLE": "Svalava",
+        "TITLE": "Svaljava",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[Svalava]",
+        "N245A": "[Svaljava]",
         "N651": "$$aSvaljava (Ukrajina : oblast)$$7ge828877"
       },
       "geometry": {
@@ -95861,11 +95861,11 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "4570/4",
-        "TITLE": "Svalava",
+        "TITLE": "Svaljava",
         "SCALE": "25000",
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
-        "N245A": "[Svalava]",
+        "N245A": "[Svaljava]",
         "N651": "$$aSvaljava (Ukrajina : oblast)$$7ge828877"
       },
       "geometry": {
@@ -113596,7 +113596,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Mocrea a Șimand]",
-        "N651": "$$aMocrea (Rumunsko : oblast)$$7Mocrea (Ineu, Rumunsko : oblast)|$$aȘimand (Rumunsko : oblast)"
+        "N651": "$$aMocrea (Ineu, Rumunsko : oblast)$$7ge1113381|$$aȘimand (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113641,7 +113641,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Mocrea a Șimand]",
-        "N651": "$$aMocrea (Rumunsko : oblast)$$7Mocrea (Ineu, Rumunsko : oblast)|$$aȘimand (Rumunsko : oblast)"
+        "N651": "$$aMocrea (Ineu, Rumunsko : oblast)$$7ge1113381|$$aȘimand (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113686,7 +113686,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Mocrea a Șimand]",
-        "N651": "$$aMocrea (Rumunsko : oblast)$$7Mocrea (Ineu, Rumunsko : oblast)|$$aȘimand (Rumunsko : oblast)"
+        "N651": "$$aMocrea (Ineu, Rumunsko : oblast)$$7ge1113381|$$aȘimand (Rumunsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -120076,7 +120076,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Hațeg]",
-        "N651": "$$aHațeg (Rumunsko : oblast)"
+        "N651": "$$aHaţeg (Rumunsko : oblast)$$7ge1112291"
       },
       "geometry": {
         "type": "Polygon",
@@ -120121,7 +120121,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Hațeg]",
-        "N651": "$$aHațeg (Rumunsko : oblast)"
+        "N651": "$$aHaţeg (Rumunsko : oblast)$$7ge1112291"
       },
       "geometry": {
         "type": "Polygon",
@@ -120166,7 +120166,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Hațeg]",
-        "N651": "$$aHațeg (Rumunsko : oblast)"
+        "N651": "$$aHaţeg (Rumunsko : oblast)$$7ge1112291"
       },
       "geometry": {
         "type": "Polygon",
@@ -124126,7 +124126,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "[Bihać a Bosanska Krupa]",
-        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)"
+        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)$$7ge1124261"
       },
       "geometry": {
         "type": "Polygon",
@@ -124171,7 +124171,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "[Bihać a Bosanska Krupa]",
-        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)"
+        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)$$7ge1124261"
       },
       "geometry": {
         "type": "Polygon",
@@ -124216,7 +124216,7 @@
         "N43": "$$ae-bn---$$ae-ci---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "[Bihać a Bosanska Krupa]",
-        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)"
+        "N651": "$$aBihać (Bosna a Hercegovina : oblast)$$7ge868735|$$aBosanska Krupa (Bosna a Hercegovina : oblast)$$7ge1124261"
       },
       "geometry": {
         "type": "Polygon",
@@ -124261,7 +124261,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prijedor a Sanski Most]",
-        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)$$7ge1125387"
       },
       "geometry": {
         "type": "Polygon",
@@ -124306,7 +124306,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prijedor a Sanski Most]",
-        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)$$7ge1125387"
       },
       "geometry": {
         "type": "Polygon",
@@ -124351,7 +124351,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prijedor a Sanski Most]",
-        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrijedor (Bosna a Hercegovina : oblast)|$$aSanski Most (Bosna a Hercegovina : oblast)$$7ge1125387"
       },
       "geometry": {
         "type": "Polygon",
@@ -124531,7 +124531,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prnjavor]",
-        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)$$7ge1125382"
       },
       "geometry": {
         "type": "Polygon",
@@ -124576,7 +124576,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prnjavor]",
-        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)$$7ge1125382"
       },
       "geometry": {
         "type": "Polygon",
@@ -124621,7 +124621,7 @@
         "N43": "$$ae-bn---",
         "N80": "$$a913(497.6)$$2MRF",
         "N245A": "[Prnjavor]",
-        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)"
+        "N651": "$$aPrnjavor (Bosna a Hercegovina : oblast)$$7ge1125382"
       },
       "geometry": {
         "type": "Polygon",

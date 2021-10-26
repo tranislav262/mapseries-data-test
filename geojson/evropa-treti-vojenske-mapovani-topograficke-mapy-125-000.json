@@ -51133,8 +51133,8 @@
         "SHEET": "4650/1",
         "TITLE": "Braunau a Triftern",
         "SCALE": "25000",
-        "N43": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
-        "N80": "Braunau und Triftern",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Braunau a Triftern]",
         "N651": "$$aBraunau am Inn (Rakousko : oblast)$$7ge1120259|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
@@ -51178,8 +51178,8 @@
         "SHEET": "4650/4",
         "TITLE": "Braunau a Triftern",
         "SCALE": "25000",
-        "N43": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
-        "N80": "Braunau und Triftern",
+        "N43": "$$ae-gx---$$ae-au---",
+        "N80": "$$a913(436.9)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "[Braunau a Triftern]",
         "N651": "$$aBraunau am Inn (Rakousko : oblast)$$7ge1120259|$$aTriftern (Německo : oblast)$$7ge1118752"
       },
@@ -156658,7 +156658,7 @@
         "SHEET": "4771/2",
         "TITLE": "Ťačovo",
         "SCALE": "25000",
-        "N43": "$$ae-un",
+        "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Ťačovo]",
         "N651": "$$aTjačìv (Ukrajina : oblast)$$7ge612722"
@@ -156703,7 +156703,7 @@
         "SHEET": "4771/1",
         "TITLE": "Ťačovo",
         "SCALE": "25000",
-        "N43": "$$ae-un",
+        "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Ťačovo]",
         "N651": "$$aTjačìv (Ukrajina : oblast)$$7ge612722"
@@ -159901,7 +159901,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șanț a Iacobeni]",
-        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)"
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
       },
       "geometry": {
         "type": "Polygon",
@@ -159946,7 +159946,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șanț a Iacobeni]",
-        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)"
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
       },
       "geometry": {
         "type": "Polygon",
@@ -159991,7 +159991,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șanț a Iacobeni]",
-        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko, Suceava : oblast)"
+        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
       },
       "geometry": {
         "type": "Polygon",

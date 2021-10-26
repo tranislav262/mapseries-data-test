@@ -14641,7 +14641,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Bilky]",
-        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893435"
+        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
       "geometry": {
         "type": "Polygon",
@@ -18691,7 +18691,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "[Nyírbéltek a Vámospércs]",
-        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámos-Pércs (Maďarsko : oblast)"
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20671,7 +20671,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Târgu Neamț a Pașcani]",
-        "N651": "$$aTârgu Neamț (Rumunsko : oblast)$$7ge1095346|$$aPașcani (Rumunsko : oblast)"
+        "N651": "$$aTârgu Neamț (Rumunsko : oblast)$$7ge1095346|$$aPaşcani (Rumunsko : oblast)$$7ge1094599"
       },
       "geometry": {
         "type": "Polygon",
@@ -32866,7 +32866,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Petroșani]",
-        "N651": "$$aPetroșani (Rumunsko : oblast)"
+        "N651": "$$aPetroşani (Rumunsko : oblast)$$7ge1095517"
       },
       "geometry": {
         "type": "Polygon",
@@ -97801,7 +97801,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Bílky]",
-        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893435"
+        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
       "geometry": {
         "type": "Polygon",
@@ -97846,7 +97846,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Bílky]",
-        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893435"
+        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
       "geometry": {
         "type": "Polygon",
@@ -97891,7 +97891,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Bílky]",
-        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893435"
+        "N651": "$$aBilky (Ukrajina : oblast)$$7ge893437"
       },
       "geometry": {
         "type": "Polygon",

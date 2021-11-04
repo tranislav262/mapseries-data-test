@@ -736,7 +736,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Szydłowiec]",
-        "N651": "$$aSzydłowiec (Polsko : oblast)"
+        "N651": "$$aSzydłowiec (Polsko : oblast)$$7ge1129528"
       },
       "geometry": {
         "type": "Polygon",
@@ -4246,7 +4246,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Szczucin]",
-        "N651": "$$aSzczucin (Polsko : oblast)"
+        "N651": "$$aSzczucin (Polsko : oblast)$$7ge1130243"
       },
       "geometry": {
         "type": "Polygon",
@@ -4471,7 +4471,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "[Bełzec und Uhnów]",
-        "N651": "$$aBełżec (Polsko : oblast)|$$aUhniv (Ukrajina : oblast)"
+        "N651": "$$aBełżec (Polsko : oblast)$$7ge1130249|$$aUhniv (Ukrajina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5641,7 +5641,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Ropczyce a Dębica]",
-        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)"
+        "N651": "$$aRopczyce (Polsko : oblast)$$7ge1130237|$$aDębica (Polsko : oblast)$$7ge1129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -16531,7 +16531,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436)$$2MRF",
         "N245A": "[Schneeberg a St. Aegyd am Neuwalde]",
-        "N651": "$$aSchneeberg (Rakousko : oblast)|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
+        "N651": "$$aSchneeberg (Schneeberg, Rakousko : hora : oblast)$$7ge1130254|$$aSt. Aegyd am Neuwalde (Rakousko : oblast)$$7ge1120127"
       },
       "geometry": {
         "type": "Polygon",
@@ -18691,7 +18691,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "[Nyírbéltek a Vámospércs]",
-        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)"
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)$$7ge1130217"
       },
       "geometry": {
         "type": "Polygon",
@@ -18916,7 +18916,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Vișeu de Sus]",
-        "N651": "$$aVișeu de Sus (Rumunsko : oblast)"
+        "N651": "$$aVişeu de Sus (Rumunsko : oblast)$$7ge1104681"
       },
       "geometry": {
         "type": "Polygon",
@@ -21886,7 +21886,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șimleu Silvaniei a Aleșd]",
-        "N651": "$$aȘimleu Silvaniei (Rumunsko : oblast)|$$aAleșd (Rumunsko : oblast)"
+        "N651": "$$aȘimleu Silvaniei (Rumunsko : oblast)|$$aAleşd (Rumunsko : oblast)$$7ge1095354"
       },
       "geometry": {
         "type": "Polygon",
@@ -24676,7 +24676,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Soltvadkert]",
-        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)$$7ge1130315"
       },
       "geometry": {
         "type": "Polygon",
@@ -25801,7 +25801,7 @@
         "N43": "$$ae-au---$$ae-xv---",
         "N80": "$$a913(436)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Bad Eisenkappel a Kokra]",
-        "N651": "$$aBad Eisenkappel (Rakousko : oblast)|$$aKonkra (Slovinsko : řeka : oblast)"
+        "N651": "$$aEisenkappel-Vellach (Rakousko : oblast)$$7ge1109500|$$aKonkra (Slovinsko : řeka : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29761,7 +29761,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Sebeș]",
-        "N651": "$$aSebeș (Rumunsko : oblast)"
+        "N651": "$$aSebeş (Rumunsko : oblast)$$7ge1096457"
       },
       "geometry": {
         "type": "Polygon",
@@ -37366,7 +37366,7 @@
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "[Zlot]",
-        "N651": "$$aZlot (Srbsko : oblast)"
+        "N651": "$$aZlot (Srbsko : oblast)$$7ge1124264"
       },
       "geometry": {
         "type": "Polygon",
@@ -42091,7 +42091,7 @@
         "N43": "$$ae-aa---$$ae-mo---",
         "N80": "$$913(496.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "[Lezhë]",
-        "N651": "$$aLezhë (Albánie : oblast)"
+        "N651": "$$aLezhë (Albánie : oblast)$$7ge1129676"
       },
       "geometry": {
         "type": "Polygon",
@@ -82681,7 +82681,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chrzanów a Krzeszowice]",
-        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)"
+        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)$$7ge1127725"
       },
       "geometry": {
         "type": "Polygon",
@@ -82726,7 +82726,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chrzanów a Krzeszowice]",
-        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)"
+        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)$$7ge1127725"
       },
       "geometry": {
         "type": "Polygon",
@@ -82771,7 +82771,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chrzanów a Krzeszowice]",
-        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)"
+        "N651": "$$aChrzanów (Polsko : oblast)$$7xx0154371|$$aKrzeszowice (Polsko : oblast)$$7ge1127725"
       },
       "geometry": {
         "type": "Polygon",
@@ -83221,7 +83221,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Ropczyce a Dębica]",
-        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)"
+        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)$$7ge1129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -83266,7 +83266,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Ropczyce a Dębica]",
-        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)"
+        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)$$7ge1129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -83311,7 +83311,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Ropczyce a Dębica]",
-        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)"
+        "N651": "$$aRopczyce (Polsko : oblast)|$$aDębica (Polsko : oblast)$$7ge1129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -83356,7 +83356,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rzeszów a Łańcut]",
-        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)"
+        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)$$7ge1129547"
       },
       "geometry": {
         "type": "Polygon",
@@ -83401,7 +83401,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rzeszów a Łańcut]",
-        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)"
+        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)$$7ge1129547"
       },
       "geometry": {
         "type": "Polygon",
@@ -83446,7 +83446,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rzeszów a Łańcut]",
-        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)"
+        "N651": "$$aŘešov (Polsko : oblast)$$7ge116759|$$aŁańcut (Polsko : oblast)$$7ge1129547"
       },
       "geometry": {
         "type": "Polygon",
@@ -87136,7 +87136,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Grybów a Gorlice]",
-        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)"
+        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)$$7ge1120176"
       },
       "geometry": {
         "type": "Polygon",
@@ -87181,7 +87181,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Grybów a Gorlice]",
-        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)"
+        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)$$7ge1120176"
       },
       "geometry": {
         "type": "Polygon",
@@ -87226,7 +87226,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Grybów a Gorlice]",
-        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)"
+        "N651": "$$aGrybów (Polsko : oblast)$$7ge1036633|$$aGorlice (Polsko : oblast)$$7ge1120176"
       },
       "geometry": {
         "type": "Polygon",
@@ -103606,7 +103606,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Nyírbéltek a Vámospércs]",
-        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)"
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)$$7ge1130217"
       },
       "geometry": {
         "type": "Polygon",
@@ -103651,7 +103651,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Nyírbéltek a Vámospércs]",
-        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)"
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)$$7ge1130217"
       },
       "geometry": {
         "type": "Polygon",
@@ -103696,7 +103696,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Nyírbéltek a Vámospércs]",
-        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)"
+        "N651": "$$aNyírbéltek (Maďarsko : oblast)$$7ge1103694|$$aVámospércs (Maďarsko : oblast)$$7ge1130217"
       },
       "geometry": {
         "type": "Polygon",
@@ -111031,7 +111031,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Soltvadkert]",
-        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)$$7ge1130315"
       },
       "geometry": {
         "type": "Polygon",
@@ -111076,7 +111076,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Soltvadkert]",
-        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)$$7ge1130315"
       },
       "geometry": {
         "type": "Polygon",
@@ -111121,7 +111121,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "[Soltvadkert]",
-        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)$$7ge1130315"
       },
       "geometry": {
         "type": "Polygon",
@@ -158821,7 +158821,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Vișeu de Sus]",
-        "N651": "$$aVișeu de Sus (Rumunsko : oblast)"
+        "N651": "$$aVişeu de Sus (Rumunsko : oblast)$$7ge1104681"
       },
       "geometry": {
         "type": "Polygon",
@@ -158866,7 +158866,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Vișeu de Sus]",
-        "N651": "$$aVișeu de Sus (Rumunsko : oblast)"
+        "N651": "$$aVişeu de Sus (Rumunsko : oblast)$$7ge1104681"
       },
       "geometry": {
         "type": "Polygon",
@@ -158911,7 +158911,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Vișeu de Sus]",
-        "N651": "$$aVișeu de Sus (Rumunsko : oblast)"
+        "N651": "$$aVişeu de Sus (Rumunsko : oblast)$$7ge1104681"
       },
       "geometry": {
         "type": "Polygon",

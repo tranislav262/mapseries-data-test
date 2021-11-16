@@ -291,7 +291,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Velký Šenov",
-        "N651": "$$aVelký Šenov (Česko : oblast)"
+        "N651": "$$aVelký Šenov (Česko : oblast)$$7ge1132153"
       },
       "geometry": {
         "coordinates": [
@@ -771,7 +771,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Grossschönau|Großschönau",
-        "N651": "$$aGroßschönau (Německo : oblast)"
+        "N651": "$$aGroßschönau (Německo : oblast)$$7ge1132155"
       },
       "geometry": {
         "coordinates": [
@@ -851,7 +851,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Bogatynia",
-        "N651": "$$aBogatynia (Polsko : oblast)"
+        "N651": "$$aBogatynia (Polsko : oblast)$$7ge1132154"
       },
       "geometry": {
         "coordinates": [
@@ -1131,7 +1131,7 @@
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Ludvíkovice",
-        "N651": "$$aLudvíkovice (Česko : oblast)"
+        "N651": "$$aLudvíkovice (Česko : oblast)$$7ge1132206"
       },
       "geometry": {
         "coordinates": [
@@ -1571,7 +1571,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Podgórzyn",
-        "N651": "$$aPodgórzyn (Polsko : oblast)"
+        "N651": "$$aPodgórzyn (Polsko : oblast)$$7ge1132157"
       },
       "geometry": {
         "coordinates": [
@@ -1651,7 +1651,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Rechenberg-Bienenmühle",
-        "N651": "$$aRechenberg-Bienenmühle (Německo : oblast)"
+        "N651": "$$aRechenberg-Bienenmühle (Německo : oblast)$$7ge1132425"
       },
       "geometry": {
         "coordinates": [
@@ -2051,7 +2051,7 @@
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "Stráž pod Ralskem",
-        "N651": "$$aStráž pod Ralskem (Česko : oblast)"
+        "N651": "$$aStráž pod Ralskem (Česko : oblast)$$7ge1132400"
       },
       "geometry": {
         "coordinates": [
@@ -2411,7 +2411,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Královec",
-        "N651": "$$aKrálovec (Česko : oblast)"
+        "N651": "$$aKrálovec (Česko : oblast)$$7ge1132202"
       },
       "geometry": {
         "coordinates": [
@@ -2491,7 +2491,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Mieroszów",
-        "N651": "$$aMieroszów (Polsko : oblast)"
+        "N651": "$$aMieroszów (Polsko : oblast)$$7ge1132177"
       },
       "geometry": {
         "coordinates": [
@@ -3371,7 +3371,7 @@
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "Lánov",
-        "N651": "$$aLánov (Česko : oblast)"
+        "N651": "$$aLánov (Česko : oblast)$$7ge1132178"
       },
       "geometry": {
         "coordinates": [
@@ -3411,7 +3411,7 @@
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
         "N245A": "Svoboda nad Úpou",
-        "N651": "$$aSvoboda nad Úpou (Česko : oblast)"
+        "N651": "$$aSvoboda nad Úpou (Česko : oblast)$$7ge1132197"
       },
       "geometry": {
         "coordinates": [
@@ -3491,7 +3491,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Chvaleč",
-        "N651": "$$aChvaleč (Česko : oblast)"
+        "N651": "$$aChvaleč (Česko : oblast)$$7ge1132180"
       },
       "geometry": {
         "coordinates": [
@@ -4291,7 +4291,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Příšovice",
-        "N651": "$$aPříšovice (Česko : oblast)"
+        "N651": "$$aPříšovice (Česko : oblast)$$7ge1132181"
       },
       "geometry": {
         "coordinates": [
@@ -4331,7 +4331,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Vyskeř",
-        "N651": "$$aVyskeř (Česko : oblast)"
+        "N651": "$$aVyskeř (Česko : oblast)$$7ge1132185"
       },
       "geometry": {
         "coordinates": [
@@ -4411,7 +4411,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-kr",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Stará Paka",
-        "N651": "$$aStará Paka (Česko : oblast)"
+        "N651": "$$aStará Paka (Česko : oblast)$$7ge1132182"
       },
       "geometry": {
         "coordinates": [
@@ -4811,7 +4811,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Breitenbrunn",
-        "N651": "$$aBreitenbrunn (Německo : oblast)"
+        "N651": "$$aBreitenbrunn (Německo : oblast)$$7ge1132186"
       },
       "geometry": {
         "coordinates": [
@@ -4851,7 +4851,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Kurort Oberwiesenthal",
-        "N651": "$$aKurort Oberwiesenthal (Německo : oblast)"
+        "N651": "$$aOberwiesenthal (Německo : oblast)$$7ge1132188"
       },
       "geometry": {
         "coordinates": [
@@ -4931,7 +4931,7 @@
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Výsluní",
-        "N651": "$$aVýsluní (Česko : oblast)"
+        "N651": "$$aVýsluní (Česko : oblast)$$7ge1132189"
       },
       "geometry": {
         "coordinates": [
@@ -7531,7 +7531,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Rehau sever|Rehau-sever",
-        "N651": "$$aRehau (Německo : oblast)"
+        "N651": "$$aRehau (Německo : oblast)$$7ge1132402"
       },
       "geometry": {
         "coordinates": [
@@ -7571,7 +7571,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Bad Elster|Bad-Elster",
-        "N651": "$$aBad Elster (Německo : oblast)"
+        "N651": "$$aBad Elster (Německo : oblast)$$7ge1132403"
       },
       "geometry": {
         "coordinates": [
@@ -7851,7 +7851,7 @@
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "Vojkovice",
-        "N651": "$$aVojkovice (Karlovy Vary, Česko : oblast)"
+        "N651": "$$aVojkovice (Karlovy Vary, Česko : oblast)$$7ge1120396"
       },
       "geometry": {
         "coordinates": [
@@ -9331,7 +9331,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Rehau jih|Rehau-jih",
-        "N651": "$$aRehau (Německo : oblast)"
+        "N651": "$$aRehau (Německo : oblast)$$7ge1132402"
       },
       "geometry": {
         "coordinates": [
@@ -12171,7 +12171,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Žehuň",
-        "N651": "$$aŽehuň (Česko : oblast)"
+        "N651": "$$aŽehuň (Česko : oblast)$$7ge1132196"
       },
       "geometry": {
         "coordinates": [
@@ -14891,7 +14891,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Neualbenreuth",
-        "N651": "$$aNeualbenreuth (Německo : oblast)"
+        "N651": "$$aNeualbenreuth (Německo : oblast)$$7ge1132401"
       },
       "geometry": {
         "coordinates": [
@@ -16931,7 +16931,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mähring",
-        "N651": "$$aMähring (Německo : oblast)"
+        "N651": "$$aMähring (Německo : oblast)$$7ge1132190"
       },
       "geometry": {
         "coordinates": [
@@ -25371,7 +25371,7 @@
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Skašov",
-        "N651": "$$aSkašov (Česko : oblast)"
+        "N651": "$$aSkašov (Česko : oblast)$$7ge1132192"
       },
       "geometry": {
         "coordinates": [
@@ -26811,7 +26811,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo$$be-xr-zl",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF",
         "N245A": "Starý Jičín",
-        "N651": "$$aStarý Jičín (Česko : oblast)"
+        "N651": "$$aStarý Jičín (Česko : oblast)$$7ge1132193"
       },
       "geometry": {
         "coordinates": [
@@ -29171,7 +29171,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Staré Hamry",
-        "N651": "$$aStaré Hamry (Česko : oblast)"
+        "N651": "$$aStaré Hamry (Česko : oblast)$$7ge1132194"
       },
       "geometry": {
         "coordinates": [
@@ -37251,7 +37251,7 @@
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Kvasice",
-        "N651": "$$aKvasice (Česko : oblast)"
+        "N651": "$$aKvasice (Česko : oblast)$$7ge1132195"
       },
       "geometry": {
         "coordinates": [

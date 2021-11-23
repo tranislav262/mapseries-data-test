@@ -178,5 +178,17 @@
    "cs": "Při plánování úderu proti Československu vydal německý generální štáb v roce 1938 tzv. Mapy opevnění Československa (Befestigungskarte Tschechoslowakei) mapující obranná postavení na československých hranicích. Befestigungskarte vycházející z topografických sekcí třetího vojenského mapování obsahoval přitištěnou Gaussovu-Krügerovu síť a červený značkový klíč.\n",
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Slowakei 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:cb7a3b80-a69a-11e8-830e-005056825209/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

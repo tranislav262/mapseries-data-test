@@ -14607,7 +14607,7 @@
         "N43": "$$ae-sw---$$ae-no---",
         "N80": "$$a913(485)$$MRF|$$a913(481)$$MRF",
         "N245A": "Uddevalla",
-        "N651": "$$Uddevalla (Švédsko : oblast)"
+        "N651": "$$aUddevalla (Švédsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -15181,7 +15181,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Mariestad",
-        "N651": "$$aMariestad (Švédsko : oblast)"
+        "N651": "$$aMariestad (Švédsko : oblast)$$7ge1133388"
       },
       "geometry": {
         "type": "Polygon",
@@ -15222,7 +15222,7 @@
         "N43": "$$ae-no---$$ae-sw---",
         "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Karlstad",
-        "N651": "$$aKarlstad (Švédsko : oblast)"
+        "N651": "$$aKarlstad (Švédsko : oblast)$$7ge1133566"
       },
       "geometry": {
         "type": "Polygon",
@@ -15878,7 +15878,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Norrköping",
-        "N651": "$$aNorrköping (Švédsko : oblast)"
+        "N651": "$$aNorrköping (Švédsko : oblast)$$7ge1133385"
       },
       "geometry": {
         "type": "Polygon",
@@ -17559,7 +17559,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Kiruna",
-        "N651": "$$aKiruna (Švédsko : oblast)"
+        "N651": "$$aKiruna (Švédsko : oblast)$$7ge1134452"
       },
       "geometry": {
         "type": "Polygon",
@@ -18461,7 +18461,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kaskö",
-        "N651": "$$aKaskinen (Finsko : oblast)"
+        "N651": "$$aKaskinen (Finsko : oblast)$$7ge1133564"
       },
       "geometry": {
         "type": "Polygon",
@@ -18543,7 +18543,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Luleå|Luleä",
-        "N651": "$$aLuleå (Švédsko : oblast)"
+        "N651": "$$aLuleå (Švédsko : oblast)$$7ge1125789"
       },
       "geometry": {
         "type": "Polygon",
@@ -19117,7 +19117,7 @@
         "N43": "$$ae-pl---$$ae-un---",
         "N80": "$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Tomaszow|Zamość",
-        "N651": "$$aTomaszów Lubelski (Polsko : oblast)"
+        "N651": "$$aTomaszów Lubelski (Polsko : oblast)$$7ge1131694"
       },
       "geometry": {
         "type": "Polygon",
@@ -19281,7 +19281,7 @@
         "N43": "$$ae-ru---$$ae-li---$$ae-pl---",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Ebenrode",
-        "N651": "$$aNestěrov (Rusko : oblast)"
+        "N651": "$$aNestěrov (Rusko : oblast)$$7ge1134466"
       },
       "geometry": {
         "type": "Polygon",
@@ -19404,7 +19404,7 @@
         "N43": "$$ae-lv---",
         "N80": "$$a913(474.3)$$2MRF",
         "N245A": "Dünamünde|Dünamünde (Daugavgrīva)",
-        "N651": "$$aDaugavgrīva (Lotyšsko : oblast)"
+        "N651": "$$aRiga (Lotyšsko : oblast)$$7ge1118766"
       },
       "geometry": {
         "type": "Polygon",
@@ -19535,7 +19535,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Tammisaari (Ekenäs)|Salo",
-        "N651": "$$aSalo (Finsko : oblast)"
+        "N651": "$$aSalo (Finsko : oblast)$$7ge1134434"
       },
       "geometry": {
         "type": "Polygon",
@@ -19658,7 +19658,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Jakobstad|Pietarsaari",
-        "N651": "$$aJakobstad (Finsko : oblast)"
+        "N651": "$$aPietarsaari (Finsko : oblast)$$7ge1134425"
       },
       "geometry": {
         "type": "Polygon",
@@ -19822,7 +19822,7 @@
         "N43": "$$ae-fi---$$ae-sw---",
         "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Kolari",
-        "N651": "$$aKolari (Finsko : oblast)"
+        "N651": "$$aKolari (Finsko : oblast)$$7ge1134430"
       },
       "geometry": {
         "type": "Polygon",
@@ -20232,7 +20232,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Marosvásárhely|Schässburg|Schäßburg",
-        "N651": "$$aSighişoara (Rumunsko : oblast)|$$aTârgu Mureş (Rumunsko : oblast)$$7ge1093450"
+        "N651": "$$aSighişoara (Rumunsko : oblast)$$7ge1119946|$$aTârgu Mureş (Rumunsko : oblast)$$7ge1093450"
       },
       "geometry": {
         "type": "Polygon",
@@ -21257,7 +21257,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Tekirdağ",
-        "N651": "$$aTekirdağ (Turecko : oblast)"
+        "N651": "$$aTekirdağ (Turecko : oblast)$$7ge1124157"
       },
       "geometry": {
         "type": "Polygon",
@@ -21462,7 +21462,7 @@
         "N43": "$$ae-rm---$$ae-mv---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Gala|Galaz",
-        "N651": "$$aGalați (Rumunsko : oblast)"
+        "N651": "$$aGalaţi (Galaţi, Rumunsko : oblast)$$7ge746638"
       },
       "geometry": {
         "type": "Polygon",
@@ -21503,7 +21503,7 @@
         "N43": "$$ae-rm---$$ae-mv---",
         "N80": "$$a913(498)$$2MRF|$$a913(478)$$2MRF",
         "N245A": "Roman ",
-        "N651": "$$aRoman (Rumunsko : oblast)"
+        "N651": "$$aRoman (Rumunsko : oblast)$$7ge1133419"
       },
       "geometry": {
         "type": "Polygon",
@@ -22036,7 +22036,7 @@
         "N43": "$$ae-er---$$ae-ru---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Narwa",
-        "N651": "$$aNarva (Estonsko : oblast)"
+        "N651": "$$aNarva (Estonsko : oblast)$$7ge1134462"
       },
       "geometry": {
         "type": "Polygon",
@@ -23676,7 +23676,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Constanta",
-        "N651": "$$aConstanța (Rumunsko : oblast)"
+        "N651": "$$aConstanța (Rumunsko : oblast)$$7ge749574"
       },
       "geometry": {
         "type": "Polygon",
@@ -24086,7 +24086,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Borißow|Borissow|Borissoff|Baryssau",
-        "N651": "$$aBarysaŭ (Bělorusko : oblast)"
+        "N651": "$$aBarysaŭ (Bělorusko : oblast)$$7ge1134499"
       },
       "geometry": {
         "type": "Polygon",

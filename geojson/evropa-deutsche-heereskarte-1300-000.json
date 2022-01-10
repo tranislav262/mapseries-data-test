@@ -14525,7 +14525,7 @@
         "N43": "$$ae-dk---",
         "N80": "$$a913(489)$$2MRF",
         "N245A": "Grenaa",
-        "N651": "$$aGrenaa (Dánsko : oblast)"
+        "N651": "$$aGrenaa (Dánsko : oblast)$$7ge1136722"
       },
       "geometry": {
         "type": "Polygon",
@@ -17518,7 +17518,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Mariehamn",
-        "N651": "$$aMariehamn (Finsko : oblast)"
+        "N651": "$$aMariehamn (Finsko : oblast)$$7ge1136737"
       },
       "geometry": {
         "type": "Polygon",
@@ -19322,7 +19322,7 @@
         "N43": "$$ae-li---$$ae-ru---",
         "N80": "$$a913(474.5)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Schaulen",
-        "N651": "$$aŠiauliai (Litva : oblast)"
+        "N651": "$$aŠiauliai (Litva : oblast)$$7ge1136703"
       },
       "geometry": {
         "type": "Polygon",
@@ -19494,7 +19494,7 @@
         "N43": "$$ae-fi---$$ae-er---",
         "N80": "$$a913(480)$$2MRF|$$a913(474.2)$$2MRF",
         "N245A": "Hanko (Hangö)|Hangö",
-        "N651": "$$aHanko (Finsko : oblast)"
+        "N651": "$$aHanko (Finsko : oblast)$$7ge1136750"
       },
       "geometry": {
         "type": "Polygon",
@@ -19617,7 +19617,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Lapua|Lappo",
-        "N651": "$$aLapua (Finsko : oblast)"
+        "N651": "$$aLapua (Finsko : oblast)$$7ge1136761"
       },
       "geometry": {
         "type": "Polygon",
@@ -19699,7 +19699,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Pykäjoki",
-        "N651": "$$aPyhäjoki (Finsko : oblast)"
+        "N651": "$$aPyhäjoki (Finsko : oblast)$$7ge1136763"
       },
       "geometry": {
         "type": "Polygon",
@@ -19863,7 +19863,7 @@
         "N43": "$$ae-fi---$$ae-sw---$$ae-no---",
         "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF|$$a913(481)$$2MRF",
         "N245A": "Enontekiö",
-        "N651": "$$aEnontekiö (Finsko : oblast)"
+        "N651": "$$aEnontekiö (Finsko : oblast)$$7ge1136769"
       },
       "geometry": {
         "type": "Polygon",
@@ -20601,7 +20601,7 @@
         "N43": "$$ae-li---$$ae-bw---$$ae-lv---",
         "N80": "$$a913(474.5)$$MRF|$$a913(476)$$2MRF|$$a913(474.3)$$2MRF",
         "N245A": "Wilkomir|Wilkomir (Ukmergė)|Wiłkomierz",
-        "N651": "$$aUkmergė (Litva : oblast)"
+        "N651": "$$aUkmergė (Litva : oblast)$$7ge1136719"
       },
       "geometry": {
         "type": "Polygon",
@@ -20683,7 +20683,7 @@
         "N43": "$$ae-er---$$ae-lv---",
         "N80": "$$a913(474.2)$$2MRF|$$a913(474.3)$$2MRF",
         "N245A": "Walk (Valga)|Walk",
-        "N651": "$$aValga (Estonsko : oblast)"
+        "N651": "$$aValga (Estonsko : oblast)$$7ge1136716"
       },
       "geometry": {
         "type": "Polygon",
@@ -20847,7 +20847,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Heinola",
-        "N651": "$$aHeinola (Finsko : oblast)"
+        "N651": "$$aHeinola (Finsko : oblast)$$7ge1136771"
       },
       "geometry": {
         "type": "Polygon",
@@ -20929,7 +20929,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Haapajä|Haapajärvi",
-        "N651": "$$aHaapajärvi (Finsko : oblast)"
+        "N651": "$$aHaapajärvi (Finsko : oblast)$$7ge1134457"
       },
       "geometry": {
         "type": "Polygon",
@@ -20970,7 +20970,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Raahe",
-        "N651": "$$aRaahe (Finsko : oblast)"
+        "N651": "$$aRaahe (Finsko : oblast)$$7ge1136779"
       },
       "geometry": {
         "type": "Polygon",
@@ -21011,7 +21011,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kemi",
-        "N651": "$$aKemi (Finsko : oblast)"
+        "N651": "$$aKemi (Finsko : oblast)$$7ge1136781"
       },
       "geometry": {
         "type": "Polygon",
@@ -21052,7 +21052,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Rovaniemi",
-        "N651": "$$aRovaniemi (Finsko : oblast)"
+        "N651": "$$aRovaniemi (Finsko : oblast)$$7ge1136782"
       },
       "geometry": {
         "type": "Polygon",
@@ -21093,7 +21093,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kittilä",
-        "N651": "$$aKittilä (Finsko : oblast)"
+        "N651": "$$aKittilä (Finsko : oblast)$$7ge1136784"
       },
       "geometry": {
         "type": "Polygon",
@@ -21913,7 +21913,7 @@
         "N43": "$$ae-lv---$$ae-ru---$$ae-bw---",
         "N80": "$$a913(474.3)$$2MRF|$$a913(470)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Rositten|Rjeżyca|Rositten (Rzeżyca)",
-        "N651": "$$aRēzekne (Lotyšsko : oblast)"
+        "N651": "$$aRēzekne (Lotyšsko : oblast)$$7ge1136858"
       },
       "geometry": {
         "type": "Polygon",
@@ -22118,7 +22118,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Mikkeli",
-        "N651": "$$aMikkeli (Finsko : oblast)"
+        "N651": "$$aMikkeli (Finsko : oblast)$$7ge1136859"
       },
       "geometry": {
         "type": "Polygon",
@@ -22159,7 +22159,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kuopio",
-        "N651": "$$aKuopio (Finsko : oblast)"
+        "N651": "$$aKuopio (Finsko : oblast)$$7ge1136860"
       },
       "geometry": {
         "type": "Polygon",
@@ -22200,7 +22200,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Iisalmi",
-        "N651": "$$aIisalmi (Finsko : oblast)"
+        "N651": "$$aIisalmi (Finsko : oblast)$$7ge1136863"
       },
       "geometry": {
         "type": "Polygon",
@@ -22241,7 +22241,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kajaani",
-        "N651": "$$aKajaani (Finsko : oblast)"
+        "N651": "$$aKajaani (Finsko : oblast)$$7ge1136866"
       },
       "geometry": {
         "type": "Polygon",
@@ -26382,7 +26382,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rshew",
-        "N651": "$$aRžev (Rusko : oblast)"
+        "N651": "$$aRžev (Rusko : oblast)$$7ge1071155"
       },
       "geometry": {
         "type": "Polygon",
@@ -26423,7 +26423,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Ostaschkoff",
-        "N651": "$$aOstaškov (Rusko : oblast)"
+        "N651": "$$aOstaškov (Rusko : oblast)$$7ge1120687"
       },
       "geometry": {
         "type": "Polygon",

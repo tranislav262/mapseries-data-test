@@ -18625,7 +18625,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Malmberget",
-        "N651": "$$aMalmberget (Švédsko : oblast)"
+        "N651": "$$aMalmberget (Švédsko : oblast)$$7ge1136973"
       },
       "geometry": {
         "type": "Polygon",
@@ -19445,7 +19445,7 @@
         "N43": "$$ae-er---",
         "N80": "$$a913(474.2)$$2MRF",
         "N245A": "Hapsal|Hapsal (Haapsalu)",
-        "N651": "$$aHaapsalu (Estonsko : oblast)"
+        "N651": "$$aHaapsalu (Estonsko : oblast)$$7ge1136709"
       },
       "geometry": {
         "type": "Polygon",
@@ -19945,7 +19945,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Hammerfest",
-        "N651": "$$aHammerfest (Norsko : oblast)"
+        "N651": "$$aHammerfest (Norsko : oblast)$$7ge1136982"
       },
       "geometry": {
         "type": "Polygon",
@@ -21831,7 +21831,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Wileika|Wilejka",
-        "N651": "$$aVilejka (Bělorusko : oblast)"
+        "N651": "$$aVilejka (Bělorusko : oblast)$$7ge1136986"
       },
       "geometry": {
         "type": "Polygon",
@@ -22077,7 +22077,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kotka|Fredrikshamn",
-        "N651": "$$aKotka (Finsko : oblast)|$$aHamina (Finsko : oblast)"
+        "N651": "$$aKotka (Finsko : oblast)$$7ge1136996|$$aHamina (Finsko : oblast)$$7ge1137001"
       },
       "geometry": {
         "type": "Polygon",
@@ -24783,7 +24783,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Adapazarı",
-        "N651": "$$aAdapazarı (Turecko : oblast)"
+        "N651": "$$aSakarya (Turecko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24824,7 +24824,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Zonguldak",
-        "N651": "$$aZonguldak (Turecko : oblast)"
+        "N651": "$$aZonguldak (Turecko : oblast)$$7ge1137009"
       },
       "geometry": {
         "type": "Polygon",
@@ -25398,7 +25398,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Schlüsselburg",
-        "N651": "$$aŠlisselburg (Rusko : oblast)"
+        "N651": "$$aŠlisselburg (Rusko : oblast)$$7ge1137011"
       },
       "geometry": {
         "type": "Polygon",

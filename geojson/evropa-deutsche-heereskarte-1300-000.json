@@ -381,7 +381,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rjashsk",
-        "N651": "$$aRjažsk (Rusko : oblast)"
+        "N651": "$$aRjažsk (Rusko : oblast)$$7ge1136936"
       },
       "geometry": {
         "type": "Polygon",
@@ -13049,7 +13049,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Haugesund",
-        "N651": "$$aHaugesund (Norsko : oblast)"
+        "N651": "$$aHaugesund (Norsko : oblast)$$7ge1136941"
       },
       "geometry": {
         "type": "Polygon",
@@ -14607,7 +14607,7 @@
         "N43": "$$ae-sw---$$ae-no---",
         "N80": "$$a913(485)$$MRF|$$a913(481)$$MRF",
         "N245A": "Uddevalla",
-        "N651": "$$aUddevalla (Švédsko : oblast)"
+        "N651": "$$aUddevalla (Švédsko : oblast)$$7ge1136947"
       },
       "geometry": {
         "type": "Polygon",

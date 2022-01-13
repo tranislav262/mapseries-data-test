@@ -1,14 +1,50 @@
 [
  {
   "field": "490a",
-  "name": "[Spezialkarte der österreich-ungarischen Monarchie im Maße 1:75 000] ;",
-  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "name": "[Befestigungskarte Tschechoslowakei 1:25 000] ;",
+  "grid": "evropa-befestigungskarte-tschechoslowakei-125-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,6)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:0258d3b3-5cbf-42c8-80a8-4f05533047dc/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[General-Karte von Mittel-Europa im Masse 1:200 000 (Hauptvermessungsabteilung XIV)] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a18b7175-2ba6-4ffc-a478-15682acd73e9/248,131,14643,10842/,200/0/default.jpg",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:90d8022f-6204-4533-8ac2-eeb2fc95ad92/276,185,10734,15387/,200/0/default.jpg",
   "description": {
-   "cs": "Speciální mapa Rakouska-Uherska v měřítku 1:75 000 vznikla na základě \ntřetího vojenského mapování prováděného v letech 1869 až 1885. Listy \nbyly odvozeny z topografických sekcí 1:25 000, kdy spojením čtyř dílčích \nlistů vznikl jeden mapový list v měřítku 1:75 000. V letech 1873 až 1889 \nvypracoval Militär-Geographisches Institut ve Vídni celkem 752 mapových \nlistů pokrývajících rakousko-uherské území. V období první světové války \nje pak průběžně doplňovaly listy navazujících oblastí ve směru \npostupující fronty, přičemž byly do rakouského kladu upravovány dostupné \nmístní mapy. Po zániku monarchie převzaly mapové podklady nástupnické \nstáty včetně Československa, které tyto mapy aktualizovaly a dále \nvyužívaly.",
-   "en": "Special Map of Austria-Hungary in scale 1 : 75 000 was created from the Third Military Mapping, which took place between 1869 and 1885. The sheets were made from topographic sections of 1:25 000. Between 1873 and 1889 Military Geographical Institute in Vienna produced 752 map sheets covering the Austro-Hungarian territory. During the First World War additional sheets from modified local maps were produced according to advancing fronts. After collapse of the monarchy, the successor states, including Czechoslovakia, took over these map sheets and updated them."
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[General-Karte von Mittel-Europa im Masse 1:200 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:6b0e83f0-725d-4f8d-9ebd-3752bf548bc9/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Generální mapa Československé republiky 1:200 000 - přetisky hranic 1938] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:9b7b2f27-f93c-434e-9721-5c9c09fb0056/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
   }
  },
  {
@@ -19,20 +55,32 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:2a621a3e-0161-404a-a837-8915a631f956/176,215,10065,15020/,200/0/default.jpg",
   "description": {
-   "cs": "Generální mapa Československé republiky vznikla na základě třetího \nvojenského mapování prováděného v letech 1869 až 1885. Listy byly \nodvozeny ze speciálních map 1:75 000, kdy spojením osmi sousedících \nmapových listů vznikl jeden list mapy generální. Po aktualizaci a \nnahrazení německého a maďarského názvosloví českým a slovenským, byly \nreambulované mapy vydávány nejprve Zeměpisným ústavem v rámci \nMinisterstva národní obrany a od roku 1919 pak tyto mapy vydával nově \nzaložený Vojenský zeměpisný ústav. Generální mapa pokrývající celé území \nČeskoslovenska pak vycházela v aktualizovaných vydáních až do počátku \npadesátých let.",
-   "en": "General Map of the Czechoslovakia was created on the basis of the Third Military Survey carried out between 1869 and 1885. The sheets were derived from eight bordering map sheets of Special map 1:75 000. After updating and replacing the German and Hungarian nomenclature with Czech and Slovak, the re-mapped sheets were firstly published by the Geographic Institute under the Ministry of National Defense. From 1919 these maps were published by the newly established Military Geographical Institute. The General map covering the whole territory of Czechoslovakia was released in updated editions until the early fifties."
+   "cs": null,
+   "en": null
   }
  },
  {
   "field": "490a",
-  "name": "[Übersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur] ;",
-  "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
+  "name": "[Generální mapa Protektorátu Čechy a Morava 1:200 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
   "sheets": "490v",
-  "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:03930de0-2ea4-44c4-8e6f-6a677b2f903b/216,169,11626,9830/,200/0/default.jpg",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:91b34c31-6100-440c-9881-169e799e808f/266,177,10391,15454/,200/0/default.jpg",
   "description": {
-   "cs": "Přehledná mapa střední Evropy v měřítku 1:750 000 byla vytvořena na základě topografických sekcí třetího vojenského mapování. Militär-Geographisches Institut zahájil práce na tomto mapovém díle v roce 1881 a listy přehledné mapy vydával až do rozpadu Rakousko-Uherska v roce 1918. Mapové listy zhotovené v pětibarevném provedení byly značeny velkými písmeny a arabskými čísly a jednotlivá mapová pole mají rozměry 33x39 cm. Übersichts-Karte von Mittel-Europa obsahuje 45 standardních a 9 provizorních listů pokrývajících širší oblast centrální Evropy včetně Balkánu, Pobaltí, severní Itálie a východní Francie. \n",
-   "en": "The Übersichts-Karte von Mittel-Europa was created on the basis of the Third Military Survey. The Militär-Geographisches Institute began to work on this map series in 1881 and was publishing map sheets until dissolution of Austria-Hungary in 1918. Tha map scale is 1:750 000 and sheets made in five-color design are marked with capital letters and Arabic numbers. Dimensions of each map field are 33x39 cm. The Übersichts-Karte von Mittel-Europa contains 45 standard and 9 provisional sheets covering the wider area of Central Europe including the Balkans, the Baltic States, Northern Italy and Eastern France."
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Generální úpatnicová mapa Československé republiky 1:200 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:502e8d46-8f99-4b39-b629-5fa5d08117e3/233,215,10053,14963/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
   }
  },
  {
@@ -43,17 +91,29 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:958bb453-4fb0-4615-96af-de2bb57daf1c/177,153,11393,9946/,200/0/default.jpg",
   "description": {
-   "cs": "Po zániku monarchie v roce 1918 převzaly československé úřady podklady Übersichts-Karte von Mittel-Europa vytvořené na základě třetího vojenského mapování. Listy Přehledné mapy střední Evropy v měřítku 1:750 000 vydával v roce 1919 Zeměpisný ústav spadající pod Ministerstvo národní obrany, od roku 1919 pak Vojenský zeměpisný ústav. Přehledná mapa byla součástí státního mapového díla i po druhé světové válce a využívána byla až do roku 1956. ",
-   "en": "After Dissolution of the Austro-Hungarian monarchy in 1918, the Czechoslovak authorities took over the documents of the Übersichts-Karte von Mittel-Europa, created on the basis of the Third Military Survey. Map sheets of 1: 750 000 scale were in 1919 published by the Institute of Geography under the Ministry of National Defense, and since 1919 by the Military Geography Institute. These maps were part of the state map series even after World War II and was used until 1956."
+   "cs": "Speciální mapa Rakouska-Uherska v měřítku 1:75 000 vznikla na základě \ntřetího vojenského mapování prováděného v letech 1869 až 1885. Listy \nbyly odvozeny z topografických sekcí 1:25 000, kdy spojením čtyř dílčích \nlistů vznikl jeden mapový list v měřítku 1:75 000. V letech 1873 až 1889 \nvypracoval Militär-Geographisches Institut ve Vídni celkem 752 mapových \nlistů pokrývajících rakousko-uherské území. V období první světové války \nje pak průběžně doplňovaly listy navazujících oblastí ve směru \npostupující fronty, přičemž byly do rakouského kladu upravovány dostupné \nmístní mapy. Po zániku monarchie převzaly mapové podklady nástupnické \nstáty včetně Československa, které tyto mapy aktualizovaly a dále \nvyužívaly.",
+   "en": "Special Map of Austria-Hungary in scale 1 : 75 000 was created from the Third Military Mapping, which took place between 1869 and 1885. The sheets were made from topographic sections of 1:25 000. Between 1873 and 1889 Military Geographical Institute in Vienna produced 752 map sheets covering the Austro-Hungarian territory. During the First World War additional sheets from modified local maps were produced according to advancing fronts. After collapse of the monarchy, the successor states, including Czechoslovakia, took over these map sheets and updated them."
   }
  },
  {
   "field": "490a",
-  "name": "[Generální úpatnicová mapa Československé republiky 1:200 000] ;",
-  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "name": "[Slowakei 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:502e8d46-8f99-4b39-b629-5fa5d08117e3/233,215,10053,14963/,200/0/default.jpg",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:cb7a3b80-a69a-11e8-830e-005056825209/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": "Generální mapa Československé republiky vznikla na základě třetího \nvojenského mapování prováděného v letech 1869 až 1885. Listy byly \nodvozeny ze speciálních map 1:75 000, kdy spojením osmi sousedících \nmapových listů vznikl jeden list mapy generální. Po aktualizaci a \nnahrazení německého a maďarského názvosloví českým a slovenským, byly \nreambulované mapy vydávány nejprve Zeměpisným ústavem v rámci \nMinisterstva národní obrany a od roku 1919 pak tyto mapy vydával nově \nzaložený Vojenský zeměpisný ústav. Generální mapa pokrývající celé území \nČeskoslovenska pak vycházela v aktualizovaných vydáních až do počátku \npadesátých let.",
+   "en": "General Map of the Czechoslovakia was created on the basis of the Third Military Survey carried out between 1869 and 1885. The sheets were derived from eight bordering map sheets of Special map 1:75 000. After updating and replacing the German and Hungarian nomenclature with Czech and Slovak, the re-mapped sheets were firstly published by the Geographic Institute under the Ministry of National Defense. From 1919 these maps were published by the newly established Military Geographical Institute. The General map covering the whole territory of Czechoslovakia was released in updated editions until the early fifties."
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Speciální mapa Československé republiky v měřítku 1:75 000 - přetisky hranic 1938] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:02ac1abe-c9af-463f-8626-74e1689d8404/233,239,14434,15387/,200/0/default.jpg",
   "description": {
    "cs": "Vojenský zeměpisný ústav prováděl revizi pomístních názvů v topografických mapách převzatých z Militär-Geographisches Institutu společně s Názvoslovnou komisí ustanovenou v roce 1930 při Národní radě badatelské. Po přípravě názvů a hranic základních orografických celků byly výsledky v průběhu druhé poloviny třicátých let vytištěny na podkladě listů Generální mapy Československé republiky. Hranice a názvy orografických celků jsou na listech Generální úpatnicové mapy ČSR vytištěny červenou barvou.",
    "en": "The Military Geographical Institute revised local names in topographic maps taken from the Militär-Geographisches Institute together with the Nomenclature Commission established in 1930 by the National Research Council. After the preparation of the names and boundaries of the basic orographic units, the results were printed in the second half of the thirties on sheets of the General Map of the Czechoslovakia. The borders and names of orographic units are on the sheets of the General foothill curve Map of Czechoslovakia printed in red colour."
@@ -73,30 +133,6 @@
  },
  {
   "field": "490a",
-  "name": "[Topografická mapa Československé republiky 1:25 000] ;",
-  "grid": "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
-  "sheets": "490v",
-  "groupby": "field.substring(0,6)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:8691a29a-ed4c-4c56-aa9f-9853809aa5f5/197,248,18711,14855/,200/0/default.jpg",
-  "description": {
-   "cs": "Vojenský zeměpisný ústav převzal po svém ustanovení v roce 1919 i \npodklady map topografických sekcí pokrývajících území nově vzniklého \nČeskoslovenska, které vznikly ve vídeňském Militär-Geographisches \nInstitutu jako jeden z výsledků třetího vojenského mapování. VZÚ \ntopografické sekce reambuloval a ve 20. a 30. letech je pak vydával jako \nTopografickou mapu ČSR v měřítku 1:25 000.",
-   "en": "After establishment in 1919, the Military Geographical Institute in Prague took over the maps of the Topographic sections covering the territory of the newly established Czechoslovakia, which were created at the Militär-Geographisches Institute in Vienna as one of the results of Third Military Survey. Military Geographical Institute edited these mapse and published them as the Topographic Map of Czechoslovakia, 1:25 000 in the 1920s and 1930s ."
-  }
- },
- {
-  "field": "490a",
-  "name": "[Generální mapa Protektorátu Čechy a Morava 1:200 000] ;",
-  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
-  "sheets": "490v",
-  "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:91b34c31-6100-440c-9881-169e799e808f/266,177,10391,15454/,200/0/default.jpg",
-  "description": {
-   "cs": "Vydávání listů generální mapy pokračovalo i po rozbití Československa a \nustanovení Protektorátu Čechy a Morava, kdy po Vojenském zeměpisném \nústavu převzaly využívané podklady rakouské Generalkarte protektorátní \núřady. V letech 1939 až 1942 generální mapu vydával Zeměpisný ústav \nspadající pod protektorátní Ministerstvo vnitra a od roku 1942 jej pak \naž do konce války nahradil Zeměměřičský úřad Čechy a Morava. Území \nprotektorátu pokrývalo 15 listů generální mapy. Původně české názvosloví \nna aktualizovaných listech VZÚ bylo v dalších vydáních nahrazeno \nněmčinou.",
-   "en": "The publication of sheets of the General map continued even after the breakup of Czechoslovakia and the establishment of the Protectorate of Bohemia and Moravia, when the Protectorate authorities took over documents from the Austrian Generalkarte after the Military Geographic Institute. From 1939 to 1942, sheets of General map were published by the Geographical Institute under the Protectorate Ministry of the Interior and from 1942 by the Land Survey Office of Bohemia and Moravia. The territory of the Protectorate was covered by 15 sheets of the General Map. The original czech terminology was replaced by german in following editions."
-  }
- },
- {
-  "field": "490a",
   "name": "[Speciální mapa Protektorátu Čechy a Morava v měřítku 1:75 000] ;",
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
@@ -105,18 +141,6 @@
   "description": {
    "cs": "Po zániku Československa v roce 1939 pokračovaly s vydáváním speciálních \nmap založených na třetím vojenském mapování protektorátní úřady, které \npřevzaly podklady od Vojenského zeměpisného ústavu. Nejprve listy \nvydával Zeměpisný ústav spadající pod protektorátní Ministerstvo vnitra \na od roku 1942 až do konce války pak ZÚ nahradil Zeměměřičský úřad Čechy \na Morava. Do protektorátních speciálních map byla barevně dotištěna \nhranice protektorátu a německé názvy obcí. Mapové listy vycházející od \nroku 1943 pak obsahovaly už i německy psanou legendu.",
    "en": "After the breakup of Czechoslovakia in 1939, the Protectorate authorities, which took over documents from the Military Geographic Institute, continued to publish Special maps based on the Third Military Survey. Firstly maps were published by the Geographical Institute under the Protectorate Ministry of the Interior and from 1942 until the end of the war was this publisher replaced by the Land Survey Office of Bohemia and Moravia. Special maps of Protectorate of Bohemia and Moravia contained colored  borders of protectorate and German names of municipalities. Map sheets published since 1943 icluded a German-written legend."
-  }
- },
- {
-  "field": "490a",
-  "name": "[General-Karte von Mittel-Europa im Masse 1:200 000 (Hauptvermessungsabteilung XIV)] ;",
-  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
-  "sheets": "490v",
-  "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:90d8022f-6204-4533-8ac2-eeb2fc95ad92/276,185,10734,15387/,200/0/default.jpg",
-  "description": {
-   "cs": "Po obsazení Rakouska nacistickým Německem došlo v roce 1938 k vytvoření \nXIV oddělení  spadajícího pod Říšský úřad pro zemské vyměřování \n(Reichsamt für Landesaufnahme) sídlící ve Vídni. Ten pak až do konce \nválky vydával generální mapy v měřítku 1:200 000, založené na listech, \nkteré vydával  bývalý rakouský Kartographisches Institut.",
-   "en": "After annexation of Austria by Nazi Germany in 1938, the XIV Department under the Reichsamt für Landesaufnahme was established in Vienna. Until end of the war this office published sheets of General map 1: 200 000, based on sheets, which issued the former Austrian Kartographisches Institut."
   }
  },
  {
@@ -133,11 +157,11 @@
  },
  {
   "field": "490a",
-  "name": "[General-Karte von Mittel-Europa im Masse 1:200 000] ;",
-  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "name": "[Spezialkarte der österreich-ungarischen Monarchie im Maße 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:6b0e83f0-725d-4f8d-9ebd-3752bf548bc9/276,185,10734,15387/,200/0/default.jpg",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a18b7175-2ba6-4ffc-a478-15682acd73e9/248,131,14643,10842/,200/0/default.jpg",
   "description": {
    "cs": "Generální mapa Rakousko-Uherska v měřítku 1:200 000 vycházela z topografických sekcí vytvořených na základě třetího vojenského mapování z let 1869 až 1885. Jednotlivé listy Generalkarte pokrývající oblast střední Evropy a Balkánu vznikly spojením osmi sousedních listů speciální mapy. Toto mapové dílo vydával vídeňský Militär-Geographisches Institut od roku 1887. Po roce 1918 vycházely při vydávání vlastních generálních map z podkladů rakouské Generalkarte i nástupnické státy monarchie včetně Československa.",
    "en": "General Map of Austria-Hungary with a scale of 1: 200,000 was based on topographic sections created on the basis of the Third Military Survey from 1869 to 1885. Each sheet of Generalkarte covering the Central Europe and the Balkans were created by joining eight bordering sheets of a Special map. This map work has been published by Military Geographical Institute i nVienna since 1887. After 1918, the successor states of the monarchy, including Czechoslovakia, were also publishing their own general maps from the Austrian Generalkarte."
@@ -145,23 +169,11 @@
  },
  {
   "field": "490a",
-  "name": "[Speciální mapa Československé republiky v měřítku 1:75 000 - přetisky hranic 1938] ;",
-  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "name": "[Topografická mapa Československé republiky 1:25 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
   "sheets": "490v",
-  "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:02ac1abe-c9af-463f-8626-74e1689d8404/233,239,14434,15387/,200/0/default.jpg",
-  "description": {
-   "cs": "Po odstoupení pohraničí, ke kterému došlo na základě mnichovské dohody a první vídeňské arbitráže v říjnu a listopadu 1938, vydával Vojenský zeměpisný ústav v závěru roku 1938 listy speciální mapy 1:75 000 doplněné o přitištěné hranice druhé Česko-Slovenské republiky. Jsou zde zastoupeny i dříve vydané listy doplněné o návrhy a konečné demarkační čáry z roku 1938. Některé mapové listy obsahují i dotištěné údaje o národnostním složení obyvatel příhraničních obcí. \n",
-   "en": "After withdrawal from Interwar period borders, which took place on the basis of the Munich Agreement and the First Vienna Award in October and November 1938, the Military Geographical Institute published sheets of a Special Map 1:75 000, supplemented by borders of the Second Czecho-Slovak Republic. There are also previously published sheets supplemented by proposals and final demarcation lines from 1938. Some map sheets also contain printed data of ethnic composition of border municipalities inhabitants. "
-  }
- },
- {
-  "field": "490a",
-  "name": "[Generální mapa Československé republiky 1:200 000 - přetisky hranic 1938] ;",
-  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
-  "sheets": "490v",
-  "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:9b7b2f27-f93c-434e-9721-5c9c09fb0056/276,185,10734,15387/,200/0/default.jpg",
+  "groupby": "field.substring(0,6)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:8691a29a-ed4c-4c56-aa9f-9853809aa5f5/197,248,18711,14855/,200/0/default.jpg",
   "description": {
    "cs": "Série obsahuje listy Generální mapy 1:200 000 vydávané Vojenským zeměpisným ústavem v závěru roku 1938, kdy došlo k odstoupení pohraničí na základě mnichovské dohody a první vídeňské arbitráže. Listy jsou doplněny o přitištěné linie nových hranic okleštěné Česko-Slovenské republiky. Část listů zachycujících slovenské území je doplněno o modré linie vymezující oblasti vyklizované na základě vídeňské arbitráže od 5. do 10. listopadu 1938. ",
    "en": "The series contains sheets of the General Map 1: 200 000 published by the Military Geographical Institute at the end of 1938, when new czechoslovak borders were created based on the Munich Agreement and The First Vienna Award. Part of the sheets depicting Slovak territory is supplemented by blue lines delimiting the areas evacuated according to the Vienna Award between November 5 and 10, 1938."
@@ -169,25 +181,25 @@
  },
  {
   "field": "490a",
-  "name": "[Befestigungskarte Tschechoslowakei 1:25 000] ;",
-  "grid": "evropa-befestigungskarte-tschechoslowakei-125-000",
+  "name": "[Übersichts-Karte von Mittel-Europa im Masse 1:750 000 der Natur] ;",
+  "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
-  "groupby": "field.substring(0,6)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:0258d3b3-5cbf-42c8-80a8-4f05533047dc/197,248,24011,18055/,200/0/default.jpg",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:03930de0-2ea4-44c4-8e6f-6a677b2f903b/216,169,11626,9830/,200/0/default.jpg",
   "description": {
-   "cs": "Při plánování úderu proti Československu vydal německý generální štáb v roce 1938 tzv. Mapy opevnění Československa (Befestigungskarte Tschechoslowakei) mapující obranná postavení na československých hranicích. Befestigungskarte vycházející z topografických sekcí třetího vojenského mapování obsahoval přitištěnou Gaussovu-Krügerovu síť a červený značkový klíč.\n",
+   "cs": "Mapa Slowakei 1:75 000 byla vydávána německým generálním štábem (Generalstab des Heeres) po vzniku Slovenského státu v roce 1940. Čtyřbarevný soubor označený jako 11. vydání - Ausgabe XI. obsahoval německé a slovenské názvosloví a skládal se z 54 mapových listů pokrývajících území tehdejší Slovenské republiky. Mapové dílo vycházející z revidovaných listů československé speciální mapy sloužilo během války potřebám německých ozbrojených sil.",
    "en": null
   }
  },
  {
   "field": "490a",
-  "name": "[Slowakei 1:75 000] ;",
+  "name": "[Ungarn 1:75 000] ;",
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:cb7a3b80-a69a-11e8-830e-005056825209/197,248,24011,18055/,200/0/default.jpg",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:8767dae0-a79b-11e8-99aa-005056827e51/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": "Mapa Slowakei 1:75 000 byla vydávána německým generálním štábem (Generalstab des Heeres) po vzniku Slovenského státu v roce 1940. Čtyřbarevný soubor označený jako 11. vydání - Ausgabe XI. obsahoval německé a slovenské názvosloví a skládal se z 54 mapových listů pokrývajících území tehdejší Slovenské republiky. Mapové dílo vycházející z revidovaných listů československé speciální mapy sloužilo během války potřebám německých ozbrojených sil.",
+   "cs": null,
    "en": null
   }
  }

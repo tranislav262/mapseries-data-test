@@ -19740,7 +19740,7 @@
         "N43": "$$ae-sw---$$ae-fi---",
         "N80": "$$a913(485)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Haparanda",
-        "N651": "$$aHaparanda (Švédsko : oblast)"
+        "N651": "$$aHaparanda (Švédsko : oblast)$$7ge1137849"
       },
       "geometry": {
         "type": "Polygon",
@@ -19904,7 +19904,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Alten",
-        "N651": "$$aAlten (Norsko : oblast)"
+        "N651": "$$aAlten (Norsko : oblast)$$7ge1137851"
       },
       "geometry": {
         "type": "Polygon",
@@ -21749,7 +21749,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Dawidgrodek",
-        "N651": "$$aDavyd-Haradok (Bělorusko : oblast)"
+        "N651": "$$aDavyd-Haradok (Bělorusko : oblast)$$7ge1137853"
       },
       "geometry": {
         "type": "Polygon",
@@ -22282,7 +22282,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Pudasjärvi",
-        "N651": "$$aPudasjärvi (Finsko : oblast)"
+        "N651": "$$aPudasjärvi (Finsko : oblast)$$7ge1137855"
       },
       "geometry": {
         "type": "Polygon",

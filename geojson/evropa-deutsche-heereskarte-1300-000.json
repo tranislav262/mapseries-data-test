@@ -7063,7 +7063,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Paris West",
-        "N651": "$$aPaříž (Francie : oblast)|$$7ge130381"
+        "N651": "$$aPaříž (Francie : oblast)$$7ge130381"
       },
       "geometry": {
         "type": "Polygon",
@@ -8334,7 +8334,7 @@
         "N43": "$$ae-fr---",
         "N80": "$$a913(44)$$2MRF",
         "N245A": "Paris Ost",
-        "N651": "$$aPaříž (Francie : oblast)|$$7ge130381"
+        "N651": "$$aPaříž (Francie : oblast)$$7ge130381"
       },
       "geometry": {
         "type": "Polygon",
@@ -14074,7 +14074,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Laurvik",
-        "N651": "$$aLarvik (Norsko : oblast)"
+        "N651": "$$aLarvik (Norsko : oblast)$$7ge1137759"
       },
       "geometry": {
         "type": "Polygon",

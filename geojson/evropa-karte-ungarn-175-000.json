@@ -504,7 +504,7 @@
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Pavlovce",
-        "N651": "$$aPavlovce nad Uhom (Slovensko : oblast)"
+        "N651": "$$aPavlovce nad Uhom (Slovensko : oblast)$$7ge1120690"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Abaújszántó",
-        "N651": "$$aAbaújszántó (Maďarsko : oblast)"
+        "N651": "$$aAbaújszántó (Maďarsko : oblast)$$7ge1120688"
       },
       "geometry": {
         "type": "Polygon",
@@ -1529,7 +1529,7 @@
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Ózd és Kisterenye",
-        "N651": "$$aÓzd (Maďarsko : oblast)|$$aKisterenye (Maďarsko : oblast)"
+        "N651": "$$aÓzd (Maďarsko : oblast)$$7ge1120689|$$aBátonyterenye (Maďarsko : oblast)$$7ge900142"
       },
       "geometry": {
         "type": "Polygon",
@@ -2267,7 +2267,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Eger és Mezőkövesd",
-        "N651": "$$aEger (Maďarsko : oblast)$$7ge1101071|$$aMezőkövesd (Maďarsko : oblast)"
+        "N651": "$$aEger (Maďarsko : oblast)$$7ge1101071|$$aMezőkövesd (Maďarsko : oblast)$$7ge1142863"
       },
       "geometry": {
         "type": "Polygon",
@@ -2595,7 +2595,7 @@
         "N43": "$$ae-rm---$$ae-un---",
         "N80": "$$a913(498)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Trig. Stoh",
-        "N651": "$$aPoienile de sub Munte (Rumunsko : oblast)$$7ge888855|$$aVârful Stogu (Ukrajina a Rumunsko : hora : oblast)"
+        "N651": "$$aPoienile de sub Munte (Rumunsko : oblast)$$7ge888855|$$aStoh (Maramurešské pohoří, Rumunsko a Ukrajina : hora : oblast)$$7ge1134757"
       },
       "geometry": {
         "type": "Polygon",
@@ -2800,7 +2800,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Felsőgalla és Dorog",
-        "N651": "$$aFelsőgalla (Maďarsko : oblast)|$$aDorog (Maďarsko : oblast)"
+        "N651": "$$aTatabánya (Maďarsko : oblast)$$7ge1142868|$$aDorog (Maďarsko : oblast)$$7ge1142871"
       },
       "geometry": {
         "type": "Polygon",
@@ -4932,7 +4932,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Soltvadkert",
-        "N651": "$$aSoltvadkert (Maďarsko : oblast)"
+        "N651": "$$aSoltvadkert (Maďarsko : oblast)$$7ge1130315"
       },
       "geometry": {
         "type": "Polygon",
@@ -5301,7 +5301,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Szekszárd",
-        "N651": "$$aSzekszárd (Maďarsko : oblast)"
+        "N651": "$$aSzekszárd (Maďarsko : oblast)$$7ge1135470"
       },
       "geometry": {
         "type": "Polygon",
@@ -5875,7 +5875,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Arad és Perjámos",
-        "N651": "$$aArad (Rumunsko oblast)$$7ge1100894|$$aPerjámos (Rumunsko oblast)"
+        "N651": "$$aArad (Rumunsko oblast)$$7ge1100894|$$aPeriam (Rumunsko : oblast)$$7ge1137151"
       },
       "geometry": {
         "type": "Polygon",

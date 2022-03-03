@@ -3705,8 +3705,8 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
-        "N245A": "[Mladá Boleslav ]",
-        "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
+        "N245A": "[Mladá Boleslav]",
+        "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
       "geometry": {
         "type": "Polygon",
@@ -17341,7 +17341,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Trig. Stoh]",
-        "N651": "$$aStih (Ukrajina : Hora : oblast)"
+        "N651": "$$aStoh (Maramurešské pohoří, Rumunsko a Ukrajina : hora : oblast)$$7ge1134757"
       },
       "geometry": {
         "type": "Polygon",
@@ -44745,8 +44745,8 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
-        "N245A": "[Mladá Boleslav ]",
-        "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
+        "N245A": "[Mladá Boleslav]",
+        "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
       "geometry": {
         "type": "Polygon",
@@ -44790,8 +44790,8 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
-        "N245A": "[Mladá Boleslav ]",
-        "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
+        "N245A": "[Mladá Boleslav]",
+        "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
       "geometry": {
         "type": "Polygon",
@@ -44835,8 +44835,8 @@
         "SCALE": "25000",
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-kr",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.11)$$2MRF",
-        "N245A": "[Mladá Boleslav ]",
-        "N651": "$$aMladá Boleslav (Česko : oblast)$$7gege130036"
+        "N245A": "[Mladá Boleslav]",
+        "N651": "$$aMladá Boleslav (Česko : oblast)$$7ge130036"
       },
       "geometry": {
         "type": "Polygon",
@@ -133576,7 +133576,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Šibenik a Trogir]",
-        "N651": "$$aTrogir (Chorvatsko : oblast)|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
+        "N651": "$$aTrogir (Chorvatsko : oblast)$$7ge1132685|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
       },
       "geometry": {
         "type": "Polygon",
@@ -133621,7 +133621,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Šibenik a Trogir]",
-        "N651": "$$aTrogir (Chorvatsko : oblast)|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
+        "N651": "$$aTrogir (Chorvatsko : oblast)$$7ge1132685|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
       },
       "geometry": {
         "type": "Polygon",
@@ -133666,7 +133666,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Šibenik a Trogir]",
-        "N651": "$$aTrogir (Chorvatsko : oblast)|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
+        "N651": "$$aTrogir (Chorvatsko : oblast)$$7ge1132685|$$aŠibenik (Chorvatsko : oblast)$$7ge400637"
       },
       "geometry": {
         "type": "Polygon",
@@ -135466,7 +135466,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Medkovec]",
-        "N651": "$$aMedkovec (Bulharsko : oblast)"
+        "N651": "$$aMedkovec (Bulharsko : oblast)$$7ge1143330"
       },
       "geometry": {
         "type": "Polygon",
@@ -135511,7 +135511,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Medkovec]",
-        "N651": "$$aMedkovec (Bulharsko : oblast)"
+        "N651": "$$aMedkovec (Bulharsko : oblast)$$7ge1143330"
       },
       "geometry": {
         "type": "Polygon",
@@ -135556,7 +135556,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Medkovec]",
-        "N651": "$$aMedkovec (Bulharsko : oblast)"
+        "N651": "$$aMedkovec (Bulharsko : oblast)$$7ge1143330"
       },
       "geometry": {
         "type": "Polygon",
@@ -142756,7 +142756,7 @@
         "N43": "$$ae-bn---$$ae-ci---$$ae-mo---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "[Trebinje a Risan]",
-        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)"
+        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)$$7ge1143322"
       },
       "geometry": {
         "type": "Polygon",
@@ -142801,7 +142801,7 @@
         "N43": "$$ae-bn---$$ae-ci---$$ae-mo---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "[Trebinje a Risan]",
-        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)"
+        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)$$7ge1143322"
       },
       "geometry": {
         "type": "Polygon",
@@ -142846,7 +142846,7 @@
         "N43": "$$ae-bn---$$ae-ci---$$ae-mo---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "[Trebinje a Risan]",
-        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)"
+        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)$$7ge1143322"
       },
       "geometry": {
         "type": "Polygon",
@@ -147076,7 +147076,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Tuchyn]",
-        "N651": "$$aTuchyn (Ukrajina : oblast)"
+        "N651": "$$aTuchyn (Ukrajina : oblast)$$7ge1142831"
       },
       "geometry": {
         "type": "Polygon",
@@ -147121,7 +147121,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Tuchyn]",
-        "N651": "$$aTuchyn (Ukrajina : oblast)"
+        "N651": "$$aTuchyn (Ukrajina : oblast)$$7ge1142831"
       },
       "geometry": {
         "type": "Polygon",
@@ -147166,7 +147166,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Tuchyn]",
-        "N651": "$$aTuchyn (Ukrajina : oblast)"
+        "N651": "$$aTuchyn (Ukrajina : oblast)$$7ge1142831"
       },
       "geometry": {
         "type": "Polygon",
@@ -157876,7 +157876,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Trig. Stoh]",
-        "N651": "$$aStih (Uhrajina : Hora : oblast)"
+        "N651": "$$aStoh (Maramurešské pohoří, Rumunsko a Ukrajina : hora : oblast)$$7ge1134757"
       },
       "geometry": {
         "type": "Polygon",
@@ -157921,7 +157921,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Trig. Stoh]",
-        "N651": "$$aStih (Uhrajina : Hora : oblast)"
+        "N651": "$$aStoh (Maramurešské pohoří, Rumunsko a Ukrajina : hora : oblast)$$7ge1134757"
       },
       "geometry": {
         "type": "Polygon",
@@ -157966,7 +157966,7 @@
         "N43": "$$ae-un---$$ae-rm---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "[Trig. Stoh]",
-        "N651": "$$aStih (Uhrajina : Hora : oblast)"
+        "N651": "$$aStoh (Maramurešské pohoří, Rumunsko a Ukrajina : hora : oblast)$$7ge1134757"
       },
       "geometry": {
         "type": "Polygon",
@@ -162461,12 +162461,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5372/2",
-        "TITLE": "Câmpia Transilvaniei",
+        "TITLE": "Câmpia Turzii",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[Câmpia Transilvaniei]",
-        "N651": "$$aCâmpia Transilvaniei (Rumunsko : oblast)|$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
+        "N245A": "[Câmpia Turzii]",
+        "N651": "$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
       },
       "geometry": {
         "type": "Polygon",
@@ -162506,12 +162506,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5372/1",
-        "TITLE": "Câmpia Transilvaniei",
+        "TITLE": "Câmpia Turzii",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[Câmpia Transilvaniei]",
-        "N651": "$$aCâmpia Transilvaniei (Rumunsko : oblast)|$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
+        "N245A": "[Câmpia Turzii]",
+        "N651": "$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
       },
       "geometry": {
         "type": "Polygon",
@@ -162551,12 +162551,12 @@
         "Vznik": "0",
         "Reambulace": "0",
         "SHEET": "5372/4",
-        "TITLE": "Câmpia Transilvaniei",
+        "TITLE": "Câmpia Turzii",
         "SCALE": "25000",
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
-        "N245A": "[Câmpia Transilvaniei]",
-        "N651": "$$aCâmpia Transilvaniei (Rumunsko : oblast)|$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
+        "N245A": "[Câmpia Turzii]",
+        "N651": "$$aCâmpia Turzii (Rumunsko : oblast)$$7ge1094347"
       },
       "geometry": {
         "type": "Polygon",
@@ -163006,7 +163006,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Průsmyk Ghimeș]",
-        "N651": "$$aGhimeș (Rumunsko : průsmyk : oblast)"
+        "N651": "$$aGhimeş (Rumunsko : průsmyk)$$7ge1106894"
       },
       "geometry": {
         "type": "Polygon",
@@ -163051,7 +163051,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Průsmyk Ghimeș]",
-        "N651": "$$aGhimeș (Rumunsko : průsmyk : oblast)"
+        "N651": "$$aGhimeş (Rumunsko : průsmyk)$$7ge1106894"
       },
       "geometry": {
         "type": "Polygon",
@@ -163096,7 +163096,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Průsmyk Ghimeș]",
-        "N651": "$$aGhimeș (Rumunsko : průsmyk : oblast)"
+        "N651": "$$aGhimeş (Rumunsko : průsmyk)$$7ge1106894"
       },
       "geometry": {
         "type": "Polygon",
@@ -163546,7 +163546,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Ungheni a Chendu]",
-        "N651": "$$aUngheni (Mureș, Rumunsko : oblast)|$$aChendu (Rumunsko : oblast)$$7ge1113665"
+        "N651": "$$aUngheni (Rumunsko : oblast)$$7ge1113378|$$aChendu (Rumunsko : oblast)$$7ge1113665"
       },
       "geometry": {
         "type": "Polygon",
@@ -163591,7 +163591,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Ungheni a Chendu]",
-        "N651": "$$aUngheni (Mureș, Rumunsko : oblast)|$$aChendu (Rumunsko : oblast)$$7ge1113665"
+        "N651": "$$aUngheni (Rumunsko : oblast)$$7ge1113378|$$aChendu (Rumunsko : oblast)$$7ge1113665"
       },
       "geometry": {
         "type": "Polygon",
@@ -163636,7 +163636,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Ungheni a Chendu]",
-        "N651": "$$aUngheni (Mureș, Rumunsko : oblast)|$$aChendu (Rumunsko : oblast)$$7ge1113665"
+        "N651": "$$aUngheni (Rumunsko : oblast)$$7ge1113378|$$aChendu (Rumunsko : oblast)$$7ge1113665"
       },
       "geometry": {
         "type": "Polygon",
@@ -167191,7 +167191,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Călinești]",
-        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)"
+        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)$$7ge1109392"
       },
       "geometry": {
         "type": "Polygon",
@@ -167236,7 +167236,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Călinești]",
-        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)"
+        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)$$7ge1109392"
       },
       "geometry": {
         "type": "Polygon",
@@ -167281,7 +167281,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Călinești]",
-        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)"
+        "N651": "$$aCălinești (Vâlcea, Rumunsko : oblast)$$7ge1109392"
       },
       "geometry": {
         "type": "Polygon",
@@ -167866,7 +167866,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Borovan]",
-        "N651": "$$aBorovan (Bulharsko : oblast)"
+        "N651": "$$aBorovan (Bulharsko : oblast)$$7ge1143294"
       },
       "geometry": {
         "type": "Polygon",
@@ -167911,7 +167911,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Borovan]",
-        "N651": "$$aBorovan (Bulharsko : oblast)"
+        "N651": "$$aBorovan (Bulharsko : oblast)$$7ge1143294"
       },
       "geometry": {
         "type": "Polygon",
@@ -167956,7 +167956,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Borovan]",
-        "N651": "$$aBorovan (Bulharsko : oblast)"
+        "N651": "$$aBorovan (Bulharsko : oblast)$$7ge1143294"
       },
       "geometry": {
         "type": "Polygon",
@@ -168001,7 +168001,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Musala]",
-        "N651": "$$aMusala (Bulharsko : oblast)"
+        "N651": "$$aMusala (Rila, Bulharsko : hora : oblast)$$7ge1132241"
       },
       "geometry": {
         "type": "Polygon",
@@ -168046,7 +168046,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Musala]",
-        "N651": "$$aMusala (Bulharsko : oblast)"
+        "N651": "$$aMusala (Rila, Bulharsko : hora : oblast)$$7ge1132241"
       },
       "geometry": {
         "type": "Polygon",
@@ -168091,7 +168091,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "[Musala]",
-        "N651": "$$aMusala (Bulharsko : oblast)"
+        "N651": "$$aMusala (Rila, Bulharsko : hora : oblast)$$7ge1132241"
       },
       "geometry": {
         "type": "Polygon",

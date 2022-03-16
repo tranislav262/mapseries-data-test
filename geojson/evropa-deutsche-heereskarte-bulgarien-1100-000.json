@@ -217,7 +217,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Lom",
-        "N651": "$$aLom (Bulharsko : oblast)"
+        "N651": "$$aLom (Bulharsko : oblast)$$7ge1144658"
       },
       "geometry": {
         "type": "Polygon",
@@ -381,7 +381,7 @@
         "N43": "$$ae-bu---$$ae-rm---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Rasgrad",
-        "N651": "$$aRazgrad (Bulharsko : oblast)"
+        "N651": "$$aRazgrad (Bulharsko : oblast)$$7ge1144665"
       },
       "geometry": {
         "type": "Polygon",
@@ -422,7 +422,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Isperich",
-        "N651": "$$aIsperich (Bulharsko : oblast)"
+        "N651": "$$aIsperich (Bulharsko : oblast)$$7ge1144671"
       },
       "geometry": {
         "type": "Polygon",
@@ -709,7 +709,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Tärgowischte",
-        "N651": "$$aTărgovište (Bulharsko : oblast)"
+        "N651": "$$aTărgovište (Bulharsko : oblast)$$7ge1144684"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-bu---$$ae-rb---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Radomir",
-        "N651": "$$aRadomir (Bulharsko : oblast)"
+        "N651": "$$aRadomir (Bulharsko : oblast)$$7ge1144690"
       },
       "geometry": {
         "type": "Polygon",
@@ -914,7 +914,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Slatiza",
-        "N651": "$$aZlatitsa (Bulharsko : oblast)"
+        "N651": "$$aZlatica (Bulharsko : oblast)$$7ge1144694"
       },
       "geometry": {
         "type": "Polygon",
@@ -955,7 +955,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Karlowo",
-        "N651": "$$aKarlovo (Bulharsko : oblast)"
+        "N651": "$$aKarlovo (Bulharsko : oblast)$$7ge1144696"
       },
       "geometry": {
         "type": "Polygon",
@@ -1119,7 +1119,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Pomorie",
-        "N651": "$$aPomorie (Bulharsko : oblast)"
+        "N651": "$$aPomorie (Bulharsko : oblast)$$7ge1144712"
       },
       "geometry": {
         "type": "Polygon",
@@ -1201,7 +1201,7 @@
         "N43": "$$ae-bu---",
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Samakow",
-        "N651": "$$aSamokov (Bulharsko : oblast)"
+        "N651": "$$aSamokov (Bulharsko : oblast)$$7ge1132712"
       },
       "geometry": {
         "type": "Polygon",
@@ -1693,7 +1693,7 @@
         "N43": "$$ae-bu---$$ae-gr---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Svilengrad",
-        "N651": "$$aSvilengrad (Bulharsko : oblast)"
+        "N651": "$$aSvilengrad (Bulharsko : oblast)$$7ge1144652"
       },
       "geometry": {
         "type": "Polygon",
@@ -1734,7 +1734,7 @@
         "N43": "$$ae-bu---$$a-tu---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(560)$$2MRF",
         "N245A": "Malko Tarnowo",
-        "N651": "$$aMalko Tărnovo (Bulharsko : oblast)"
+        "N651": "$$aMalko Tărnovo (Bulharsko : oblast)$$7ge1144714"
       },
       "geometry": {
         "type": "Polygon",
@@ -1857,7 +1857,7 @@
         "N43": "$$ae-bu---$$ae-gr---",
         "N80": "$$a913(497.2)$$2MRF|$$a913(495)$$2MRF",
         "N245A": "Petritsch",
-        "N651": "$$aPetrič (Bulharsko : oblast)"
+        "N651": "$$aPetrič (Bulharsko : oblast)$$7ge1142209"
       },
       "geometry": {
         "type": "Polygon",

@@ -190,5 +190,17 @@
    "cs": "Mapa Slowakei 1:75 000 byla vydávána německým generálním štábem (Generalstab des Heeres) po vzniku Slovenského státu v roce 1940. Čtyřbarevný soubor označený jako 11. vydání - Ausgabe XI. obsahoval německé a slovenské názvosloví a skládal se z 54 mapových listů pokrývajících území tehdejší Slovenské republiky. Mapové dílo vycházející z revidovaných listů československé speciální mapy sloužilo během války potřebám německých ozbrojených sil.",
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Ungarn 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:c2dbe1b0-a698-11e8-ba56-5ef3fc9bb22f/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

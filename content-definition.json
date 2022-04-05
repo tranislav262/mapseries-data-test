@@ -199,7 +199,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:c2dbe1b0-a698-11e8-ba56-5ef3fc9bb22f/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Mapa Ungarn 1:75 000 byla vydávána německým generálním štábem (Generalstab des Heeres) v roce 1940. Mapové listy pokrývaly území Maďarského království včetně zisků na základě První a Druhé vídeňské arbitráže.",
    "en": null
   }
  }

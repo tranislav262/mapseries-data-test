@@ -17119,12 +17119,12 @@
         "ZM25": "12-321",
         "SCALE": "25000",
         "SHEET": "12-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Panoší Újezd",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Panoší Újezd",
+        "N651": "$$aPanoší Újezd (Česko : oblast)$$7ge730680"
       },
       "geometry": {
         "type": "Polygon",
@@ -17717,11 +17717,11 @@
         "ZM25": "32-233",
         "SCALE": "25000",
         "SHEET": "32-233",
-        "TITLE": "",
+        "TITLE": "Černá v Pošumaví",
         "N43": "",
         "N80": "",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
+        "N245P": "Černá v Pošumaví",
         "N651": ""
       },
       "geometry": {
@@ -35388,11 +35388,11 @@
         "ZM25": "24-413",
         "SCALE": "25000",
         "SHEET": "24-413",
-        "TITLE": "",
+        "TITLE": "Mokrá-Horákov",
         "N43": "",
         "N80": "",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
+        "N245P": "Mokrá-Horákov",
         "N651": ""
       },
       "geometry": {
@@ -44668,12 +44668,12 @@
         "ZM25": "13-324",
         "SCALE": "25000",
         "SHEET": "13-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kutná Hora",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kutná Hora",
+        "N651": "$$aKutná Hora (Česko : oblast)$$7ge129718"
       },
       "geometry": {
         "type": "Polygon",
@@ -46997,7 +46997,7 @@
         "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
         "N245P": "Dobronín ",
-        "N651": "$$aDobronín (Česko : oblast)"
+        "N651": "$$aDobronín (Česko : oblast)$$7ge1147303"
       },
       "geometry": {
         "type": "Polygon",
@@ -47285,12 +47285,12 @@
         "ZM25": "03-413",
         "SCALE": "25000",
         "SHEET": "03-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Semily",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Semily",
+        "N651": "$$aSemily (Česko : oblast)$$7ge130774"
       },
       "geometry": {
         "type": "Polygon",

@@ -202,5 +202,17 @@
    "cs": "Mapa Ungarn 1:75 000 byla vydávána německým generálním štábem (Generalstab des Heeres) v roce 1940. Mapové listy pokrývaly území Maďarského království včetně zisků na základě První a Druhé vídeňské arbitráže.",
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "Deutsche Heereskarte. Protektorat 1:50 000 ;",
+  "grid": "evropa-deutsche-heereskarte-150-000-protektorat",
+  "sheets": "490v",
+  "groupby": "field.substring(0,9)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a9e98e60-ea71-11e8-9210-5ef3fc9bb22f/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

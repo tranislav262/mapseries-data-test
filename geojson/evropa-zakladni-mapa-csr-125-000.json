@@ -20842,12 +20842,12 @@
         "ZM25": "12-232",
         "SCALE": "25000",
         "SHEET": "12-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Buštěhrad",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Buštěhrad",
+        "N651": "$$aBuštěhrad (Česko : oblast)$$7ge1147294"
       },
       "geometry": {
         "type": "Polygon",
@@ -24119,12 +24119,12 @@
         "ZM25": "12-422",
         "SCALE": "25000",
         "SHEET": "12-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Průhonice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Průhonice",
+        "N651": "$$aPrůhonice (Česko : oblast)$$7ge153166"
       },
       "geometry": {
         "type": "Polygon",
@@ -24306,12 +24306,12 @@
         "ZM25": "12-244",
         "SCALE": "25000",
         "SHEET": "12-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Praha-východ",
+        "N43": "$$ae-xr---$$be-xr-pg",
+        "N80": "$$a913(437.311)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Praha-východ",
+        "N651": "$$aPraha (Česko : východní oblast)$$7ge386499"
       },
       "geometry": {
         "type": "Polygon",
@@ -24485,12 +24485,12 @@
         "ZM25": "12-242",
         "SCALE": "25000",
         "SHEET": "12-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Čakovice",
+        "N43": "$$ae-xr---$$be-xr-pg",
+        "N80": "$$a913(437.311)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Čakovice",
+        "N651": "$$aČakovice (Praha, Česko : oblast)$$7ge568262"
       },
       "geometry": {
         "type": "Polygon",
@@ -26314,12 +26314,12 @@
         "ZM25": "12-414",
         "SCALE": "25000",
         "SHEET": "12-414",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Černošice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Černošice",
+        "N651": "$$aČernošice (Česko : oblast)$$7ge1147289"
       },
       "geometry": {
         "type": "Polygon",
@@ -26656,12 +26656,12 @@
         "ZM25": "12-234",
         "SCALE": "25000",
         "SHEET": "12-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hostivice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hostivice",
+        "N651": "$$aHostivice (Česko : oblast)$$7ge356530"
       },
       "geometry": {
         "type": "Polygon",

@@ -208,7 +208,7 @@
   "name": "Deutsche Heereskarte. Protektorat 1:50 000 ;",
   "grid": "evropa-deutsche-heereskarte-150-000-protektorat",
   "sheets": "490v",
-  "groupby": "field.substring(0,9)",
+  "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a9e98e60-ea71-11e8-9210-5ef3fc9bb22f/276,185,10734,15387/,200/0/default.jpg",
   "description": {
    "cs": "Topografická mapa Protektorátní mapy byly odvozeny ze speciální mapy 1:75 000. Mapa je vyhotovena v Gaussově zobrazení. ",

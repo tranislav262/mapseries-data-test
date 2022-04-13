@@ -310,5 +310,17 @@
    "cs": null,
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "Bulgarien 1:100 000 ;",
+  "grid": "evropa-deutsche-heereskarte-bulgarien-1100-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:401315b0-d2bb-11e8-9984-005056825209/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

@@ -214,5 +214,65 @@
    "cs": "Topografická mapa Protektorátní mapy byly odvozeny ze speciální mapy 1:75 000. Mapa je vyhotovena v Gaussově zobrazení. ",
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "[Geologická speciální mapa Uher v měřítku 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:98f459c2-0b40-40ab-b061-7fca7270d54c/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Geologische Spezialkarte der im Reichsrate vertretenen Königreiche und Länder der österreichisch-ungarischen Monarchie 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:4ef5fdc2-3f47-4ac6-89b0-240a9dbae6ca/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Soubor přehledných map pro plánování a statistiku 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:2dca2e90-d27d-11e8-9480-5ef3fc9ae867/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "Soubor přehledných map pro plánování a statistiku ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:768d02a6-9ce4-4415-a58f-992592a77b10/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Spezialkarte der Tschechoslowakei - Sonderausgabe 1:75 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:06dc7190-e51e-11e8-9445-5ef3fc9bb22f/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

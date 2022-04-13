@@ -274,5 +274,41 @@
    "cs": null,
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "Generalkarte der Tschechoslowakei 1:200 000 ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a3c090d5-f589-4ec6-a6e9-02199aa09883/276,185,10734,15387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Deutsche Heereskarte 1:200 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-generalni-mapy-1200-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:0664b330-a699-11e8-ba56-5ef3fc9bb22f/276,185,12734,16387/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "[Topographische Karte der Tschechoslowakei 1:25 000] ;",
+  "grid": "evropa-treti-vojenske-mapovani-topograficke-mapy-125-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0,6)",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:050d4680-e584-11e8-bc37-005056827e51/197,248,24011,18055/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]

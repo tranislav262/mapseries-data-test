@@ -445,7 +445,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa; Třetí vojenské mapování, přehledné mapy; test2",
+      title: "Evropa; Třetí vojenské mapování, přehledné mapy 1:750 000; test2",
       layer: "evropa-test2",
       template: "evropa-test2.txt",
       formatFunctions: {
